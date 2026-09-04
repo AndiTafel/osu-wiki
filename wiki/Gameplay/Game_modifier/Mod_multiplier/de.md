@@ -16,7 +16,7 @@ tags:
 :::
 
 ::: alert-note
-**Anmerkung:** Nicht zu verwechseln mit [Combo](/wiki/Gameplay/Combo_(score_multiplier)).
+**Anmerkung:** Nicht zu verwechseln mit [Combo](/wiki/Gameplay/Combo_(score_multiplier))
 :::
 
 ::: alert-note
