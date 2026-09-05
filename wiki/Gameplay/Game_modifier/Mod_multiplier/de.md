@@ -7,6 +7,7 @@ tags:
   - mod multiplier
   - Score-Multiplikator
   - Schwierigkeitsmultiplikator
+  - Punktemultiplikator
 ---
 
 # Mod-Multiplikator
