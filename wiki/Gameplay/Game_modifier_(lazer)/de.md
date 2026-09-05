@@ -24,7 +24,7 @@ tags:
 **Anmerkung:** [Mod (Begriffsabgrenzung)](/wiki/Disambiguation/Mod).
 :::
 
-![](img/mod-select-DE.jpg "Mod-Auswahl im Spielmodus osu!")
+![](img/mod-select-DE.jpg "Modauswahl im Spielmodus osu!")
 
 **Spielmodifikationen**, oder **Mods**, sind in sechs Kategorien unterteilt: `Verringerung der Schwierigkeit`, `Erhöhung der Schwierigkeit`, `Automatisierung`, `Konvertierung`, `Spaß` und `System`. Sie können das Gameplay auf verschiedene Weisen beeinflussen, beispielsweise durch visuelle Anpassungen der [Hit-Objekte](/wiki/Gameplay/Hit_object) einer [Beatmap](/wiki/Beatmap) oder die Geschwindigkeit mit der die Beatmap gespielt wird. Mods aus der Kategorie `System` werden bei Bedarf automatisch aktiviert.
 
