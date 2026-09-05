@@ -23,7 +23,7 @@ tags:
 
 Der **Mod-Multiplikator** ist ein Attribut jeder [Spielmodifikation](/wiki/Gameplay/Game_modifier_(lazer)), das die Punktzahl eines Spielers auf einer [Beatmap](/wiki/Beatmap) beeinflusst.
 
-Standardmäßig ist der Mod-Multiplikator `1,00x`, aber manche Mods verringern oder erhöhen[^mania-note] ihn. Typischerweise ist der Multiplikator von Mods aus der Kategorie `Verringerung der Schwierigkeit` kleiner als `1,00x`, während Mods aus der Kategorie `Erhöhung der Schwierigkeit` Multikatoren größer als `1,00x` haben, um Spiele von erhöhtem Schwierigkeitsgrad mit einer höheren Punktzahl zu belohnen.
+Standardmäßig ist der Mod-Multiplikator `1,00x`, aber manche Mods verringern oder erhöhen[^mania-note] ihn. Typischerweise ist der Multiplikator von Mods aus der Kategorie `Verringerung der Schwierigkeit` kleiner als `1,00x`, während Mods aus der Kategorie `Erhöhung der Schwierigkeit` Multikatoren größer als `1,00x` haben, um Scores von erhöhtem Schwierigkeitsgrad mit einer höheren Punktzahl zu belohnen.
 
 Werden mehrere Mods gleichzeitig verwendet, ist der Mod-Multiplikator in den meisten Fällen einfach das Produkt der Multiplikatoren aller aktivierten Mods. Beispielsweise haben [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) und [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)) bei gemeinsamer Verwendung einen Mod-Multiplikator von `1,04x * 1,09x = 1,1336x` (in [osu!](/wiki/Game_mode/osu!)). Es gibt jedoch einige Ausnahmen, beispielsweise haben [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable) (mit Multiplikator `1,02x`) und [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds) (mit Multiplikator `1,24x`) gemeinsam einen Mod-Multiplikator von `1,24x` (statt `1,02x * 1,24x = 1,2648x`).
 
@@ -46,42 +46,42 @@ Anfangs verwendete osu!(lazer) die gleichen konstanten Mod-Multiplikatoren wie o
 
 [Am 19. April 2023](https://osu.ppy.sh/home/changelog/lazer/2023.419.0) wurden die Punktemultiplikatoren einiger zuvor angepasster Mods erneut verändert.[^linear-rate-multipliers] Die Multiplikatoren von [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)) und [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)) skalierten nun linear von `1,00x` bis `1,20x` in 0,1er-Schritten, während die Multiplikatoren von [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)) und [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore) linear von `0,50x` bis `0,90x` in 0,1er-Schritten skalierten. In einem Update [am 18. Dezember 2023](https://osu.ppy.sh/home/changelog/lazer/2023.1218.0) wurden diese weiter angepasst, um stattdessen zwischen `0,10x` to `0,50x` zu liegen.[^ht-dc-multiplier]
 
-Konkret sind die Mod-Multiplikatoren der Mods zur Anpassung der Geschwindigkeit, die bis zur [Überarbeitung der Multiplikatorwn](#überarbeitung-der-mod-multiplikatoren im Jahr 2026 verwendet wurden, in der folgenden Tabelle zusammengefasst:
+Konkret sind die Mod-Multiplikatoren der Mods zur Anpassung der Geschwindigkeit, die bis zur [Überarbeitung der Multiplikatoren](#überarbeitung-der-mod-multiplikatoren) im Jahr 2026 verwendet wurden, in der folgenden Tabelle zusammengefasst:
 
 | Geschwindigkeitsanpassung | ![][osu!] ![][osu!taiko] ![][osu!catch] | ![][osu!mania] |
 | :-- | :-- | :-- |
-| 0.50x - 0.59x | `0.10x` | `0.10x` |
-| 0.60x - 0.69x | `0.20x` | `0.20x` |
-| 0.70x - 0.79x | `0.30x` | `0.30x` |
-| 0.80x - 0.89x | `0.40x` | `0.40x` |
-| 0.90x - 0.99x | `0.50x` | `0.50x` |
-| 1.01x - 1.09x | `1.00x` | `1.00x` |
-| 1.10x - 1.19x | `1.02x` | `1.00x` |
-| 1.20x - 1.29x | `1.04x` | `1.00x` |
-| 1.30x - 1.39x | `1.06x` | `1.00x` |
-| 1.40x - 1.49x | `1.08x` | `1.00x` |
-| 1.50x - 1.59x | `1.10x` | `1.00x` |
-| 1.60x - 1.69x | `1.12x` | `1.00x` |
-| 1.70x - 1.79x | `1.14x` | `1.00x` |
-| 1.80x - 1.89x | `1.16x` | `1.00x` |
-| 1.90x - 1.99x | `1.18x` | `1.00x` |
-| 2.00x | `1.20x` | `1.00x` |
+| 0,50x - 0,59x | `0,10x` | `0,10x` |
+| 0,60x - 0,69x | `0,20x` | `0,20x` |
+| 0,70x - 0,79x | `0,30x` | `0,30x` |
+| 0,80x - 0,89x | `0,40x` | `0,40x` |
+| 0,90x - 0,99x | `0,50x` | `0,50x` |
+| 1,01x - 1,09x | `1,00x` | `1,00x` |
+| 1,10x - 1,19x | `1,02x` | `1,00x` |
+| 1,20x - 1,29x | `1,04x` | `1,00x` |
+| 1,30x - 1,39x | `1,06x` | `1,00x` |
+| 1,40x - 1,49x | `1,08x` | `1,00x` |
+| 1,50x - 1,59x | `1,10x` | `1,00x` |
+| 1,60x - 1,69x | `1,12x` | `1,00x` |
+| 1,70x - 1,79x | `1,14x` | `1,00x` |
+| 1,80x - 1,89x | `1,16x` | `1,00x` |
+| 1,90x - 1,99x | `1,18x` | `1,00x` |
+| 2,00x | `1,20x` | `1,00x` |
 
 ### Reduktion des Multiplikators der Key-Mods in osu!mania
 
-In osu!(stable) haben die [Key-Mods](/wiki/Gameplay/Game_modifier/Key_mods_(lazer)) Punktemultiplikatoren kleiner als `1,00x` und sind im Artikel [xK](/wiki/Gameplay/Game_modifier/xK) aufgelistet. Bei der Implementierung dieser Mods in osu!(lazer) wurden all ihre Punktemultiplikatoren auf `1,00x` gesetzt. Dadurch war es Spielern möglich, die Anzahl der Tasten auf [konvertierten](/wiki/Beatmap/Converts) Beatmaps zu reduzieren, ohne dafür weniger Punkte zu erhalten. Um dies zu beheben, wurden die Multiplikatoren aller Key-Mods durch ein Update [am 16. August 2025](https://osu.ppy.sh/home/changelog/lazer/2025.816.0) auf `0,90x` geändert.[^key-mods-multiplier]
+In osu!(stable) haben die [Key-Mods](/wiki/Gameplay/Game_modifier/Key_mods_(lazer)) Punktemultiplikatoren kleiner als `1,00x` und sind im Artikel [xK](/wiki/Gameplay/Game_modifier/xK) aufgelistet. Bei der Implementierung dieser Mods in osu!(lazer) wurden all ihre Punktemultiplikatoren auf `1,00x` gesetzt. Dadurch war es Spielern möglich, die Anzahl der Tasten auf [konvertierten](/wiki/Beatmap/Converts) Beatmaps zu reduzieren, ohne dafür weniger Punkte zu erhalten. Um dies zu vermeiden, wurden die Multiplikatoren aller Key-Mods durch ein Update [am 16. August 2025](https://osu.ppy.sh/home/changelog/lazer/2025.816.0) auf `0,90x` geändert.[^key-mods-multiplier]
 
-### Überarbeitung der Mod-Multiplikatoren (TODO)
+### Überarbeitung der Mod-Multiplikatoren
 
-As mentioned above, the score multipliers initially used in osu!(lazer) did not suit the new game client and were generally not well received by the community.[^multiplier-issues][^multiplier-issues-2] For example, scores achieved in osu!(lazer) often appeared higher on global leaderboards than scores from osu!(stable), despite having worse combo and accuracy. This was due to the [Classic (CL)](/wiki/Gameplay/Game_modifier/Classic) mod, which is automatically applied to all osu!(stable) scores, only having a multiplier of `0.96x` at the time.
+Wie oben erwähnt haben die Punktemultiplikatoren, die anfangs in osu!(lazer) verwendet wurden, nicht zum neuen Spiel-Client gepasst und wurden von der Community allgemein nicht gut angenommen.[^multiplier-issues][^multiplier-issues-2] Beispielsweise erschienen Scores, die in osu!(lazer) erreicht wurden, oft weiter oben in den globalen Ranglisten als Scores aus osu!(stable) – trotz niedrigerer Combo und schlechterer Genauigkeit. Der Grund hierfür war, dass der Multiplikator der Mod [Classic (CL)](/wiki/Gameplay/Game_modifier/Classic), welche automatisch auf alle Scores aus osu!(stable) angewendet wird, damals nur `0,96x` betrug.
 
-In order to bring leaderboards in line with player expectations, a [survey](https://osu.ppy.sh/home/news/2026-01-19-survey-mod-multipliers) was launched on 19 January 2026, where players could vote on how they would like the mod multipliers to be adjusted in an upcoming update. Apart from the Classic mod, this only concerned the osu! game mode.
+Um die Ranglisten in Einklang mit den Erwartungen der Spieler zu bringen, wurde am 19. Januar 2026 eine [Umfrage](https://osu.ppy.sh/home/news/2026-01-19-survey-mod-multipliers) gestartet, in der Spieler abstimmen konnten, welche Anpassungen der Mod-Multiplikatoren sie in einem künftigen Update gerne sehen würden. Abgesehen von der Classic-Mod betraf dies nur den Spielmodus osu!.
 
-After thorough evaluation of the survey results, a large batch of changes[^multiplier-rework] to the mod multipliers was added to the game [on 20 June 2026](https://osu.ppy.sh/home/changelog/lazer/2026.620.0). This included an update to the Classic mod, whose multiplier was adjusted to `0.985x` in osu!, and `1.00x` in the other three game modes.
+Nach gründlicher Auswertung der Umfrageergebnisse wurde [am 20. Juni 2026](https://osu.ppy.sh/home/changelog/lazer/2026.620.0) eine Vielzahl von Änderungen[^multiplier-rework] an den Mod-Multiplikatoren vorgenommen. Darin enthalten war ein Update der Classic-Mod, deren Multiplikator auf `0,985x` in osu!, und `1,00x` in den anderen drei Spielmodi angepasst wurde.
 
-For osu!, the update also covered many other mods, for instance there was another update to the rate adjust multipliers, and even some [`Fun` mods](/wiki/Gameplay/Game_modifier_(lazer)#fun) were reworked. All changes are explained in the [news post](https://osu.ppy.sh/home/news/2026-06-03-mod-multipliers-survey-results), which was released on 3 June 2026. The corresponding [lazer update video](https://www.youtube.com/watch?v=lmoad0MZZdg&t=114s) also talked about the most notable changes.
+In osu! waren durch das Update noch viele weitere Mods abgedeckt, beispielsweise wurden die Multiplikatoren der geschwindkeitsändernden Mods erneut angepasst, und auch einige Mods aus der [Kategorie `Spaß`](/wiki/Gameplay/Game_modifier_(lazer)#fun) wurden überarbeitet. Alle Änderungen sind im [Newsbeitrag](https://osu.ppy.sh/home/news/2026-06-03-mod-multipliers-survey-results) erklärt, der am 3. Juni 2026 veröffentlicht wurde. Im zugehörigen [lazer Update-Video](https://www.youtube.com/watch?v=lmoad0MZZdg&t=114s) wurden die wichtigsten Änderungen ebenfalls angesprochen.
 
-The exact implementation of the new mod multipliers can be found in [`OsuScoreMultiplierCalculatorV2`][OsuScoreMultiplierCalculatorV2] in osu!(lazer)'s source code, while the previous multipliers are still available in [`OsuScoreMultiplierCalculatorV1`](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV1.cs).
+Die genaue Implementierug der neuen Mod-Multiplikatoren befindet sich in [`OsuScoreMultiplierCalculatorV2`][OsuScoreMultiplierCalculatorV2] in osu!(lazer)'s Quellcode. Die vorherigen Multiplikatoren sind weiterhin in [`OsuScoreMultiplierCalculatorV1`](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV1.cs) verfügbar.
 
 ## Trivia
 
