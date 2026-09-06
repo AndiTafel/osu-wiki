@@ -119,5 +119,5 @@ Dieser Artikel enthält die wichtigsten Ereignisse in der **Geschichte des osu!-
 
 #### Juli
 
-- **06.07.2026:** Um Kopfnoten stärker hervorzuheben, wurden [styled alerts](https://github.com/ppy/osu-web/pull/13079) hinzugefügt, welche die Kopfnoten mit einem Symbol und einer farbigen vertikalen Linie an der linken Seite darstellen.
+- **06.07.2026:** Um Kopfnoten stärker hervorzuheben, wurden [hervorgehobene Meldungen](https://github.com/ppy/osu-web/pull/13079) hinzugefügt, welche die Kopfnoten mit einem Symbol und einer farbigen vertikalen Linie an der linken Seite darstellen.
 - **30.07.2026:** Eine [Nutzerkarten-Komponente](https://github.com/ppy/osu-web/pull/13125) wurde hinzugefügt, die beim Hovern eines Profil-Links eine Karte mit verschiedenen Nutzerstatistiken anzeigt, ähnlich wie das [BBCode](/wiki/BBCode)-Tag `[profile]`.
