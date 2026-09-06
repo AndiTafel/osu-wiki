@@ -1,4 +1,4 @@
-<!--TODO: link other articles when available: 'miss', taiko hit objects, mania heading, mania hit objects, etc. -->
+<!-- TODO: link other articles when available: 'miss', 'fail' etc. https://github.com/ppy/osu-wiki/issues/9919 -->
 
 # Gameplay
 
@@ -25,16 +25,18 @@ Index page for articles related to core gameplay elements and concepts.
 - [Grade](/wiki/Gameplay/Grade)
 - [Health](/wiki/Gameplay/Health)
 - [Hit object](/wiki/Gameplay/Hit_object)
+- [Hit window](/wiki/Gameplay/Hit_window)
 - [Input device](/wiki/Gameplay/Input_device)
 - [Judgement](/wiki/Gameplay/Judgement)
 - [Kiai time](/wiki/Gameplay/Kiai_time)
 - [Mind block](/wiki/Gameplay/Mind_block)
 - [Mod multiplier](/wiki/Gameplay/Game_modifier/Mod_multiplier)
+- [Mod multiplier (lazer)](/wiki/Gameplay/Game_modifier/Mod_multiplier_(lazer))
 - [Notelock](/wiki/Gameplay/Judgement/Notelock)
 - [Pass](/wiki/Gameplay/Pass)
 - [Play style](/wiki/Gameplay/Play_style)
 - [Play time](/wiki/Beatmap/Play_time)
-- [Quick play](/wiki/Gameplay/Quick_play) <!--TODO: quick play may be replaced with ranked play if and when that happens this and the main article will need an update-->
+- [Quick play](/wiki/Gameplay/Quick_play) <!-- TODO: Quick play may be replaced with Ranked play. If and when that happens this and the main article will need an update. https://github.com/ppy/osu-wiki/issues/15214 -->
 - [Replay](/wiki/Gameplay/Replay)
 - [Score](/wiki/Gameplay/Score)
 - [ScoreV1](/wiki/Gameplay/Score/ScoreV1)
@@ -53,16 +55,23 @@ Index page for articles related to core gameplay elements and concepts.
 ## osu!taiko
 
 - [Don & Kat](/wiki/Gameplay/Hit_object/Hit)
+- [Drumroll](/wiki/Gameplay/Hit_object/Drumroll)
+- [Swell](/wiki/Gameplay/Hit_object/Swell)
 
 ## osu!catch
 
-- [Bananas](/wiki/Gameplay/Hit_object/Banana)
+- [Banana](/wiki/Gameplay/Hit_object/Banana)
 - [Dash](/wiki/Gameplay/Dash)
 - [Dash snapping](/wiki/Gameplay/Dash_snapping)
 - [Edge dash](/wiki/Gameplay/Edge_dash)
-- [Fruits](/wiki/Gameplay/Hit_object/Fruit)
+- [Fruit](/wiki/Gameplay/Hit_object/Fruit)
 - [Hyperdash](/wiki/Gameplay/Hyperdash)
 - [Hyperfruit](/wiki/Gameplay/Hit_object/Hyperfruit)
 - [Juice stream](/wiki/Gameplay/Hit_object/Juice_stream)
 - [Spinner trap](/wiki/Gameplay/Spinner_trap)
 - [Walk](/wiki/Gameplay/Walk)
+
+## osu!mania
+
+- [Hold note](/wiki/Gameplay/Hit_object/Hold_note)
+- [Note](/wiki/Gameplay/Hit_object/Note)
