@@ -29,7 +29,7 @@ Die **Ranking-Kriterien für osu!taiko** legen die [Regeln und Richtlinien](/wik
 - **Spinner:** Ein rundes Element, bei dem Spieler zwischen dem Treffen von Don/Kat für eine bestimmte Anzahl von Malen hin- und herwechseln müssen, was in der Mitte des Spinners angezeigt wird. Dieser Wert hängt von der allgemeinen Schwierigkeit (OD) der Beatmap sowie von der Länge des Spinners ab.
 - **Taktstrich:** Eine Linie, die auf dem Spielfeld erscheint und den Start eines Taktes bestimmt.
 - **Überlappung:** Eine Note, die teilweise oder vollständig andere Noten im Spielfeld überdeckt.
-- **Pause:** Ein Zeitabschnitt ohne Noten, damit Spieler ihre Hände ausruhen und sich auf die bevorstehende Sektion vorbereiten können.
+- **Ruhemoment:** Ein Zeitabschnitt ohne Noten, damit Spieler ihre Hände ausruhen und sich auf die bevorstehende Sektion vorbereiten können.
 - **Stream:** Gruppierung aufeinanderfolgender Circles. Normalerweise auf 1/4-Takte geteilt.
 - **Taktteilung:** Ein Strich auf der Zeitleiste, bei dem ein Objekt platziert wird.
 - **Variable Taktteilung:** Eine Kombination mehrerer verschiedener Wege, Noten aufgrund des schwankenden Charakters des Songs innerhalb einer kurzen Zeitspanne zu platzieren.
@@ -62,7 +62,7 @@ In **Ausnahmefällen** dürfen die Richtlinien ignoriert werden. Diese außergew
 - **Vermeide visuell störende Noten auf dem Spielfeld mit aktiven Spinnern.** Spinner decken den Großteil des Bildschirms ab, so dass die Beatmap massiv schwieriger zum Lesen wird, wenn die Spinner zu nah an den nachfolgenden Noten enden. Einen 1/2-Takt Abstand zwischen einem Spinner und der folgenden Note löst dieses Problem in der Regel.
 - **Erhebliche Überlappungen sollten vermieden werden, sodass die Farbe jeder Note noch leicht erkennbar ist und keine unnötige visuelle Störung verursacht.** Überschneidungen sollten nur vorhanden sein, wenn das Tempo des Songs oder die Taktteilung es an dieser Stelle rechtfertigen würde.
 - **Vermeide, den Fokus auf mehrere [Ebenen](/wiki/Music_theory/Layer) des Songs gleichzeitig zu legen, wenn unklar ist, welcher Rhythmus priorisiert wird.** Spieler sollten in der Lage sein, zu erkennen, welchem Teil des Songs gefolgt wird.
-- **Vermeide Rhythmen, die in keiner Weise vorhersehbar sind.** Rhythmus kann durch einheitliche Abstände in der Zeitleiste, die verschiedene Taktteilungen überbrücken, oder durch Pausen intuitiv erzeugt werden.
+- **Vermeide Rhythmen, die in keiner Weise vorhersehbar sind.** Rhythmus kann durch einheitliche Abstände in der Zeitleiste, die verschiedene Taktteilungen überbrücken, oder durch Ruhemomente intuitiv erzeugt werden.
 - **Kiai-Zeit sollte nur für den Refrain oder hervorgehobene Teile eines Songs benutzt werden.** Von kurzen Kiai-Effekten wird aus mehreren Gründen abgeraten: Sie stören das Spielerlebnis insbesondere auf Computern mit niedriger Leistung und können Probleme für epileptische Nutzer verursachen.
 - **Die Slidertick-Rate sollte entsprechend dem Song eingestellt werden.** In den meisten Fällen ist 1 ein guter Wert. Wenn der Song hauptsächlich 1/3 als Taktteilung verwendet, setze die Tickrate auf 3, um die Drumrollticks auf 1/3 festzulegen.
 - **Wenn eigene Hitsounds verwendet werden, sollten diese mit Trommeln zu tun haben.** Tiefere Töne sollten als Don und höhere Töne als Kat eingestellt werden.
@@ -97,32 +97,32 @@ In **Ausnahmefällen** dürfen die Richtlinien ignoriert werden. Diese außergew
 
 Schwierigkeitsspezifische Regeln und Richtlinien gelten nur für die Schwierigkeitsstufe, bei der sie aufgeführt werden und *betreffen somit nicht **jeden** osu!taiko-Schwierigkeitsgrad*. Rhythmusbezogene Regeln und Leitlinien gelten für Beatmaps mit ungefähr 180 BPM. Wenn dein Song drastisch schneller oder langsamer ist, können einige Variablen anders sein, wie in [Skalierung der BPM anhand der Ranking-Kriterien](/wiki/Ranking_criteria/Scaling_BPM) ausführlich beschrieben.
 
-### Richtlinien für Pausen
+### Richtlinien für Ruhemomente
 
-Pausen sind kleine... Pausen, hmm, im Gameplay, die verwendet werden, um Patterns voneinander zu trennen und dem Spieler eine Pause von kontinuierlichen Rhythmusketten zu bieten. Sie spielen eine wichtige Rolle bei der Reduzierung der Ermüdung von Spielern, insbesondere bei dichteren Rhythmen.
+Ruhemomente sind kleine Unterbrechungen im Gameplay, die verwendet werden, um Patterns voneinander zu trennen und dem Spieler eine Pause von kontinuierlichen Rhythmusketten zu bieten. Sie spielen eine wichtige Rolle bei der Reduzierung der Ermüdung von Spielern, insbesondere bei dichteren Rhythmen.
 
-Es ist akzeptabel, Pausen seltener zu verwenden, wenn sie aufgrund des Tempos der Musik unintuitiv sind oder wenn der durchgehende Teil der Beatmap insgesamt nachsichtiger mit dem Spieler ist.
+Es ist akzeptabel, Ruhemomente seltener zu verwenden, wenn sie aufgrund des Tempos der Musik unintuitiv sind oder wenn der durchgehende Teil der Beatmap insgesamt nachsichtiger mit dem Spieler ist.
 
-**Jeder Schwierigkeitsgrad muss die jeweiligen Richtlinien für Pausen einhalten:**
+**Jeder Schwierigkeitsgrad muss die jeweiligen Richtlinien für Ruhemomente einhalten:**
 
-| Schwierigkeitsgrad | Pause | Beispiel | Länge der Kette |
+| Schwierigkeitsgrad | Ruhemoment | Beispiel | Länge der Kette |
 | :-: | :-: | :-: | :-- |
-| ![](/wiki/shared/diff/easy-t.png?20211215) **Kantan** | 3/1 oder länger | ![3/1](img/kantan.png "3/1") | Pause benötigt alle 32–36 Beats |
-| ![](/wiki/shared/diff/normal-t.png?20211215) **Futsuu** | 2/1 oder länger | ![2/1](img/futsuu.png "2/1") | Pause benötigt alle 32–36 Beats |
-| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (erste Option) | 3/2 oder länger | ![3/2](img/muzu1.png "3/2") | Pause benötigt alle 32–36 Beats |
-| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (zweite Option) | 3 aufeinanderfolgende 1/1 oder länger | ![3 aufeinanderfolgende 1/1](img/muzu2.png "3 consecutive 1/1") | Pause benötigt alle 32–36 Beats |
-| ![](/wiki/shared/diff/insane-t.png?20211215) **Oni** | 1/1 oder länger | ![1/1](img/oni.png "1/1") | Pause benötigt alle 16–20 Beats |
+| ![](/wiki/shared/diff/easy-t.png?20211215) **Kantan** | 3/1 oder länger | ![3/1](img/kantan.png "3/1") | Ruhemoment benötigt alle 32–36 Beats |
+| ![](/wiki/shared/diff/normal-t.png?20211215) **Futsuu** | 2/1 oder länger | ![2/1](img/futsuu.png "2/1") | Ruhemoment benötigt alle 32–36 Beats |
+| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (erste Option) | 3/2 oder länger | ![3/2](img/muzu1.png "3/2") | Ruhemoment benötigt alle 32–36 Beats |
+| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (zweite Option) | 3 aufeinanderfolgende 1/1 oder länger | ![3 aufeinanderfolgende 1/1](img/muzu2.png "3 consecutive 1/1") | Ruhemoment benötigt alle 32–36 Beats |
+| ![](/wiki/shared/diff/insane-t.png?20211215) **Oni** | 1/1 oder länger | ![1/1](img/oni.png "1/1") | Ruhemoment benötigt alle 16–20 Beats |
 
 ### ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 
 #### Regeln
 
-- **Wenn ein 1/2-Pattern benutzt wird, müssen die Patterns einfach bleiben und auf sie muss eine [Pause](#richtlinien-für-pausen) folgen.** Farbwechsel oder Finisher-Notes dürfen nicht in solchen Patterns verwendet werden. Bei Songs, die einem Swing-Takt folgen, beträgt diese Grenze 1/3.
+- **Wenn ein 1/2-Pattern benutzt wird, müssen die Patterns einfach bleiben und auf sie muss ein [Ruhemoment](#richtlinien-für-ruhemomente) folgen.** Farbwechsel oder Finisher-Notes dürfen nicht in solchen Patterns verwendet werden. Bei Songs, die einem Swing-Takt folgen, beträgt diese Grenze 1/3.
 - **Noten müssen mindestens einen 1/2-Takt auseinander liegen.** Alles, was schneller ist, ist für Anfänger zu komplex. Bei Songs, die einem Swing-Takt folgen, ist das Mindestmaß stattdessen 1/3.
 
 #### Richtlinien
 
-- **1/1-Patterns sollten nicht länger als 7 Noten sein.** Alles, was länger ist, ist für Anfänger wahrscheinlich zu anstrengend. Auf solche Patterns sollte eine [Pause](#richtlinien-für-pausen) folgen.
+- **1/1-Patterns sollten nicht länger als 7 Noten sein.** Alles, was länger ist, ist für Anfänger wahrscheinlich zu anstrengend. Auf solche Patterns sollte ein [Ruhemoment](#richtlinien-für-ruhemomente) folgen.
 - **Die allgemeine Taktteilung sollte hauptsächlich aus 2/1, 4/1 oder langsameren Rhythmen bestehen.** Die gelegentliche Verwendung von 1/1-Rhythmen ist in Ordnung.
 - **Zwischen einem Spinner und der vorhergehenden Note sollte mindestens 1/2 Abstand sein.** Auf diese Weise wird sichergestellt, dass sie nicht übermäßig überlappen und dass die Lesbarkeit gewährleistet ist.
 - **Die Slider-Geschwindigkeit darf mit Bedacht verändert werden.** Änderungen sollten nur für Abschnitte mit unterschiedlichem Tempo erfolgen und die Slider-Geschwindigkeit sollte nicht drastisch variieren.
@@ -145,7 +145,7 @@ Wenn eine Futsuu-Schwierigkeit erforderlich ist und als *niedrigste Schwierigkei
 
 #### Richtlinien
 
-- **1/3-Patterns sollten nicht länger als 2 Noten sein.** Alles, was länger ist, ist sehr situationsabhängig und normalerweise zu komplex für neue Spieler. Auf diese Patterns sollte eine [Pause](#richtlinien-für-pausen) innerhalb von 2/1 folgen und Patterns, die 1/2 oder schneller sind, sollten hier gänzlich vermieden werden.
+- **1/3-Patterns sollten nicht länger als 2 Noten sein.** Alles, was länger ist, ist sehr situationsabhängig und normalerweise zu komplex für neue Spieler. Auf diese Patterns sollte ein [Ruhemoment](#richtlinien-für-ruhemomente) innerhalb von 2/1 folgen und Patterns, die 1/2 oder schneller sind, sollten hier gänzlich vermieden werden.
 - **1/2-Patterns sollten nicht länger als 7 Noten sein.** Alles, was länger ist, ist für Anfänger vermutlich zu anstrengend.
 - **Die allgemeine Taktteilung sollte hauptsächlich aus 1/1, 2/1 oder langsameren Rhythmen bestehen.** Die gelegentliche Verwendung von 1/2-Rhythmen ist in Ordnung.
 - **Zwischen einem Spinner und der vorhergehenden Note sollte mindestens 1/2 Abstand sein.** Auf diese Weise wird sichergestellt, dass sie nicht übermäßig überlappen und dass die Lesbarkeit gewährleistet ist.
@@ -170,12 +170,12 @@ Wenn eine Futsuu-Schwierigkeit erforderlich ist und als *niedrigste Schwierigkei
 
 #### Richtlinien
 
-- **1/6-Patterns sollten nicht länger als 4 Noten bei mittleren bis niedrigen BPM (~140) sein.** Alles, was länger ist, ist sehr situationsabhängig und normalerweise zu komplex. Auf solche Patterns sollte eine [Pause](#richtlinien-für-pausen) folgen. Des Weiteren sollten diese Patterns bei höheren BPM gänzlich vermieden werden.
+- **1/6-Patterns sollten nicht länger als 4 Noten bei mittleren bis niedrigen BPM (~140) sein.** Alles, was länger ist, ist sehr situationsabhängig und normalerweise zu komplex. Auf solche Patterns sollte ein [Ruhemoment](#richtlinien-für-ruhemomente) folgen. Des Weiteren sollten diese Patterns bei höheren BPM gänzlich vermieden werden.
 - **Die allgemeine Taktteilung sollte hauptsächlich aus 1/2, 1/1 oder langsameren Rhythmen bestehen.** Die gelegentliche Verwendung von 1/4-Rhythmen ist in Ordnung.
 - **Zwischen einem Spinner und der vorhergehenden Note sollte mindestens 1/2 Abstand sein.** Auf diese Weise wird sichergestellt, dass sie nicht übermäßig überlappen und dass die Lesbarkeit gewährleistet ist.
 - **Das Editieren der Slider-Geschwindigkeit ist erlaubt**, aber Änderungen sollten nur für Abschnitte mit unterschiedlichem Tempo erfolgen und die Slider-Geschwindigkeit sollte nicht drastisch variieren.
 - **1/4-Patterns mit einem oder mehreren Farbwechsel sollten sparsam verwendet werden.** Sie sollten in Verbindung mit anderen Patterns dieser Art vermieden werden, weil das Zielpublikum dieses Schwierigkeitsgrades nicht an Patterns dieser Komplexität gewöhnt ist.
-- **1/4-Pattern, die länger als 3 Noten sind, sollten maximal einen Farbwechsel am Anfang oder am Ende des Patterns beinhalten.** Komplexere Patterns als diese sind zu anstrengend für fortgeschrittene Spieler. Auf diese Patterns sollte eine [Pause](#richtlinien-für-pausen) folgen.
+- **1/4-Pattern, die länger als 3 Noten sind, sollten maximal einen Farbwechsel am Anfang oder am Ende des Patterns beinhalten.** Komplexere Patterns als diese sind zu anstrengend für fortgeschrittene Spieler. Auf diese Patterns sollte ein [Ruhemoment](#richtlinien-für-ruhemomente) folgen.
 
 #### Richtlinien für die Schwierigkeitseinstellungen
 
@@ -192,7 +192,7 @@ Wenn eine Futsuu-Schwierigkeit erforderlich ist und als *niedrigste Schwierigkei
 
 #### Richtlinien
 
-- **1/8-Patterns sollten nicht länger als 2 Noten sein.** Alles, was länger ist, ist sehr situationsabhängig und normalerweise zu komplex. Auf solche Patterns sollte eine [Pause](#richtlinien-für-pausen) folgen.
+- **1/8-Patterns sollten nicht länger als 2 Noten sein.** Alles, was länger ist, ist sehr situationsabhängig und normalerweise zu komplex. Auf solche Patterns sollte ein [Ruhemoment](#richtlinien-für-ruhemomente) folgen.
 - **1/4-Patterns sollten nicht länger als 9 Noten sein.** Alles, was länger ist, ist vermutlich zu anstrengend für das Zielpublikum dieses Schwierigkeitsgrades.
 - **Die allgemeine Taktteilung sollte hauptsächlich aus 1/2 und gelegentlich 1/1-Rhythmen bestehen.** 1/4-Rhythmen dürfen in diesem Schwierigkeitsgrad häufiger verwendet werden.
 - **Zwischen einem Spinner und der vorhergehenden Note sollte mindestens 1/4 Abstand sein.** Auf diese Weise wird sichergestellt, dass sie nicht übermäßig überlappen und dass die Lesbarkeit gewährleistet ist.
