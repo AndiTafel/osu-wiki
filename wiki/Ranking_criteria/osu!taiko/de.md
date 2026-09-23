@@ -52,7 +52,7 @@ Alle Regeln sind genau das: **Regeln**. Sie sind **keine** Richtlinien und dürf
 - **Jede Note muss eindeutig einer [musikalischen Ebene](/wiki/Music_theory/Layer) oder Ebeneneinheit zugeordnet werden können, die sie repräsentieren soll, sei es, um eine vom Song vorgegebene Ebene zu erweitern, oder sei es eine zusätzliche, vom Mapper improvisierte Ebene.** Improvisiere nicht in einer Weise, die das Tempo verschiebt, der allgemeinen Musikrichtung widerspricht oder die aktuelle Intensität des Songs falsch interpretiert. Die Improvisation muss entweder eine bestehende Ebene des Songs verbessern oder eine neue hinzufügen. Andernfalls geht der Bezug zum Song verloren, was dem Hauptzweck eines Rhythmusspiels widerspricht.
 - **Die Funktion `Omit first bar line` eines nicht vererbten Timing-Punkts muss verwendet werden, wenn eine Änderung der BPM bzw. eine Rücksetzung des Metronoms das Spielerlebnis durch das Hinzufügen überflüssiger Taktstriche in ästhetischer Hinsicht beeinträchtigen würde.**
 - **Slidertails dürfen nicht fehlenden Sliderticks im Takt zugeteilt werden.** Dieses Verhalten ist unbeabsichtigt und wird in Zukunft korrigiert.
-- **Taiko-Hintergrundvorlagen dürfen nicht benutzt werden.** Aufgrund der verschiedenen gängigen Bildschirmauflösungen funktionieren sie nicht so, wie sie ursprünglich gedacht waren.
+- **[Taiko-Vorlagenhintergründe](/wiki/Beatmap/Background/Taiko_template_background) dürfen nicht benutzt werden.** Bei gängigeren Seitenverhältnissen funktionieren sie nicht so, wie sie urprünglich gedacht waren.
 - **Lasse keinen Platz zwischen dem Taiko-Spielfeld und dem Hintergrund frei.** Wenn dies der Fall ist, solltest du die letzte Null in der Datei `.osu` in der Zeile `0,0,"name_des_hintergrunds.dateiendung",0,0` unter der Überschrift `[Events]` mit Notepad ändern. Positive Werte senken den Hintergrund, während negative Werte ihn anheben.
 
 #### Richtlinien
@@ -74,10 +74,14 @@ In **Ausnahmefällen** dürfen die Richtlinien ignoriert werden. Diese außergew
 #### Regeln
 
 - **Wenn die [Drain-Zeit](/wiki/Beatmap/Drain_time) jeder Schwierigkeitsstufe...**
-  - **...kürzer als 3:30 ist**, darf der unterste Schwierigkeitsgrad jedes enthaltenen Spielmodus nicht härter als Futsuu sein.
-  - **...zwischen 3:30 und 4:15 liegt**, darf der unterste Schwierigkeitsgrad jedes enthaltenen Spielmodus nicht härter als Muzukashii sein.
-  - **...zwischen 4:15 und 5:00 liegt**, darf der unterste Schwierigkeitsgrad jedes enthaltenen Spielmodus nicht härter als Oni sein.
+  - **...kürzer als 2:30 ist**, darf der unterste Schwierigkeitsgrad nicht schwerer als Futsuu sein.
+  - **...zwischen 2:30 und 3:15 liegt**, darf der unterste Schwierigkeitsgrad nicht schwerer als Muzukashii sein.
+  - **...zwischen 3:15 und 4:00 liegt**, darf der unterste Schwierigkeitsgrad nicht schwerer als Oni sein.
   - **[Pausen](/wiki/Beatmap/Break) dürfen mit [Drain-Zeit](/wiki/Beatmap/Drain_time) kombiniert werden, um die oben genannten Grenzwerte zu erreichen.** In der höchsten Schwierigkeitsstufe ist das auf allerhöchstens 30 Sekunden Pause begrenzt. Dies gilt nicht für Schwierigkeitsgrade mit weniger als 30 Sekunden Drain-Zeit.
+
+#### Richtlinien
+
+- **Es sollte keine drastisch großen Schwierigkeitslücken zwischen je zwei Schwierigkeitsgraden unter Inner Oni geben**, wobei diese Richtlinie bei Gastschwierigkeiten abgemildert wird, um die Koordinierung der Aufteilung auf mehrere Mapper zu erleichtern.
 
 ### Slidergeschwindigkeit
 
@@ -92,6 +96,22 @@ In **Ausnahmefällen** dürfen die Richtlinien ignoriert werden. Diese außergew
 ## Abhängig vom Schwierigkeitsgrad
 
 Schwierigkeitsspezifische Regeln und Richtlinien gelten nur für die Schwierigkeitsstufe, bei der sie aufgeführt werden und *betreffen somit nicht **jeden** osu!taiko-Schwierigkeitsgrad*. Rhythmusbezogene Regeln und Leitlinien gelten für Beatmaps mit ungefähr 180 BPM. Wenn dein Song drastisch schneller oder langsamer ist, können einige Variablen anders sein, wie in [Skalierung der BPM anhand der Ranking-Kriterien](/wiki/Ranking_criteria/Scaling_BPM) ausführlich beschrieben.
+
+### Richtlinien für Pausen
+
+Pausen sind kleine... Pausen, hmm, im Gameplay, die verwendet werden, um Patterns voneinander zu trennen und dem Spieler eine Pause von kontinuierlichen Rhythmusketten zu bieten. Sie spielen eine wichtige Rolle bei der Reduzierung der Ermüdung von Spielern, insbesondere bei dichteren Rhythmen.
+
+Es ist akzeptabel, Pausen seltener zu verwenden, wenn sie aufgrund des Tempos der Musik unintuitiv sind oder wenn der durchgehende Teil der Beatmap insgesamt nachsichtiger mit dem Spieler ist.
+
+**Jeder Schwierigkeitsgrad muss die jeweiligen Richtlinien für Pausen einhalten:**
+
+| Schwierigkeitsgrad | Pause | Beispiel | Länge der Kette |
+| :-: | :-: | :-: | :-- |
+| ![](/wiki/shared/diff/easy-t.png?20211215) **Kantan** | 3/1 oder länger | ![3/1](img/kantan.png "3/1") | Pause benötigt alle 32–36 Beats |
+| ![](/wiki/shared/diff/normal-t.png?20211215) **Futsuu** | 2/1 oder länger | ![2/1](img/futsuu.png "2/1") | Pause benötigt alle 32–36 Beats |
+| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (erste Option) | 3/2 oder länger | ![3/2](img/muzu1.png "3/2") | Pause benötigt alle 32–36 Beats |
+| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (zweite Option) | 3 aufeinanderfolgende 1/1 oder länger | ![3 aufeinanderfolgende 1/1](img/muzu2.png "3 consecutive 1/1") | Pause benötigt alle 32–36 Beats |
+| ![](/wiki/shared/diff/insane-t.png?20211215) **Oni** | 1/1 oder länger | ![1/1](img/oni.png "1/1") | Pause benötigt alle 16–20 Beats |
 
 ### ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 
@@ -192,5 +212,9 @@ Wenn eine Futsuu-Schwierigkeit erforderlich ist und als *niedrigste Schwierigkei
 
 #### Richtlinien für die Schwierigkeitseinstellungen
 
-- Allgemeine Schwierigkeit sollte 5 oder mehr sein.
+- Allgemeine Schwierigkeit sollte 6 oder mehr sein.
 - HP-Drain-Rate sollte 5 oder mehr sein.[^hp-note]
+
+## Anmerkungen
+
+[^hp-note]: Wenn die Notenanzahl höher oder der Song länger ist, sollte die HP-Drain-Rate leicht abgesenkt werden, und umgekehrt für eine geringere Notenanzahl oder einen längeren Song.
