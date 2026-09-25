@@ -36,7 +36,8 @@ Index page for articles related to core gameplay elements and concepts.
 - [Pass](Pass)
 - [Play style](Play_style)
 - [Play time](/wiki/Beatmap/Play_time)
-- [Quick play](Quick_play) <!-- TODO: Quick play may be replaced with Ranked play. If and when that happens this and the main article will need an update. https://github.com/ppy/osu-wiki/issues/15214 -->
+- [Quick play](Quick_play)
+- [Ranked play](Ranked_play)
 - [Replay](Replay)
 - [Score](Score)
 - [ScoreV1](Score/ScoreV1)
