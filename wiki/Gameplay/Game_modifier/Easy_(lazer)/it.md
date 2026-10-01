@@ -6,8 +6,6 @@ tags:
 
 # Easy (lazer mod)
 
-## Description
-
 ::: Infobox
 
 <!-- lint ignore heading-increment -->
@@ -46,19 +44,19 @@ The **Easy** mod attempts to make gameplay easier by decreasing the difficulty s
 
 In all [game modes](/wiki/Game_mode) except osu!taiko, the mod grants the player two extra lives in case the [health bar](/wiki/Client/Interface/Health_bar) drops to zero, which will then be refilled instantly.
 
-### ![][osu!] osu!
+#### ![][osu!] osu!
 
 In osu!, [circle size](/wiki/Beatmap/Circle_size), [HP drain](/wiki/Beatmap/HP_drain_rate), [overall difficulty](/wiki/Beatmap/Overall_difficulty) and [approach rate](/wiki/Beatmap/Approach_rate) are cut in half.
 
-### ![][osu!taiko] osu!taiko
+#### ![][osu!taiko] osu!taiko
 
 In osu!taiko, [HP drain](/wiki/Beatmap/HP_drain_rate) and [overall difficulty](/wiki/Beatmap/Overall_difficulty) are cut in half, while the scroll speed is reduced by 20%.
 
-### ![][osu!catch] osu!catch
+#### ![][osu!catch] osu!catch
 
 In osu!catch, [circle size](/wiki/Beatmap/Circle_size), [HP drain](/wiki/Beatmap/HP_drain_rate) and [approach rate](/wiki/Beatmap/Approach_rate) are cut in half.
 
-### ![][osu!mania] osu!mania
+#### ![][osu!mania] osu!mania
 
 In osu!mania, the [HP drain](/wiki/Beatmap/HP_drain_rate) is cut in half, while the timing windows become approximately 40% less strict.
 

@@ -9,8 +9,6 @@ tags:
 
 # Easy (mod)
 
-## Description
-
 ::: Infobox
 
 <!-- lint ignore heading-increment -->
@@ -54,7 +52,7 @@ In all [game modes](/wiki/Game_mode) except [osu!taiko](/wiki/Game_mode/osu!taik
 
 The game signals the start of the refill event by playing the skin's `readysound.wav` file. Once the health bar finishes refilling, the `gosound.wav` file plays, and the beatmap resumes. If the player runs out of remaining lives and the health bar empties completely, the play fails normally. 
 
-### osu!
+#### osu!
 
 In [osu!](/wiki/Game_mode/osu!), the Easy mod decreases [circle size (CS)](/wiki/Beatmap/Circle_size), [approach rate (AR)](/wiki/Beatmap/Approach_rate), [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty), and [HP drain (HP)](/wiki/Beatmap/HP_drain_rate) by half.
 
@@ -62,7 +60,7 @@ In [osu!](/wiki/Game_mode/osu!), the Easy mod decreases [circle size (CS)](/wiki
 
 Many players find that the Easy mod does not lower the difficulty of high-density beatmaps. The halved approach rate creates a dense, visually cluttered playfield that makes reading the beatmap difficult.
 
-### osu!taiko
+#### osu!taiko
 
 In [osu!taiko](/wiki/Game_mode/osu!taiko), the Easy mod decreases the [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), overall difficulty (OD) and HP drain by half.
 
@@ -73,7 +71,7 @@ The amount of hits that are required to finish a [spinner](/wiki/Gameplay/Hit_ob
 
 Because players cannot fail mid-song in osu!taiko, the mod does not grant extra lives. Instead, it lowers the health requirement needed to fill the health bar, allowing it to fill much faster than normal.
 
-### osu!catch
+#### osu!catch
 
 In [osu!catch](/wiki/Game_mode/osu!catch), the effects are the same as in osu! with a few parallels and adjustments: fruits fall slower (halved AR), fruits become bigger (halved CS), and two extra lives are granted.
 
@@ -81,7 +79,7 @@ Due to the single-axis movement of the game mode, the larger fruit sizes and slo
 
 ![EZ gameplay catch](img/EZ-comparison-catch.jpg "Comparison between a regular osu! at play (left) vs a play with the Easy mod enabled (right) in osu!catch")
 
-### osu!mania
+#### osu!mania
 
 In [osu!mania](/wiki/Game_mode/osu!mania), the Easy mod reduces overall difficulty (OD) and HP drain by half, and grants two extra lives. Slider velocity and default key counts remain unaffected.
 
