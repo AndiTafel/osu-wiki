@@ -140,7 +140,7 @@ Liderzy grup są oznaczeni **pogrubieniem**.
 | ::{ flag=UY }:: | **Urugwaj** | **[Rebo](https://osu.ppy.sh/users/6942259)**, [Alyra](https://osu.ppy.sh/users/11113213), [daanit](https://osu.ppy.sh/users/6159669), [helvetia](https://osu.ppy.sh/users/6407282), [LittleFede](https://osu.ppy.sh/users/24879119), [PLOXARU](https://osu.ppy.sh/users/6404583), [Ryo Mizoguchi](https://osu.ppy.sh/users/27635595), [Shikkesora](https://osu.ppy.sh/users/5382216) |
 | ::{ flag=VN }:: | **Wietnam** | **[Ho Quang Hieu](https://osu.ppy.sh/users/14953642)**, [Another Guy](https://osu.ppy.sh/users/4540667), [Tonnisdk](https://osu.ppy.sh/users/10890712), [\[ReiKo\_Relax\]](https://osu.ppy.sh/users/12609743), [Ayamaki](https://osu.ppy.sh/users/16396650), [vouillet](https://osu.ppy.sh/users/16823917), [-Kiyoko-](https://osu.ppy.sh/users/10542491), [hotcat190](https://osu.ppy.sh/users/10143086) |
 
-Kapitanowie są oznaczeni **pogrubieniem**
+Kapitanowie są oznaczeni **pogrubieniem**.
 
 Pełną listę zapisów można znaleźć [tutaj](https://gist.github.com/LeoFLT/dc73f8a9c4b74bdb75b26322c83f6ff1).
 
