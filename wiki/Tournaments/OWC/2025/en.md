@@ -862,7 +862,7 @@ Groups are ordered by descending average %MAX results from the Qualifiers stage.
 
 For the Challenger groups, this means that seeds 1–4 for the bracket stage are composed of the #1 finishers from Groups A through D, with 5–8 being the #2 of each group, respectively. Seeds 9-12 will be composed of the #3 finishers of each group. Finally, seeds 13-16 will be composed of the #4 finishers of each group.
 
-For the Contender groups, seeds 9–12 are composed of the #1 finishers from Groups E through F, with 13-16 being the #2 of each group, respectively. The #3 and #4 finishers from each group are eliminated from the competition
+For the Contender groups, seeds 9–12 are composed of the #1 finishers from Groups E through H, with 13-16 being the #2 of each group, respectively. The #3 and #4 finishers from each group are eliminated from the competition
 
 For example, if the #1 seeded teams from both Group A and B go 3-0 with a +15 point differential (3 matches won 5-0), Group A's #1 will be the higher seed.
 
