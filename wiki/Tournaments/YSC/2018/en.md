@@ -809,7 +809,7 @@ Thursday, 21 June 2018:
 - Ranks will be taken and locked when registrations have concluded
 - Anyone who does sign up must be able to play maps with a difficulty of at least 5*.
 - Host, co-hosts, referees, schedulers, and mappool selectors are not permitted to sign up for the tournament.
-- All players must treat staff and other participants with a high level of respect, any kind of mistreatment in a match or on the discord (this includes extreme toxicity, racism, homophobia) will result in a ban and will be blacklisted from participating in future installments of this tournament.
+- All players must treat staff and other participants with a high level of respect, any kind of mistreatment in a match or on the discord (this includes extreme toxicity, racism, homophobia) will result in a ban and will be blacklisted from participating in future instalments of this tournament.
 - Where rules do not prevail, common sense shall. The administration has explicit discretion to apply their judgement on this as they see fit.
 - Each stage will be held on a Saturday/Sunday. Schedules and mappools will be released on the Monday/Tuesday before that stage is due to happen, to allow for reschedules.
 - Reschedules will be allowed if both players agree on a time and provide proof of the agreed reschedule to hosts/co-hosts/scheduling team.
