@@ -49,7 +49,7 @@ The Taiko World Cup 2011 was run by various community members.
 
 ## Participants
 
-|  | Team | Members |
+|  | Country | Members |
 | :-: | :-: | :-- |
 | ::{ flag=BR }:: ::{ flag=CL }:: | **Brazil-Chile** | **[Hyguys](https://osu.ppy.sh/users/362851)**, [Kurisuchianu](https://osu.ppy.sh/users/194345), [Foster Don](https://osu.ppy.sh/users/144464), [JhowM](https://osu.ppy.sh/users/599290) |
 | ::{ flag=CN }:: | **China** | **[Yowane \_ Haku](https://osu.ppy.sh/users/255267)**, [yukey](https://osu.ppy.sh/users/81972), [sagelord](https://osu.ppy.sh/users/56200), [small-qiang](https://osu.ppy.sh/users/619179) |
