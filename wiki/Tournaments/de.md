@@ -183,11 +183,11 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Vanilla vs Chocolate | 23.09.2019 | 20.10.2019 | Vanilla | Chocolate | N/A |
-| Cats vs Dogs | 04.11.2019 | 22.12.2019 | Cats | Dogs | N/A |
-| owo vs uwu | 19.01.2020 | 21.03.2020 | uwu | owo | N/A |
-| Coffee vs Tea | 18.04.2020 | 27.06.2020 | Tea | Coffee | N/A |
-| Summer vs Winter | 15.03.2021 | 16.05.2021 | Summer | Winter | N/A |
+| Vanilla vs Chocolate | 23.09.2019 | 20.10.2019 | Vanilla | Chocolate | nicht vorhanden |
+| Cats vs Dogs | 04.11.2019 | 22.12.2019 | Cats | Dogs | nicht vorhanden |
+| owo vs uwu | 19.01.2020 | 21.03.2020 | uwu | owo | nicht vorhanden |
+| Coffee vs Tea | 18.04.2020 | 27.06.2020 | Tea | Coffee | nicht vorhanden |
+| Summer vs Winter | 15.03.2021 | 16.05.2021 | Summer | Winter | nicht vorhanden |
 
 #### [BubblyQT](BQT)
 
@@ -435,7 +435,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [UK osu!standard tournament!](OUKT/1) | 11.11.2013 | 11.01.2014 | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) | ::{ flag=GB }:: [R a h a r u](https://osu.ppy.sh/users/785193) | ::{ flag=GB }:: [iLikeMudkipz](https://osu.ppy.sh/users/552515) |
 | [UK osu!standard tournament 2](OUKT/2) | 15.03.2014 | 20.04.2014 | ::{ flag=GB }:: [iLikeMudkipz](https://osu.ppy.sh/users/552515) | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) | ::{ flag=GB }:: [SoraRoxas01](https://osu.ppy.sh/users/1986262) |
 | [osu! UK Tournament 3](OUKT/3) | 28.06.2014 | 10.08.2014 | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) | ::{ flag=GB }:: [jesus1412](https://osu.ppy.sh/users/230116) | ::{ flag=GB }:: [iLikeMudkipz](https://osu.ppy.sh/users/552515) |
-| [osu! UK Tournament 4](OUKT/4) | 10.01.2015 | 21.08.2015 | ::{ flag=GB }:: [bahamete](https://osu.ppy.sh/users/960620) | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) | N/A |
+| [osu! UK Tournament 4](OUKT/4) | 10.01.2015 | 21.08.2015 | ::{ flag=GB }:: [bahamete](https://osu.ppy.sh/users/960620) | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) | nicht vorhanden |
 | [osu! UK Tournament 5](OUKT/5) | 12.09.2015 | 23.04.2016 | ::{ flag=GB }:: [bahamete](https://osu.ppy.sh/users/960620) | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) | ::{ flag=GB }:: [Kakiage](https://osu.ppy.sh/users/3104031) |
 
 #### [osu! Vintage Map Tourney!](OVMT)
