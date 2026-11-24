@@ -1,4 +1,4 @@
-# Staff log 2017
+# Mitarbeiter-Log 2017
 
 ## January
 

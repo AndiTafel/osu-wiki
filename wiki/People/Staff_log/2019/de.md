@@ -1,4 +1,4 @@
-# Staff log 2019
+# Mitarbeiter-Log 2019
 
 ## January
 

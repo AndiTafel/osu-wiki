@@ -1,8 +1,8 @@
-# Staff log 2012
+# Mitarbeiter-Log 2012
 
 ::: alert-notice
-**Notice**
-Some users' history may be incomplete during this year.
+**Hinweis**
+Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 :::
 
 ## January

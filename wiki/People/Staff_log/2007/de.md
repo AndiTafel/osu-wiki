@@ -1,8 +1,8 @@
-# Staff log 2007
+# Mitarbeiter-Log 2007
 
 ::: alert-notice
-**Notice**
-Some users' history may be incomplete during this year. "Moderators" were later renamed to "Beatmap Approval Team".
+**Hinweis**
+Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig. Die Gruppe "Moderators" wurde später in "Beatmap Approval Team" umbenannt.
 :::
 
 - [phill](https://osu.ppy.sh/users/53) wurde zur Gruppe Moderators hinzugefügt
