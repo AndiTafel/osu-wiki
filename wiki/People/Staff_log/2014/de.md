@@ -23,7 +23,7 @@ Some users' history may be incomplete during this year.
 - Moved [Sync](https://osu.ppy.sh/users/806921) to osu! Alumni (2014-01-21)
 - Moved [those](https://osu.ppy.sh/users/557166) to osu! Alumni (2014-01-21)
 - Moved [YGOKid8](https://osu.ppy.sh/users/69114) to osu! Alumni (2014-01-21)
-- Moved [Gabe](https://osu.ppy.sh/users/654108) from Beatmap Appreciation Team to osu! Alumni (2014-01-21) <!-- https://osu.ppy.sh/community/forums/posts/2819213 -->
+- Moved [Gabe](https://osu.ppy.sh/users/654108) from Beatmap Appreciation Team to osu! Alumni (2014-01-21)
 - Readded [YGOKid8](https://osu.ppy.sh/users/69114) to Beatmap Appreciation Team (2014-01-23)
 - Moved [Sakura](https://osu.ppy.sh/users/289422) to osu! Alumni (2014-01-24)
 - Moved [Kurai](https://osu.ppy.sh/users/77089) to Global Moderation Team (2014-01-25)
