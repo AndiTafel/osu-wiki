@@ -47,7 +47,7 @@ Some users' history may be incomplete during this year.
 
 - Moved [Andrea](https://osu.ppy.sh/users/33599) from Beatmap Appreciation Team to osu! Alumni (2012-05-02)
 - Moved [Gonzvlo](https://osu.ppy.sh/users/237733) from Beatmap Appreciation Team to osu! Alumni (2012-05-12)
-- Readded [Roddie](https://osu.ppy.sh/users/121337) to Mapping Assistance Team (2012-05-12)
+- [Roddie](https://osu.ppy.sh/users/121337) wurde erneut zur Gruppe Mapping Assistance Team hinzugefügt (2012-05-12)
 - [Inamaru](https://osu.ppy.sh/users/76382) wurde zur Gruppe Global Mod Team hinzugefügt (2012-05-12)
 - [Kawayi Rika](https://osu.ppy.sh/users/596298) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2012-05-12)
 - [those](https://osu.ppy.sh/users/557166) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2012-05-12)
@@ -61,7 +61,7 @@ Some users' history may be incomplete during this year.
 - [Agnes](https://osu.ppy.sh/users/136982) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2012-05-19)
 - [Suzully](https://osu.ppy.sh/users/431791) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2012-05-19)
 - [wfmchris](https://osu.ppy.sh/users/7401) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2012-05-19)
-- Readded [Shulin](https://osu.ppy.sh/users/150488) to Mapping Assistance Team (2012-05-26)
+- [Shulin](https://osu.ppy.sh/users/150488) wurde erneut zur Gruppe Mapping Assistance Team hinzugefügt (2012-05-26)
 - [Nymph](https://osu.ppy.sh/users/601990) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2012-05-12)
 - [spboxer3](https://osu.ppy.sh/users/197974) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2012-05-12)
 - [Miya](https://osu.ppy.sh/users/909167) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2012-05-12)
@@ -76,7 +76,7 @@ Some users' history may be incomplete during this year.
 ## June
 
 - Moved [Skyripper](https://osu.ppy.sh/users/31803) from osu! Alumni to Global Mod Team (2012-06-02)
-- Readded [Saturos-fangirl](https://osu.ppy.sh/users/11874) to Beatmap Appreciation Team (2012-06-02)
+- [Saturos-fangirl](https://osu.ppy.sh/users/11874) wurde erneut zur Gruppe Beatmap Appreciation Team hinzugefügt (2012-06-02)
 - Moved [Odaril](https://osu.ppy.sh/users/113005) from osu! Alumni to Beatmap Appreciation Team (2012-06-26)
 
 ## July
@@ -102,13 +102,13 @@ Some users' history may be incomplete during this year.
 
 ## September
 
-- Readded [spboxer3](https://osu.ppy.sh/users/197974) to Mapping Assistance Team (2012-09-01)
+- [spboxer3](https://osu.ppy.sh/users/197974) wurde erneut zur Gruppe Mapping Assistance Team hinzugefügt (2012-09-01)
 - [Loctav](https://osu.ppy.sh/users/71366) wurde zur Gruppe Global Mod Team hinzugefügt (2012-09-01)
 - [Byakugan249](https://osu.ppy.sh/users/660484) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2012-09-01)
 - [Chewin](https://osu.ppy.sh/users/617323) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2012-09-01)
 - Moved [Armin](https://osu.ppy.sh/users/105902) from Mapping Assistance Team to Beatmap Appreciation Team (2012-09-01)
 - Moved [NatsumeRin](https://osu.ppy.sh/users/151679) from Mapping Assistance Team to Beatmap Appreciation Team (2012-09-01)
-- Readded [Jarby](https://osu.ppy.sh/users/25615) to Mapping Assistance Team (2012-09-29)
+- [Jarby](https://osu.ppy.sh/users/25615) wurde erneut zur Gruppe Mapping Assistance Team hinzugefügt (2012-09-29)
 - Moved [Gens](https://osu.ppy.sh/users/23062) from Beatmap Appreciation Team to osu! Alumni (2012-09-29)
 
 ## October
@@ -127,7 +127,7 @@ Some users' history may be incomplete during this year.
 - [TouhouNerd](https://osu.ppy.sh/users/396056) wurde zur Gruppe Global Mod Team hinzugefügt (2012-11-09)
 - Moved [Doomsday](https://osu.ppy.sh/users/18983) from Beatmap Appreciation Team to osu! Alumni (2012-11-12)
 - [theowest](https://osu.ppy.sh/users/60604) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2012-11-15)
-- Readded [Roddie](https://osu.ppy.sh/users/121337) to Mapping Assistance Team (2012-11-15)
+- [Roddie](https://osu.ppy.sh/users/121337) wurde erneut zur Gruppe Mapping Assistance Team hinzugefügt (2012-11-15)
 - [kingking9](https://osu.ppy.sh/users/1277097) wurde zur Gruppe Chat Moderators hinzugefügt (2012-11-19)
 
 ## December

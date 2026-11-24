@@ -13,7 +13,7 @@ Some users' history may be incomplete during this year.
 - Removed [Mara](https://osu.ppy.sh/users/194294) from Chat Moderators (2013-01-13)
 - [Makar](https://osu.ppy.sh/users/686389) wurde zur Gruppe Chat Moderators hinzugefügt (2013-01-23)
 - [matthewhln](https://osu.ppy.sh/users/291487) wurde zur Gruppe Chat Moderators hinzugefügt (2013-01-24)
-- Readded [Faust](https://osu.ppy.sh/users/65152) to Mapping Assistance Team (2013-01-24)
+- [Faust](https://osu.ppy.sh/users/65152) wurde erneut zur Gruppe Mapping Assistance Team hinzugefügt (2013-01-24)
 
 ## February
 
@@ -21,8 +21,8 @@ Some users' history may be incomplete during this year.
 - [Jacob](https://osu.ppy.sh/users/976963) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2013-02-07)
 - [Pokie](https://osu.ppy.sh/users/207340) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2013-02-07)
 - [Frostmourne](https://osu.ppy.sh/users/199669) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2013-02-07)
-- Readded [Nymph](https://osu.ppy.sh/users/601990) to Mapping Assistance Team (2013-02-16)
-- Readded [xxheroxx](https://osu.ppy.sh/users/25999) to Mapping Assistance Team (2013-02-16)
+- [Nymph](https://osu.ppy.sh/users/601990) wurde erneut zur Gruppe Mapping Assistance Team hinzugefügt (2013-02-16)
+- [xxheroxx](https://osu.ppy.sh/users/25999) wurde erneut zur Gruppe Mapping Assistance Team hinzugefügt (2013-02-16)
 - [Gabe](https://osu.ppy.sh/users/654108) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2013-02-16)
 - [popner](https://osu.ppy.sh/users/759860) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2013-02-16)
 - Moved [-kevincela-](https://osu.ppy.sh/users/266596) from Mapping Assistance Team to Beatmap Appreciation Team (2013-02-16)
@@ -53,7 +53,7 @@ Some users' history may be incomplete during this year.
 
 ## April
 
-- Readded [Teara](https://osu.ppy.sh/users/123491) to Mapping Assistance Team (2013-04-01)
+- [Teara](https://osu.ppy.sh/users/123491) wurde erneut zur Gruppe Mapping Assistance Team hinzugefügt (2013-04-01)
 - [Nyquill](https://osu.ppy.sh/users/682935) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2013-04-01)
 - [Makar](https://osu.ppy.sh/users/686389) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2013-04-01)
 - [Kei](https://osu.ppy.sh/users/346677) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2013-04-01)
@@ -127,9 +127,9 @@ Some users' history may be incomplete during this year.
 - Moved [jericho2442](https://osu.ppy.sh/users/88904) from osu! Alumni to Beatmap Appreciation Team (2013-07-20)
 - [yeahyeahyeahhh](https://osu.ppy.sh/users/58042) wurde zur Gruppe osu! Alumni hinzugefügt (2013-07-23)
 - [ignorethis](https://osu.ppy.sh/users/27343) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2013-07-23)
-- Readded [Kawayi Rika](https://osu.ppy.sh/users/596298) to Beatmap Appreciation Team (2013-07-23)
-- Readded [Blue Dragon](https://osu.ppy.sh/users/19048) to Beatmap Appreciation Team (2013-07-25)
-- Readded [Sync](https://osu.ppy.sh/users/806921) to Beatmap Appreciation Team (2013-07-25)
+- [Kawayi Rika](https://osu.ppy.sh/users/596298) wurde erneut zur Gruppe Beatmap Appreciation Team hinzugefügt (2013-07-23)
+- [Blue Dragon](https://osu.ppy.sh/users/19048) wurde erneut zur Gruppe Beatmap Appreciation Team hinzugefügt (2013-07-25)
+- [Sync](https://osu.ppy.sh/users/806921) wurde erneut zur Gruppe Beatmap Appreciation Team hinzugefügt (2013-07-25)
 - [Xgor](https://osu.ppy.sh/users/98661) wurde zur Gruppe osu! Alumni hinzugefügt (2013-07-25)
 
 ## August
@@ -168,7 +168,7 @@ Some users' history may be incomplete during this year.
 
 ## September
 
-- Readded [Gabe](https://osu.ppy.sh/users/654108) to Beatmap Appreciation Team (2013-09-02)
+- [Gabe](https://osu.ppy.sh/users/654108) wurde erneut zur Gruppe Beatmap Appreciation Team hinzugefügt (2013-09-02)
 - [YGOkid8](https://osu.ppy.sh/users/69114) wurde zur Gruppe osu! Alumni hinzugefügt (2013-09-05)
 - Moved [Andrea](https://osu.ppy.sh/users/33599) from osu! Alumni to Beatmap Appreciation Team (2013-09-08)
 - Added [Lissette](https://osu.ppy.sh/users/19835) to osu! Alumni
@@ -218,7 +218,7 @@ Some users' history may be incomplete during this year.
 
 ## November
 
-- Readded [grumd](https://osu.ppy.sh/users/530913) to Beatmap Appreciation Team (2013-11-02)
+- [grumd](https://osu.ppy.sh/users/530913) wurde erneut zur Gruppe Beatmap Appreciation Team hinzugefügt (2013-11-02)
 - Removed [Kokatsu](https://osu.ppy.sh/users/1019859) from Beatmap Appreciation Team (2013-11-10)
 - [Winshley](https://osu.ppy.sh/users/864895) wurde zur Gruppe Chat Moderators hinzugefügt (2013-11-16)
 - [UnderminE](https://osu.ppy.sh/users/444223) wurde zur Gruppe Chat Moderators hinzugefügt (2013-11-16)
