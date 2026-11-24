@@ -7,13 +7,13 @@ Some users' history may be incomplete during this year.
 
 ## January
 
-- Added [[Shi-Ra]](https://osu.ppy.sh/users/2008489) to Beatmap Appreciation Team (2014-01-01)
-- Added [TKS](https://osu.ppy.sh/users/940878) to Beatmap Appreciation Team (2014-01-04)
+- [[Shi-Ra]](https://osu.ppy.sh/users/2008489) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2014-01-01)
+- [TKS](https://osu.ppy.sh/users/940878) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2014-01-04)
 - Readded [Teara](https://osu.ppy.sh/users/123491) to Beatmap Appreciation Team (2014-01-05)
-- Added [shARPII](https://osu.ppy.sh/users/776257) to Chat Moderators (2014-01-16)
-- Added [Stickie](https://osu.ppy.sh/users/1248732) to Chat Moderators (2014-01-16)
+- [shARPII](https://osu.ppy.sh/users/776257) wurde zur Gruppe Chat Moderators hinzugefügt (2014-01-16)
+- [Stickie](https://osu.ppy.sh/users/1248732) wurde zur Gruppe Chat Moderators hinzugefügt (2014-01-16)
 - Removed [Gabe](https://osu.ppy.sh/users/654108) from Beatmap Appreciation Team (2014-01-17)
-- Added [Krah](https://osu.ppy.sh/users/1436748) to Beatmap Appreciation Team (2014-01-20)
+- [Krah](https://osu.ppy.sh/users/1436748) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2014-01-20)
 - Readded [dkun](https://osu.ppy.sh/users/154400) to Beatmap Appreciation Team (2014-01-20)
 - Moved [Breeze](https://osu.ppy.sh/users/77537) to osu! Alumni (2014-01-21)
 - Removed [HeatKai](https://osu.ppy.sh/users/332555) from Beatmap Appreciation Team (2014-01-21)
@@ -27,45 +27,45 @@ Some users' history may be incomplete during this year.
 - Readded [YGOKid8](https://osu.ppy.sh/users/69114) to Beatmap Appreciation Team (2014-01-23)
 - Moved [Sakura](https://osu.ppy.sh/users/289422) to osu! Alumni (2014-01-24)
 - Moved [Kurai](https://osu.ppy.sh/users/77089) to Global Moderation Team (2014-01-25)
-- Added [HelloSCV](https://osu.ppy.sh/users/798743) to Beatmap Appreciation Team (2014-01-27)
+- [HelloSCV](https://osu.ppy.sh/users/798743) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2014-01-27)
 
 ## February
 
-- Added [Gabe](https://osu.ppy.sh/users/654108) to Beatmap Appreciation Team (2014-02-02)
+- [Gabe](https://osu.ppy.sh/users/654108) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2014-02-02)
 - Readded [Blue Dragon](https://osu.ppy.sh/users/19048) to Beatmap Appreciation Team (2014-02-03)
 - Readded [Low](https://osu.ppy.sh/users/976963) to Beatmap Appreciation Team (2014-02-03)
 - Moved [KSHR](https://osu.ppy.sh/users/409957) to Beatmap Appreciation Team (2014-02-07)
 - Moved [Marcin](https://osu.ppy.sh/users/722665) to Global Moderation Team (2014-02-07)
-- Added [BeatofIke](https://osu.ppy.sh/users/1103522) to Beatmap Appreciation Team (2014-02-07)
-- Added [Zero\_\_wind](https://osu.ppy.sh/users/1822830) to Beatmap Appreciation Team (2014-02-07)
+- [BeatofIke](https://osu.ppy.sh/users/1103522) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2014-02-07)
+- [Zero\_\_wind](https://osu.ppy.sh/users/1822830) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2014-02-07)
 - Moved [kanpakyin](https://osu.ppy.sh/users/394326) to osu! Alumni (2014-02-07)
 - Moved [lolcubes](https://osu.ppy.sh/users/578401) to Beatmap Appreciation Team (2014-02-10)
 - Moved [Dangaard](https://osu.ppy.sh/users/19488) to osu! Alumni (2014-02-15)
 - Moved [Flanster](https://osu.ppy.sh/users/447818) to osu! Alumni (2014-02-15)
-- Added [Kitokofox](https://osu.ppy.sh/users/1815420) to Chat Moderators (2014-02-22)
-- Added [Nathanael](https://osu.ppy.sh/users/2295078) to Support Team (2014-02-23)
-- Added [Loneight](https://osu.ppy.sh/users/663131) to Chat Moderators (2014-02-23)
+- [Kitokofox](https://osu.ppy.sh/users/1815420) wurde zur Gruppe Chat Moderators hinzugefügt (2014-02-22)
+- [Nathanael](https://osu.ppy.sh/users/2295078) wurde zur Gruppe Support Team hinzugefügt (2014-02-23)
+- [Loneight](https://osu.ppy.sh/users/663131) wurde zur Gruppe Chat Moderators hinzugefügt (2014-02-23)
 - Moved [happy30](https://osu.ppy.sh/users/27767) to osu! Alumni (2014-02-24)
 - Moved [KanaRin](https://osu.ppy.sh/users/310747) to osu! Alumni (2014-02-24)
 - Moved [narakucrimson](https://osu.ppy.sh/users/287468) to osu! Alumni (2014-02-24)
 - Moved [NatsumeRin](https://osu.ppy.sh/users/151679) to osu! Alumni (2014-02-24)
 - Moved [Nymph](https://osu.ppy.sh/users/601990) to osu! Alumni (2014-02-24)
 - Moved [wcx19911123](https://osu.ppy.sh/users/376831) to osu! Alumni (2014-02-24)
-- Added [mtmcl](https://osu.ppy.sh/users/5960) to osu! Alumni (2014-02-24)
+- [mtmcl](https://osu.ppy.sh/users/5960) wurde zur Gruppe osu! Alumni hinzugefügt (2014-02-24)
 
 ## March
 
 - Moved [Chewin](https://osu.ppy.sh/users/617323) from osu! Alumni to Beatmap Appreciation Team (2014-03-06)
 - Removed [HelloSCV](https://osu.ppy.sh/users/798743) from Beatmap Appreciation Team (2014-03-13)
 - Moved [ljqandylee](https://osu.ppy.sh/users/141469) to osu! Alumni (2014-03-17)
-- Added [h3k1ru](https://osu.ppy.sh/users/291211) to Chat Moderators (2014-03-19)
-- Added [Stefan](https://osu.ppy.sh/users/626907) to Chat Moderators (2014-03-28)
+- [h3k1ru](https://osu.ppy.sh/users/291211) wurde zur Gruppe Chat Moderators hinzugefügt (2014-03-19)
+- [Stefan](https://osu.ppy.sh/users/626907) wurde zur Gruppe Chat Moderators hinzugefügt (2014-03-28)
 - Moved [blissfulyoshi](https://osu.ppy.sh/users/20865) to osu! Alumni (2014-03-29)
 - Moved [lolcubes](https://osu.ppy.sh/users/578401) to osu! Alumni (2014-03-29)
 - Moved [SapphireGhost](https://osu.ppy.sh/users/388602) to osu! Alumni (2014-03-29)
 - Moved [Teara](https://osu.ppy.sh/users/123491) to osu! Alumni (2014-03-29)
 - Removed [Low](https://osu.ppy.sh/users/976963) from Beatmap Appreciation Team (2014-03-29)
-- Added [ursa](https://osu.ppy.sh/users/321063) to Beatmap Appreciation Team (2014-03-30)
+- [ursa](https://osu.ppy.sh/users/321063) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2014-03-30)
 
 ## April
 
@@ -77,36 +77,36 @@ Some users' history may be incomplete during this year.
 - Moved [La Cataline](https://osu.ppy.sh/users/301279) to osu! Alumni (2014-04-15)
 - Moved [senaya](https://osu.ppy.sh/users/304103) to osu! Alumni (2014-04-15)
 - Moved [Sushi](https://osu.ppy.sh/users/43108) to osu! Alumni (2014-04-15)
-- Added [Love](https://osu.ppy.sh/users/467487) to Beatmap Appreciation Team (2014-04-21)
-- Added [Xytox](https://osu.ppy.sh/users/2229274) to Chat Moderators (2014-04-21)
+- [Love](https://osu.ppy.sh/users/467487) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2014-04-21)
+- [Xytox](https://osu.ppy.sh/users/2229274) wurde zur Gruppe Chat Moderators hinzugefügt (2014-04-21)
 - Moved [Pokie](https://osu.ppy.sh/users/207340) to Global Moderation Team (2014-04-22)
 - Moved [Darksonic](https://osu.ppy.sh/users/570042) to osu! Alumni (2014-04-24)
 
 ## May
 
-- Added [Asphyxia](https://osu.ppy.sh/users/1715720) to Beatmap Appreciation Team (2014-05-03)
+- [Asphyxia](https://osu.ppy.sh/users/1715720) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2014-05-03)
 - Moved [Leader](https://osu.ppy.sh/users/631530) to Beatmap Appreciation Team (2014-05-03)
 - Moved [Andrea](https://osu.ppy.sh/users/33599) to Global Moderation Team (2014-05-04)
 - Removed [Blue Dragon](https://osu.ppy.sh/users/19048) from Beatmap Appreciation Team (2014-05-04)
-- Added [Trust](https://osu.ppy.sh/users/1470352) to Beatmap Appreciation Team (2014-05-04)
-- Added [captin1](https://osu.ppy.sh/users/689997) to Beatmap Appreciation Team (2014-05-04)
+- [Trust](https://osu.ppy.sh/users/1470352) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2014-05-04)
+- [captin1](https://osu.ppy.sh/users/689997) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2014-05-04)
 - Readded [kanpakyin](https://osu.ppy.sh/users/394326) to Beatmap Appreciation Team (2014-05-04)
-- Added [DakeDekaane](https://osu.ppy.sh/users/1425253) to Beatmap Appreciation Team (2014-05-04)
-- Added [Guy](https://osu.ppy.sh/users/91738) to Beatmap Appreciation Team (2014-05-04)
+- [DakeDekaane](https://osu.ppy.sh/users/1425253) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2014-05-04)
+- [Guy](https://osu.ppy.sh/users/91738) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2014-05-04)
 - Moved [Gabe](https://osu.ppy.sh/users/654108) to Global Moderation Team (2014-05-05)
-- Added [Atrue](https://osu.ppy.sh/users/1758523) to Beatmap Appreciation Team (2014-05-06)
+- [Atrue](https://osu.ppy.sh/users/1758523) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2014-05-06)
 - Readded [Kenezz](https://osu.ppy.sh/users/167050) to Beatmap Appreciation Team (2014-05-06)
 - Moved [Shiro](https://osu.ppy.sh/users/113005) to Beatmap Appreciation Team (2014-05-08)
 - Moved [Byakugan249](https://osu.ppy.sh/users/660484) to osu! Alumni (2014-05-11)
 - Moved [Strawberry](https://osu.ppy.sh/users/519978) from Beatmap Appreciation Team to osu! Alumni (2014-05-11)
 - Removed [Krah](https://osu.ppy.sh/users/1436748) from Beatmap Appreciation Team (2014-05-11)
 - Moved [MMzz](https://osu.ppy.sh/users/128993) from osu! Alumni to Beatmap Appreciation Team (2014-05-15)
-- Added [Cookie](https://osu.ppy.sh/users/4697926) to Chat Moderators (2014-05-16)
-- Added [Maeglwn](https://osu.ppy.sh/users/2440936) to Chat Moderators (2014-05-16)
+- [Cookie](https://osu.ppy.sh/users/4697926) wurde zur Gruppe Chat Moderators hinzugefügt (2014-05-16)
+- [Maeglwn](https://osu.ppy.sh/users/2440936) wurde zur Gruppe Chat Moderators hinzugefügt (2014-05-16)
 - Readded [Pereira006](https://osu.ppy.sh/users/537344) to Chat Moderators (2014-05-16)
 - Readded [KanaRin](https://osu.ppy.sh/users/310747) to Beatmap Appreciation Team (2014-05-16)
 - Readded [wcx19911123](https://osu.ppy.sh/users/376831) to Beatmap Appreciation Team (2014-05-19)
-- Added [Nathanael](https://osu.ppy.sh/users/2295078) to Chat Moderators (2014-05-21)
+- [Nathanael](https://osu.ppy.sh/users/2295078) wurde zur Gruppe Chat Moderators hinzugefügt (2014-05-21)
 
 ## June
 
@@ -116,16 +116,16 @@ Some users' history may be incomplete during this year.
 - Moved [Kytoxid](https://osu.ppy.sh/users/98460) to osu! Alumni (2014-06-12)
 - Moved [ZHSteven](https://osu.ppy.sh/users/142413) to osu! Alumni (2014-06-12)
 - Moved [Frostmourne](https://osu.ppy.sh/users/199669) to osu! Alumni (2014-06-15)
-- Added [Krah](https://osu.ppy.sh/users/1436748) to Beatmap Appreciation Team (2014-06-16)
+- [Krah](https://osu.ppy.sh/users/1436748) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2014-06-16)
 - Moved [[Shi-Ra]](https://osu.ppy.sh/users/2008489) from osu! Alumni to Beatmap Appreciation Team (2014-06-17)
 - Moved [YGOkid8](https://osu.ppy.sh/users/69114) to osu! Alumni (2014-06-18)
-- Added [ExPew](https://osu.ppy.sh/users/665612) to Beatmap Appreciation Team (2014-06-23)
-- Added [Oinari-Sama](https://osu.ppy.sh/users/405508) to Support Team and Chat Moderators (2014-06-29)
+- [ExPew](https://osu.ppy.sh/users/665612) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2014-06-23)
+- [Oinari-Sama](https://osu.ppy.sh/users/405508) wurde zur Gruppe Support Team and Chat Moderators hinzugefügt (2014-06-29)
 
 ## July
 
-- Added [Ukami](https://osu.ppy.sh/users/820865) to Chat Moderators (2014-07-07)
-- Added [Blue Dragon](https://osu.ppy.sh/users/19048) to Chat Moderators (2014-07-16)
+- [Ukami](https://osu.ppy.sh/users/820865) wurde zur Gruppe Chat Moderators hinzugefügt (2014-07-07)
+- [Blue Dragon](https://osu.ppy.sh/users/19048) wurde zur Gruppe Chat Moderators hinzugefügt (2014-07-16)
 - Moved [Aleks719](https://osu.ppy.sh/users/360176) to Beatmap Appreciation Team (2014-07-21)
 - Moved [Nathanael](https://osu.ppy.sh/users/2295078) from Chat Moderators to Global Moderation Team (2014-07-22)
 - Moved [kingking9](https://osu.ppy.sh/users/1277097) to osu! Alumni (2014-07-22)
@@ -143,14 +143,14 @@ Some users' history may be incomplete during this year.
 - Moved [Nyquill](https://osu.ppy.sh/users/682935) to osu! Alumni (2014-07-24)
 - Moved [Kurai](https://osu.ppy.sh/users/77089) to osu! Alumni (2014-07-25)
 - Moved [Strawberry](https://osu.ppy.sh/users/519978) from osu! Alumni to Beatmap Appreciation Team (2014-07-25)
-- Added [ErunamoJAZZ](https://osu.ppy.sh/users/1869764) to Chat Moderators (2014-07-29)
+- [ErunamoJAZZ](https://osu.ppy.sh/users/1869764) wurde zur Gruppe Chat Moderators hinzugefügt (2014-07-29)
 - Moved [shARPII](https://osu.ppy.sh/users/776257) from Chat Moderators to Global Moderation Team (2014-07-30)
 - Moved [Kurai](https://osu.ppy.sh/users/77089) from osu! Alumni to Global Moderation Team (2014-07-30)
 
 ## August
 
-- Added [CLSW](https://osu.ppy.sh/users/531253) to Beatmap Appreciation Team (2014-08-10)
-- Added [AnataNoBaka](https://osu.ppy.sh/users/1769646) to Chat Moderators (2014-08-11)
+- [CLSW](https://osu.ppy.sh/users/531253) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2014-08-10)
+- [AnataNoBaka](https://osu.ppy.sh/users/1769646) wurde zur Gruppe Chat Moderators hinzugefügt (2014-08-11)
 - Moved [Charles445](https://osu.ppy.sh/users/85000) to Quality Assurance Team (2014-08-21)
 - Moved [KSHR](https://osu.ppy.sh/users/409957) from Beatmap Appreciation Team to Quality Assurance Team (2014-08-21)
 - Moved [p3n](https://osu.ppy.sh/users/123703) to Quality Assurance Team (2014-08-21)
@@ -174,7 +174,7 @@ Some users' history may be incomplete during this year.
 - Moved [Gonzvlo](https://osu.ppy.sh/users/237733) to Beatmap Appreciation Team (2014-08-24)
 - Moved [Krisom](https://osu.ppy.sh/users/99269) to Beatmap Appreciation Team (2014-08-24)
 - Moved [Melophobia](https://osu.ppy.sh/users/1077845) to Beatmap Appreciation Team (2014-08-24)
-- Added [ToGlette](https://osu.ppy.sh/users/1076236) to Chat Moderators (2014-08-27)
+- [ToGlette](https://osu.ppy.sh/users/1076236) wurde zur Gruppe Chat Moderators hinzugefügt (2014-08-27)
 
 ### New BAT additions
 
@@ -229,7 +229,7 @@ All users listed below were added on 2014-08-30.
 
 - Moved [Gabe](https://osu.ppy.sh/users/654108) from osu! Alumni to Beatmap Appreciation Team (2014-09-02)
 - Moved [Frostmourne](https://osu.ppy.sh/users/199669) from osu! Alumni to Quality Assurance Team (2014-09-05)
-- Added [XavierJones](https://osu.ppy.sh/users/495733) to Chat Moderators (2014-09-08)
+- [XavierJones](https://osu.ppy.sh/users/495733) wurde zur Gruppe Chat Moderators hinzugefügt (2014-09-08)
 - Moved [Card N'FoRcE](https://osu.ppy.sh/users/3936) to osu! Alumni (2014-09-11)
 - Moved [Asphyxia](https://osu.ppy.sh/users/1715720) from Beatmap Appreciation Team to Quality Assurance Team (2014-09-20)
 - Moved [captin1](https://osu.ppy.sh/users/689997) to Beatmap Appreciation Team (2014-09-20)
@@ -270,14 +270,14 @@ All users listed below were added on 2014-09-17.
 - Moved [Frostmourne](https://osu.ppy.sh/users/199669) from Quality Assurance Team to osu! Alumni (2014-11-05)
 - Moved [Maeglwn](https://osu.ppy.sh/users/2440936) to Global Moderation Team (2014-11-05)
 - Moved [Stefan](https://osu.ppy.sh/users/626907) from Chat Moderators to Global Moderation Team (2014-11-05)
-- Added [drum drum](https://osu.ppy.sh/users/4435526) to Support Team (2014-11-06)
+- [drum drum](https://osu.ppy.sh/users/4435526) wurde zur Gruppe Support Team hinzugefügt (2014-11-06)
 - Moved [Asphyxia](https://osu.ppy.sh/users/1715720) from Quality Assurance Team to Global Moderation Team (2014-11-14)
 - Moved [Mao](https://osu.ppy.sh/users/2204515) to Quality Assurance Team (2014-11-14)
 - Moved [Gonzvlo](https://osu.ppy.sh/users/237733) to osu! Alumni (2014-11-19)
 - Moved [Darksonic](https://osu.ppy.sh/users/570042) from osu! Alumni to Global Moderation Team (2014-11-19)
 - Moved [Krah](https://osu.ppy.sh/users/1436748) from Quality Assurance Team to osu! Alumni (2014-11-25)
 - Moved [ursa](https://osu.ppy.sh/users/321063) to Quality Assurance Team (2014-11-25)
-- Added [Neil Watts](https://osu.ppy.sh/users/3048059) to Chat Moderators (2014-11-28)
+- [Neil Watts](https://osu.ppy.sh/users/3048059) wurde zur Gruppe Chat Moderators hinzugefügt (2014-11-28)
 
 ### New BAT additions
 
@@ -303,7 +303,7 @@ All users listed below were added on 2014-11-22.
 - Moved [ztrot](https://osu.ppy.sh/users/6347) to Global Moderation Team (2014-12-02)
 - Moved [Roxas](https://osu.ppy.sh/users/1041833) to osu! Alumni (2014-12-02)
 - Moved [Kurai](https://osu.ppy.sh/users/77089) from osu! Alumni to Global Moderation Team (2014-12-02)
-- Added [drum drum](https://osu.ppy.sh/users/4435526) to Chat Moderators (2014-12-07)
+- [drum drum](https://osu.ppy.sh/users/4435526) wurde zur Gruppe Chat Moderators hinzugefügt (2014-12-07)
 - Moved [ExPew](https://osu.ppy.sh/users/665612) to Quality Assurance Team (2014-12-13)
 - Moved [Atrue](https://osu.ppy.sh/users/1758523) from Beatmap Appreciation Team to Quality Assurance Team (2014-12-16)
 - Moved [KSHR](https://osu.ppy.sh/users/409957) from Quality Assurance Team to osu! Alumni (2014-12-16)
@@ -311,7 +311,7 @@ All users listed below were added on 2014-11-22.
 - Moved [p3n](https://osu.ppy.sh/users/123703) to Staff Management (2014-12-22)
 - Moved [popner](https://osu.ppy.sh/users/759860) to osu! Alumni (2014-12-28)
 - Moved [Scorpiour](https://osu.ppy.sh/users/867259) to Global Moderation Team (2014-12-29)
-- Added [IamKwaN](https://osu.ppy.sh/users/1856463) to Chat Moderators (2014-12-30)
+- [IamKwaN](https://osu.ppy.sh/users/1856463) wurde zur Gruppe Chat Moderators hinzugefügt (2014-12-30)
 
 ### New BAT additions
 

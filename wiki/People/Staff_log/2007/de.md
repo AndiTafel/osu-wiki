@@ -5,16 +5,16 @@
 Some users' history may be incomplete during this year. "Moderators" were later renamed to "Beatmap Approval Team".
 :::
 
-- Added [phill](https://osu.ppy.sh/users/53) to Moderators
-- Added [eyup](https://osu.ppy.sh/users/88) to Moderators
-- Added [Kylecito](https://osu.ppy.sh/users/488) to Moderators
-- Added [Loginer](https://osu.ppy.sh/users/819) to Moderators
-- Added [Extor](https://osu.ppy.sh/users/555) to Moderators
-- Added [awp](https://osu.ppy.sh/users/2650) to Moderators
-- Added [Echo](https://osu.ppy.sh/users/431) to Moderators
-- Added [Ivalset](https://osu.ppy.sh/users/827) to Moderators
-- Added [Hitoshirenu Shourai](https://osu.ppy.sh/users/602) to Moderators
-- Added [Cecilthemos](https://osu.ppy.sh/users/2233) to Moderators
-- Added [Kharl](https://osu.ppy.sh/users/452) to Moderators
-- Added [EiJi](https://osu.ppy.sh/users/2024) to Moderators
-- Added [MaxwellDemon](https://osu.ppy.sh/users/4254) to Moderators
+- [phill](https://osu.ppy.sh/users/53) wurde zur Gruppe Moderators hinzugefügt
+- [eyup](https://osu.ppy.sh/users/88) wurde zur Gruppe Moderators hinzugefügt
+- [Kylecito](https://osu.ppy.sh/users/488) wurde zur Gruppe Moderators hinzugefügt
+- [Loginer](https://osu.ppy.sh/users/819) wurde zur Gruppe Moderators hinzugefügt
+- [Extor](https://osu.ppy.sh/users/555) wurde zur Gruppe Moderators hinzugefügt
+- [awp](https://osu.ppy.sh/users/2650) wurde zur Gruppe Moderators hinzugefügt
+- [Echo](https://osu.ppy.sh/users/431) wurde zur Gruppe Moderators hinzugefügt
+- [Ivalset](https://osu.ppy.sh/users/827) wurde zur Gruppe Moderators hinzugefügt
+- [Hitoshirenu Shourai](https://osu.ppy.sh/users/602) wurde zur Gruppe Moderators hinzugefügt
+- [Cecilthemos](https://osu.ppy.sh/users/2233) wurde zur Gruppe Moderators hinzugefügt
+- [Kharl](https://osu.ppy.sh/users/452) wurde zur Gruppe Moderators hinzugefügt
+- [EiJi](https://osu.ppy.sh/users/2024) wurde zur Gruppe Moderators hinzugefügt
+- [MaxwellDemon](https://osu.ppy.sh/users/4254) wurde zur Gruppe Moderators hinzugefügt

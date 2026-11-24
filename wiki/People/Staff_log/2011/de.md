@@ -8,14 +8,14 @@ Some users' history may be incomplete during this year.
 ## January
 
 - Moved [Derekku](https://osu.ppy.sh/users/91341) from Mapping Assistance Team to Global Mod Team (2011-01-07)
-- Added [Colin Hou](https://osu.ppy.sh/users/196614) to Mapping Assistance Team (2011-01-21)
+- [Colin Hou](https://osu.ppy.sh/users/196614) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2011-01-21)
 - Readded [Jarby](https://osu.ppy.sh/users/25615) to Mapping Assistance Team (2011-01-21)
-- Added [Rukarioman](https://osu.ppy.sh/users/110372) to Mapping Assistance Team (2011-01-21)
+- [Rukarioman](https://osu.ppy.sh/users/110372) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2011-01-21)
 - Readded [arken1015](https://osu.ppy.sh/users/113646) to Mapping Assistance Team (2011-01-25)
 
 ## February
 
-- Added [James2250](https://osu.ppy.sh/users/16978) to Beatmap Approval Team (2011-02-20)
+- [James2250](https://osu.ppy.sh/users/16978) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2011-02-20)
 - Moved [blissfulyoshi](https://osu.ppy.sh/users/20865) from Mapping Assistance Team to Beatmap Approval Team (2011-02-20)
 - Moved [Derekku](https://osu.ppy.sh/users/91341) from Global Mod Team to Community Managers (2011-02-20)
 
@@ -25,7 +25,7 @@ Some users' history may be incomplete during this year.
 - Moved [Mafiamaster](https://osu.ppy.sh/users/17695) from Beatmap Approval Team to osu! Alumni (2011-05-14)
 - Moved [Garven](https://osu.ppy.sh/users/244216) from Mapping Assistance Team to Beatmap Approval Team (2011-05-20)
 - Moved [jericho2442](https://osu.ppy.sh/users/88904) from Mapping Assistance Team to Beatmap Approval Team (2011-05-20)
-- Added [Gonzvlo](https://osu.ppy.sh/users/237733) to Mapping Assistance Team (2011-05-20)
+- [Gonzvlo](https://osu.ppy.sh/users/237733) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2011-05-20)
 
 ## August
 
@@ -34,16 +34,16 @@ Some users' history may be incomplete during this year.
 ## September
 
 - Moved [mtmcl](https://osu.ppy.sh/users/5960) from Beatmap Appreciation Team to osu! Alumni (2011-09-11)
-- Added [Krisom](https://osu.ppy.sh/users/99269) to Beatmap Appreciation Team (2011-09-17)
-- Added [RandomJibberish](https://osu.ppy.sh/users/157879) to Beatmap Appreciation Team (2011-09-17)
+- [Krisom](https://osu.ppy.sh/users/99269) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2011-09-17)
+- [RandomJibberish](https://osu.ppy.sh/users/157879) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2011-09-17)
 - Moved [Sakura Hana](https://osu.ppy.sh/users/289422) from Mapping Assistance Team to Beatmap Appreciation Team (2011-09-17)
-- Added [IceBeam](https://osu.ppy.sh/users/208440) to Mapping Assistance Team (2011-09-29)
-- Added [KuraiPettan](https://osu.ppy.sh/users/77089) to Mapping Assistance Team (2011-09-29)
-- Added [lolcubes](https://osu.ppy.sh/users/578401) to Mapping Assistance Team (2011-09-29)
-- Added [narakucrimson](https://osu.ppy.sh/users/287468) to Mapping Assistance Team (2011-09-29)
-- Added [NotShinta](https://osu.ppy.sh/users/162159) to Mapping Assistance Team (2011-09-29)
-- Added [Sallad4ever](https://osu.ppy.sh/users/185422) to Mapping Assistance Team (2011-09-29)
-- Added [SapphireGhost](https://osu.ppy.sh/users/388602) to Mapping Assistance Team (2011-09-29)
+- [IceBeam](https://osu.ppy.sh/users/208440) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2011-09-29)
+- [KuraiPettan](https://osu.ppy.sh/users/77089) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2011-09-29)
+- [lolcubes](https://osu.ppy.sh/users/578401) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2011-09-29)
+- [narakucrimson](https://osu.ppy.sh/users/287468) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2011-09-29)
+- [NotShinta](https://osu.ppy.sh/users/162159) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2011-09-29)
+- [Sallad4ever](https://osu.ppy.sh/users/185422) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2011-09-29)
+- [SapphireGhost](https://osu.ppy.sh/users/388602) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2011-09-29)
 
 ## October
 
@@ -59,6 +59,6 @@ Some users' history may be incomplete during this year.
 - Moved [lolcubes](https://osu.ppy.sh/users/578401) from Mapping Assistance Team to Beatmap Appreciation Team (2011-12-08)
 - Moved [narakucrimson](https://osu.ppy.sh/users/287468) from Mapping Assistance Team to Beatmap Appreciation Team (2011-12-08)
 - Moved [Odaril](https://osu.ppy.sh/users/113005) from Mapping Assistance Team to Beatmap Appreciation Team (2011-12-08)
-- Added [Charles445](https://osu.ppy.sh/users/85000) to Mapping Assistance Team (2011-12-08)
+- [Charles445](https://osu.ppy.sh/users/85000) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2011-12-08)
 - Readded [Agnes](https://osu.ppy.sh/users/136982) to Mapping Assistance Team (2011-12-08)
 - Moved [Mogsy](https://osu.ppy.sh/users/4018) from Beatmap Appreciation Team to osu! Alumni (2011-12-15)

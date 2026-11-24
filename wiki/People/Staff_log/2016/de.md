@@ -2,7 +2,7 @@
 
 ## January
 
-- Added [Nishiji](https://osu.ppy.sh/users/167629) to Global Moderation Team (2016-01-03)
+- [Nishiji](https://osu.ppy.sh/users/167629) wurde zur Gruppe Global Moderation Team hinzugefügt (2016-01-03)
 - Moved [Nyquill](https://osu.ppy.sh/users/682935) from osu! Alumni to Global Moderation Team (2016-01-03)
 - Moved [Irreversible](https://osu.ppy.sh/users/1287964) from Quality Assurance Team to osu! Alumni (2016-01-25)
 - Moved [alacat](https://osu.ppy.sh/users/869782) from Quality Assurance Team to osu! Alumni (2016-01-29)
@@ -26,7 +26,7 @@
 
 - Moved [Gamu](https://osu.ppy.sh/users/611174) from Quality Assurance Team to osu! Alumni (2016-03-03)
 - Moved [Zero__wind](https://osu.ppy.sh/users/1822830) from osu! Alumni to Global Moderation Team (2016-03-17)
-- Added [Seijiro](https://osu.ppy.sh/users/2581696) to Global Moderation Team (2016-03-17)
+- [Seijiro](https://osu.ppy.sh/users/2581696) wurde zur Gruppe Global Moderation Team hinzugefügt (2016-03-17)
 
 ### Beatmap Nominator additions
 
@@ -42,7 +42,7 @@ All users listed below were added on 2016-03-07.
 
 ## May
 
-- Added [Pittigbaasje](https://osu.ppy.sh/users/2167433) to Global Moderation Team (2016-05-04)
+- [Pittigbaasje](https://osu.ppy.sh/users/2167433) wurde zur Gruppe Global Moderation Team hinzugefügt (2016-05-04)
 - Moved [Atrue](https://osu.ppy.sh/users/1758523) from Global Moderation Team to osu! Alumni (2016-05-31)
 - Moved [Blazevoir](https://osu.ppy.sh/users/120265) to osu! Alumni (2016-05-31)
 - Moved [Charles445](https://osu.ppy.sh/users/85000) from Quality Assurance Team to osu! Alumni (2016-05-31)
@@ -54,13 +54,13 @@ All users listed below were added on 2016-03-07.
 
 ## June
 
-- Added [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) to Support Team (2016-06-04)
-- Added [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) to Global Moderation Team (2016-06-07)
-- Added [Elfin](https://osu.ppy.sh/users/1399551) to Global Moderation Team (2016-06-08)
-- Added [Shurelia](https://osu.ppy.sh/users/3807986) to Global Moderation Team (2016-06-09)
-- Added [Okorin](https://osu.ppy.sh/users/1623405) to Quality Assurance Team (2016-06-24)
+- [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) wurde zur Gruppe Support Team hinzugefügt (2016-06-04)
+- [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) wurde zur Gruppe Global Moderation Team hinzugefügt (2016-06-07)
+- [Elfin](https://osu.ppy.sh/users/1399551) wurde zur Gruppe Global Moderation Team hinzugefügt (2016-06-08)
+- [Shurelia](https://osu.ppy.sh/users/3807986) wurde zur Gruppe Global Moderation Team hinzugefügt (2016-06-09)
+- [Okorin](https://osu.ppy.sh/users/1623405) wurde zur Gruppe Quality Assurance Team hinzugefügt (2016-06-24)
 - Moved [alacat](https://osu.ppy.sh/users/869782) from osu! Alumni to Quality Assurance Team (2016-06-24)
-- Added [JBHyperion](https://osu.ppy.sh/users/4879508) to Quality Assurance Team (2016-06-24)
+- [JBHyperion](https://osu.ppy.sh/users/4879508) wurde zur Gruppe Quality Assurance Team hinzugefügt (2016-06-24)
 
 ### Beatmap Nominator additions
 
@@ -116,11 +116,11 @@ All users listed below were added on 2016-08-22.
 - Moved [KSHR](https://osu.ppy.sh/users/409957) from Global Moderation Team to osu! Alumni (2016-10-27)
 - Moved [ToGlette](https://osu.ppy.sh/users/1076236) from Global Moderation Team to osu! Alumni (2016-10-27)
 - Moved [Uni](https://osu.ppy.sh/users/617106) from Global Moderation Team to osu! Alumni (2016-10-27)
-- Added [Chaos](https://osu.ppy.sh/users/2628870) to Global Moderation Team (2016-10-27)
-- Added [Kyubey](https://osu.ppy.sh/users/2195646) to Global Moderation Team (2016-10-27)
-- Added [Spkz](https://osu.ppy.sh/users/2964029) to Global Moderation Team (2016-10-27)
-- Added [Pawsu](https://osu.ppy.sh/users/2371454) to Support Team (2016-10-27)
-- Added [Zetera](https://osu.ppy.sh/users/587737) to Global Moderation Team (2016-10-28)
+- [Chaos](https://osu.ppy.sh/users/2628870) wurde zur Gruppe Global Moderation Team hinzugefügt (2016-10-27)
+- [Kyubey](https://osu.ppy.sh/users/2195646) wurde zur Gruppe Global Moderation Team hinzugefügt (2016-10-27)
+- [Spkz](https://osu.ppy.sh/users/2964029) wurde zur Gruppe Global Moderation Team hinzugefügt (2016-10-27)
+- [Pawsu](https://osu.ppy.sh/users/2371454) wurde zur Gruppe Support Team hinzugefügt (2016-10-27)
+- [Zetera](https://osu.ppy.sh/users/587737) wurde zur Gruppe Global Moderation Team hinzugefügt (2016-10-28)
 
 ## November
 
