@@ -73,15 +73,15 @@ Alle unten aufgelisteten Nutzer wurden am 16.02.2019 hinzugefügt.
 - [Fycho](https://osu.ppy.sh/users/1876867) wurde aus der Gruppe Quality Assurance Team in die Gruppe Global Moderation Team verschoben (10.04.2019)
 - [Ascendance](https://osu.ppy.sh/users/2931883) wurde aus der Gruppe Beatmap Nominators in die Gruppe Quality Assurance Team verschoben (10.04.2019)
 - [Gabe](https://osu.ppy.sh/users/654108) wurde aus der Gruppe Quality Assurance Team in die Gruppe Beatmap Nominators verschoben (10.04.2019)
-- [JBHyperion](https://osu.ppy.sh/users/4879508) wurde aus der Gruppe Quality Assurance Team in die Gruppe Global Moderation Team and Beatmap Nominators verschoben (10.04.2019)
+- [JBHyperion](https://osu.ppy.sh/users/4879508) wurde aus der Gruppe Quality Assurance Team in die Gruppen Global Moderation Team und Beatmap Nominators verschoben (10.04.2019)
 - [Kuron-kun](https://osu.ppy.sh/users/2697284) wurde aus der Gruppe Quality Assurance Team in die Gruppe Global Moderation Team verschoben (10.04.2019)
 - [p3n](https://osu.ppy.sh/users/123703) wurde aus der Gruppe Quality Assurance Team in die Gruppe Global Moderation Team verschoben (10.04.2019)
-- [Raiden](https://osu.ppy.sh/users/2239480) wurde aus der Gruppe Quality Assurance Team in die Gruppe Global Moderation Team and Beatmap Nominators verschoben (10.04.2019)
-- [Hobbes2](https://osu.ppy.sh/users/8157492) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni and Beatmap Nominators verschoben (10.04.2019)
+- [Raiden](https://osu.ppy.sh/users/2239480) wurde aus der Gruppe Quality Assurance Team in die Gruppen Global Moderation Team und Beatmap Nominators verschoben (10.04.2019)
+- [Hobbes2](https://osu.ppy.sh/users/8157492) wurde aus der Gruppe Quality Assurance Team in die Gruppen osu! Alumni und Beatmap Nominators verschoben (10.04.2019)
 - [Lanturn](https://osu.ppy.sh/users/1446665) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (10.04.2019)
 - [Protastic101](https://osu.ppy.sh/users/6712747) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (10.04.2019)
-- [Regraz](https://osu.ppy.sh/users/3076909) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni and Beatmap Nominators verschoben (10.04.2019)
-- [Noffy](https://osu.ppy.sh/users/1541323) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni and Beatmap Nominators verschoben (18.04.2019)
+- [Regraz](https://osu.ppy.sh/users/3076909) wurde aus der Gruppe Quality Assurance Team in die Gruppen osu! Alumni und Beatmap Nominators verschoben (10.04.2019)
+- [Noffy](https://osu.ppy.sh/users/1541323) wurde aus der Gruppe Quality Assurance Team in die Gruppen osu! Alumni und Beatmap Nominators verschoben (18.04.2019)
 - [-Kazu-](https://osu.ppy.sh/users/920861) wurde aus der Gruppe Quality Assurance Team entfernt (20.04.2019)
 - [Loctav](https://osu.ppy.sh/users/71366) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (22.04.2019)
 - [Zeus-](https://osu.ppy.sh/users/5464437) wurde zur Gruppe Global Moderation Team hinzugefügt (23.04.2019)
@@ -174,7 +174,7 @@ Alle unten aufgelisteten Nutzer wurden am 16.02.2019 hinzugefügt.
 
 - [Pachiru](https://osu.ppy.sh/users/2850983) wurde zur Gruppe Global Moderation Team hinzugefügt (15.08.2019)
 - [Nepuri](https://osu.ppy.sh/users/6637817) wurde aus der Gruppe Beatmap Nominators in die Gruppe Nomination Assessment Team verschoben (16.08.2019)
-- [Noffy](https://osu.ppy.sh/users/1541323) wurde aus der Gruppe Beatmap Nominators and osu! Alumni in die Gruppe Nomination Assessment Team verschoben (25.08.2019)
+- [Noffy](https://osu.ppy.sh/users/1541323) wurde aus den Gruppen Beatmap Nominators und osu! Alumni in die Gruppe Nomination Assessment Team verschoben (25.08.2019)
 
 ### Zu den Beatmap-Nominatoren hinzugefügt
 

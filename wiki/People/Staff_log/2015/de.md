@@ -44,7 +44,7 @@ Alle unten aufgelisteten Nutzer wurden am 03.01.2015 hinzugefügt.
 - [Leader](https://osu.ppy.sh/users/631530) wurde in die Gruppe Global Moderation Team verschoben (05.02.2015)
 - [narakucrimson](https://osu.ppy.sh/users/287468) wurde in die Gruppe osu! Alumni verschoben (05.02.2015)
 - [Flanster](https://osu.ppy.sh/users/447818) wurde aus der Gruppe Chat Moderators in die Gruppe Global Moderation Team verschoben (11.02.2015)
-- [Wojjan](https://osu.ppy.sh/users/32856) wurde aus der Gruppe Forum Moderators and Chat Moderators entfernt (13.02.2015)
+- [Wojjan](https://osu.ppy.sh/users/32856) wurde aus den Gruppen Forum Moderators und Chat Moderators entfernt (13.02.2015)
 - [Lust](https://osu.ppy.sh/users/2316951) wurde aus der Gruppe Beatmap Appreciation Team in die Gruppe Quality Assurance Team verschoben (16.02.2015)
 - [Shiro](https://osu.ppy.sh/users/113005) wurde aus der Gruppe Quality Assurance Team in die Gruppe Global Moderation Team verschoben (16.02.2015)
 - [Asphyxia](https://osu.ppy.sh/users/1715720) wurde aus der Gruppe Global Moderation Team in die Gruppe Quality Assurance Team verschoben (18.02.2015)

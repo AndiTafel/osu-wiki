@@ -34,7 +34,7 @@ Alle unten aufgelisteten Nutzer wurden am 20.01.2017 hinzugefügt.
 - [ErunamoJAZZ](https://osu.ppy.sh/users/1869764) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (03.04.2017)
 - [DakeDekaane](https://osu.ppy.sh/users/1425253) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (27.04.2017)
 - [Myxo](https://osu.ppy.sh/users/2202645) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (27.04.2017)
-- [Fycho](https://osu.ppy.sh/users/1876867) wurde aus der Gruppe Global Moderation Team and Quality Assurance Team in die Gruppe osu! Alumni verschoben (27.04.2017)
+- [Fycho](https://osu.ppy.sh/users/1876867) wurde aus den Gruppen Global Moderation Team und Quality Assurance Team in die Gruppe osu! Alumni verschoben (27.04.2017)
 
 ### Zu den Beatmap-Nominatoren hinzugefügt
 
@@ -108,7 +108,7 @@ Alle unten aufgelisteten Nutzer wurden am 10.09.2017 hinzugefügt.
 - [n0ah](https://osu.ppy.sh/users/3086393) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (12.10.2017)
 - [Stefan](https://osu.ppy.sh/users/626907) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (12.10.2017)
 - [IamKwaN](https://osu.ppy.sh/users/1856463) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (14.10.2017)
-- [Death](https://osu.ppy.sh/users/3242450) wurde zur Gruppe Global Moderation Team and Support Team hinzugefügt (20.10.2017)
+- [Death](https://osu.ppy.sh/users/3242450) wurde zu den Gruppen Global Moderation Team und Support Team hinzugefügt (20.10.2017)
 
 ### Zu den Beatmap-Nominatoren hinzugefügt
 

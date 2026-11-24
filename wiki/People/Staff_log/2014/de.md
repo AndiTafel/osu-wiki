@@ -120,7 +120,7 @@ Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 - [[Shi-Ra]](https://osu.ppy.sh/users/2008489) wurde aus der Gruppe osu! Alumni in die Gruppe Beatmap Appreciation Team verschoben (17.06.2014)
 - [YGOkid8](https://osu.ppy.sh/users/69114) wurde in die Gruppe osu! Alumni verschoben (18.06.2014)
 - [ExPew](https://osu.ppy.sh/users/665612) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (23.06.2014)
-- [Oinari-Sama](https://osu.ppy.sh/users/405508) wurde zur Gruppe Support Team and Chat Moderators hinzugefügt (29.06.2014)
+- [Oinari-Sama](https://osu.ppy.sh/users/405508) wurde zu den Gruppen Support Team und Chat Moderators hinzugefügt (29.06.2014)
 
 ## Juli
 
