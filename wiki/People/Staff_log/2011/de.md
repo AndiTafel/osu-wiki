@@ -29,7 +29,7 @@ Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 
 ## August
 
-- Renamed Beatmap Approval Team to Beatmap Appreciation Team (23.08.2011)
+- **Die Gruppe Beatmap Approval Team wurde in Beatmap Appreciation Team umbenannt** (23.08.2011)
 
 ## September
 

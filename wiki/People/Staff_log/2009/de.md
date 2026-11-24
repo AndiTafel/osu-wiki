@@ -20,7 +20,7 @@ Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 
 ## April
 
-- [Skyripper](https://osu.ppy.sh/users/31803) wurde zur Gruppe Beatmap Approval Team hinzugefügt (Moderation) (21.04.2009)
+- [Skyripper](https://osu.ppy.sh/users/31803) wurde zur Gruppe Beatmap Approval Team (Moderation) hinzugefügt (21.04.2009)
 
 ## Mai
 

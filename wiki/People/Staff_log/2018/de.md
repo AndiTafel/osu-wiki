@@ -15,7 +15,7 @@
 
 ### Beatmap Nominator removals
 
-- [sheela](https://osu.ppy.sh/users/1138027) - resignation (13.01.2018)
+- [sheela](https://osu.ppy.sh/users/1138027) - Rücktritt (13.01.2018)
 
 ### Beatmap Nominator additions
 
@@ -53,11 +53,11 @@ All users listed below were added on 29.01.2018.
 
 ### Beatmap Nominator removals
 
-- [Litharrale](https://osu.ppy.sh/users/3189995) - resignation (02.02.2018)
-- [ailv](https://osu.ppy.sh/users/6933054) - irresponsible nomination (19.02.2018)
-- [Halfsmashed](https://osu.ppy.sh/users/4847256) - resignation (21.02.2018)
-- [Wafu](https://osu.ppy.sh/users/888955) - resignation (25.02.2018)
-- [Voli](https://osu.ppy.sh/users/2522275) - resignation (28.02.2018)
+- [Litharrale](https://osu.ppy.sh/users/3189995) - Rücktritt (02.02.2018)
+- [ailv](https://osu.ppy.sh/users/6933054) - unverantwortliche Nominierung (19.02.2018)
+- [Halfsmashed](https://osu.ppy.sh/users/4847256) - Rücktritt (21.02.2018)
+- [Wafu](https://osu.ppy.sh/users/888955) - Rücktritt (25.02.2018)
+- [Voli](https://osu.ppy.sh/users/2522275) - Rücktritt (28.02.2018)
 
 ### Beatmap Nominator additions
 
@@ -77,8 +77,8 @@ All users listed below were added on 29.01.2018.
 
 ### Beatmap Nominator removals
 
-- [Naotoshi](https://osu.ppy.sh/users/5364763) - resignation (11.03.2018)
-- [xfraczynho](https://osu.ppy.sh/users/2192669) - resignation (19.03.2018)
+- [Naotoshi](https://osu.ppy.sh/users/5364763) - Rücktritt (11.03.2018)
+- [xfraczynho](https://osu.ppy.sh/users/2192669) - Rücktritt (19.03.2018)
 
 ### Beatmap Nominator additions
 
@@ -107,11 +107,11 @@ All users listed below were added on 19.03.2018.
 
 ### Beatmap Nominator removals
 
-- [Sanyi](https://osu.ppy.sh/users/7496029) - resignation (17.04.2018)
-- [ezek](https://osu.ppy.sh/users/7496029) - resignation (17.04.2018)
-- Kisses - account restriction (22.04.2018)
-- [Hareimu](https://osu.ppy.sh/users/4138746) - resignation (24.04.2018)
-- Sotarks - account restriction (30.04.2018)
+- [Sanyi](https://osu.ppy.sh/users/7496029) - Rücktritt (17.04.2018)
+- [ezek](https://osu.ppy.sh/users/7496029) - Rücktritt (17.04.2018)
+- Kisses - Einschränkung des Accounts (22.04.2018)
+- [Hareimu](https://osu.ppy.sh/users/4138746) - Rücktritt (24.04.2018)
+- Sotarks - Einschränkung des Accounts (30.04.2018)
 
 ### Beatmap Nominator additions
 
@@ -144,17 +144,17 @@ All users listed below were added on 23.04.2018.
 
 ### Beatmap Nominator removals
 
-- [Chromoxx](https://osu.ppy.sh/users/1881639) - resignation (01.05.2018)
-- [Chewin](https://osu.ppy.sh/users/617323) - inactivity (14.05.2018)
-- [MBomb](https://osu.ppy.sh/users/3071175) - resignation (20.05.2018)
-- [SnowNiNo_](https://osu.ppy.sh/users/2506267) - failing probation (24.05.2018)
-- [Smokeman](https://osu.ppy.sh/users/2140676) - failing probation (24.05.2018)
-- [Kyuukai](https://osu.ppy.sh/users/5337374) - failing probation (24.05.2018)
-- [juankristal](https://osu.ppy.sh/users/443656) - inactivity (30.05.2018)
-- [Nwolf](https://osu.ppy.sh/users/1910766) - inactivity (30.05.2018)
-- [Arrival](https://osu.ppy.sh/users/1694000) - inactivity (30.05.2018)
-- [Julie](https://osu.ppy.sh/users/2420987) - inactivity (30.05.2018)
-- [Weber](https://osu.ppy.sh/users/6410432) - inactivity (30.05.2018)
+- [Chromoxx](https://osu.ppy.sh/users/1881639) - Rücktritt (01.05.2018)
+- [Chewin](https://osu.ppy.sh/users/617323) - Inaktivität (14.05.2018)
+- [MBomb](https://osu.ppy.sh/users/3071175) - Rücktritt (20.05.2018)
+- [SnowNiNo_](https://osu.ppy.sh/users/2506267) - Nichtbestehen der Probezeit (24.05.2018)
+- [Smokeman](https://osu.ppy.sh/users/2140676) - Nichtbestehen der Probezeit (24.05.2018)
+- [Kyuukai](https://osu.ppy.sh/users/5337374) - Nichtbestehen der Probezeit (24.05.2018)
+- [juankristal](https://osu.ppy.sh/users/443656) - Inaktivität (30.05.2018)
+- [Nwolf](https://osu.ppy.sh/users/1910766) - Inaktivität (30.05.2018)
+- [Arrival](https://osu.ppy.sh/users/1694000) - Inaktivität (30.05.2018)
+- [Julie](https://osu.ppy.sh/users/2420987) - Inaktivität (30.05.2018)
+- [Weber](https://osu.ppy.sh/users/6410432) - Inaktivität (30.05.2018)
 
 ## Juni
 
@@ -168,13 +168,13 @@ All users listed below were added on 23.04.2018.
 
 ### Beatmap Nominator removals
 
-- [dsco](https://osu.ppy.sh/users/4330511) - resignation (07.06.2018)
-- [frukoyurdakul](https://osu.ppy.sh/users/7612550) - resignation (11.06.2018)
-- [kwk](https://osu.ppy.sh/users/365586) - failing probation (23.06.2018)
-- [Deramok](https://osu.ppy.sh/users/1428455) - failing probation (23.06.2018)
-- [hypercyte](https://osu.ppy.sh/users/9155377) - failing probation (23.06.2018)
-- [celerih](https://osu.ppy.sh/users/4696296) - resignation (24.06.2018)
-- [AyanokoRin](https://osu.ppy.sh/users/5376866) - resignation (25.06.2018)
+- [dsco](https://osu.ppy.sh/users/4330511) - Rücktritt (07.06.2018)
+- [frukoyurdakul](https://osu.ppy.sh/users/7612550) - Rücktritt (11.06.2018)
+- [kwk](https://osu.ppy.sh/users/365586) - Nichtbestehen der Probezeit (23.06.2018)
+- [Deramok](https://osu.ppy.sh/users/1428455) - Nichtbestehen der Probezeit (23.06.2018)
+- [hypercyte](https://osu.ppy.sh/users/9155377) - Nichtbestehen der Probezeit (23.06.2018)
+- [celerih](https://osu.ppy.sh/users/4696296) - Rücktritt (24.06.2018)
+- [AyanokoRin](https://osu.ppy.sh/users/5376866) - Rücktritt (25.06.2018)
 
 ### Beatmap Nominator additions
 
@@ -194,29 +194,29 @@ All users listed below were added on 12.06.2018.
 
 - [Hobbes2](https://osu.ppy.sh/users/8157492) wurde zur Gruppe Quality Assurance Team hinzugefügt (03.07.2018)
 - [Seijiro](https://osu.ppy.sh/users/2581696) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (18.07.2018)
-- **Created Project Loved Team** (27.07.2018)
+- **Die Gruppe Project Loved Team wurde erstellt** (27.07.2018)
 - [Backfire](https://osu.ppy.sh/users/263110) wurde zur Gruppe Project Loved Team hinzugefügt (27.07.2018)
 - [Toy](https://osu.ppy.sh/users/2757689) wurde zur Gruppe Project Loved Team hinzugefügt (27.07.2018)
 
 ### Beatmap Nominator removals
 
-- [Sorcerer](https://osu.ppy.sh/users/1913190) - resignation (01.07.2018)
-- [Arzenvald](https://osu.ppy.sh/users/3027421) - resignation (05.07.2018)
-- [Kagetsu](https://osu.ppy.sh/users/6203841) - resignation (11.07.2018)
-- [Hailie](https://osu.ppy.sh/users/5226970) - resignation (14.07.2018)
-- [Bubblun](https://osu.ppy.sh/users/6191653) - insufficient proficiency (21.07.2018)
-- [Battle](https://osu.ppy.sh/users/4037545) - inactivity (21.07.2018)
-- [Halfslashed](https://osu.ppy.sh/users/4598899) - insufficient proficiency (21.07.2018)
-- [mancuso_JM_](https://osu.ppy.sh/users/521568) - inactivity (21.07.2018)
-- [pinataman](https://osu.ppy.sh/users/1235485) - inactivity (21.07.2018)
-- [squirrelpascals](https://osu.ppy.sh/users/6151332) - insufficient proficiency (21.07.2018)
-- [AJamez](https://osu.ppy.sh/users/7890134) - insufficient proficiency (21.07.2018)
-- [Fresh Chicken](https://osu.ppy.sh/users/3984370) - inactivity (21.07.2018)
-- [Kamikaze](https://osu.ppy.sh/users/2124783) - inappropriate behaviour (21.07.2018)
-- [JUDYDANNY](https://osu.ppy.sh/users/1165475) - inactivity (21.07.2018)
-- [Skylish](https://osu.ppy.sh/users/2845958) - inactivity (21.07.2018)
-- [incandescence](https://osu.ppy.sh/users/6256027) - resignation (27.07.2018)
-- [Delis](https://osu.ppy.sh/users/1603923) - resignation (28.07.2018)
+- [Sorcerer](https://osu.ppy.sh/users/1913190) - Rücktritt (01.07.2018)
+- [Arzenvald](https://osu.ppy.sh/users/3027421) - Rücktritt (05.07.2018)
+- [Kagetsu](https://osu.ppy.sh/users/6203841) - Rücktritt (11.07.2018)
+- [Hailie](https://osu.ppy.sh/users/5226970) - Rücktritt (14.07.2018)
+- [Bubblun](https://osu.ppy.sh/users/6191653) - ungenügende Kompetenz (21.07.2018)
+- [Battle](https://osu.ppy.sh/users/4037545) - Inaktivität (21.07.2018)
+- [Halfslashed](https://osu.ppy.sh/users/4598899) - ungenügende Kompetenz (21.07.2018)
+- [mancuso_JM_](https://osu.ppy.sh/users/521568) - Inaktivität (21.07.2018)
+- [pinataman](https://osu.ppy.sh/users/1235485) - Inaktivität (21.07.2018)
+- [squirrelpascals](https://osu.ppy.sh/users/6151332) - ungenügende Kompetenz (21.07.2018)
+- [AJamez](https://osu.ppy.sh/users/7890134) - ungenügende Kompetenz (21.07.2018)
+- [Fresh Chicken](https://osu.ppy.sh/users/3984370) - Inaktivität (21.07.2018)
+- [Kamikaze](https://osu.ppy.sh/users/2124783) - unangemessenes Verhalten (21.07.2018)
+- [JUDYDANNY](https://osu.ppy.sh/users/1165475) - Inaktivität (21.07.2018)
+- [Skylish](https://osu.ppy.sh/users/2845958) - Inaktivität (21.07.2018)
+- [incandescence](https://osu.ppy.sh/users/6256027) - Rücktritt (27.07.2018)
+- [Delis](https://osu.ppy.sh/users/1603923) - Rücktritt (28.07.2018)
 
 ### Beatmap Nominator additions
 
@@ -242,17 +242,17 @@ All users listed below were added on 27.07.2018.
 
 ### Beatmap Nominator removals
 
-- [error_exe777](https://osu.ppy.sh/users/7975796) - failing probation (17.08.2018)
-- [Cerulean Veyron](https://osu.ppy.sh/users/1886524) - resignation (20.08.2018)
-- [F D Flourite](https://osu.ppy.sh/users/2459589) - failing probation (22.08.2018)
-- [Ryuusei Aika](https://osu.ppy.sh/users/7777875) - failing probation (22.08.2018)
-- [sahuang](https://osu.ppy.sh/users/5318910) - failing probation (22.08.2018)
-- [Strategas](https://osu.ppy.sh/users/2971837) - failing probation (22.08.2018)
-- [DE-CADE](https://osu.ppy.sh/users/3734394) - failing probation (22.08.2018)
-- [Lenfried-](https://osu.ppy.sh/users/5314573) - failing probation (22.08.2018)
-- [Unpredictable](https://osu.ppy.sh/users/7560872) - failing probation (22.08.2018)
-- [Garalulu](https://osu.ppy.sh/users/757783) - resignation (25.08.2018)
-- [Sieg](https://osu.ppy.sh/users/1404615) - resignation (28.08.2018)
+- [error_exe777](https://osu.ppy.sh/users/7975796) - Nichtbestehen der Probezeit (17.08.2018)
+- [Cerulean Veyron](https://osu.ppy.sh/users/1886524) - Rücktritt (20.08.2018)
+- [F D Flourite](https://osu.ppy.sh/users/2459589) - Nichtbestehen der Probezeit (22.08.2018)
+- [Ryuusei Aika](https://osu.ppy.sh/users/7777875) - Nichtbestehen der Probezeit (22.08.2018)
+- [sahuang](https://osu.ppy.sh/users/5318910) - Nichtbestehen der Probezeit (22.08.2018)
+- [Strategas](https://osu.ppy.sh/users/2971837) - Nichtbestehen der Probezeit (22.08.2018)
+- [DE-CADE](https://osu.ppy.sh/users/3734394) - Nichtbestehen der Probezeit (22.08.2018)
+- [Lenfried-](https://osu.ppy.sh/users/5314573) - Nichtbestehen der Probezeit (22.08.2018)
+- [Unpredictable](https://osu.ppy.sh/users/7560872) - Nichtbestehen der Probezeit (22.08.2018)
+- [Garalulu](https://osu.ppy.sh/users/757783) - Rücktritt (25.08.2018)
+- [Sieg](https://osu.ppy.sh/users/1404615) - Rücktritt (28.08.2018)
 
 ## September
 
@@ -265,14 +265,14 @@ All users listed below were added on 27.07.2018.
 
 ### Beatmap Nominator removals
 
-- [Seijiro](https://osu.ppy.sh/users/2581696) - failing probation (02.09.2018)
-- [Cris-](https://osu.ppy.sh/users/6175280) - failing probation (02.09.2018)
-- [Yugu](https://osu.ppy.sh/users/3161834) - failing probation (02.09.2018)
-- [frogyfro](https://osu.ppy.sh/users/7010859) - failing probation (02.09.2018)
-- [Fii](https://osu.ppy.sh/users/3922569) - resignation (02.09.2018)
-- [Karen](https://osu.ppy.sh/users/3143784) - inactivity (08.09.2018)
-- [riffy](https://osu.ppy.sh/users/597957) - resignation (09.09.2018)
-- [Ascendance](https://osu.ppy.sh/users/2931883) - resignation (15.09.2018)
+- [Seijiro](https://osu.ppy.sh/users/2581696) - Nichtbestehen der Probezeit (02.09.2018)
+- [Cris-](https://osu.ppy.sh/users/6175280) - Nichtbestehen der Probezeit (02.09.2018)
+- [Yugu](https://osu.ppy.sh/users/3161834) - Nichtbestehen der Probezeit (02.09.2018)
+- [frogyfro](https://osu.ppy.sh/users/7010859) - Nichtbestehen der Probezeit (02.09.2018)
+- [Fii](https://osu.ppy.sh/users/3922569) - Rücktritt (02.09.2018)
+- [Karen](https://osu.ppy.sh/users/3143784) - Inaktivität (08.09.2018)
+- [riffy](https://osu.ppy.sh/users/597957) - Rücktritt (09.09.2018)
+- [Ascendance](https://osu.ppy.sh/users/2931883) - Rücktritt (15.09.2018)
 
 ## Oktober
 
@@ -283,11 +283,11 @@ All users listed below were added on 27.07.2018.
 
 ### Beatmap Nominator removals
 
-- [Plaudible](https://osu.ppy.sh/users/7149815) - resignation (07.10.2018)
-- [BOUYAAA](https://osu.ppy.sh/users/405449) - failing probation (12.10.2018)
-- [Jonawaga](https://osu.ppy.sh/users/3653035) - resignation (14.10.2018)
-- [Nifty](https://osu.ppy.sh/users/4956097) - failing probation (15.10.2018)
-- [Kin](https://osu.ppy.sh/users/480689) - inactivity (17.10.2018)
+- [Plaudible](https://osu.ppy.sh/users/7149815) - Rücktritt (07.10.2018)
+- [BOUYAAA](https://osu.ppy.sh/users/405449) - Nichtbestehen der Probezeit (12.10.2018)
+- [Jonawaga](https://osu.ppy.sh/users/3653035) - Rücktritt (14.10.2018)
+- [Nifty](https://osu.ppy.sh/users/4956097) - Nichtbestehen der Probezeit (15.10.2018)
+- [Kin](https://osu.ppy.sh/users/480689) - Inaktivität (17.10.2018)
 
 ### Beatmap Nominator additions
 
@@ -333,10 +333,10 @@ All users listed below were added on 27.07.2018.
 
 ### Beatmap Nominator removals
 
-- [hikiko-](https://osu.ppy.sh/users/6512678) - resignation (03.11.2018)
-- [Yauxo](https://osu.ppy.sh/users/898306) - resignation (21.11.2018)
-- [Smokeman](https://osu.ppy.sh/users/2140676) - failing probation (22.11.2018)
-- [Wishkey](https://osu.ppy.sh/users/1101704) - resignation (30.11.2018)
+- [hikiko-](https://osu.ppy.sh/users/6512678) - Rücktritt (03.11.2018)
+- [Yauxo](https://osu.ppy.sh/users/898306) - Rücktritt (21.11.2018)
+- [Smokeman](https://osu.ppy.sh/users/2140676) - Nichtbestehen der Probezeit (22.11.2018)
+- [Wishkey](https://osu.ppy.sh/users/1101704) - Rücktritt (30.11.2018)
 
 ## Dezember
 

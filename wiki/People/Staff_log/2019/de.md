@@ -7,12 +7,12 @@
 
 ### Beatmap Nominator removals
 
-- [Trynna](https://osu.ppy.sh/users/2652951) - resignation (04.01.2019)
-- [Sandalphon](https://osu.ppy.sh/users/2633753) - resignation (13.01.2019)
-- [Natsu](https://osu.ppy.sh/users/1953876) - inactivity (22.01.2019)
-- [DTM9 Nowa](https://osu.ppy.sh/users/5428909) - failing probation (22.01.2019)
-- [Net0](https://osu.ppy.sh/users/5099768) - inappropriate behaviour (25.01.2019)
-- [iYiyo](https://osu.ppy.sh/users/3919785) - resignation (30.01.2019)
+- [Trynna](https://osu.ppy.sh/users/2652951) - Rücktritt (04.01.2019)
+- [Sandalphon](https://osu.ppy.sh/users/2633753) - Rücktritt (13.01.2019)
+- [Natsu](https://osu.ppy.sh/users/1953876) - Inaktivität (22.01.2019)
+- [DTM9 Nowa](https://osu.ppy.sh/users/5428909) - Nichtbestehen der Probezeit (22.01.2019)
+- [Net0](https://osu.ppy.sh/users/5099768) - unangemessenes Verhalten (25.01.2019)
+- [iYiyo](https://osu.ppy.sh/users/3919785) - Rücktritt (30.01.2019)
 
 ## Februar
 
@@ -21,8 +21,8 @@
 
 ### Beatmap Nominator removals
 
-- [Garden](https://osu.ppy.sh/users/2849992) - resignation (03.02.2019)
-- [Sonnyc](https://osu.ppy.sh/users/11771) - failing probation (05.02.2019)
+- [Garden](https://osu.ppy.sh/users/2849992) - Rücktritt (03.02.2019)
+- [Sonnyc](https://osu.ppy.sh/users/11771) - Nichtbestehen der Probezeit (05.02.2019)
 
 ### Beatmap Nominator additions
 
@@ -89,17 +89,17 @@ All users listed below were added on 16.02.2019.
 
 ### Beatmap Nominator removals
 
-- [MaridiuS](https://osu.ppy.sh/users/4496961) - resignation (01.04.2019)
-- [Namki](https://osu.ppy.sh/users/5248582) - insufficient proficiency (01.04.2019)
-- [alienflybot](https://osu.ppy.sh/users/636114) - resignation (12.04.2019)
-- [Yales](https://osu.ppy.sh/users/2377881) - resignation (16.04.2019)
-- [wonjae](https://osu.ppy.sh/users/5032045) - resignation (25.04.2019)
-- [DMT9 Nowa](https://osu.ppy.sh/users/5428909) - resignation (27.04.2019)
-- [\_WWWWWW\_WWWWWW\_](https://osu.ppy.sh/users/1981781) - unsatisfactory behaviour (30.04.2019)
+- [MaridiuS](https://osu.ppy.sh/users/4496961) - Rücktritt (01.04.2019)
+- [Namki](https://osu.ppy.sh/users/5248582) - ungenügende Kompetenz (01.04.2019)
+- [alienflybot](https://osu.ppy.sh/users/636114) - Rücktritt (12.04.2019)
+- [Yales](https://osu.ppy.sh/users/2377881) - Rücktritt (16.04.2019)
+- [wonjae](https://osu.ppy.sh/users/5032045) - Rücktritt (25.04.2019)
+- [DMT9 Nowa](https://osu.ppy.sh/users/5428909) - Rücktritt (27.04.2019)
+- [\_WWWWWW\_WWWWWW\_](https://osu.ppy.sh/users/1981781) - unbefriedigendes Verhalten (30.04.2019)
 
 ## Mai
 
-- **Quality Assurance Team became Nomination Assessment Team** (06.05.2019)
+- **Das Quality Assurance Team wurde zum Nomination Assessment Team** (06.05.2019)
 - [Faputa](https://osu.ppy.sh/users/845733) wurde aus der Gruppe Beatmap Nominators in die Gruppe Nomination Assessment Team verschoben (07.05.2019)
 - [ghm12](https://osu.ppy.sh/users/2594229) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (11.05.2019)
 - [ToGlette](https://osu.ppy.sh/users/1076236) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (27.05.2019)
@@ -121,12 +121,12 @@ All users listed below were added on 16.02.2019.
 
 ### Beatmap Nominator removals
 
-- [Serizawa Haruki](https://osu.ppy.sh/users/6642617) - insufficient proficiency (02.05.2019)
-- [chickenbible](https://osu.ppy.sh/users/2306637) - resignation (09.05.2019)
-- [Arf](https://osu.ppy.sh/users/3716999) - inactivity (14.05.2019)
-- [-GN Junior](https://osu.ppy.sh/users/3901754) - insufficient proficiency (18.05.2019)
-- [Kaitjuh](https://osu.ppy.sh/users/2225327) - resignation (19.05.2019)
-- [DoNotMess](https://osu.ppy.sh/users/1596318) - resignation (28.05.2019)
+- [Serizawa Haruki](https://osu.ppy.sh/users/6642617) - ungenügende Kompetenz (02.05.2019)
+- [chickenbible](https://osu.ppy.sh/users/2306637) - Rücktritt (09.05.2019)
+- [Arf](https://osu.ppy.sh/users/3716999) - Inaktivität (14.05.2019)
+- [-GN Junior](https://osu.ppy.sh/users/3901754) - ungenügende Kompetenz (18.05.2019)
+- [Kaitjuh](https://osu.ppy.sh/users/2225327) - Rücktritt (19.05.2019)
+- [DoNotMess](https://osu.ppy.sh/users/1596318) - Rücktritt (28.05.2019)
 
 ## Juni
 
@@ -140,17 +140,17 @@ All users listed below were added on 16.02.2019.
 
 ### Beatmap Nominator removals
 
-- [Volta](https://osu.ppy.sh/users/4154071) - resignation (01.06.2019)
-- [Lafayla](https://osu.ppy.sh/users/5312547) - resignation (03.06.2019)
-- [Hobbes2](https://osu.ppy.sh/users/8157492) - resignation (05.06.2019)
-- [Electoz](https://osu.ppy.sh/users/6485263) - resignation (06.06.2019)
-- [Sotarks](https://osu.ppy.sh/users/4452992) - misconduct (11.06.2019)
-- [Doormat](https://osu.ppy.sh/users/3230571) - inactivity (22.06.2019)
-- [Yuii-](https://osu.ppy.sh/users/2935923) - inactivity (22.06.2019)
-- [celerih](https://osu.ppy.sh/users/4696296) - resignation (23.06.2019)
-- [MBomb](https://osu.ppy.sh/users/3071175) - resignation (23.06.2019)
-- [Greenshell](https://osu.ppy.sh/users/8693851) - resignation (26.06.2019)
-- [_Epreus](https://osu.ppy.sh/users/7342798) - resignation (29.06.2019)
+- [Volta](https://osu.ppy.sh/users/4154071) - Rücktritt (01.06.2019)
+- [Lafayla](https://osu.ppy.sh/users/5312547) - Rücktritt (03.06.2019)
+- [Hobbes2](https://osu.ppy.sh/users/8157492) - Rücktritt (05.06.2019)
+- [Electoz](https://osu.ppy.sh/users/6485263) - Rücktritt (06.06.2019)
+- [Sotarks](https://osu.ppy.sh/users/4452992) - Fehlverhalten (11.06.2019)
+- [Doormat](https://osu.ppy.sh/users/3230571) - Inaktivität (22.06.2019)
+- [Yuii-](https://osu.ppy.sh/users/2935923) - Inaktivität (22.06.2019)
+- [celerih](https://osu.ppy.sh/users/4696296) - Rücktritt (23.06.2019)
+- [MBomb](https://osu.ppy.sh/users/3071175) - Rücktritt (23.06.2019)
+- [Greenshell](https://osu.ppy.sh/users/8693851) - Rücktritt (26.06.2019)
+- [_Epreus](https://osu.ppy.sh/users/7342798) - Rücktritt (29.06.2019)
 
 ## Juli
 
@@ -166,9 +166,9 @@ All users listed below were added on 16.02.2019.
 
 ### Beatmap Nominator removals
 
-- [Stefan](https://osu.ppy.sh/users/626907) - resignation (17.07.2019)
-- [NeilPerry](https://osu.ppy.sh/users/841391) - resignation (22.07.2019)
-- [Testo](https://osu.ppy.sh/users/5200881) - resignation (22.07.2019)
+- [Stefan](https://osu.ppy.sh/users/626907) - Rücktritt (17.07.2019)
+- [NeilPerry](https://osu.ppy.sh/users/841391) - Rücktritt (22.07.2019)
+- [Testo](https://osu.ppy.sh/users/5200881) - Rücktritt (22.07.2019)
 
 ## August
 
@@ -188,12 +188,12 @@ All users listed below were added on 16.02.2019.
 
 ### Beatmap Nominator removals
 
-- [Nokashi](https://osu.ppy.sh/users/5431196) - inactivity (05.08.2019)
-- [-Luminate](https://osu.ppy.sh/users/4778689) - resignation (07.08.2019)
-- [Agatsu](https://osu.ppy.sh/users/5579871) - insufficient proficiency (11.08.2019)
-- [Dellvangel](https://osu.ppy.sh/users/5186244) - inactivity (18.08.2019)
-- [UndeadCapulet](https://osu.ppy.sh/users/2523533) - resignation (26.08.2019)
-- [Kqrth](https://osu.ppy.sh/users/4115718) - insufficient proficiency (27.08.2019)
+- [Nokashi](https://osu.ppy.sh/users/5431196) - Inaktivität (05.08.2019)
+- [-Luminate](https://osu.ppy.sh/users/4778689) - Rücktritt (07.08.2019)
+- [Agatsu](https://osu.ppy.sh/users/5579871) - ungenügende Kompetenz (11.08.2019)
+- [Dellvangel](https://osu.ppy.sh/users/5186244) - Inaktivität (18.08.2019)
+- [UndeadCapulet](https://osu.ppy.sh/users/2523533) - Rücktritt (26.08.2019)
+- [Kqrth](https://osu.ppy.sh/users/4115718) - ungenügende Kompetenz (27.08.2019)
 
 ## September
 
@@ -222,9 +222,9 @@ All users listed below were added on 16.02.2019.
 
 ### Beatmap Nominator removals
 
-- [JeirYagtama](https://osu.ppy.sh/users/7483452) - insufficient proficiency (08.09.2019)
-- [Mirash](https://osu.ppy.sh/users/2841009) - insufficient proficiency (10.09.2019)
-- [bite you death](https://osu.ppy.sh/users/6398464) - insufficient proficiency (10.09.2019)
+- [JeirYagtama](https://osu.ppy.sh/users/7483452) - ungenügende Kompetenz (08.09.2019)
+- [Mirash](https://osu.ppy.sh/users/2841009) - ungenügende Kompetenz (10.09.2019)
+- [bite you death](https://osu.ppy.sh/users/6398464) - ungenügende Kompetenz (10.09.2019)
 
 ## Oktober
 
@@ -248,16 +248,16 @@ All users listed below were added on 16.02.2019.
 
 ### Beatmap Nominator removals
 
-- [Surono](https://osu.ppy.sh/users/3611370) - inactivity (02.10.2019)
-- [Lacrima](https://osu.ppy.sh/users/4915649) - resignation (03.10.2019)
-- [Benita](https://osu.ppy.sh/users/4023183) - inactivity (04.10.2019)
-- [squirrelpascals](https://osu.ppy.sh/users/6151332) - resignation (10.10.2019)
-- [Okoratu](https://osu.ppy.sh/users/1623405) - resignation (16.10.2019)
-- [Dapuluous](https://osu.ppy.sh/users/8140944) - resignation (17.10.2019)
-- [Nana Abe](https://osu.ppy.sh/users/6443117) - insufficient proficiency (19.10.2019)
-- [-Mikan](https://osu.ppy.sh/users/9063995) - inappropriate behaviour (21.10.2019)
-- [Arzenvald](https://osu.ppy.sh/users/3027421) - resignation (29.10.2019)
-- [-MysticEyes](https://osu.ppy.sh/users/6253266) - resignation (31.10.2019)
+- [Surono](https://osu.ppy.sh/users/3611370) - Inaktivität (02.10.2019)
+- [Lacrima](https://osu.ppy.sh/users/4915649) - Rücktritt (03.10.2019)
+- [Benita](https://osu.ppy.sh/users/4023183) - Inaktivität (04.10.2019)
+- [squirrelpascals](https://osu.ppy.sh/users/6151332) - Rücktritt (10.10.2019)
+- [Okoratu](https://osu.ppy.sh/users/1623405) - Rücktritt (16.10.2019)
+- [Dapuluous](https://osu.ppy.sh/users/8140944) - Rücktritt (17.10.2019)
+- [Nana Abe](https://osu.ppy.sh/users/6443117) - ungenügende Kompetenz (19.10.2019)
+- [-Mikan](https://osu.ppy.sh/users/9063995) - unangemessenes Verhalten (21.10.2019)
+- [Arzenvald](https://osu.ppy.sh/users/3027421) - Rücktritt (29.10.2019)
+- [-MysticEyes](https://osu.ppy.sh/users/6253266) - Rücktritt (31.10.2019)
 
 ## November
 
@@ -273,22 +273,22 @@ All users listed below were added on 16.02.2019.
 - [MBomb](https://osu.ppy.sh/users/3071175) wurde aus der Gruppe Probationary Beatmap Nominators in die Gruppe Beatmap Nominators verschoben (07.11.2019)
 - [Rocma](https://osu.ppy.sh/users/566276) wurde aus der Gruppe Probationary Beatmap Nominators in die Gruppe Beatmap Nominators verschoben (07.11.2019)
 - [AirinCat](https://osu.ppy.sh/users/11119539) wurde zur Gruppe Probationary Beatmap Nominators hinzugefügt (08.11.2019)
-- [Nao Tomori](https://osu.ppy.sh/users/5364763) wurde aus der Gruppe Probationary Beatmap Nominators - resignation entfernt (08.11.2019)
+- [Nao Tomori](https://osu.ppy.sh/users/5364763) wurde aus der Gruppe Probationary Beatmap Nominators entfernt - Rücktritt (08.11.2019)
 - [Lafayla](https://osu.ppy.sh/users/5312547) wurde aus der Gruppe Probationary Beatmap Nominators in die Gruppe Beatmap Nominators verschoben (12.11.2019)
-- [[ A v a l o n ]](https://osu.ppy.sh/users/4632359) wurde aus der Gruppe Beatmap Nominators - resignation entfernt (13.11.2019)
+- [[ A v a l o n ]](https://osu.ppy.sh/users/4632359) wurde aus der Gruppe Beatmap Nominators entfernt - Rücktritt (13.11.2019)
 - [-Luminate](https://osu.ppy.sh/users/4778689) wurde zur Gruppe Probationary Beatmap Nominators hinzugefügt (16.11.2019)
-- [komasy](https://osu.ppy.sh/users/1980256) wurde aus der Gruppe Beatmap Nominators - resignation entfernt (17.11.2019)
+- [komasy](https://osu.ppy.sh/users/1980256) wurde aus der Gruppe Beatmap Nominators entfernt - Rücktritt (17.11.2019)
 - [Genjuro](https://osu.ppy.sh/users/3196091) wurde zur Gruppe Probationary Beatmap Nominators hinzugefügt (17.11.2019)
-- [Absolute Zero](https://osu.ppy.sh/users/4847256) wurde aus der Gruppe Beatmap Nominators in die Gruppe Probationary Beatmap Nominators - low activity and easily avoidable disqualifications verschoben (17.11.2019)
+- [Absolute Zero](https://osu.ppy.sh/users/4847256) wurde aus der Gruppe Beatmap Nominators in die Gruppe Probationary Beatmap Nominators verschoben - geringe Aktivität und leicht vermeidendbare Disqualifikationen (17.11.2019)
 - [Xinely](https://osu.ppy.sh/users/1521445) wurde zur Gruppe Probationary Beatmap Nominators hinzugefügt (17.11.2019)
-- [Kalibe](https://osu.ppy.sh/users/3376777) wurde aus der Gruppe Beatmap Nominators - inactivity entfernt (18.11.2019)
-- [NEVlR](https://osu.ppy.sh/users/8339126) wurde aus der Gruppe Beatmap Nominators - inactivity entfernt (18.11.2019)
-- [Ultima Fox](https://osu.ppy.sh/users/3198109) wurde aus der Gruppe Beatmap Nominators - inactivity entfernt (18.11.2019)
+- [Kalibe](https://osu.ppy.sh/users/3376777) wurde aus der Gruppe Beatmap Nominators entfernt - Inaktivität (18.11.2019)
+- [NEVlR](https://osu.ppy.sh/users/8339126) wurde aus der Gruppe Beatmap Nominators entfernt - Inaktivität (18.11.2019)
+- [Ultima Fox](https://osu.ppy.sh/users/3198109) wurde aus der Gruppe Beatmap Nominators entfernt - Inaktivität (18.11.2019)
 - [Seolv](https://osu.ppy.sh/users/8067876) wurde zur Gruppe Probationary Beatmap Nominators hinzugefügt (18.11.2019)
 - [radar](https://osu.ppy.sh/users/7131099) wurde aus der Gruppe Probationary Beatmap Nominators in die Gruppe Beatmap Nominators verschoben (19.11.2019)
-- [tasuke912](https://osu.ppy.sh/users/2774767) wurde aus der Gruppe Beatmap Nominators in die Gruppe Probationary Beatmap Nominators - nominated beatmap with significant RC violations verschoben (22.11.2019)
-- [Rhytoly](https://osu.ppy.sh/users/8121109) wurde aus der Gruppe Probationary Beatmap Nominators - nominated beatmap with significant RC violations entfernt (22.11.2019)
-- [Raiden](https://osu.ppy.sh/users/2239480) wurde aus der Gruppe Beatmap Nominators - resignation entfernt (25.11.2019)
+- [tasuke912](https://osu.ppy.sh/users/2774767) wurde aus der Gruppe Beatmap Nominators in die Gruppe Probationary Beatmap Nominators verschoben - nominierte eine Beatmap mit erheblichen Verstößen gegen die Ranking-Kriterien (22.11.2019)
+- [Rhytoly](https://osu.ppy.sh/users/8121109) wurde aus der Gruppe Probationary Beatmap Nominators entfernt - nominierte eine Beatmap mit erheblichen Verstößen gegen die Ranking-Kriterien (22.11.2019)
+- [Raiden](https://osu.ppy.sh/users/2239480) wurde aus der Gruppe Beatmap Nominators entfernt - Rücktritt (25.11.2019)
 - [Kyousukee](https://osu.ppy.sh/users/8842107) wurde zur Gruppe Probationary Beatmap Nominators hinzugefügt (25.11.2019)
 - [Bunnrei](https://osu.ppy.sh/users/829284) wurde aus der Gruppe Probationary Beatmap Nominators in die Gruppe Beatmap Nominators verschoben (26.11.2019)
 - [Nifty](https://osu.ppy.sh/users/4956097) wurde zur Gruppe Probationary Beatmap Nominators hinzugefügt (27.11.2019)
@@ -296,11 +296,11 @@ All users listed below were added on 16.02.2019.
 - [Crissa](https://osu.ppy.sh/users/5405836) wurde aus der Gruppe Probationary Beatmap Nominators in die Gruppe Beatmap Nominators verschoben (27.11.2019)
 - [Myxo](https://osu.ppy.sh/users/2202645) wurde aus der Gruppe Probationary Beatmap Nominators in die Gruppe Beatmap Nominators verschoben (27.11.2019)
 - [Nozhomi](https://osu.ppy.sh/users/2716981) wurde aus der Gruppe Probationary Beatmap Nominators in die Gruppe Beatmap Nominators verschoben (27.11.2019)
-- [Mir](https://osu.ppy.sh/users/8688812) wurde aus der Gruppe Beatmap Nominators - resignation entfernt (28.11.2019)
-- [LMT](https://osu.ppy.sh/users/7262798) wurde aus der Gruppe Beatmap Nominators - resignation entfernt (29.11.2019)
-- [Gabe](https://osu.ppy.sh/users/654108) wurde aus der Gruppe Beatmap Nominators - resignation entfernt (29.11.2019)
-- [Realazy](https://osu.ppy.sh/users/918297) wurde aus der Gruppe Beatmap Nominators in die Gruppe Probationary Beatmap Nominators - nominated beatmap with significant RC violations verschoben (29.11.2019)
-- [Sinnoh](https://osu.ppy.sh/users/4236057) wurde aus der Gruppe Beatmap Nominators in die Gruppe Probationary Beatmap Nominators - nominated beatmap with significant RC violations and overall insufficient nomination quality verschoben (29.11.2019)
+- [Mir](https://osu.ppy.sh/users/8688812) wurde aus der Gruppe Beatmap Nominators entfernt - Rücktritt (28.11.2019)
+- [LMT](https://osu.ppy.sh/users/7262798) wurde aus der Gruppe Beatmap Nominators entfernt - Rücktritt (29.11.2019)
+- [Gabe](https://osu.ppy.sh/users/654108) wurde aus der Gruppe Beatmap Nominators entfernt - Rücktritt (29.11.2019)
+- [Realazy](https://osu.ppy.sh/users/918297) wurde aus der Gruppe Beatmap Nominators in die Gruppe Probationary Beatmap Nominators verschoben - nominierte eine Beatmap mit erheblichen Verstößen gegen die Ranking-Kriterien (29.11.2019)
+- [Sinnoh](https://osu.ppy.sh/users/4236057) wurde aus der Gruppe Beatmap Nominators in die Gruppe Probationary Beatmap Nominators verschoben - nominierte eine Beatmap mit erheblichen Verstößen gegen die Ranking-Kriterien und insgesamt ungenügender Nominierungsqualität (29.11.2019)
 
 ## Dezember
 
@@ -316,20 +316,20 @@ All users listed below were added on 16.02.2019.
 
 ### Beatmap Nominators
 
-- [newton-](https://osu.ppy.sh/users/5875419) wurde aus der Gruppe Probationary Beatmap Nominators - insufficient proficiency entfernt (08.12.2019)
-- [Halfslashed](https://osu.ppy.sh/users/4598899) wurde aus der Gruppe Beatmap Nominators - resignation entfernt (08.12.2019)
-- [chickenbible](https://osu.ppy.sh/users/2306637) wurde aus der Gruppe Beatmap Nominators - resignation entfernt (10.12.2019)
+- [newton-](https://osu.ppy.sh/users/5875419) wurde aus der Gruppe Probationary Beatmap Nominators entfernt - ungenügende Kompetenz (08.12.2019)
+- [Halfslashed](https://osu.ppy.sh/users/4598899) wurde aus der Gruppe Beatmap Nominators entfernt - Rücktritt (08.12.2019)
+- [chickenbible](https://osu.ppy.sh/users/2306637) wurde aus der Gruppe Beatmap Nominators entfernt - Rücktritt (10.12.2019)
 - [AirinCat](https://osu.ppy.sh/users/11119539) wurde aus der Gruppe Probationary Beatmap Nominators in die Gruppe Beatmap Nominators verschoben (11.12.2019)
 - [Smokeman](https://osu.ppy.sh/users/2140676) wurde zur Gruppe Probationary Beatmap Nominators hinzugefügt (13.12.2019)
 - [Sanyi](https://osu.ppy.sh/users/7496029) wurde aus der Gruppe Probationary Beatmap Nominators in die Gruppe Beatmap Nominators verschoben (15.12.2019)
 - [-Luminate](https://osu.ppy.sh/users/4778689) wurde aus der Gruppe Probationary Beatmap Nominators in die Gruppe Beatmap Nominators verschoben (15.12.2019)
-- [Absolute Zero](https://osu.ppy.sh/users/4847256) wurde aus der Gruppe Probationary Beatmap Nominators - insufficient proficiency entfernt (15.12.2019)
+- [Absolute Zero](https://osu.ppy.sh/users/4847256) wurde aus der Gruppe Probationary Beatmap Nominators entfernt - ungenügende Kompetenz (15.12.2019)
 - [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) wurde zur Gruppe Beatmap Nominators hinzugefügt (16.12.2019)
 - [Xinely](https://osu.ppy.sh/users/1521445) wurde aus der Gruppe Probationary Beatmap Nominators in die Gruppe Beatmap Nominators verschoben (16.12.2019)
 - [PokeSky](https://osu.ppy.sh/users/3617111) wurde zur Gruppe Probationary Beatmap Nominators hinzugefügt (18.12.2019)
 - [Mirash](https://osu.ppy.sh/users/2841009) wurde zur Gruppe Probationary Beatmap Nominators hinzugefügt (20.12.2019)
-- [Seolv](https://osu.ppy.sh/users/8067876) wurde aus der Gruppe Probationary Beatmap Nominators - insufficient proficiency entfernt (21.12.2019)
+- [Seolv](https://osu.ppy.sh/users/8067876) wurde aus der Gruppe Probationary Beatmap Nominators entfernt - ungenügende Kompetenz (21.12.2019)
 - [Genjuro](https://osu.ppy.sh/users/3196091) wurde aus der Gruppe Probationary Beatmap Nominators in die Gruppe Beatmap Nominators verschoben (22.12.2019)
-- [Yukiyo](https://osu.ppy.sh/users/4541873) wurde aus der Gruppe Beatmap Nominators - resignation entfernt (27.12.2019)
+- [Yukiyo](https://osu.ppy.sh/users/4541873) wurde aus der Gruppe Beatmap Nominators entfernt - Rücktritt (27.12.2019)
 - [frukoyurdakul](https://osu.ppy.sh/users/7612550) wurde zur Gruppe Probationary Beatmap Nominators hinzugefügt (28.12.2019)
 - [Volta](https://osu.ppy.sh/users/4154071) wurde zur Gruppe Probationary Beatmap Nominators hinzugefügt (28.12.2019)

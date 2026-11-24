@@ -217,7 +217,7 @@ All users listed below were added on 19.07.2015.
 ## August
 
 - [Lust](https://osu.ppy.sh/users/2316951) wurde aus der Gruppe Quality Assurance Team entfernt (15.08.2015)
-- **Merged Chat Moderators and Global Moderation Team** (20.08.2015)
+- **Die Gruppen Chat Moderators und Global Moderation Team wurden zusammengeführt** (20.08.2015)
 - [captin1](https://osu.ppy.sh/users/689997) wurde in die Gruppe osu! Alumni verschoben (20.08.2015)
 - [Frostmourne](https://osu.ppy.sh/users/199669) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (20.08.2015)
 - [mancuso\_JM\_](https://osu.ppy.sh/users/521568) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (20.08.2015)

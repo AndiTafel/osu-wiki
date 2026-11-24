@@ -148,4 +148,4 @@ All users listed below were added on 11.12.2017.
 
 ### Beatmap Nominator removals
 
-- [Monstrata](https://osu.ppy.sh/users/2706438) - less than stellar behaviour over extended periods of time (19.12.2017)
+- [Monstrata](https://osu.ppy.sh/users/2706438) - nicht gerade vorbildliches Verhalten über längere Zeiträume hinweg (19.12.2017)

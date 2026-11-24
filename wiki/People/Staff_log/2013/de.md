@@ -29,7 +29,7 @@ Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 - [Colin Hou](https://osu.ppy.sh/users/196614) wurde aus der Gruppe Mapping Assistance Team in die Gruppe Beatmap Appreciation Team verschoben (16.02.2013)
 - [Kawayi Rika](https://osu.ppy.sh/users/596298) wurde aus der Gruppe Mapping Assistance Team in die Gruppe Beatmap Appreciation Team verschoben (16.02.2013)
 - [Scorpiour](https://osu.ppy.sh/users/867259) wurde aus der Gruppe Mapping Assistance Team in die Gruppe Beatmap Appreciation Team verschoben (16.02.2013)
-- Added [HeatKai](https://osu.ppy.sh/users/332555) to Chat Moderators
+- [HeatKai](https://osu.ppy.sh/users/332555) wurde zur Gruppe Chat Moderators hinzugefügt
 - [Saten](https://osu.ppy.sh/users/444506) wurde zur Gruppe Chat Moderators hinzugefügt (16.02.2013)
 - [ethox](https://osu.ppy.sh/users/441380) wurde zur Gruppe Chat Moderators hinzugefügt (16.02.2013)
 - [Pereira006](https://osu.ppy.sh/users/537344) wurde zur Gruppe Chat Moderators hinzugefügt (16.02.2013)
@@ -73,7 +73,7 @@ Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 - [DeathxShinigami](https://osu.ppy.sh/users/49516) wurde zur Gruppe Global Moderation Team hinzugefügt (14.04.2013)
 - [James2250](https://osu.ppy.sh/users/16978) wurde in die Gruppe Global Moderation Team verschoben (18.04.2013)
 - [Kiddo-kun](https://osu.ppy.sh/users/104751) wurde aus der Gruppe Mapping Assistance Team entfernt (21.04.2013)
-- all members of Mapping Assistance Team wurde in die Gruppe Beatmap Appreciation Team verschoben (23.04.2013)
+- Alle Mitglieder des Mapping Assistance Teams wurden in die Gruppe Beatmap Appreciation Team verschoben (23.04.2013)
 - [Kenezz](https://osu.ppy.sh/users/167050) wurde aus der Gruppe Beatmap Appreciation Team in die Gruppe osu! Alumni verschoben (24.04.2013)
 - [deadbeat](https://osu.ppy.sh/users/128370) wurde zur Gruppe Support Team hinzugefügt (25.04.2013)
 - [MillhioreF](https://osu.ppy.sh/users/941094) wurde zur Gruppe Support Team hinzugefügt (25.04.2013)
@@ -171,8 +171,8 @@ Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 - [Gabe](https://osu.ppy.sh/users/654108) wurde erneut zur Gruppe Beatmap Appreciation Team hinzugefügt (02.09.2013)
 - [YGOkid8](https://osu.ppy.sh/users/69114) wurde zur Gruppe osu! Alumni hinzugefügt (05.09.2013)
 - [Andrea](https://osu.ppy.sh/users/33599) wurde aus der Gruppe osu! Alumni in die Gruppe Beatmap Appreciation Team verschoben (08.09.2013)
-- Added [Lissette](https://osu.ppy.sh/users/19835) to osu! Alumni
-- Added [Lizbeth](https://osu.ppy.sh/users/21970) to osu! Alumni
+- [Lissette](https://osu.ppy.sh/users/19835) wurde zur Gruppe osu! Alumni hinzugefügt
+- [Lizbeth](https://osu.ppy.sh/users/21970) wurde zur Gruppe osu! Alumni hinzugefügt
 - [Scorpiour](https://osu.ppy.sh/users/867259) wurde aus der Gruppe osu! Alumni in die Gruppe Beatmap Appreciation Team verschoben (11.09.2013)
 - [Makar](https://osu.ppy.sh/users/686389) wurde aus der Gruppe Beatmap Appreciation Team in die Gruppe osu! Alumni verschoben (13.09.2013)
 - [Chewin](https://osu.ppy.sh/users/617323) wurde aus der Gruppe osu! Alumni in die Gruppe Beatmap Appreciation Team verschoben (14.09.2013)
