@@ -128,7 +128,7 @@ All users listed below were added on 2017-10-24.
 - [Protastic101](https://osu.ppy.sh/users/6712747) wurde zur Gruppe Quality Assurance Team hinzugefügt (2017-12-11)
 - [OnosakiHito](https://osu.ppy.sh/users/290128) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (2017-12-11)
 - [Seijiro](https://osu.ppy.sh/users/2581696) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (2017-12-17)
-- Moved [Loctav](https://osu.ppy.sh/users/71366) to osu! Alumni (2017-12-17)
+- [Loctav](https://osu.ppy.sh/users/71366) wurde in die Gruppe osu! Alumni verschoben (2017-12-17)
 - [n0ah](https://osu.ppy.sh/users/3086393) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (2017-12-26)
 - [Edu](https://osu.ppy.sh/users/5618109) wurde zur Gruppe Global Moderation Team hinzugefügt (2017-12-29)
 - [Clobohne](https://osu.ppy.sh/users/499343) wurde zur Gruppe Global Moderation Team hinzugefügt (2017-12-29)

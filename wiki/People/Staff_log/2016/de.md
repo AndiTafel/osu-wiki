@@ -44,7 +44,7 @@ All users listed below were added on 2016-03-07.
 
 - [Pittigbaasje](https://osu.ppy.sh/users/2167433) wurde zur Gruppe Global Moderation Team hinzugefügt (2016-05-04)
 - [Atrue](https://osu.ppy.sh/users/1758523) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (2016-05-31)
-- Moved [Blazevoir](https://osu.ppy.sh/users/120265) to osu! Alumni (2016-05-31)
+- [Blazevoir](https://osu.ppy.sh/users/120265) wurde in die Gruppe osu! Alumni verschoben (2016-05-31)
 - [Charles445](https://osu.ppy.sh/users/85000) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (2016-05-31)
 - [Krah](https://osu.ppy.sh/users/1436748) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (2016-05-31)
 - [Spectator](https://osu.ppy.sh/users/702598) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (2016-05-31)
