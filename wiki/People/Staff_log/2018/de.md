@@ -49,7 +49,7 @@ All users listed below were added on 2018-01-29.
 - Moved [Darksonic](https://osu.ppy.sh/users/570042) from osu! Alumni to Global Moderation Team (2018-02-13)
 - Moved [Uni](https://osu.ppy.sh/users/617106) from Global Moderation Team to osu! Alumni (2018-02-20)
 - Moved [[ Another ]](https://osu.ppy.sh/users/3416573) from Global Moderation Team to osu! Alumni (2018-02-20)
-- Removed [Irreversible](https://osu.ppy.sh/users/1287964) from Quality Assurance Team (2018-02-27)
+- [Irreversible](https://osu.ppy.sh/users/1287964) wurde aus der Gruppe Quality Assurance Team entfernt (2018-02-27)
 
 ### Beatmap Nominator removals
 
@@ -343,4 +343,4 @@ All users listed below were added on 2018-07-27.
 - Moved [Hobbes2](https://osu.ppy.sh/users/8157492) from Beatmap Nominators to Quality Assurance Team (2018-12-01)
 - [Hinsvar](https://osu.ppy.sh/users/1249323) wurde zur Gruppe Global Moderation Team hinzugefügt (2018-12-05)
 - Moved [Elfin](https://osu.ppy.sh/users/1399551) from Global Moderation Team to osu! Alumni (2018-12-14)
-- Removed [Backfire](https://osu.ppy.sh/users/263110) from Project Loved Team (2018-12-31)
+- [Backfire](https://osu.ppy.sh/users/263110) wurde aus der Gruppe Project Loved Team entfernt (2018-12-31)

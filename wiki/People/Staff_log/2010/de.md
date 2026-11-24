@@ -43,7 +43,7 @@ Some users' history may be incomplete during this year.
 - Moved [Gens](https://osu.ppy.sh/users/23062) from Mapping Assistance Team to Beatmap Approval Team (2010-05-23)
 - Moved [Lybydose](https://osu.ppy.sh/users/64501) from Mapping Assistance Team to Beatmap Approval Team (2010-05-23)
 - [Beuchi-chan](https://osu.ppy.sh/users/67192) wurde zur Gruppe Global Mod Team hinzugefügt (2010-05-23)
-- Removed [Saturos-fangirl](https://osu.ppy.sh/users/11874) from Beatmap Approval Team (2010-05-26)
+- [Saturos-fangirl](https://osu.ppy.sh/users/11874) wurde aus der Gruppe Beatmap Approval Team entfernt (2010-05-26)
 
 ## June
 

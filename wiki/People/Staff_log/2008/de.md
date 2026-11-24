@@ -53,7 +53,7 @@ Some users' history may be incomplete during this year.
 ## October
 
 - [ash](https://osu.ppy.sh/users/11593) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2008-10-13)
-- Removed [ash](https://osu.ppy.sh/users/11593) from Beatmap Approval Team (2008-10-13)
+- [ash](https://osu.ppy.sh/users/11593) wurde aus der Gruppe Beatmap Approval Team entfernt (2008-10-13)
 - [Seibei](https://osu.ppy.sh/users/31537) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2008-10-28)
 - [m980](https://osu.ppy.sh/users/3288) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2008-10-28)
 

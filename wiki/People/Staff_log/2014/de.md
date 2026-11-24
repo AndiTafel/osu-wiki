@@ -12,11 +12,11 @@ Some users' history may be incomplete during this year.
 - [Teara](https://osu.ppy.sh/users/123491) wurde erneut zur Gruppe Beatmap Appreciation Team hinzugefügt (2014-01-05)
 - [shARPII](https://osu.ppy.sh/users/776257) wurde zur Gruppe Chat Moderators hinzugefügt (2014-01-16)
 - [Stickie](https://osu.ppy.sh/users/1248732) wurde zur Gruppe Chat Moderators hinzugefügt (2014-01-16)
-- Removed [Gabe](https://osu.ppy.sh/users/654108) from Beatmap Appreciation Team (2014-01-17)
+- [Gabe](https://osu.ppy.sh/users/654108) wurde aus der Gruppe Beatmap Appreciation Team entfernt (2014-01-17)
 - [Krah](https://osu.ppy.sh/users/1436748) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2014-01-20)
 - [dkun](https://osu.ppy.sh/users/154400) wurde erneut zur Gruppe Beatmap Appreciation Team hinzugefügt (2014-01-20)
 - Moved [Breeze](https://osu.ppy.sh/users/77537) to osu! Alumni (2014-01-21)
-- Removed [HeatKai](https://osu.ppy.sh/users/332555) from Beatmap Appreciation Team (2014-01-21)
+- [HeatKai](https://osu.ppy.sh/users/332555) wurde aus der Gruppe Beatmap Appreciation Team entfernt (2014-01-21)
 - Moved [jericho2442](https://osu.ppy.sh/users/88904) to osu! Alumni (2014-01-21)
 - Moved [lolcubes](https://osu.ppy.sh/users/578401) to osu! Alumni (2014-01-21)
 - Moved [MMzz](https://osu.ppy.sh/users/128993) to osu! Alumni (2014-01-21)
@@ -56,7 +56,7 @@ Some users' history may be incomplete during this year.
 ## March
 
 - Moved [Chewin](https://osu.ppy.sh/users/617323) from osu! Alumni to Beatmap Appreciation Team (2014-03-06)
-- Removed [HelloSCV](https://osu.ppy.sh/users/798743) from Beatmap Appreciation Team (2014-03-13)
+- [HelloSCV](https://osu.ppy.sh/users/798743) wurde aus der Gruppe Beatmap Appreciation Team entfernt (2014-03-13)
 - Moved [ljqandylee](https://osu.ppy.sh/users/141469) to osu! Alumni (2014-03-17)
 - [h3k1ru](https://osu.ppy.sh/users/291211) wurde zur Gruppe Chat Moderators hinzugefügt (2014-03-19)
 - [Stefan](https://osu.ppy.sh/users/626907) wurde zur Gruppe Chat Moderators hinzugefügt (2014-03-28)
@@ -64,13 +64,13 @@ Some users' history may be incomplete during this year.
 - Moved [lolcubes](https://osu.ppy.sh/users/578401) to osu! Alumni (2014-03-29)
 - Moved [SapphireGhost](https://osu.ppy.sh/users/388602) to osu! Alumni (2014-03-29)
 - Moved [Teara](https://osu.ppy.sh/users/123491) to osu! Alumni (2014-03-29)
-- Removed [Low](https://osu.ppy.sh/users/976963) from Beatmap Appreciation Team (2014-03-29)
+- [Low](https://osu.ppy.sh/users/976963) wurde aus der Gruppe Beatmap Appreciation Team entfernt (2014-03-29)
 - [ursa](https://osu.ppy.sh/users/321063) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2014-03-30)
 
 ## April
 
 - Moved [Kurai](https://osu.ppy.sh/users/77089) to Beatmap Appreciation Team (2014-04-04)
-- Removed [UnitedWeSin](https://osu.ppy.sh/users/1778050) from Beatmap Appreciation Team (2014-04-11)
+- [UnitedWeSin](https://osu.ppy.sh/users/1778050) wurde aus der Gruppe Beatmap Appreciation Team entfernt (2014-04-11)
 - Moved [Agnes](https://osu.ppy.sh/users/136982) from Beatmap Appreciation Team to osu! Alumni (2014-04-15)
 - Moved [awp](https://osu.ppy.sh/users/2650) to osu! Alumni (2014-04-15)
 - Moved [Makar](https://osu.ppy.sh/users/686389) to osu! Alumni (2014-04-15)
@@ -87,7 +87,7 @@ Some users' history may be incomplete during this year.
 - [Asphyxia](https://osu.ppy.sh/users/1715720) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2014-05-03)
 - Moved [Leader](https://osu.ppy.sh/users/631530) to Beatmap Appreciation Team (2014-05-03)
 - Moved [Andrea](https://osu.ppy.sh/users/33599) to Global Moderation Team (2014-05-04)
-- Removed [Blue Dragon](https://osu.ppy.sh/users/19048) from Beatmap Appreciation Team (2014-05-04)
+- [Blue Dragon](https://osu.ppy.sh/users/19048) wurde aus der Gruppe Beatmap Appreciation Team entfernt (2014-05-04)
 - [Trust](https://osu.ppy.sh/users/1470352) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2014-05-04)
 - [captin1](https://osu.ppy.sh/users/689997) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2014-05-04)
 - [kanpakyin](https://osu.ppy.sh/users/394326) wurde erneut zur Gruppe Beatmap Appreciation Team hinzugefügt (2014-05-04)
@@ -99,7 +99,7 @@ Some users' history may be incomplete during this year.
 - Moved [Shiro](https://osu.ppy.sh/users/113005) to Beatmap Appreciation Team (2014-05-08)
 - Moved [Byakugan249](https://osu.ppy.sh/users/660484) to osu! Alumni (2014-05-11)
 - Moved [Strawberry](https://osu.ppy.sh/users/519978) from Beatmap Appreciation Team to osu! Alumni (2014-05-11)
-- Removed [Krah](https://osu.ppy.sh/users/1436748) from Beatmap Appreciation Team (2014-05-11)
+- [Krah](https://osu.ppy.sh/users/1436748) wurde aus der Gruppe Beatmap Appreciation Team entfernt (2014-05-11)
 - Moved [MMzz](https://osu.ppy.sh/users/128993) from osu! Alumni to Beatmap Appreciation Team (2014-05-15)
 - [Cookie](https://osu.ppy.sh/users/4697926) wurde zur Gruppe Chat Moderators hinzugefügt (2014-05-16)
 - [Maeglwn](https://osu.ppy.sh/users/2440936) wurde zur Gruppe Chat Moderators hinzugefügt (2014-05-16)
@@ -235,7 +235,7 @@ All users listed below were added on 2014-08-30.
 - Moved [captin1](https://osu.ppy.sh/users/689997) to Beatmap Appreciation Team (2014-09-20)
 - Moved [TicClick](https://osu.ppy.sh/users/672931) from Beatmap Appreciation Team to Quality Assurance Team (2014-09-20)
 - Moved [ztrot](https://osu.ppy.sh/users/6347) to Beatmap Appreciation Team (2014-09-20)
-- Removed [mintong89](https://osu.ppy.sh/users/966210) from Beatmap Appreciation Team (2014-09-23)
+- [mintong89](https://osu.ppy.sh/users/966210) wurde aus der Gruppe Beatmap Appreciation Team entfernt (2014-09-23)
 
 ### New BAT additions
 
@@ -254,10 +254,10 @@ All users listed below were added on 2014-09-17.
 
 ## October
 
-- Removed [Trust](https://osu.ppy.sh/users/1470352) from Beatmap Appreciation Team (2014-10-04)
+- [Trust](https://osu.ppy.sh/users/1470352) wurde aus der Gruppe Beatmap Appreciation Team entfernt (2014-10-04)
 - Moved [Spy](https://osu.ppy.sh/users/1217122) to Quality Assurance Team (2014-10-08)
 - Moved [Chewin](https://osu.ppy.sh/users/617323) to osu! Alumni (2014-10-19)
-- Removed [wcx19911123](https://osu.ppy.sh/users/376831) from Beatmap Appreciation Team (2014-10-22)
+- [wcx19911123](https://osu.ppy.sh/users/376831) wurde aus der Gruppe Beatmap Appreciation Team entfernt (2014-10-22)
 - Moved [Kurai](https://osu.ppy.sh/users/77089) from Global Moderation Team to osu! Alumni (2014-10-28)
 - Moved [Sakura](https://osu.ppy.sh/users/289422) from osu! Alumni to Global Moderation Team (2014-10-28)
 - Moved [Sakura](https://osu.ppy.sh/users/289422) to Beatmap Appreciation Team (2014-10-31)
@@ -293,11 +293,11 @@ All users listed below were added on 2014-11-22.
 
 ## December
 
-- Removed [KanaRin](https://osu.ppy.sh/users/310747) from Beatmap Appreciation Team (2014-12-02)
-- Removed [those](https://osu.ppy.sh/users/557166) from Beatmap Appreciation Team (2014-12-02)
-- Removed [grumd](https://osu.ppy.sh/users/530913) from Beatmap Appreciation Team (2014-12-02)
-- Removed [UnitedWeSin](https://osu.ppy.sh/users/1778050) from Beatmap Appreciation Team (2014-12-02)
-- Removed [Tasha](https://osu.ppy.sh/users/1031958) from Beatmap Appreciation Team (2014-12-02)
+- [KanaRin](https://osu.ppy.sh/users/310747) wurde aus der Gruppe Beatmap Appreciation Team entfernt (2014-12-02)
+- [those](https://osu.ppy.sh/users/557166) wurde aus der Gruppe Beatmap Appreciation Team entfernt (2014-12-02)
+- [grumd](https://osu.ppy.sh/users/530913) wurde aus der Gruppe Beatmap Appreciation Team entfernt (2014-12-02)
+- [UnitedWeSin](https://osu.ppy.sh/users/1778050) wurde aus der Gruppe Beatmap Appreciation Team entfernt (2014-12-02)
+- [Tasha](https://osu.ppy.sh/users/1031958) wurde aus der Gruppe Beatmap Appreciation Team entfernt (2014-12-02)
 - Moved [Strawberry](https://osu.ppy.sh/users/519978) from Beatmap Appreciation Team to osu! Alumni (2014-12-02)
 - Moved [happy30](https://osu.ppy.sh/users/27767) to osu! Alumni (2014-12-02)
 - Moved [ztrot](https://osu.ppy.sh/users/6347) to Global Moderation Team (2014-12-02)

@@ -28,16 +28,16 @@ Some users' history may be incomplete during this year.
 
 ## February
 
-- Removed [NotShinta](https://osu.ppy.sh/users/162159) from Mapping Assistance Team (2012-02-01)
-- Removed [arken1015](https://osu.ppy.sh/users/113646) from Mapping Assistance Team (2012-02-05)
-- Removed [Ekaru](https://osu.ppy.sh/users/17938) from Mapping Assistance Team (2012-02-21)
+- [NotShinta](https://osu.ppy.sh/users/162159) wurde aus der Gruppe Mapping Assistance Team entfernt (2012-02-01)
+- [arken1015](https://osu.ppy.sh/users/113646) wurde aus der Gruppe Mapping Assistance Team entfernt (2012-02-05)
+- [Ekaru](https://osu.ppy.sh/users/17938) wurde aus der Gruppe Mapping Assistance Team entfernt (2012-02-21)
 
 ## March
 
-- Removed [Faust](https://osu.ppy.sh/users/65152) from Mapping Assistance Team (2012-03-01)
+- [Faust](https://osu.ppy.sh/users/65152) wurde aus der Gruppe Mapping Assistance Team entfernt (2012-03-01)
 - Moved [Shiirn](https://osu.ppy.sh/users/465126) from Mapping Assistance Team to Beatmap Appreciation Team (2012-03-20)
 - Moved [SapphireGhost](https://osu.ppy.sh/users/388602) from Mapping Assistance Team to Beatmap Appreciation Team (2012-03-20)
-- Removed [Roddie](https://osu.ppy.sh/users/121337) from Mapping Assistance Team (2012-03-30)
+- [Roddie](https://osu.ppy.sh/users/121337) wurde aus der Gruppe Mapping Assistance Team entfernt (2012-03-30)
 
 ## April
 
@@ -66,7 +66,7 @@ Some users' history may be incomplete during this year.
 - [spboxer3](https://osu.ppy.sh/users/197974) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2012-05-12)
 - [Miya](https://osu.ppy.sh/users/909167) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2012-05-12)
 - [Blue Dragon](https://osu.ppy.sh/users/19048) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2012-05-19)
-- Removed [Lilac](https://osu.ppy.sh/users/58197) from Mapping Assistance Team (2012-05-19)
+- [Lilac](https://osu.ppy.sh/users/58197) wurde aus der Gruppe Mapping Assistance Team entfernt (2012-05-19)
 - [Loctav](https://osu.ppy.sh/users/71366) wurde zur Gruppe Global Mod Team hinzugefügt (2012-05-20)
 - [Galkan](https://osu.ppy.sh/users/169570) wurde zur Gruppe Global Mod Team hinzugefügt (2012-05-20)
 - [TicClick](https://osu.ppy.sh/users/672931) wurde zur Gruppe Global Mod Team hinzugefügt (2012-05-20)
@@ -82,9 +82,9 @@ Some users' history may be incomplete during this year.
 ## July
 
 - Moved [jericho2442](https://osu.ppy.sh/users/88904) from Beatmap Appreciation Team to osu! Alumni (2012-07-01)
-- Removed [Rukarioman](https://osu.ppy.sh/users/110372) from Mapping Assistance Team (2012-07-11)
+- [Rukarioman](https://osu.ppy.sh/users/110372) wurde aus der Gruppe Mapping Assistance Team entfernt (2012-07-11)
 - Moved [Agnes](https://osu.ppy.sh/users/136982) from Beatmap Appreciation Team to osu! Alumni (2012-07-15)
-- Removed [Roddie](https://osu.ppy.sh/users/121337) from Mapping Assistance Team (2012-07-24)
+- [Roddie](https://osu.ppy.sh/users/121337) wurde aus der Gruppe Mapping Assistance Team entfernt (2012-07-24)
 - [MMzz](https://osu.ppy.sh/users/128993) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2012-07-29)
 
 ## August
@@ -96,7 +96,7 @@ Some users' history may be incomplete during this year.
 - Moved [Sync](https://osu.ppy.sh/users/806921) from Mapping Assistance Team to Beatmap Appreciation Team (2012-08-13)
 - Moved [Beuchi-chan](https://osu.ppy.sh/users/67192) from Global Mod Team to osu! Alumni (2012-08-17)
 - [Lolicore Flandre](https://osu.ppy.sh/users/447818) wurde zur Gruppe Global Mod Team hinzugefügt (2012-08-21)
-- Removed [Blue Dragon](https://osu.ppy.sh/users/19048) from Beatmap Appreciation Team (2012-08-23)
+- [Blue Dragon](https://osu.ppy.sh/users/19048) wurde aus der Gruppe Beatmap Appreciation Team entfernt (2012-08-23)
 - Moved [narakucrimson](https://osu.ppy.sh/users/287468) from Beatmap Appreciation Team to osu! Alumni (2012-08-24)
 - [Darksonic](https://osu.ppy.sh/users/570042) wurde zur Gruppe Global Mod Team hinzugefügt (2012-08-26)
 
@@ -132,8 +132,8 @@ Some users' history may be incomplete during this year.
 
 ## December
 
-- Removed [Kawayi Rika](https://osu.ppy.sh/users/596298) from Mapping Assistance Team (2012-12-05)
-- Removed [Sallad4ever](https://osu.ppy.sh/users/185422) from Mapping Assistance Team (2012-12-05)
+- [Kawayi Rika](https://osu.ppy.sh/users/596298) wurde aus der Gruppe Mapping Assistance Team entfernt (2012-12-05)
+- [Sallad4ever](https://osu.ppy.sh/users/185422) wurde aus der Gruppe Mapping Assistance Team entfernt (2012-12-05)
 - [Bittersweet](https://osu.ppy.sh/users/259254) wurde zur Gruppe Global Mod Team hinzugefügt (2012-12-15)
 - [Blazevoir](https://osu.ppy.sh/users/120265) wurde zur Gruppe Global Mod Team hinzugefügt (2012-12-15)
 - [ykcarrot](https://osu.ppy.sh/users/70730) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2012-12-15)

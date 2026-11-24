@@ -101,10 +101,10 @@ All users listed below were added on 2017-09-10.
 ## October
 
 - Moved [mancuso_JM_](https://osu.ppy.sh/users/521568) from osu! Alumni to Global Moderation Team (2017-10-03)
-- Removed [Cryptic](https://osu.ppy.sh/users/3728904) from Quality Assurance Team (2017-10-03)
+- [Cryptic](https://osu.ppy.sh/users/3728904) wurde aus der Gruppe Quality Assurance Team entfernt (2017-10-03)
 - [Naxess](https://osu.ppy.sh/users/8129817) wurde zur Gruppe Quality Assurance Team hinzugefügt (2017-10-05)
 - [Raiden](https://osu.ppy.sh/users/2239480) wurde zur Gruppe Quality Assurance Team hinzugefügt (2017-10-05)
-- Removed [IamKwaN](https://osu.ppy.sh/users/1856463) from Global Moderation Team (2017-10-12)
+- [IamKwaN](https://osu.ppy.sh/users/1856463) wurde aus der Gruppe Global Moderation Team entfernt (2017-10-12)
 - Moved [n0ah](https://osu.ppy.sh/users/3086393) from Global Moderation Team to osu! Alumni (2017-10-12)
 - Moved [Stefan](https://osu.ppy.sh/users/626907) from Global Moderation Team to osu! Alumni (2017-10-12)
 - Moved [IamKwaN](https://osu.ppy.sh/users/1856463) from Quality Assurance Team to osu! Alumni (2017-10-14)

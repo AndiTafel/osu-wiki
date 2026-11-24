@@ -48,7 +48,7 @@ All users listed below were added on 2016-03-07.
 - Moved [Charles445](https://osu.ppy.sh/users/85000) from Quality Assurance Team to osu! Alumni (2016-05-31)
 - Moved [Krah](https://osu.ppy.sh/users/1436748) from Global Moderation Team to osu! Alumni (2016-05-31)
 - Moved [Spectator](https://osu.ppy.sh/users/702598) from Global Moderation Team to osu! Alumni (2016-05-31)
-- Removed [Zak](https://osu.ppy.sh/users/1375955) from Global Moderation Team (2016-05-31)
+- [Zak](https://osu.ppy.sh/users/1375955) wurde aus der Gruppe Global Moderation Team entfernt (2016-05-31)
 - Moved [OnosakiHito](https://osu.ppy.sh/users/290128) from osu! Alumni to Global Moderation Team (2016-05-31)
 - Moved [Starry-](https://osu.ppy.sh/users/2166199) from Quality Assurance Team to osu! Alumni (2016-05-31)
 
@@ -80,7 +80,7 @@ All users listed below were added on 2016-06-01.
 
 - Moved [riffy](https://osu.ppy.sh/users/597957) from Quality Assurance Team to Global Moderation Team (2016-07-02)
 - Moved [Feerum](https://osu.ppy.sh/users/4815717) from Beatmap Nominators to Quality Assurance Team (2016-07-26)
-- Removed [XavierJones](https://osu.ppy.sh/users/495733) from Global Moderation Team (2016-07-27)
+- [XavierJones](https://osu.ppy.sh/users/495733) wurde aus der Gruppe Global Moderation Team entfernt (2016-07-27)
 
 ## August
 
