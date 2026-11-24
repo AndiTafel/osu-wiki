@@ -19,7 +19,7 @@
 
 ### Zu den Beatmap-Nominatoren hinzugefügt
 
-All users listed below were added on 29.01.2018.
+Alle unten aufgelisteten Nutzer wurden am 29.01.2018 hinzugefügt.
 
 - [UndeadCapulet](https://osu.ppy.sh/users/2523533)
 - [Noffy](https://osu.ppy.sh/users/1541323)
@@ -82,7 +82,7 @@ All users listed below were added on 29.01.2018.
 
 ### Zu den Beatmap-Nominatoren hinzugefügt
 
-All users listed below were added on 12.03.2018.
+Alle unten aufgelisteten Nutzer wurden am 12.03.2018 hinzugefügt.
 
 - [Nepuri](https://osu.ppy.sh/users/6637817)
 - [-Kazu-](https://osu.ppy.sh/users/920861)
@@ -95,7 +95,7 @@ All users listed below were added on 12.03.2018.
 
 ---
 
-All users listed below were added on 19.03.2018.
+Alle unten aufgelisteten Nutzer wurden am 19.03.2018 hinzugefügt.
 
 - [AJamez](https://osu.ppy.sh/users/7890134)
 - [error\_exe777](https://osu.ppy.sh/users/7975796)
@@ -115,7 +115,7 @@ All users listed below were added on 19.03.2018.
 
 ### Zu den Beatmap-Nominatoren hinzugefügt
 
-All users listed below were added on 23.04.2018.
+Alle unten aufgelisteten Nutzer wurden am 23.04.2018 hinzugefügt.
 
 - [Mirash](https://osu.ppy.sh/users/2841009)
 - [Kyuukai](https://osu.ppy.sh/users/5337374)
@@ -178,7 +178,7 @@ All users listed below were added on 23.04.2018.
 
 ### Zu den Beatmap-Nominatoren hinzugefügt
 
-All users listed below were added on 12.06.2018.
+Alle unten aufgelisteten Nutzer wurden am 12.06.2018 hinzugefügt.
 
 - [Nifty](https://osu.ppy.sh/users/4956097)
 - [qoot8123](https://osu.ppy.sh/users/766371)
@@ -220,7 +220,7 @@ All users listed below were added on 12.06.2018.
 
 ### Zu den Beatmap-Nominatoren hinzugefügt
 
-All users listed below were added on 27.07.2018.
+Alle unten aufgelisteten Nutzer wurden am 27.07.2018 hinzugefügt.
 
 - [UndeadCapulet](https://osu.ppy.sh/users/2523533)
 - [Seijiro](https://osu.ppy.sh/users/2581696)

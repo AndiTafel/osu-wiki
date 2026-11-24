@@ -10,7 +10,7 @@
 
 ### Zu den Beatmap-Nominatoren hinzugefügt
 
-All users listed below were added on 20.01.2017.
+Alle unten aufgelisteten Nutzer wurden am 20.01.2017 hinzugefügt.
 
 - [riffy](https://osu.ppy.sh/users/597957)
 - [Battle](https://osu.ppy.sh/users/4037545)
@@ -38,7 +38,7 @@ All users listed below were added on 20.01.2017.
 
 ### Zu den Beatmap-Nominatoren hinzugefügt
 
-All users listed below were added on 25.04.2017.
+Alle unten aufgelisteten Nutzer wurden am 25.04.2017 hinzugefügt.
 
 - [Arrival](https://osu.ppy.sh/users/1694000)
 - [Benny-](https://osu.ppy.sh/users/4023183)
@@ -60,7 +60,7 @@ All users listed below were added on 25.04.2017.
 
 ### Zu den Beatmap-Nominatoren hinzugefügt
 
-All users listed below were added on 30.06.2017.
+Alle unten aufgelisteten Nutzer wurden am 30.06.2017 hinzugefügt.
 
 - [-Mo-](https://osu.ppy.sh/users/2202163)
 - [Delis](https://osu.ppy.sh/users/1603923)
@@ -84,7 +84,7 @@ All users listed below were added on 30.06.2017.
 
 ### Zu den Beatmap-Nominatoren hinzugefügt
 
-All users listed below were added on 10.09.2017.
+Alle unten aufgelisteten Nutzer wurden am 10.09.2017 hinzugefügt.
 
 - [Asherz007](https://osu.ppy.sh/users/9014047)
 - [Gabe](https://osu.ppy.sh/users/654108)
@@ -112,7 +112,7 @@ All users listed below were added on 10.09.2017.
 
 ### Zu den Beatmap-Nominatoren hinzugefügt
 
-All users listed below were added on 24.10.2017.
+Alle unten aufgelisteten Nutzer wurden am 24.10.2017 hinzugefügt.
 
 - [celerih](https://osu.ppy.sh/users/4696296)
 - [Cerulean Veyron](https://osu.ppy.sh/users/1886524)
@@ -136,7 +136,7 @@ All users listed below were added on 24.10.2017.
 
 ### Zu den Beatmap-Nominatoren hinzugefügt
 
-All users listed below were added on 11.12.2017.
+Alle unten aufgelisteten Nutzer wurden am 11.12.2017 hinzugefügt.
 
 - [Aloda](https://osu.ppy.sh/users/1190127)
 - [Garalulu](https://osu.ppy.sh/users/757783)

@@ -26,7 +26,7 @@
 
 ### Zu den Beatmap-Nominatoren hinzugefügt
 
-All users listed below were added on 16.02.2019.
+Alle unten aufgelisteten Nutzer wurden am 16.02.2019 hinzugefügt.
 
 - [Nevo](https://osu.ppy.sh/users/7451883)
 - [Hanasaka Yui](https://osu.ppy.sh/users/6443117)

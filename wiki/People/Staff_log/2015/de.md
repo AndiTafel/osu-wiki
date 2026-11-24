@@ -17,7 +17,7 @@ Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 
 ### Neu zum BAT hinzugefügt
 
-All users listed below were added on 03.01.2015.
+Alle unten aufgelisteten Nutzer wurden am 03.01.2015 hinzugefügt.
 
 - [[ S a k u r a ]](https://osu.ppy.sh/users/3653042)
 - [Andrea](https://osu.ppy.sh/users/33599)
@@ -73,7 +73,7 @@ All users listed below were added on 03.01.2015.
 
 ### Zu den Beatmap-Nominatoren hinzugefügt
 
-All users listed below were added on 06.02.2015.
+Alle unten aufgelisteten Nutzer wurden am 06.02.2015 hinzugefügt.
 
 - [Vhy](https://osu.ppy.sh/users/2083612)
 - [tutuhaha](https://osu.ppy.sh/users/546991)
@@ -111,7 +111,7 @@ All users listed below were added on 06.02.2015.
 
 ### Zu den Beatmap-Nominatoren hinzugefügt
 
-All users listed below were added on 03.03.2015.
+Alle unten aufgelisteten Nutzer wurden am 03.03.2015 hinzugefügt.
 
 - [Static Noise Bird](https://osu.ppy.sh/users/826132)
 - [Lally](https://osu.ppy.sh/users/1262490)
@@ -148,7 +148,7 @@ All users listed below were added on 03.03.2015.
 
 ### Zu den Beatmap-Nominatoren hinzugefügt
 
-All users listed below were added on 06.04.2015.
+Alle unten aufgelisteten Nutzer wurden am 06.04.2015 hinzugefügt.
 
 - [ByBy\_ChAn](https://osu.ppy.sh/users/3436326)
 - [Blocko](https://osu.ppy.sh/users/4075092)
@@ -164,7 +164,7 @@ All users listed below were added on 06.04.2015.
 
 ### Zu den Beatmap-Nominatoren hinzugefügt
 
-All users listed below were added on 11.05.2015.
+Alle unten aufgelisteten Nutzer wurden am 11.05.2015 hinzugefügt.
 
 - [JUDYDANNY](https://osu.ppy.sh/users/1165475)
 - Kagamine Ren
@@ -189,7 +189,7 @@ All users listed below were added on 11.05.2015.
 
 ### Zu den Beatmap-Nominatoren hinzugefügt
 
-All users listed below were added on 15.06.2015.
+Alle unten aufgelisteten Nutzer wurden am 15.06.2015 hinzugefügt.
 
 - [- Magic Bomb -](https://osu.ppy.sh/users/3071175)
 - Alex Li
@@ -206,7 +206,7 @@ All users listed below were added on 15.06.2015.
 
 ### Zu den Beatmap-Nominatoren hinzugefügt
 
-All users listed below were added on 19.07.2015.
+Alle unten aufgelisteten Nutzer wurden am 19.07.2015 hinzugefügt.
 
 - [Mako Sakata](https://osu.ppy.sh/users/1857063)
 - [OzzyOzrock](https://osu.ppy.sh/users/465153)
@@ -245,7 +245,7 @@ All users listed below were added on 19.07.2015.
 
 ### Zu den Beatmap-Nominatoren hinzugefügt
 
-All users listed below were added on 02.10.2015.
+Alle unten aufgelisteten Nutzer wurden am 02.10.2015 hinzugefügt.
 
 - [alienflybot](https://osu.ppy.sh/users/636114)
 - [HappyRocket88](https://osu.ppy.sh/users/4442006)

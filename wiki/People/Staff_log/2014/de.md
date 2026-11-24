@@ -178,7 +178,7 @@ Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 
 ### Neu zum BAT hinzugefügt
 
-All users listed below were added on 24.08.2014.
+Alle unten aufgelisteten Nutzer wurden am 24.08.2014 hinzugefügt.
 
 - [arcwinolivirus](https://osu.ppy.sh/users/2039089)
 - [riffy](https://osu.ppy.sh/users/597957)
@@ -210,7 +210,7 @@ All users listed below were added on 24.08.2014.
 
 ---
 
-All users listed below were added on 30.08.2014.
+Alle unten aufgelisteten Nutzer wurden am 30.08.2014 hinzugefügt.
 
 - [Aka](https://osu.ppy.sh/users/1307553)
 - [Gero](https://osu.ppy.sh/users/1467715)
@@ -239,7 +239,7 @@ All users listed below were added on 30.08.2014.
 
 ### Neu zum BAT hinzugefügt
 
-All users listed below were added on 17.09.2014.
+Alle unten aufgelisteten Nutzer wurden am 17.09.2014 hinzugefügt.
 
 - [Konei](https://osu.ppy.sh/users/1446085)
 - [Natsu](https://osu.ppy.sh/users/1953876)
@@ -281,7 +281,7 @@ All users listed below were added on 17.09.2014.
 
 ### Neu zum BAT hinzugefügt
 
-All users listed below were added on 22.11.2014.
+Alle unten aufgelisteten Nutzer wurden am 22.11.2014 hinzugefügt.
 
 - [Gamu](https://osu.ppy.sh/users/611174)
 - [Hollow Wings](https://osu.ppy.sh/users/416662)
@@ -315,7 +315,7 @@ All users listed below were added on 22.11.2014.
 
 ### Neu zum BAT hinzugefügt
 
-All users listed below were added on 02.12.2014.
+Alle unten aufgelisteten Nutzer wurden am 02.12.2014 hinzugefügt.
 
 - [Kibbleru](https://osu.ppy.sh/users/3193504)
 - [Kloyd](https://osu.ppy.sh/users/1574070)

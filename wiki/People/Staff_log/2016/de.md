@@ -30,7 +30,7 @@
 
 ### Zu den Beatmap-Nominatoren hinzugefügt
 
-All users listed below were added on 07.03.2016.
+Alle unten aufgelisteten Nutzer wurden am 07.03.2016 hinzugefügt.
 
 - [Nozhomi](https://osu.ppy.sh/users/2716981)
 - [Sonnyc](https://osu.ppy.sh/users/11771)
@@ -64,7 +64,7 @@ All users listed below were added on 07.03.2016.
 
 ### Zu den Beatmap-Nominatoren hinzugefügt
 
-All users listed below were added on 01.06.2016.
+Alle unten aufgelisteten Nutzer wurden am 01.06.2016 hinzugefügt.
 
 - [Doyak](https://osu.ppy.sh/users/2046893)
 - [Volta](https://osu.ppy.sh/users/4154071)
@@ -88,7 +88,7 @@ All users listed below were added on 01.06.2016.
 
 ### Zu den Beatmap-Nominatoren hinzugefügt
 
-All users listed below were added on 22.08.2016.
+Alle unten aufgelisteten Nutzer wurden am 22.08.2016 hinzugefügt.
 
 - [Lasse](https://osu.ppy.sh/users/896613)
 - [Spaghetti](https://osu.ppy.sh/users/4761930)
@@ -131,7 +131,7 @@ All users listed below were added on 22.08.2016.
 
 ### Zu den Beatmap-Nominatoren hinzugefügt
 
-All users listed below were added on 04.11.2016.
+Alle unten aufgelisteten Nutzer wurden am 04.11.2016 hinzugefügt.
 
 - [Absolute Zero](https://osu.ppy.sh/users/4847256)
 - [-Sh1n1-](https://osu.ppy.sh/users/1957638)
