@@ -7,7 +7,7 @@ Some users' history may be incomplete during this year.
 
 ## February
 
-- Moved [Ivalset](https://osu.ppy.sh/users/827) from Beatmap Approval Team to BATmanager (2009-02-04)
+- [Ivalset](https://osu.ppy.sh/users/827) wurde aus der Gruppe Beatmap Approval Team in die Gruppe BATmanager verschoben (2009-02-04)
 - [Larto](https://osu.ppy.sh/users/12328) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2009-02-04)
 - [DawnII](https://osu.ppy.sh/users/8399) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2009-02-14)
 
@@ -30,7 +30,7 @@ Some users' history may be incomplete during this year.
 ## June
 
 - [strager](https://osu.ppy.sh/users/64678) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2009-06-12)
-- Moved [An64fan](https://osu.ppy.sh/users/38836) from Beatmap Approval Team to osu! Alumni (2009-06-15)
+- [An64fan](https://osu.ppy.sh/users/38836) wurde aus der Gruppe Beatmap Approval Team in die Gruppe osu! Alumni verschoben (2009-06-15)
 - [Saturos-fangirl](https://osu.ppy.sh/users/11874) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2009-06-17)
 
 ## July
@@ -42,11 +42,11 @@ Some users' history may be incomplete during this year.
 - [ztrot](https://osu.ppy.sh/users/6347) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2009-08-21)
 - [mrtn](https://osu.ppy.sh/users/7013) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2009-08-21)
 - [tieff](https://osu.ppy.sh/users/89619) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2009-08-21)
-- Moved [buraimaster1234](https://osu.ppy.sh/users/5772) from Beatmap Approval Team to osu! Alumni (2009-08-24)
+- [buraimaster1234](https://osu.ppy.sh/users/5772) wurde aus der Gruppe Beatmap Approval Team in die Gruppe osu! Alumni verschoben (2009-08-24)
 
 ## September
 
-- Moved [Mogsworth](https://osu.ppy.sh/users/4018) from Beatmap Approval Team to osu! Alumni (2009-09-30)
+- [Mogsworth](https://osu.ppy.sh/users/4018) wurde aus der Gruppe Beatmap Approval Team in die Gruppe osu! Alumni verschoben (2009-09-30)
 
 ## October
 
@@ -57,9 +57,9 @@ Some users' history may be incomplete during this year.
 
 ## November
 
-- Moved [Pasonia](https://osu.ppy.sh/users/43345) from Beatmap Approval Team to BATmanager (2009-11-10)
+- [Pasonia](https://osu.ppy.sh/users/43345) wurde aus der Gruppe Beatmap Approval Team in die Gruppe BATmanager verschoben (2009-11-10)
 - [Ephemeral](https://osu.ppy.sh/users/102335) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2009-11-30)
-- Moved [mtmcl](https://osu.ppy.sh/users/5960) from osu! Alumni to Beatmap Approval Team (2009-11-30)
+- [mtmcl](https://osu.ppy.sh/users/5960) wurde aus der Gruppe osu! Alumni in die Gruppe Beatmap Approval Team verschoben (2009-11-30)
 
 ## December
 
@@ -88,4 +88,4 @@ Some users' history may be incomplete during this year.
 - [Lizbeth](https://osu.ppy.sh/users/21970) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2009-12-27)
 - [Dangaard](https://osu.ppy.sh/users/19488) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2009-12-27)
 - [-SiN-](https://osu.ppy.sh/users/10560) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2009-12-27)
-- Moved [vytalibus](https://osu.ppy.sh/users/10028) from Beatmap Approval Team to osu! Alumni (2009-12-31)
+- [vytalibus](https://osu.ppy.sh/users/10028) wurde aus der Gruppe Beatmap Approval Team in die Gruppe osu! Alumni verschoben (2009-12-31)

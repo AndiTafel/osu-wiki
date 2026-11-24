@@ -7,14 +7,14 @@ Some users' history may be incomplete during this year.
 
 ## January
 
-- Moved [James](https://osu.ppy.sh/users/5728) from osu! Alumni to Beatmap Approval Team (2010-01-25)
-- Moved [DawnII](https://osu.ppy.sh/users/8399) from osu! Alumni to Beatmap Approval Team (2010-01-26)
-- Moved [kingcobra52](https://osu.ppy.sh/users/9934) from osu! Alumni to Beatmap Approval Team (2010-01-27)
+- [James](https://osu.ppy.sh/users/5728) wurde aus der Gruppe osu! Alumni in die Gruppe Beatmap Approval Team verschoben (2010-01-25)
+- [DawnII](https://osu.ppy.sh/users/8399) wurde aus der Gruppe osu! Alumni in die Gruppe Beatmap Approval Team verschoben (2010-01-26)
+- [kingcobra52](https://osu.ppy.sh/users/9934) wurde aus der Gruppe osu! Alumni in die Gruppe Beatmap Approval Team verschoben (2010-01-27)
 
 ## February
 
 - [yaya](https://osu.ppy.sh/users/50163) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2010-02-01)
-- Moved [Sinistro](https://osu.ppy.sh/users/5530) from Beatmap Approval Team to osu! Alumni (2010-02-08)
+- [Sinistro](https://osu.ppy.sh/users/5530) wurde aus der Gruppe Beatmap Approval Team in die Gruppe osu! Alumni verschoben (2010-02-08)
 - [DJPop](https://osu.ppy.sh/users/2363) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2010-02-26)
 - [rust45](https://osu.ppy.sh/users/117369) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2010-02-26)
 - [NoHitter](https://osu.ppy.sh/users/124455) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2010-02-26)
@@ -38,21 +38,21 @@ Some users' history may be incomplete during this year.
 
 ## May
 
-- Moved [awp](https://osu.ppy.sh/users/2650) from Beatmap Approval Team to osu! Alumni (2010-05-12)
-- Moved [Shinxyn](https://osu.ppy.sh/users/13996) from Mapping Assistance Team to Beatmap Approval Team (2010-05-23)
-- Moved [Gens](https://osu.ppy.sh/users/23062) from Mapping Assistance Team to Beatmap Approval Team (2010-05-23)
-- Moved [Lybydose](https://osu.ppy.sh/users/64501) from Mapping Assistance Team to Beatmap Approval Team (2010-05-23)
+- [awp](https://osu.ppy.sh/users/2650) wurde aus der Gruppe Beatmap Approval Team in die Gruppe osu! Alumni verschoben (2010-05-12)
+- [Shinxyn](https://osu.ppy.sh/users/13996) wurde aus der Gruppe Mapping Assistance Team in die Gruppe Beatmap Approval Team verschoben (2010-05-23)
+- [Gens](https://osu.ppy.sh/users/23062) wurde aus der Gruppe Mapping Assistance Team in die Gruppe Beatmap Approval Team verschoben (2010-05-23)
+- [Lybydose](https://osu.ppy.sh/users/64501) wurde aus der Gruppe Mapping Assistance Team in die Gruppe Beatmap Approval Team verschoben (2010-05-23)
 - [Beuchi-chan](https://osu.ppy.sh/users/67192) wurde zur Gruppe Global Mod Team hinzugefügt (2010-05-23)
 - [Saturos-fangirl](https://osu.ppy.sh/users/11874) wurde aus der Gruppe Beatmap Approval Team entfernt (2010-05-26)
 
 ## June
 
-- Moved [ztrot](https://osu.ppy.sh/users/6347) from Beatmap Approval Team to osu! Alumni (2010-06-19)
-- Moved [Takuma](https://osu.ppy.sh/users/43677) from Beatmap Approval Team to osu! Alumni (2010-06-24)
-- Moved [Rolled](https://osu.ppy.sh/users/5243) from osu! Alumni to Beatmap Approval Team (2010-06-25)
-- Moved [Alace](https://osu.ppy.sh/users/25993) from osu! Alumni to Beatmap Approval Team (2010-06-25)
-- Moved [ztrot](https://osu.ppy.sh/users/6347) from osu! Alumni to Beatmap Approval Team (2010-06-25)
-- Moved [Mogsworth](https://osu.ppy.sh/users/4018) from osu! Alumni to Beatmap Approval Team (2010-06-25)
+- [ztrot](https://osu.ppy.sh/users/6347) wurde aus der Gruppe Beatmap Approval Team in die Gruppe osu! Alumni verschoben (2010-06-19)
+- [Takuma](https://osu.ppy.sh/users/43677) wurde aus der Gruppe Beatmap Approval Team in die Gruppe osu! Alumni verschoben (2010-06-24)
+- [Rolled](https://osu.ppy.sh/users/5243) wurde aus der Gruppe osu! Alumni in die Gruppe Beatmap Approval Team verschoben (2010-06-25)
+- [Alace](https://osu.ppy.sh/users/25993) wurde aus der Gruppe osu! Alumni in die Gruppe Beatmap Approval Team verschoben (2010-06-25)
+- [ztrot](https://osu.ppy.sh/users/6347) wurde aus der Gruppe osu! Alumni in die Gruppe Beatmap Approval Team verschoben (2010-06-25)
+- [Mogsworth](https://osu.ppy.sh/users/4018) wurde aus der Gruppe osu! Alumni in die Gruppe Beatmap Approval Team verschoben (2010-06-25)
 
 ## July
 
@@ -60,7 +60,7 @@ Some users' history may be incomplete during this year.
 
 ## August
 
-- Moved [Takuma](https://osu.ppy.sh/users/43677) from osu! Alumni to Beatmap Approval Team (2010-08-04)
+- [Takuma](https://osu.ppy.sh/users/43677) wurde aus der Gruppe osu! Alumni in die Gruppe Beatmap Approval Team verschoben (2010-08-04)
 
 ## September
 
@@ -68,15 +68,15 @@ Some users' history may be incomplete during this year.
 - [Odaril](https://osu.ppy.sh/users/113005) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2010-09-06)
 - [Mashley](https://osu.ppy.sh/users/41481) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2010-09-14)
 - [Jarby](https://osu.ppy.sh/users/25615) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2010-09-22)
-- Moved [Zerostarry](https://osu.ppy.sh/users/3480) from osu! Alumni to Beatmap Approval Team (2010-09-25)
+- [Zerostarry](https://osu.ppy.sh/users/3480) wurde aus der Gruppe osu! Alumni in die Gruppe Beatmap Approval Team verschoben (2010-09-25)
 - [Sakura Hana](https://osu.ppy.sh/users/289422) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2010-09-29)
 
 ## November
 
-- Moved [Kharl](https://osu.ppy.sh/users/452) from osu! Alumni to Global Mod Team (2010-11-23)
+- [Kharl](https://osu.ppy.sh/users/452) wurde aus der Gruppe osu! Alumni in die Gruppe Global Mod Team verschoben (2010-11-23)
 
 ## December
 
 - [jericho2442](https://osu.ppy.sh/users/88904) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2010-12-03)
-- Moved [Card N'FoRcE](https://osu.ppy.sh/users/3936) from Mapping Assistance Team to Beatmap Approval Team (2010-12-23)
-- Moved [Doomsday](https://osu.ppy.sh/users/18983) from Mapping Assistance Team to Beatmap Approval Team (2010-12-23)
+- [Card N'FoRcE](https://osu.ppy.sh/users/3936) wurde aus der Gruppe Mapping Assistance Team in die Gruppe Beatmap Approval Team verschoben (2010-12-23)
+- [Doomsday](https://osu.ppy.sh/users/18983) wurde aus der Gruppe Mapping Assistance Team in die Gruppe Beatmap Approval Team verschoben (2010-12-23)

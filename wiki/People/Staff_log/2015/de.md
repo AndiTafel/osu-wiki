@@ -12,8 +12,8 @@ Some users' history may be incomplete during this year.
 - Moved [NoHitter](https://osu.ppy.sh/users/124455) to osu! Alumni (2015-01-03)
 - Moved [PROGUY](https://osu.ppy.sh/users/528181) to osu! Alumni (2015-01-07)
 - [ursa](https://osu.ppy.sh/users/321063) wurde aus der Gruppe Quality Assurance Team entfernt (2015-01-14)
-- Moved [CLSW](https://osu.ppy.sh/users/531253) from Beatmap Appreciation Team to Quality Assurance Team (2015-01-26)
-- Moved [Frostmourne](https://osu.ppy.sh/users/199669) from osu! Alumni to Global Moderation Team (2015-01-27)
+- [CLSW](https://osu.ppy.sh/users/531253) wurde aus der Gruppe Beatmap Appreciation Team in die Gruppe Quality Assurance Team verschoben (2015-01-26)
+- [Frostmourne](https://osu.ppy.sh/users/199669) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (2015-01-27)
 
 ### New BAT additions
 
@@ -38,19 +38,19 @@ All users listed below were added on 2015-01-03.
 ## February
 
 - Moved [QHideaki13](https://osu.ppy.sh/users/733998) to osu! Alumni (2015-02-01)
-- Moved [KSHR](https://osu.ppy.sh/users/409957) from osu! Alumni to Global Moderation Team (2015-02-01)
-- Moved [-kevincela-](https://osu.ppy.sh/users/266596) from Beatmap Appreciation Team to osu! Alumni (2015-02-05)
+- [KSHR](https://osu.ppy.sh/users/409957) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (2015-02-01)
+- [-kevincela-](https://osu.ppy.sh/users/266596) wurde aus der Gruppe Beatmap Appreciation Team in die Gruppe osu! Alumni verschoben (2015-02-05)
 - Moved [Kenezz](https://osu.ppy.sh/users/167050) to osu! Alumni (2015-02-05)
 - Moved [Leader](https://osu.ppy.sh/users/631530) to Global Moderation Team (2015-02-05)
 - Moved [narakucrimson](https://osu.ppy.sh/users/287468) to osu! Alumni (2015-02-05)
-- Moved [Flanster](https://osu.ppy.sh/users/447818) from Chat Moderators to Global Moderation Team (2015-02-11)
+- [Flanster](https://osu.ppy.sh/users/447818) wurde aus der Gruppe Chat Moderators in die Gruppe Global Moderation Team verschoben (2015-02-11)
 - [Wojjan](https://osu.ppy.sh/users/32856) wurde aus der Gruppe Forum Moderators and Chat Moderators entfernt (2015-02-13)
-- Moved [Lust](https://osu.ppy.sh/users/2316951) from Beatmap Appreciation Team to Quality Assurance Team (2015-02-16)
-- Moved [Shiro](https://osu.ppy.sh/users/113005) from Quality Assurance Team to Global Moderation Team (2015-02-16)
-- Moved [Asphyxia](https://osu.ppy.sh/users/1715720) from Global Moderation Team to Quality Assurance Team (2015-02-18)
-- Moved [Myxo](https://osu.ppy.sh/users/2202645) from Beatmap Appreciation Team to Quality Assurance Team (2015-02-18)
+- [Lust](https://osu.ppy.sh/users/2316951) wurde aus der Gruppe Beatmap Appreciation Team in die Gruppe Quality Assurance Team verschoben (2015-02-16)
+- [Shiro](https://osu.ppy.sh/users/113005) wurde aus der Gruppe Quality Assurance Team in die Gruppe Global Moderation Team verschoben (2015-02-16)
+- [Asphyxia](https://osu.ppy.sh/users/1715720) wurde aus der Gruppe Global Moderation Team in die Gruppe Quality Assurance Team verschoben (2015-02-18)
+- [Myxo](https://osu.ppy.sh/users/2202645) wurde aus der Gruppe Beatmap Appreciation Team in die Gruppe Quality Assurance Team verschoben (2015-02-18)
 - Moved [Mystyk](https://osu.ppy.sh/users/930165) to Global Moderation Team (2015-02-18)
-- Moved [IamKwaN](https://osu.ppy.sh/users/1856463) from Beatmap Appreciation Team to Quality Assurance Team (2015-02-19)
+- [IamKwaN](https://osu.ppy.sh/users/1856463) wurde aus der Gruppe Beatmap Appreciation Team in die Gruppe Quality Assurance Team verschoben (2015-02-19)
 - [AnataNoBaka](https://osu.ppy.sh/users/1769646) wurde aus der Gruppe Chat Moderators entfernt (2015-02-22)
 - Moved [ethox](https://osu.ppy.sh/users/441380) to osu! Alumni (2015-02-22)
 - [Evil_Twilight](https://osu.ppy.sh/users/409347) wurde aus der Gruppe Chat Moderators entfernt (2015-02-22)
@@ -60,15 +60,15 @@ All users listed below were added on 2015-01-03.
 - Moved [KitokoFox](https://osu.ppy.sh/users/1815420) to osu! Alumni (2015-02-22)
 - Moved [KRZY](https://osu.ppy.sh/users/114017) to osu! Alumni (2015-02-22)
 - [Loneight](https://osu.ppy.sh/users/663131) wurde aus der Gruppe Chat Moderators entfernt (2015-02-22)
-- Moved [Zero__wind](https://osu.ppy.sh/users/1822830) from Beatmap Appreciation Team to osu! Alumni (2015-02-22)
-- Moved [Darksonic](https://osu.ppy.sh/users/570042) from Global Moderation Team to osu! Alumni (2015-02-22)
+- [Zero__wind](https://osu.ppy.sh/users/1822830) wurde aus der Gruppe Beatmap Appreciation Team in die Gruppe osu! Alumni verschoben (2015-02-22)
+- [Darksonic](https://osu.ppy.sh/users/570042) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (2015-02-22)
 - Moved [Derekku](https://osu.ppy.sh/users/91341) to osu! Alumni (2015-02-22)
 - Moved [Leader](https://osu.ppy.sh/users/631530) to osu! Alumni (2015-02-22)
 - Moved [Mystyk](https://osu.ppy.sh/users/930165) to Chat Moderators (2015-02-22)
 - Moved [Pokie](https://osu.ppy.sh/users/207340) to osu! Alumni (2015-02-22)
 - Moved [Where](https://osu.ppy.sh/users/549172) to osu! Alumni (2015-02-22)
 - Moved [drum drum](https://osu.ppy.sh/users/4435526) to Global Moderation Team (2015-02-22)
-- Moved [ToGlette](https://osu.ppy.sh/users/1076236) from Chat Moderators to Global Moderation Team (2015-02-22)
+- [ToGlette](https://osu.ppy.sh/users/1076236) wurde aus der Gruppe Chat Moderators in die Gruppe Global Moderation Team verschoben (2015-02-22)
 - [Scorpiour](https://osu.ppy.sh/users/867259) wurde aus der Gruppe Global Moderation Team entfernt (2015-02-28)
 
 ### Beatmap Nominator additions
@@ -105,7 +105,7 @@ All users listed below were added on 2015-02-06.
 - Moved [aabc271](https://osu.ppy.sh/users/155707) to osu! Alumni (2015-03-02)
 - Moved [Gabe](https://osu.ppy.sh/users/654108) to osu! Alumni (2015-03-02)
 - Moved [lolcubes](https://osu.ppy.sh/users/578401) to Quality Assurance Team (2015-03-11)
-- Moved [Roxas](https://osu.ppy.sh/users/1041833) from osu! Alumni to Quality Assurance Team (2015-03-11)
+- [Roxas](https://osu.ppy.sh/users/1041833) wurde aus der Gruppe osu! Alumni in die Gruppe Quality Assurance Team verschoben (2015-03-11)
 - [Fycho](https://osu.ppy.sh/users/1876867) wurde zur Gruppe Chat Moderators hinzugefügt (2015-03-12)
 - [VeilStar](https://osu.ppy.sh/users/4255720) wurde zur Gruppe Support Team hinzugefügt (2015-03-28)
 
@@ -136,14 +136,14 @@ All users listed below were added on 2015-03-03.
 
 ## April
 
-- Moved [TKS](https://osu.ppy.sh/users/940878) from Beatmap Appreciation Team to osu! Alumni (2015-04-01)
+- [TKS](https://osu.ppy.sh/users/940878) wurde aus der Gruppe Beatmap Appreciation Team in die Gruppe osu! Alumni verschoben (2015-04-01)
 - Moved [Kawayi Rika](https://osu.ppy.sh/users/596298) to osu! Alumni (2015-04-01)
-- Moved [QHideaki13](https://osu.ppy.sh/users/733998) from osu! Alumni to Chat Moderators (2015-04-02)
+- [QHideaki13](https://osu.ppy.sh/users/733998) wurde aus der Gruppe osu! Alumni in die Gruppe Chat Moderators verschoben (2015-04-02)
 - [TicClick](https://osu.ppy.sh/users/672931) wurde aus der Gruppe Quality Assurance Team entfernt (2015-04-16)
 - Moved [Tasha](https://osu.ppy.sh/users/1031958) to Global Moderation Team (2015-04-18)
 - [Andrea](https://osu.ppy.sh/users/33599) wurde aus der Gruppe Global Moderation Team entfernt (2015-04-27)
-- Moved [Fycho](https://osu.ppy.sh/users/1876867) from Beatmap Nominators to Quality Assurance Team (2015-04-30)
-- Moved [Guy](https://osu.ppy.sh/users/91738) from Beatmap Nominators to Quality Assurance Team (2015-04-30)
+- [Fycho](https://osu.ppy.sh/users/1876867) wurde aus der Gruppe Beatmap Nominators in die Gruppe Quality Assurance Team verschoben (2015-04-30)
+- [Guy](https://osu.ppy.sh/users/91738) wurde aus der Gruppe Beatmap Nominators in die Gruppe Quality Assurance Team verschoben (2015-04-30)
 - [Spectator](https://osu.ppy.sh/users/702598) wurde zur Gruppe Chat Moderators hinzugefügt (2015-04-30)
 
 ### Beatmap Nominator additions
@@ -175,16 +175,16 @@ All users listed below were added on 2015-05-11.
 
 ## June
 
-- Moved [riffy](https://osu.ppy.sh/users/597957) from Beatmap Nominators to Quality Assurance Team (2015-06-02)
+- [riffy](https://osu.ppy.sh/users/597957) wurde aus der Gruppe Beatmap Nominators in die Gruppe Quality Assurance Team verschoben (2015-06-02)
 - Moved [Atrue](https://osu.ppy.sh/users/1758523) to Global Moderation Team (2015-06-02)
 - [Blue Dragon](https://osu.ppy.sh/users/19048) wurde aus der Gruppe Chat Moderators entfernt (2015-06-03)
-- Moved [Shockwave](https://osu.ppy.sh/users/251631) from Chat Moderators to Global Moderation Team (2015-06-03)
+- [Shockwave](https://osu.ppy.sh/users/251631) wurde aus der Gruppe Chat Moderators in die Gruppe Global Moderation Team verschoben (2015-06-03)
 - Moved [Uni](https://osu.ppy.sh/users/617106) to Global Moderation Team (2015-06-03)
-- Moved [Roxas](https://osu.ppy.sh/users/1041833) from Quality Assurance Team to osu! Alumni (2015-06-05)
-- Moved [Starry-](https://osu.ppy.sh/users/2166199) from Beatmap Nominators to Quality Assurance Team (2015-06-05)
-- Moved [DakeDekaane](https://osu.ppy.sh/users/1425253) from Beatmap Nominators to Quality Assurance Team (2015-06-08)
-- Moved [Gamu](https://osu.ppy.sh/users/611174) from Beatmap Nominators to Quality Assurance Team (2015-06-10)
-- Moved [IamKwaN](https://osu.ppy.sh/users/1856463) from Chat Moderators to Global Moderation Team (2015-06-10)
+- [Roxas](https://osu.ppy.sh/users/1041833) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (2015-06-05)
+- [Starry-](https://osu.ppy.sh/users/2166199) wurde aus der Gruppe Beatmap Nominators in die Gruppe Quality Assurance Team verschoben (2015-06-05)
+- [DakeDekaane](https://osu.ppy.sh/users/1425253) wurde aus der Gruppe Beatmap Nominators in die Gruppe Quality Assurance Team verschoben (2015-06-08)
+- [Gamu](https://osu.ppy.sh/users/611174) wurde aus der Gruppe Beatmap Nominators in die Gruppe Quality Assurance Team verschoben (2015-06-10)
+- [IamKwaN](https://osu.ppy.sh/users/1856463) wurde aus der Gruppe Chat Moderators in die Gruppe Global Moderation Team verschoben (2015-06-10)
 - [VeilStar](https://osu.ppy.sh/users/4255720) wurde zur Gruppe Chat Moderators hinzugefügt (2015-06-14)
 
 ### Beatmap Nominator additions
@@ -219,8 +219,8 @@ All users listed below were added on 2015-07-19.
 - [Lust](https://osu.ppy.sh/users/2316951) wurde aus der Gruppe Quality Assurance Team entfernt (2015-08-15)
 - **Merged Chat Moderators and Global Moderation Team** (2015-08-20)
 - Moved [captin1](https://osu.ppy.sh/users/689997) to osu! Alumni (2015-08-20)
-- Moved [Frostmourne](https://osu.ppy.sh/users/199669) from Global Moderation Team to osu! Alumni (2015-08-20)
-- Moved [mancuso\_JM\_](https://osu.ppy.sh/users/521568) from Global Moderation Team to osu! Alumni (2015-08-20)
+- [Frostmourne](https://osu.ppy.sh/users/199669) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (2015-08-20)
+- [mancuso\_JM\_](https://osu.ppy.sh/users/521568) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (2015-08-20)
 - Moved [Mr Color](https://osu.ppy.sh/users/116078) to osu! Alumni (2015-08-20)
 - Moved [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) to osu! Alumni (2015-08-20)
 - Moved [Sakura](https://osu.ppy.sh/users/289422) to osu! Alumni (2015-08-20)
@@ -234,13 +234,13 @@ All users listed below were added on 2015-07-19.
 ## September
 
 - Moved [Spy](https://osu.ppy.sh/users/1217122) to osu! Alumni (2015-09-05)
-- Moved [[Shi-Ra]](https://osu.ppy.sh/users/2008489) from Quality Assurance Team to osu! Alumni (2015-09-05)
+- [[Shi-Ra]](https://osu.ppy.sh/users/2008489) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (2015-09-05)
 - [Lust](https://osu.ppy.sh/users/2316951) wurde zur Gruppe Quality Assurance Team hinzugefügt (2015-09-06)
 
 ## October
 
-- Moved [CLSW](https://osu.ppy.sh/users/531253) from Quality Assurance Team to osu! Alumni (2015-10-12)
-- Moved [Krah](https://osu.ppy.sh/users/1436748) from osu! Alumni to Global Moderation Team (2015-10-13)
+- [CLSW](https://osu.ppy.sh/users/531253) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (2015-10-12)
+- [Krah](https://osu.ppy.sh/users/1436748) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (2015-10-13)
 - Moved [Maeglwn](https://osu.ppy.sh/users/2440936) to osu! Alumni (2015-10-29)
 
 ### Beatmap Nominator additions
@@ -262,13 +262,13 @@ All users listed below were added on 2015-10-02.
 - Moved [drum drum](https://osu.ppy.sh/users/4435526) to osu! Alumni (2015-11-21)
 - [Spy](https://osu.ppy.sh/users/1217122) wurde aus der Gruppe osu! Alumni entfernt (2015-11-29)
 - Moved [ExPew](https://osu.ppy.sh/users/665612) to osu! Alumni (2015-11-30)
-- Moved [Blocko](https://osu.ppy.sh/users/4075092) from Beatmap Nominators to Quality Assurance Team (2015-11-30)
+- [Blocko](https://osu.ppy.sh/users/4075092) wurde aus der Gruppe Beatmap Nominators in die Gruppe Quality Assurance Team verschoben (2015-11-30)
 
 ## December
 
 - [ghm12](https://osu.ppy.sh/users/2594229) wurde zur Gruppe Global Moderation Team hinzugefügt (2015-12-09)
-- Moved [OnosakiHito](https://osu.ppy.sh/users/290128) from Quality Assurance Team to osu! Alumni (2015-12-16)
-- Moved [Asphyxia](https://osu.ppy.sh/users/1715720) from Quality Assurance Team to osu! Alumni (2015-12-22)
+- [OnosakiHito](https://osu.ppy.sh/users/290128) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (2015-12-16)
+- [Asphyxia](https://osu.ppy.sh/users/1715720) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (2015-12-22)
 - Moved [Garven](https://osu.ppy.sh/users/244216) to osu! Alumni (2015-12-22)
 - Moved [lolcubes](https://osu.ppy.sh/users/578401) to osu! Alumni (2015-12-22)
-- Moved [Lust](https://osu.ppy.sh/users/2316951) from Quality Assurance Team to osu! Alumni (2015-12-22)
+- [Lust](https://osu.ppy.sh/users/2316951) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (2015-12-22)

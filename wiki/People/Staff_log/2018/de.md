@@ -2,16 +2,16 @@
 
 ## January
 
-- Moved [Feerum](https://osu.ppy.sh/users/4815717) from Quality Assurance Team to osu! Alumni (2018-01-02)
+- [Feerum](https://osu.ppy.sh/users/4815717) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (2018-01-02)
 - [Tommay](https://osu.ppy.sh/users/3132818) wurde zur Gruppe Global Moderation Team hinzugefügt (2018-01-05)
 - [stymlice](https://osu.ppy.sh/users/5122436) wurde zur Gruppe Global Moderation Team hinzugefügt (2018-01-05)
-- Moved [Tasha](https://osu.ppy.sh/users/1031958) from Global Moderation Team to osu! Alumni (2018-01-08)
-- Moved [spboxer3](https://osu.ppy.sh/users/197974) from osu! Alumni to Global Moderation Team (2018-01-09)
-- Moved [Atrue](https://osu.ppy.sh/users/1758523) from Global Moderation Team to osu! Alumni (2018-01-18)
-- Moved [Pittigbaasje](https://osu.ppy.sh/users/2167433) from Global Moderation Team to osu! Alumni (2018-01-27)
-- Moved [Elfin](https://osu.ppy.sh/users/1399551) from Global Moderation Team to osu! Alumni (2018-01-28)
-- Moved [Fycho](https://osu.ppy.sh/users/1876867) from osu! Alumni to Quality Assurance Team (2018-01-29)
-- Moved [Myxo](https://osu.ppy.sh/users/2202645) from osu! Alumni to Quality Assurance Team (2018-01-29)
+- [Tasha](https://osu.ppy.sh/users/1031958) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (2018-01-08)
+- [spboxer3](https://osu.ppy.sh/users/197974) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (2018-01-09)
+- [Atrue](https://osu.ppy.sh/users/1758523) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (2018-01-18)
+- [Pittigbaasje](https://osu.ppy.sh/users/2167433) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (2018-01-27)
+- [Elfin](https://osu.ppy.sh/users/1399551) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (2018-01-28)
+- [Fycho](https://osu.ppy.sh/users/1876867) wurde aus der Gruppe osu! Alumni in die Gruppe Quality Assurance Team verschoben (2018-01-29)
+- [Myxo](https://osu.ppy.sh/users/2202645) wurde aus der Gruppe osu! Alumni in die Gruppe Quality Assurance Team verschoben (2018-01-29)
 
 ### Beatmap Nominator removals
 
@@ -44,11 +44,11 @@ All users listed below were added on 2018-01-29.
 
 ## February
 
-- Moved [Blocko](https://osu.ppy.sh/users/4075092) from Quality Assurance Team to osu! Alumni (2018-02-04)
+- [Blocko](https://osu.ppy.sh/users/4075092) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (2018-02-04)
 - [Asherz007](https://osu.ppy.sh/users/9014047) wurde zur Gruppe Quality Assurance Team hinzugefügt (2018-02-04)
-- Moved [Darksonic](https://osu.ppy.sh/users/570042) from osu! Alumni to Global Moderation Team (2018-02-13)
-- Moved [Uni](https://osu.ppy.sh/users/617106) from Global Moderation Team to osu! Alumni (2018-02-20)
-- Moved [[ Another ]](https://osu.ppy.sh/users/3416573) from Global Moderation Team to osu! Alumni (2018-02-20)
+- [Darksonic](https://osu.ppy.sh/users/570042) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (2018-02-13)
+- [Uni](https://osu.ppy.sh/users/617106) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (2018-02-20)
+- [[ Another ]](https://osu.ppy.sh/users/3416573) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (2018-02-20)
 - [Irreversible](https://osu.ppy.sh/users/1287964) wurde aus der Gruppe Quality Assurance Team entfernt (2018-02-27)
 
 ### Beatmap Nominator removals
@@ -67,11 +67,11 @@ All users listed below were added on 2018-01-29.
 ## March
 
 - [Lasse](https://osu.ppy.sh/users/896613) wurde zur Gruppe Quality Assurance Team hinzugefügt (2018-03-01)
-- Moved [Stefan](https://osu.ppy.sh/users/626907) from osu! Alumni to Global Moderation Team (2018-03-11)
-- Moved [Okoratu](https://osu.ppy.sh/users/1623405) from Quality Assurance Team to osu! Alumni and Beatmap Nominators (2018-03-17)
-- Moved [shARPII](https://osu.ppy.sh/users/776257) from Global Moderation Team to osu! Alumni (2018-03-17)
+- [Stefan](https://osu.ppy.sh/users/626907) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (2018-03-11)
+- [Okoratu](https://osu.ppy.sh/users/1623405) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni and Beatmap Nominators verschoben (2018-03-17)
+- [shARPII](https://osu.ppy.sh/users/776257) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (2018-03-17)
 - [-Mo-](https://osu.ppy.sh/users/2202163) wurde zur Gruppe Quality Assurance Team hinzugefügt (2018-03-22)
-- Moved [Gabe](https://osu.ppy.sh/users/654108) from Beatmap Nominators to Quality Assurance Team (2018-03-22)
+- [Gabe](https://osu.ppy.sh/users/654108) wurde aus der Gruppe Beatmap Nominators in die Gruppe Quality Assurance Team verschoben (2018-03-22)
 - [Lanturn](https://osu.ppy.sh/users/1446665) wurde zur Gruppe Quality Assurance Team hinzugefügt (2018-03-22)
 - [Mir](https://osu.ppy.sh/users/8688812) wurde zur Gruppe Quality Assurance Team hinzugefügt (2018-03-22)
 
@@ -102,7 +102,7 @@ All users listed below were added on 2018-03-19.
 
 ## April
 
-- Moved [Zetera](https://osu.ppy.sh/users/587737) from Global Moderation Team to osu! Alumni (2018-04-06)
+- [Zetera](https://osu.ppy.sh/users/587737) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (2018-04-06)
 - [Aloda](https://osu.ppy.sh/users/1190127) wurde zur Gruppe Quality Assurance Team hinzugefügt (2018-04-16)
 
 ### Beatmap Nominator removals
@@ -140,7 +140,7 @@ All users listed below were added on 2018-04-23.
 ## May
 
 - [Chaoslitz](https://osu.ppy.sh/users/3621552) wurde zur Gruppe Quality Assurance Team hinzugefügt (2018-05-09)
-- Moved [Myxo](https://osu.ppy.sh/users/2202645) from Quality Assurance Team to osu! Alumni (2018-05-09)
+- [Myxo](https://osu.ppy.sh/users/2202645) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (2018-05-09)
 
 ### Beatmap Nominator removals
 
@@ -158,12 +158,12 @@ All users listed below were added on 2018-04-23.
 
 ## June
 
-- Moved [Zetera](https://osu.ppy.sh/users/587737) from osu! Alumni to Global Moderation Team (2018-06-04)
+- [Zetera](https://osu.ppy.sh/users/587737) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (2018-06-04)
 - [Okoratu](https://osu.ppy.sh/users/1623405) wurde zur Gruppe Global Moderation Team hinzugefügt (2018-06-17)
-- Moved [Kurai](https://osu.ppy.sh/users/77089) from Quality Assurance Team to Global Moderation Team (2018-06-18)
-- Moved [Doyak](https://osu.ppy.sh/users/2046893) from Quality Assurance Team to Global Moderation Team (2018-06-18)
-- Moved [Kurokami](https://osu.ppy.sh/users/260933) from Quality Assurance Team to osu! Alumni (2018-06-18)
-- Moved [Asherz007](https://osu.ppy.sh/users/9014047) from Quality Assurance Team to Beatmap Nominators (2018-06-18)
+- [Kurai](https://osu.ppy.sh/users/77089) wurde aus der Gruppe Quality Assurance Team in die Gruppe Global Moderation Team verschoben (2018-06-18)
+- [Doyak](https://osu.ppy.sh/users/2046893) wurde aus der Gruppe Quality Assurance Team in die Gruppe Global Moderation Team verschoben (2018-06-18)
+- [Kurokami](https://osu.ppy.sh/users/260933) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (2018-06-18)
+- [Asherz007](https://osu.ppy.sh/users/9014047) wurde aus der Gruppe Quality Assurance Team in die Gruppe Beatmap Nominators verschoben (2018-06-18)
 - [Maxus](https://osu.ppy.sh/users/4335785) wurde zur Gruppe Quality Assurance Team hinzugefügt (2018-06-25)
 
 ### Beatmap Nominator removals
@@ -193,7 +193,7 @@ All users listed below were added on 2018-06-12.
 ## July
 
 - [Hobbes2](https://osu.ppy.sh/users/8157492) wurde zur Gruppe Quality Assurance Team hinzugefügt (2018-07-03)
-- Moved [Seijiro](https://osu.ppy.sh/users/2581696) from osu! Alumni to Global Moderation Team (2018-07-18)
+- [Seijiro](https://osu.ppy.sh/users/2581696) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (2018-07-18)
 - **Created Project Loved Team** (2018-07-27)
 - [Backfire](https://osu.ppy.sh/users/263110) wurde zur Gruppe Project Loved Team hinzugefügt (2018-07-27)
 - [Toy](https://osu.ppy.sh/users/2757689) wurde zur Gruppe Project Loved Team hinzugefügt (2018-07-27)
@@ -256,12 +256,12 @@ All users listed below were added on 2018-07-27.
 
 ## September
 
-- Moved [deadbeat](https://osu.ppy.sh/users/128370) from Global Moderation Team to osu! Alumni (2018-09-04)
-- Moved [Doyak](https://osu.ppy.sh/users/2046893) from Global Moderation Team to osu! Alumni (2018-09-09)
-- Moved [Mir](https://osu.ppy.sh/users/8688812) from Quality Assurance Team to osu! Alumni (2018-09-19)
-- Moved [Hobbes2](https://osu.ppy.sh/users/8157492) from Quality Assurance Team to Beatmap Nominators (2018-09-19)
+- [deadbeat](https://osu.ppy.sh/users/128370) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (2018-09-04)
+- [Doyak](https://osu.ppy.sh/users/2046893) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (2018-09-09)
+- [Mir](https://osu.ppy.sh/users/8688812) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (2018-09-19)
+- [Hobbes2](https://osu.ppy.sh/users/8157492) wurde aus der Gruppe Quality Assurance Team in die Gruppe Beatmap Nominators verschoben (2018-09-19)
 - [Kibbleru](https://osu.ppy.sh/users/3193504) wurde zur Gruppe Quality Assurance Team hinzugefügt (2018-09-21)
-- Moved [Elfin](https://osu.ppy.sh/users/1399551) from osu! Alumni to Global Moderation Team (2018-09-26)
+- [Elfin](https://osu.ppy.sh/users/1399551) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (2018-09-26)
 
 ### Beatmap Nominator removals
 
@@ -278,7 +278,7 @@ All users listed below were added on 2018-07-27.
 
 - [topecnz](https://osu.ppy.sh/users/2103927) wurde zur Gruppe Global Moderation Team hinzugefügt (2018-10-01)
 - [-Kazu-](https://osu.ppy.sh/users/920861) wurde zur Gruppe Quality Assurance Team hinzugefügt (2018-10-04)
-- Moved [VeilStar](https://osu.ppy.sh/users/4255720) from Support Team and Global Moderation Team to osu! Alumni (2018-10-05)
+- [VeilStar](https://osu.ppy.sh/users/4255720) wurde aus der Gruppe Support Team and Global Moderation Team in die Gruppe osu! Alumni verschoben (2018-10-05)
 - [TicClick](https://osu.ppy.sh/users/672931) wurde zur Gruppe Global Moderation Team hinzugefügt (2018-10-23)
 
 ### Beatmap Nominator removals
@@ -322,14 +322,14 @@ All users listed below were added on 2018-07-27.
 
 ## November
 
-- Moved [Aloda](https://osu.ppy.sh/users/1190127) from Quality Assurance Team to osu! Alumni (2018-11-07)
-- Moved [Pereira006](https://osu.ppy.sh/users/537344) from osu! Alumni to Global Moderation Team (2018-11-09)
+- [Aloda](https://osu.ppy.sh/users/1190127) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (2018-11-07)
+- [Pereira006](https://osu.ppy.sh/users/537344) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (2018-11-09)
 - [Gottagof4st](https://osu.ppy.sh/users/6122935) wurde zur Gruppe Quality Assurance Team hinzugefügt (2018-11-10)
 - [Kuron-kun](https://osu.ppy.sh/users/2697284) wurde zur Gruppe Quality Assurance Team hinzugefügt (2018-11-10)
 - [Noffy](https://osu.ppy.sh/users/1541323) wurde zur Gruppe Quality Assurance Team hinzugefügt (2018-11-10)
 - [Yuii-](https://osu.ppy.sh/users/2935923) wurde zur Gruppe Quality Assurance Team hinzugefügt (2018-11-10)
 - [Regraz](https://osu.ppy.sh/users/3076909) wurde zur Gruppe Quality Assurance Team hinzugefügt (2018-11-11)
-- Moved [-kevincela-](https://osu.ppy.sh/users/266596) from Global Moderation Team to osu! Alumni (2018-11-17)
+- [-kevincela-](https://osu.ppy.sh/users/266596) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (2018-11-17)
 
 ### Beatmap Nominator removals
 
@@ -340,7 +340,7 @@ All users listed below were added on 2018-07-27.
 
 ## December
 
-- Moved [Hobbes2](https://osu.ppy.sh/users/8157492) from Beatmap Nominators to Quality Assurance Team (2018-12-01)
+- [Hobbes2](https://osu.ppy.sh/users/8157492) wurde aus der Gruppe Beatmap Nominators in die Gruppe Quality Assurance Team verschoben (2018-12-01)
 - [Hinsvar](https://osu.ppy.sh/users/1249323) wurde zur Gruppe Global Moderation Team hinzugefügt (2018-12-05)
-- Moved [Elfin](https://osu.ppy.sh/users/1399551) from Global Moderation Team to osu! Alumni (2018-12-14)
+- [Elfin](https://osu.ppy.sh/users/1399551) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (2018-12-14)
 - [Backfire](https://osu.ppy.sh/users/263110) wurde aus der Gruppe Project Loved Team entfernt (2018-12-31)

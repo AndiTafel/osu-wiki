@@ -15,7 +15,7 @@ Some users' history may be incomplete during this year.
 
 ## February
 
-- Moved [MaxwellDemon](https://osu.ppy.sh/users/4254) from Beatmap Approval Team to osu! Alumni (2008-02-16)
+- [MaxwellDemon](https://osu.ppy.sh/users/4254) wurde aus der Gruppe Beatmap Approval Team in die Gruppe osu! Alumni verschoben (2008-02-16)
 - [James](https://osu.ppy.sh/users/5728) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2008-02-21)
 - [LuigiHann](https://osu.ppy.sh/users/1079) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2008-02-21)
 
@@ -63,5 +63,5 @@ Some users' history may be incomplete during this year.
 
 ## December
 
-- Moved [James](https://osu.ppy.sh/users/5728) from Beatmap Approval Team to osu! Alumni (2008-12-01)
+- [James](https://osu.ppy.sh/users/5728) wurde aus der Gruppe Beatmap Approval Team in die Gruppe osu! Alumni verschoben (2008-12-01)
 - [foulcoon](https://osu.ppy.sh/users/19883) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2008-12-19)
