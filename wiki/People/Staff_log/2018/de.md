@@ -13,11 +13,11 @@
 - [Fycho](https://osu.ppy.sh/users/1876867) wurde aus der Gruppe osu! Alumni in die Gruppe Quality Assurance Team verschoben (29.01.2018)
 - [Myxo](https://osu.ppy.sh/users/2202645) wurde aus der Gruppe osu! Alumni in die Gruppe Quality Assurance Team verschoben (29.01.2018)
 
-### Beatmap Nominator removals
+### Aus den Beatmap-Nominatoren entfernt
 
 - [sheela](https://osu.ppy.sh/users/1138027) - Rücktritt (13.01.2018)
 
-### Beatmap Nominator additions
+### Zu den Beatmap-Nominatoren hinzugefügt
 
 All users listed below were added on 29.01.2018.
 
@@ -51,7 +51,7 @@ All users listed below were added on 29.01.2018.
 - [[ Another ]](https://osu.ppy.sh/users/3416573) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (20.02.2018)
 - [Irreversible](https://osu.ppy.sh/users/1287964) wurde aus der Gruppe Quality Assurance Team entfernt (27.02.2018)
 
-### Beatmap Nominator removals
+### Aus den Beatmap-Nominatoren entfernt
 
 - [Litharrale](https://osu.ppy.sh/users/3189995) - Rücktritt (02.02.2018)
 - [ailv](https://osu.ppy.sh/users/6933054) - unverantwortliche Nominierung (19.02.2018)
@@ -59,7 +59,7 @@ All users listed below were added on 29.01.2018.
 - [Wafu](https://osu.ppy.sh/users/888955) - Rücktritt (25.02.2018)
 - [Voli](https://osu.ppy.sh/users/2522275) - Rücktritt (28.02.2018)
 
-### Beatmap Nominator additions
+### Zu den Beatmap-Nominatoren hinzugefügt
 
 - [Kuron-Kun](https://osu.ppy.sh/users/2697284) (06.02.2018)
 - [ailv](https://osu.ppy.sh/users/6933054) (26.02.2018)
@@ -75,12 +75,12 @@ All users listed below were added on 29.01.2018.
 - [Lanturn](https://osu.ppy.sh/users/1446665) wurde zur Gruppe Quality Assurance Team hinzugefügt (22.03.2018)
 - [Mir](https://osu.ppy.sh/users/8688812) wurde zur Gruppe Quality Assurance Team hinzugefügt (22.03.2018)
 
-### Beatmap Nominator removals
+### Aus den Beatmap-Nominatoren entfernt
 
 - [Naotoshi](https://osu.ppy.sh/users/5364763) - Rücktritt (11.03.2018)
 - [xfraczynho](https://osu.ppy.sh/users/2192669) - Rücktritt (19.03.2018)
 
-### Beatmap Nominator additions
+### Zu den Beatmap-Nominatoren hinzugefügt
 
 All users listed below were added on 12.03.2018.
 
@@ -105,7 +105,7 @@ All users listed below were added on 19.03.2018.
 - [Zetera](https://osu.ppy.sh/users/587737) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (06.04.2018)
 - [Aloda](https://osu.ppy.sh/users/1190127) wurde zur Gruppe Quality Assurance Team hinzugefügt (16.04.2018)
 
-### Beatmap Nominator removals
+### Aus den Beatmap-Nominatoren entfernt
 
 - [Sanyi](https://osu.ppy.sh/users/7496029) - Rücktritt (17.04.2018)
 - [ezek](https://osu.ppy.sh/users/7496029) - Rücktritt (17.04.2018)
@@ -113,7 +113,7 @@ All users listed below were added on 19.03.2018.
 - [Hareimu](https://osu.ppy.sh/users/4138746) - Rücktritt (24.04.2018)
 - Sotarks - Einschränkung des Accounts (30.04.2018)
 
-### Beatmap Nominator additions
+### Zu den Beatmap-Nominatoren hinzugefügt
 
 All users listed below were added on 23.04.2018.
 
@@ -142,7 +142,7 @@ All users listed below were added on 23.04.2018.
 - [Chaoslitz](https://osu.ppy.sh/users/3621552) wurde zur Gruppe Quality Assurance Team hinzugefügt (09.05.2018)
 - [Myxo](https://osu.ppy.sh/users/2202645) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (09.05.2018)
 
-### Beatmap Nominator removals
+### Aus den Beatmap-Nominatoren entfernt
 
 - [Chromoxx](https://osu.ppy.sh/users/1881639) - Rücktritt (01.05.2018)
 - [Chewin](https://osu.ppy.sh/users/617323) - Inaktivität (14.05.2018)
@@ -166,7 +166,7 @@ All users listed below were added on 23.04.2018.
 - [Asherz007](https://osu.ppy.sh/users/9014047) wurde aus der Gruppe Quality Assurance Team in die Gruppe Beatmap Nominators verschoben (18.06.2018)
 - [Maxus](https://osu.ppy.sh/users/4335785) wurde zur Gruppe Quality Assurance Team hinzugefügt (25.06.2018)
 
-### Beatmap Nominator removals
+### Aus den Beatmap-Nominatoren entfernt
 
 - [dsco](https://osu.ppy.sh/users/4330511) - Rücktritt (07.06.2018)
 - [frukoyurdakul](https://osu.ppy.sh/users/7612550) - Rücktritt (11.06.2018)
@@ -176,7 +176,7 @@ All users listed below were added on 23.04.2018.
 - [celerih](https://osu.ppy.sh/users/4696296) - Rücktritt (24.06.2018)
 - [AyanokoRin](https://osu.ppy.sh/users/5376866) - Rücktritt (25.06.2018)
 
-### Beatmap Nominator additions
+### Zu den Beatmap-Nominatoren hinzugefügt
 
 All users listed below were added on 12.06.2018.
 
@@ -198,7 +198,7 @@ All users listed below were added on 12.06.2018.
 - [Backfire](https://osu.ppy.sh/users/263110) wurde zur Gruppe Project Loved Team hinzugefügt (27.07.2018)
 - [Toy](https://osu.ppy.sh/users/2757689) wurde zur Gruppe Project Loved Team hinzugefügt (27.07.2018)
 
-### Beatmap Nominator removals
+### Aus den Beatmap-Nominatoren entfernt
 
 - [Sorcerer](https://osu.ppy.sh/users/1913190) - Rücktritt (01.07.2018)
 - [Arzenvald](https://osu.ppy.sh/users/3027421) - Rücktritt (05.07.2018)
@@ -218,7 +218,7 @@ All users listed below were added on 12.06.2018.
 - [incandescence](https://osu.ppy.sh/users/6256027) - Rücktritt (27.07.2018)
 - [Delis](https://osu.ppy.sh/users/1603923) - Rücktritt (28.07.2018)
 
-### Beatmap Nominator additions
+### Zu den Beatmap-Nominatoren hinzugefügt
 
 All users listed below were added on 27.07.2018.
 
@@ -240,7 +240,7 @@ All users listed below were added on 27.07.2018.
 
 - [ZiRoX](https://osu.ppy.sh/users/200768) wurde zur Gruppe Quality Assurance Team hinzugefügt (19.08.2018)
 
-### Beatmap Nominator removals
+### Aus den Beatmap-Nominatoren entfernt
 
 - [error_exe777](https://osu.ppy.sh/users/7975796) - Nichtbestehen der Probezeit (17.08.2018)
 - [Cerulean Veyron](https://osu.ppy.sh/users/1886524) - Rücktritt (20.08.2018)
@@ -263,7 +263,7 @@ All users listed below were added on 27.07.2018.
 - [Kibbleru](https://osu.ppy.sh/users/3193504) wurde zur Gruppe Quality Assurance Team hinzugefügt (21.09.2018)
 - [Elfin](https://osu.ppy.sh/users/1399551) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (26.09.2018)
 
-### Beatmap Nominator removals
+### Aus den Beatmap-Nominatoren entfernt
 
 - [Seijiro](https://osu.ppy.sh/users/2581696) - Nichtbestehen der Probezeit (02.09.2018)
 - [Cris-](https://osu.ppy.sh/users/6175280) - Nichtbestehen der Probezeit (02.09.2018)
@@ -281,7 +281,7 @@ All users listed below were added on 27.07.2018.
 - [VeilStar](https://osu.ppy.sh/users/4255720) wurde aus der Gruppe Support Team and Global Moderation Team in die Gruppe osu! Alumni verschoben (05.10.2018)
 - [TicClick](https://osu.ppy.sh/users/672931) wurde zur Gruppe Global Moderation Team hinzugefügt (23.10.2018)
 
-### Beatmap Nominator removals
+### Aus den Beatmap-Nominatoren entfernt
 
 - [Plaudible](https://osu.ppy.sh/users/7149815) - Rücktritt (07.10.2018)
 - [BOUYAAA](https://osu.ppy.sh/users/405449) - Nichtbestehen der Probezeit (12.10.2018)
@@ -289,7 +289,7 @@ All users listed below were added on 27.07.2018.
 - [Nifty](https://osu.ppy.sh/users/4956097) - Nichtbestehen der Probezeit (15.10.2018)
 - [Kin](https://osu.ppy.sh/users/480689) - Inaktivität (17.10.2018)
 
-### Beatmap Nominator additions
+### Zu den Beatmap-Nominatoren hinzugefügt
 
 - [Sotarks](https://osu.ppy.sh/users/4452992) (22.10.2018)
 - [Hailie](https://osu.ppy.sh/users/5226970) (22.10.2018)
@@ -331,7 +331,7 @@ All users listed below were added on 27.07.2018.
 - [Regraz](https://osu.ppy.sh/users/3076909) wurde zur Gruppe Quality Assurance Team hinzugefügt (11.11.2018)
 - [-kevincela-](https://osu.ppy.sh/users/266596) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (17.11.2018)
 
-### Beatmap Nominator removals
+### Aus den Beatmap-Nominatoren entfernt
 
 - [hikiko-](https://osu.ppy.sh/users/6512678) - Rücktritt (03.11.2018)
 - [Yauxo](https://osu.ppy.sh/users/898306) - Rücktritt (21.11.2018)

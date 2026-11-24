@@ -15,7 +15,7 @@ Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 - [CLSW](https://osu.ppy.sh/users/531253) wurde aus der Gruppe Beatmap Appreciation Team in die Gruppe Quality Assurance Team verschoben (26.01.2015)
 - [Frostmourne](https://osu.ppy.sh/users/199669) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (27.01.2015)
 
-### New BAT additions
+### Neu zum BAT hinzugefügt
 
 All users listed below were added on 03.01.2015.
 
@@ -71,7 +71,7 @@ All users listed below were added on 03.01.2015.
 - [ToGlette](https://osu.ppy.sh/users/1076236) wurde aus der Gruppe Chat Moderators in die Gruppe Global Moderation Team verschoben (22.02.2015)
 - [Scorpiour](https://osu.ppy.sh/users/867259) wurde aus der Gruppe Global Moderation Team entfernt (28.02.2015)
 
-### Beatmap Nominator additions
+### Zu den Beatmap-Nominatoren hinzugefügt
 
 All users listed below were added on 06.02.2015.
 
@@ -109,7 +109,7 @@ All users listed below were added on 06.02.2015.
 - [Fycho](https://osu.ppy.sh/users/1876867) wurde zur Gruppe Chat Moderators hinzugefügt (12.03.2015)
 - [VeilStar](https://osu.ppy.sh/users/4255720) wurde zur Gruppe Support Team hinzugefügt (28.03.2015)
 
-### Beatmap Nominator additions
+### Zu den Beatmap-Nominatoren hinzugefügt
 
 All users listed below were added on 03.03.2015.
 
@@ -146,7 +146,7 @@ All users listed below were added on 03.03.2015.
 - [Guy](https://osu.ppy.sh/users/91738) wurde aus der Gruppe Beatmap Nominators in die Gruppe Quality Assurance Team verschoben (30.04.2015)
 - [Spectator](https://osu.ppy.sh/users/702598) wurde zur Gruppe Chat Moderators hinzugefügt (30.04.2015)
 
-### Beatmap Nominator additions
+### Zu den Beatmap-Nominatoren hinzugefügt
 
 All users listed below were added on 06.04.2015.
 
@@ -162,7 +162,7 @@ All users listed below were added on 06.04.2015.
 - [Aleks719](https://osu.ppy.sh/users/360176) wurde in die Gruppe osu! Alumni verschoben (07.05.2015)
 - [Tari](https://osu.ppy.sh/users/1779172) wurde zur Gruppe Quality Assurance Team hinzugefügt (08.05.2015)
 
-### Beatmap Nominator additions
+### Zu den Beatmap-Nominatoren hinzugefügt
 
 All users listed below were added on 11.05.2015.
 
@@ -187,7 +187,7 @@ All users listed below were added on 11.05.2015.
 - [IamKwaN](https://osu.ppy.sh/users/1856463) wurde aus der Gruppe Chat Moderators in die Gruppe Global Moderation Team verschoben (10.06.2015)
 - [VeilStar](https://osu.ppy.sh/users/4255720) wurde zur Gruppe Chat Moderators hinzugefügt (14.06.2015)
 
-### Beatmap Nominator additions
+### Zu den Beatmap-Nominatoren hinzugefügt
 
 All users listed below were added on 15.06.2015.
 
@@ -204,7 +204,7 @@ All users listed below were added on 15.06.2015.
 - [[Shi-Ra]](https://osu.ppy.sh/users/2008489) wurde in die Gruppe Quality Assurance Team verschoben (09.07.2015)
 - [Oinari-sama](https://osu.ppy.sh/users/405508) wurde in die Gruppe osu! Alumni verschoben (27.07.2015)
 
-### Beatmap Nominator additions
+### Zu den Beatmap-Nominatoren hinzugefügt
 
 All users listed below were added on 19.07.2015.
 
@@ -243,7 +243,7 @@ All users listed below were added on 19.07.2015.
 - [Krah](https://osu.ppy.sh/users/1436748) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (13.10.2015)
 - [Maeglwn](https://osu.ppy.sh/users/2440936) wurde in die Gruppe osu! Alumni verschoben (29.10.2015)
 
-### Beatmap Nominator additions
+### Zu den Beatmap-Nominatoren hinzugefügt
 
 All users listed below were added on 02.10.2015.
 

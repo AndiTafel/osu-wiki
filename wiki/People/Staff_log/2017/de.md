@@ -8,7 +8,7 @@
 - [heyronii](https://osu.ppy.sh/users/5642779) wurde zur Gruppe Global Moderation Team hinzugefügt (28.01.2017)
 - [ruexia](https://osu.ppy.sh/users/385069) wurde zur Gruppe Global Moderation Team hinzugefügt (29.01.2017)
 
-### Beatmap Nominator additions
+### Zu den Beatmap-Nominatoren hinzugefügt
 
 All users listed below were added on 20.01.2017.
 
@@ -36,7 +36,7 @@ All users listed below were added on 20.01.2017.
 - [Myxo](https://osu.ppy.sh/users/2202645) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (27.04.2017)
 - [Fycho](https://osu.ppy.sh/users/1876867) wurde aus der Gruppe Global Moderation Team and Quality Assurance Team in die Gruppe osu! Alumni verschoben (27.04.2017)
 
-### Beatmap Nominator additions
+### Zu den Beatmap-Nominatoren hinzugefügt
 
 All users listed below were added on 25.04.2017.
 
@@ -58,7 +58,7 @@ All users listed below were added on 25.04.2017.
 
 ## Juni
 
-### Beatmap Nominator additions
+### Zu den Beatmap-Nominatoren hinzugefügt
 
 All users listed below were added on 30.06.2017.
 
@@ -82,7 +82,7 @@ All users listed below were added on 30.06.2017.
 - [Pereira006](https://osu.ppy.sh/users/537344) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (21.09.2017)
 - [Shockwave](https://osu.ppy.sh/users/251631) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (21.09.2017)
 
-### Beatmap Nominator additions
+### Zu den Beatmap-Nominatoren hinzugefügt
 
 All users listed below were added on 10.09.2017.
 
@@ -110,7 +110,7 @@ All users listed below were added on 10.09.2017.
 - [IamKwaN](https://osu.ppy.sh/users/1856463) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (14.10.2017)
 - [Death](https://osu.ppy.sh/users/3242450) wurde zur Gruppe Global Moderation Team and Support Team hinzugefügt (20.10.2017)
 
-### Beatmap Nominator additions
+### Zu den Beatmap-Nominatoren hinzugefügt
 
 All users listed below were added on 24.10.2017.
 
@@ -134,7 +134,7 @@ All users listed below were added on 24.10.2017.
 - [Clobohne](https://osu.ppy.sh/users/499343) wurde zur Gruppe Global Moderation Team hinzugefügt (29.12.2017)
 - [Kurai](https://osu.ppy.sh/users/77089) wurde aus der Gruppe Beatmap Nominators in die Gruppe Quality Assurance Team verschoben (31.12.2017)
 
-### Beatmap Nominator additions
+### Zu den Beatmap-Nominatoren hinzugefügt
 
 All users listed below were added on 11.12.2017.
 
@@ -146,6 +146,6 @@ All users listed below were added on 11.12.2017.
 - [Sorcerer](https://osu.ppy.sh/users/1913190)
 - [Tofu1222](https://osu.ppy.sh/users/6089608)
 
-### Beatmap Nominator removals
+### Aus den Beatmap-Nominatoren entfernt
 
 - [Monstrata](https://osu.ppy.sh/users/2706438) - nicht gerade vorbildliches Verhalten über längere Zeiträume hinweg (19.12.2017)

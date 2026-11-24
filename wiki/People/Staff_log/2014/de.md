@@ -176,7 +176,7 @@ Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 - [Melophobia](https://osu.ppy.sh/users/1077845) wurde in die Gruppe Beatmap Appreciation Team verschoben (24.08.2014)
 - [ToGlette](https://osu.ppy.sh/users/1076236) wurde zur Gruppe Chat Moderators hinzugefügt (27.08.2014)
 
-### New BAT additions
+### Neu zum BAT hinzugefügt
 
 All users listed below were added on 24.08.2014.
 
@@ -237,7 +237,7 @@ All users listed below were added on 30.08.2014.
 - [ztrot](https://osu.ppy.sh/users/6347) wurde in die Gruppe Beatmap Appreciation Team verschoben (20.09.2014)
 - [mintong89](https://osu.ppy.sh/users/966210) wurde aus der Gruppe Beatmap Appreciation Team entfernt (23.09.2014)
 
-### New BAT additions
+### Neu zum BAT hinzugefügt
 
 All users listed below were added on 17.09.2014.
 
@@ -279,7 +279,7 @@ All users listed below were added on 17.09.2014.
 - [ursa](https://osu.ppy.sh/users/321063) wurde in die Gruppe Quality Assurance Team verschoben (25.11.2014)
 - [Neil Watts](https://osu.ppy.sh/users/3048059) wurde zur Gruppe Chat Moderators hinzugefügt (28.11.2014)
 
-### New BAT additions
+### Neu zum BAT hinzugefügt
 
 All users listed below were added on 22.11.2014.
 
@@ -313,7 +313,7 @@ All users listed below were added on 22.11.2014.
 - [Scorpiour](https://osu.ppy.sh/users/867259) wurde in die Gruppe Global Moderation Team verschoben (29.12.2014)
 - [IamKwaN](https://osu.ppy.sh/users/1856463) wurde zur Gruppe Chat Moderators hinzugefügt (30.12.2014)
 
-### New BAT additions
+### Neu zum BAT hinzugefügt
 
 All users listed below were added on 02.12.2014.
 

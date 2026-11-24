@@ -7,7 +7,7 @@
 - [Irreversible](https://osu.ppy.sh/users/1287964) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (25.01.2016)
 - [alacat](https://osu.ppy.sh/users/869782) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (29.01.2016)
 
-### Beatmap Nominator additions
+### Zu den Beatmap-Nominatoren hinzugefügt
 
 - [Sey](https://osu.ppy.sh/users/553656) (20.01.2016)
 - [- Magic Bomb -](https://osu.ppy.sh/users/3071175) (20.01.2016)
@@ -28,7 +28,7 @@
 - [Zero__wind](https://osu.ppy.sh/users/1822830) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (17.03.2016)
 - [Seijiro](https://osu.ppy.sh/users/2581696) wurde zur Gruppe Global Moderation Team hinzugefügt (17.03.2016)
 
-### Beatmap Nominator additions
+### Zu den Beatmap-Nominatoren hinzugefügt
 
 All users listed below were added on 07.03.2016.
 
@@ -62,7 +62,7 @@ All users listed below were added on 07.03.2016.
 - [alacat](https://osu.ppy.sh/users/869782) wurde aus der Gruppe osu! Alumni in die Gruppe Quality Assurance Team verschoben (24.06.2016)
 - [JBHyperion](https://osu.ppy.sh/users/4879508) wurde zur Gruppe Quality Assurance Team hinzugefügt (24.06.2016)
 
-### Beatmap Nominator additions
+### Zu den Beatmap-Nominatoren hinzugefügt
 
 All users listed below were added on 01.06.2016.
 
@@ -86,7 +86,7 @@ All users listed below were added on 01.06.2016.
 
 - [OnosakiHito](https://osu.ppy.sh/users/290128) wurde aus der Gruppe Global Moderation Team in die Gruppe Quality Assurance Team verschoben (04.08.2016)
 
-### Beatmap Nominator additions
+### Zu den Beatmap-Nominatoren hinzugefügt
 
 All users listed below were added on 22.08.2016.
 
@@ -129,7 +129,7 @@ All users listed below were added on 22.08.2016.
 - [-kevincela-](https://osu.ppy.sh/users/266596) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (15.11.2016)
 - [Gabe](https://osu.ppy.sh/users/654108) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (15.11.2016)
 
-### Beatmap Nominator additions
+### Zu den Beatmap-Nominatoren hinzugefügt
 
 All users listed below were added on 04.11.2016.
 
