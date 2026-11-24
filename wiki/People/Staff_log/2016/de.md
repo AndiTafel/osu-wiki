@@ -1,6 +1,6 @@
 # Mitarbeiter-Log 2016
 
-## January
+## Januar
 
 - [Nishiji](https://osu.ppy.sh/users/167629) wurde zur Gruppe Global Moderation Team hinzugefügt (2016-01-03)
 - [Nyquill](https://osu.ppy.sh/users/682935) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (2016-01-03)
@@ -16,13 +16,13 @@
 - [Feerum](https://osu.ppy.sh/users/4815717) (2016-01-21)
 - [newyams99](https://osu.ppy.sh/users/3701008) (2016-01-23)
 
-## February
+## Februar
 
 - [Irreversible](https://osu.ppy.sh/users/1287964) wurde aus der Gruppe osu! Alumni in die Gruppe Quality Assurance Team verschoben (2016-02-20)
 - [Galkan](https://osu.ppy.sh/users/169570) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (2016-02-20)
 - [Guy](https://osu.ppy.sh/users/91738) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (2016-02-25)
 
-## March
+## März
 
 - [Gamu](https://osu.ppy.sh/users/611174) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (2016-03-03)
 - [Zero__wind](https://osu.ppy.sh/users/1822830) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (2016-03-17)
@@ -40,7 +40,7 @@ All users listed below were added on 2016-03-07.
 - [Squirrel](https://osu.ppy.sh/users/9623122)
 - [Avishay](https://osu.ppy.sh/users/2597311)
 
-## May
+## Mai
 
 - [Pittigbaasje](https://osu.ppy.sh/users/2167433) wurde zur Gruppe Global Moderation Team hinzugefügt (2016-05-04)
 - [Atrue](https://osu.ppy.sh/users/1758523) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (2016-05-31)
@@ -52,7 +52,7 @@ All users listed below were added on 2016-03-07.
 - [OnosakiHito](https://osu.ppy.sh/users/290128) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (2016-05-31)
 - [Starry-](https://osu.ppy.sh/users/2166199) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (2016-05-31)
 
-## June
+## Juni
 
 - [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) wurde zur Gruppe Support Team hinzugefügt (2016-06-04)
 - [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) wurde zur Gruppe Global Moderation Team hinzugefügt (2016-06-07)
@@ -76,7 +76,7 @@ All users listed below were added on 2016-06-01.
 - [Nivrad00](https://osu.ppy.sh/users/1984634)
 - [Rizqy](https://osu.ppy.sh/users/1411817)
 
-## July
+## Juli
 
 - [riffy](https://osu.ppy.sh/users/597957) wurde aus der Gruppe Quality Assurance Team in die Gruppe Global Moderation Team verschoben (2016-07-02)
 - [Feerum](https://osu.ppy.sh/users/4815717) wurde aus der Gruppe Beatmap Nominators in die Gruppe Quality Assurance Team verschoben (2016-07-26)
@@ -109,7 +109,7 @@ All users listed below were added on 2016-08-22.
 - [Pentori](https://osu.ppy.sh/users/7452237)
 - [Sieg](https://osu.ppy.sh/users/1404615)
 
-## October
+## Oktober
 
 - [MMzz](https://osu.ppy.sh/users/128993) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (2016-10-08)
 - [pishifat](https://osu.ppy.sh/users/3178418) wurde aus der Gruppe Beatmap Nominators in die Gruppe Quality Assurance Team verschoben (2016-10-18)

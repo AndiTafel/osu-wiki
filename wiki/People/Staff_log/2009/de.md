@@ -5,13 +5,13 @@
 Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 :::
 
-## February
+## Februar
 
 - [Ivalset](https://osu.ppy.sh/users/827) wurde aus der Gruppe Beatmap Approval Team in die Gruppe BATmanager verschoben (2009-02-04)
 - [Larto](https://osu.ppy.sh/users/12328) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2009-02-04)
 - [DawnII](https://osu.ppy.sh/users/8399) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2009-02-14)
 
-## March
+## März
 
 - [An64fan](https://osu.ppy.sh/users/38836) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2009-03-05)
 - [RemmyX25](https://osu.ppy.sh/users/612) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2009-03-05)
@@ -22,18 +22,18 @@ Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 
 - [Skyripper](https://osu.ppy.sh/users/31803) wurde zur Gruppe Beatmap Approval Team hinzugefügt (Moderation) (2009-04-21)
 
-## May
+## Mai
 
 - [Takuma](https://osu.ppy.sh/users/43677) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2009-05-31)
 - [Alace](https://osu.ppy.sh/users/25993) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2009-05-31)
 
-## June
+## Juni
 
 - [strager](https://osu.ppy.sh/users/64678) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2009-06-12)
 - [An64fan](https://osu.ppy.sh/users/38836) wurde aus der Gruppe Beatmap Approval Team in die Gruppe osu! Alumni verschoben (2009-06-15)
 - [Saturos-fangirl](https://osu.ppy.sh/users/11874) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2009-06-17)
 
-## July
+## Juli
 
 - [Starrodkirby86](https://osu.ppy.sh/users/410) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2009-07-08)
 
@@ -48,7 +48,7 @@ Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 
 - [Mogsworth](https://osu.ppy.sh/users/4018) wurde aus der Gruppe Beatmap Approval Team in die Gruppe osu! Alumni verschoben (2009-09-30)
 
-## October
+## Oktober
 
 - [JarJarJacob](https://osu.ppy.sh/users/25615) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2009-10-16)
 - [whymeman](https://osu.ppy.sh/users/51994) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2009-10-16)
@@ -61,7 +61,7 @@ Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 - [Ephemeral](https://osu.ppy.sh/users/102335) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2009-11-30)
 - [mtmcl](https://osu.ppy.sh/users/5960) wurde aus der Gruppe osu! Alumni in die Gruppe Beatmap Approval Team verschoben (2009-11-30)
 
-## December
+## Dezember
 
 - [abalee](https://osu.ppy.sh/users/13103) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2009-12-14)
 - [osuplayer111](https://osu.ppy.sh/users/33599) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2009-12-15)

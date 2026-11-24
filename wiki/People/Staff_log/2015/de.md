@@ -5,7 +5,7 @@
 Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 :::
 
-## January
+## Januar
 
 - [Krisom](https://osu.ppy.sh/users/99269) wurde in die Gruppe osu! Alumni verschoben (2015-01-03)
 - [Nemis](https://osu.ppy.sh/users/1635091) wurde aus der Gruppe Beatmap Appreciation Team entfernt (2015-01-03)
@@ -35,7 +35,7 @@ All users listed below were added on 2015-01-03.
 - [Sonnyc](https://osu.ppy.sh/users/11771)
 - [Xgor](https://osu.ppy.sh/users/98661)
 
-## February
+## Februar
 
 - [QHideaki13](https://osu.ppy.sh/users/733998) wurde in die Gruppe osu! Alumni verschoben (2015-02-01)
 - [KSHR](https://osu.ppy.sh/users/409957) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (2015-02-01)
@@ -100,7 +100,7 @@ All users listed below were added on 2015-02-06.
 - [ExUsagi](https://osu.ppy.sh/users/10004749)
 - [appleeaterx](https://osu.ppy.sh/users/2407160)
 
-## March
+## März
 
 - [aabc271](https://osu.ppy.sh/users/155707) wurde in die Gruppe osu! Alumni verschoben (2015-03-02)
 - [Gabe](https://osu.ppy.sh/users/654108) wurde in die Gruppe osu! Alumni verschoben (2015-03-02)
@@ -155,7 +155,7 @@ All users listed below were added on 2015-04-06.
 - [Krfawy](https://osu.ppy.sh/users/1478292)
 - [sukiNathan](https://osu.ppy.sh/users/4785223)
 
-## May
+## Mai
 
 - [Mystyk](https://osu.ppy.sh/users/930165) wurde in die Gruppe osu! Alumni verschoben (2015-05-01)
 - [Kobold84](https://osu.ppy.sh/users/3227533) wurde zur Gruppe Chat Moderators hinzugefügt (2015-05-06)
@@ -173,7 +173,7 @@ All users listed below were added on 2015-05-11.
 - [JBHyperion](https://osu.ppy.sh/users/4879508)
 - [ZiRoX](https://osu.ppy.sh/users/200768)
 
-## June
+## Juni
 
 - [riffy](https://osu.ppy.sh/users/597957) wurde aus der Gruppe Beatmap Nominators in die Gruppe Quality Assurance Team verschoben (2015-06-02)
 - [Atrue](https://osu.ppy.sh/users/1758523) wurde in die Gruppe Global Moderation Team verschoben (2015-06-02)
@@ -197,7 +197,7 @@ All users listed below were added on 2015-06-15.
 - [Yuii-](https://osu.ppy.sh/users/3468063)
 - [Wafu](https://osu.ppy.sh/users/888955)
 
-## July
+## Juli
 
 - [[ Another ]](https://osu.ppy.sh/users/3416573) wurde zur Gruppe Chat Moderators hinzugefügt (2015-07-01)
 - [Kurokami](https://osu.ppy.sh/users/260933) wurde zur Gruppe Quality Assurance Team hinzugefügt (2015-07-01)
@@ -237,7 +237,7 @@ All users listed below were added on 2015-07-19.
 - [[Shi-Ra]](https://osu.ppy.sh/users/2008489) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (2015-09-05)
 - [Lust](https://osu.ppy.sh/users/2316951) wurde zur Gruppe Quality Assurance Team hinzugefügt (2015-09-06)
 
-## October
+## Oktober
 
 - [CLSW](https://osu.ppy.sh/users/531253) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (2015-10-12)
 - [Krah](https://osu.ppy.sh/users/1436748) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (2015-10-13)
@@ -264,7 +264,7 @@ All users listed below were added on 2015-10-02.
 - [ExPew](https://osu.ppy.sh/users/665612) wurde in die Gruppe osu! Alumni verschoben (2015-11-30)
 - [Blocko](https://osu.ppy.sh/users/4075092) wurde aus der Gruppe Beatmap Nominators in die Gruppe Quality Assurance Team verschoben (2015-11-30)
 
-## December
+## Dezember
 
 - [ghm12](https://osu.ppy.sh/users/2594229) wurde zur Gruppe Global Moderation Team hinzugefügt (2015-12-09)
 - [OnosakiHito](https://osu.ppy.sh/users/290128) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (2015-12-16)

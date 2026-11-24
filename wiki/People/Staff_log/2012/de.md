@@ -5,7 +5,7 @@
 Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 :::
 
-## January
+## Januar
 
 - [Aleks719](https://osu.ppy.sh/users/360176) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2012-01-01)
 - [Ekaru](https://osu.ppy.sh/users/17938) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2012-01-01)
@@ -26,13 +26,13 @@ Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 - [wmfchris](https://osu.ppy.sh/users/7401) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2012-01-06)
 - [Loginer](https://osu.ppy.sh/users/819) wurde aus der Gruppe Beatmap Appreciation Team in die Gruppe osu! Alumni verschoben (2012-01-16)
 
-## February
+## Februar
 
 - [NotShinta](https://osu.ppy.sh/users/162159) wurde aus der Gruppe Mapping Assistance Team entfernt (2012-02-01)
 - [arken1015](https://osu.ppy.sh/users/113646) wurde aus der Gruppe Mapping Assistance Team entfernt (2012-02-05)
 - [Ekaru](https://osu.ppy.sh/users/17938) wurde aus der Gruppe Mapping Assistance Team entfernt (2012-02-21)
 
-## March
+## März
 
 - [Faust](https://osu.ppy.sh/users/65152) wurde aus der Gruppe Mapping Assistance Team entfernt (2012-03-01)
 - [Shiirn](https://osu.ppy.sh/users/465126) wurde aus der Gruppe Mapping Assistance Team in die Gruppe Beatmap Appreciation Team verschoben (2012-03-20)
@@ -43,7 +43,7 @@ Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 
 - [abalee](https://osu.ppy.sh/users/13103) wurde aus der Gruppe Beatmap Appreciation Team in die Gruppe osu! Alumni verschoben (2012-04-29)
 
-## May
+## Mai
 
 - [Andrea](https://osu.ppy.sh/users/33599) wurde aus der Gruppe Beatmap Appreciation Team in die Gruppe osu! Alumni verschoben (2012-05-02)
 - [Gonzvlo](https://osu.ppy.sh/users/237733) wurde aus der Gruppe Beatmap Appreciation Team in die Gruppe osu! Alumni verschoben (2012-05-12)
@@ -73,13 +73,13 @@ Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 - [Odaril](https://osu.ppy.sh/users/113005) wurde aus der Gruppe Beatmap Appreciation Team in die Gruppe osu! Alumni verschoben (2012-05-25)
 - [Andrea](https://osu.ppy.sh/users/33599) wurde aus der Gruppe osu! Alumni in die Gruppe Beatmap Appreciation Team verschoben (2012-05-25)
 
-## June
+## Juni
 
 - [Skyripper](https://osu.ppy.sh/users/31803) wurde aus der Gruppe osu! Alumni in die Gruppe Global Mod Team verschoben (2012-06-02)
 - [Saturos-fangirl](https://osu.ppy.sh/users/11874) wurde erneut zur Gruppe Beatmap Appreciation Team hinzugefügt (2012-06-02)
 - [Odaril](https://osu.ppy.sh/users/113005) wurde aus der Gruppe osu! Alumni in die Gruppe Beatmap Appreciation Team verschoben (2012-06-26)
 
-## July
+## Juli
 
 - [jericho2442](https://osu.ppy.sh/users/88904) wurde aus der Gruppe Beatmap Appreciation Team in die Gruppe osu! Alumni verschoben (2012-07-01)
 - [Rukarioman](https://osu.ppy.sh/users/110372) wurde aus der Gruppe Mapping Assistance Team entfernt (2012-07-11)
@@ -111,7 +111,7 @@ Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 - [Jarby](https://osu.ppy.sh/users/25615) wurde erneut zur Gruppe Mapping Assistance Team hinzugefügt (2012-09-29)
 - [Gens](https://osu.ppy.sh/users/23062) wurde aus der Gruppe Beatmap Appreciation Team in die Gruppe osu! Alumni verschoben (2012-09-29)
 
-## October
+## Oktober
 
 - [Melophobia](https://osu.ppy.sh/users/1077845) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2012-10-21)
 - [p3n](https://osu.ppy.sh/users/123703) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2012-10-21)
@@ -130,7 +130,7 @@ Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 - [Roddie](https://osu.ppy.sh/users/121337) wurde erneut zur Gruppe Mapping Assistance Team hinzugefügt (2012-11-15)
 - [kingking9](https://osu.ppy.sh/users/1277097) wurde zur Gruppe Chat Moderators hinzugefügt (2012-11-19)
 
-## December
+## Dezember
 
 - [Kawayi Rika](https://osu.ppy.sh/users/596298) wurde aus der Gruppe Mapping Assistance Team entfernt (2012-12-05)
 - [Sallad4ever](https://osu.ppy.sh/users/185422) wurde aus der Gruppe Mapping Assistance Team entfernt (2012-12-05)

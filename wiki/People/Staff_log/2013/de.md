@@ -5,7 +5,7 @@
 Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 :::
 
-## January
+## Januar
 
 - [Sushi](https://osu.ppy.sh/users/43108) wurde aus der Gruppe Mapping Assistance Team in die Gruppe Beatmap Appreciation Team verschoben (2013-01-04)
 - [Agnes](https://osu.ppy.sh/users/136982) wurde aus der Gruppe osu! Alumni in die Gruppe Beatmap Appreciation Team verschoben (2013-01-04)
@@ -15,7 +15,7 @@ Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 - [matthewhln](https://osu.ppy.sh/users/291487) wurde zur Gruppe Chat Moderators hinzugefügt (2013-01-24)
 - [Faust](https://osu.ppy.sh/users/65152) wurde erneut zur Gruppe Mapping Assistance Team hinzugefügt (2013-01-24)
 
-## February
+## Februar
 
 - [IceBeam](https://osu.ppy.sh/users/208440) wurde aus der Gruppe Beatmap Appreciation Team in die Gruppe osu! Alumni verschoben (2013-02-07)
 - [Jacob](https://osu.ppy.sh/users/976963) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2013-02-07)
@@ -35,7 +35,7 @@ Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 - [Pereira006](https://osu.ppy.sh/users/537344) wurde zur Gruppe Chat Moderators hinzugefügt (2013-02-16)
 - [Breeze](https://osu.ppy.sh/users/77537) wurde aus der Gruppe Beatmap Appreciation Team in die Gruppe osu! Alumni verschoben (2013-02-17)
 
-## March
+## März
 
 - [Potofu](https://osu.ppy.sh/users/657404) wurde zur Gruppe Chat Moderators hinzugefügt (2013-03-02)
 - [Mercurius](https://osu.ppy.sh/users/589550) wurde zur Gruppe Chat Moderators hinzugefügt (2013-03-02)
@@ -81,7 +81,7 @@ Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 - [Shiro](https://osu.ppy.sh/users/113005) wurde aus der Gruppe osu! Alumni in die Gruppe Beatmap Appreciation Team verschoben (2013-04-26)
 - [ignorethis](https://osu.ppy.sh/users/27343) wurde aus der Gruppe Chat Moderators in die Gruppe osu! Alumni verschoben (2013-04-30)
 
-## May
+## Mai
 
 - [LKs](https://osu.ppy.sh/users/150768) wurde aus der Gruppe Beatmap Appreciation Team entfernt (2013-05-02)
 - [orioncomet](https://osu.ppy.sh/users/104827) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2013-05-04)
@@ -98,7 +98,7 @@ Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 - [NaomiMinette](https://osu.ppy.sh/users/120265) wurde zur Gruppe Global Moderation Team hinzugefügt (2013-05-20)
 - [DiamondCrash](https://osu.ppy.sh/users/123790) wurde zur Gruppe Beatmap Appreciation Team hinzugefügt (2013-05-24)
 
-## June
+## Juni
 
 - [Saten](https://osu.ppy.sh/users/444506) wurde zur Gruppe Global Moderation Team hinzugefügt (2013-06-01)
 - [Deif](https://osu.ppy.sh/users/318565) wurde zur Gruppe osu!catch Beatmap Appreciation Team hinzugefügt (2013-06-01)
@@ -113,7 +113,7 @@ Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 - [Breeze](https://osu.ppy.sh/users/77537) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (2013-06-29)
 - [Elly-chan](https://osu.ppy.sh/users/660622) wurde zur Gruppe Global Moderation Team hinzugefügt (2013-06-29)
 
-## July
+## Juli
 
 - [mancuso\_JM\_](https://osu.ppy.sh/users/521568) wurde aus der Gruppe Beatmap Appreciation Team in die Gruppe osu! Alumni verschoben (2013-07-01)
 - [mancuso\_JM\_](https://osu.ppy.sh/users/521568) wurde aus der Gruppe osu! Alumni in die Gruppe Beatmap Appreciation Team verschoben (2013-07-09)
@@ -183,7 +183,7 @@ Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 - [Teara](https://osu.ppy.sh/users/123491) wurde aus der Gruppe Beatmap Appreciation Team in die Gruppe osu! Alumni verschoben (2013-09-26)
 - [0\_o](https://osu.ppy.sh/users/56708) wurde zur Gruppe osu! Alumni hinzugefügt (2013-09-26)
 
-## October
+## Oktober
 
 - [eldnl](https://osu.ppy.sh/users/285756) wurde aus der Gruppe Beatmap Appreciation Team entfernt (2013-10-04)
 - [blissfulyoshi](https://osu.ppy.sh/users/20865) wurde aus der Gruppe Beatmap Appreciation Team in die Gruppe osu! Alumni verschoben (2013-10-08)
@@ -234,7 +234,7 @@ Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 - [blissfulyoshi](https://osu.ppy.sh/users/20865) wurde aus der Gruppe osu! Alumni in die Gruppe Beatmap Appreciation Team verschoben (2013-11-24)
 - [Lissette](https://osu.ppy.sh/users/19835) wurde aus der Gruppe osu! Alumni in die Gruppe Beatmap Appreciation Team verschoben (2013-11-27)
 
-## December
+## Dezember
 
 - [mancuso\_JM\_](https://osu.ppy.sh/users/521568) wurde aus der Gruppe Beatmap Appreciation Team in die Gruppe osu! Alumni verschoben (2013-12-01)
 - [Chewin](https://osu.ppy.sh/users/617323) wurde aus der Gruppe Beatmap Appreciation Team in die Gruppe osu! Alumni verschoben (2013-12-05)

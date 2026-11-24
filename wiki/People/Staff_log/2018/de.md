@@ -1,6 +1,6 @@
 # Mitarbeiter-Log 2018
 
-## January
+## Januar
 
 - [Feerum](https://osu.ppy.sh/users/4815717) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (2018-01-02)
 - [Tommay](https://osu.ppy.sh/users/3132818) wurde zur Gruppe Global Moderation Team hinzugefügt (2018-01-05)
@@ -42,7 +42,7 @@ All users listed below were added on 2018-01-29.
 - [ezek](https://osu.ppy.sh/users/180241)
 - [pinataman](https://osu.ppy.sh/users/1235485)
 
-## February
+## Februar
 
 - [Blocko](https://osu.ppy.sh/users/4075092) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (2018-02-04)
 - [Asherz007](https://osu.ppy.sh/users/9014047) wurde zur Gruppe Quality Assurance Team hinzugefügt (2018-02-04)
@@ -64,7 +64,7 @@ All users listed below were added on 2018-01-29.
 - [Kuron-Kun](https://osu.ppy.sh/users/2697284) (2018-02-06)
 - [ailv](https://osu.ppy.sh/users/6933054) (2018-02-26)
 
-## March
+## März
 
 - [Lasse](https://osu.ppy.sh/users/896613) wurde zur Gruppe Quality Assurance Team hinzugefügt (2018-03-01)
 - [Stefan](https://osu.ppy.sh/users/626907) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (2018-03-11)
@@ -137,7 +137,7 @@ All users listed below were added on 2018-04-23.
 - [Kalibe](https://osu.ppy.sh/users/3376777)
 - [Nao Tomori](https://osu.ppy.sh/users/5364763)
 
-## May
+## Mai
 
 - [Chaoslitz](https://osu.ppy.sh/users/3621552) wurde zur Gruppe Quality Assurance Team hinzugefügt (2018-05-09)
 - [Myxo](https://osu.ppy.sh/users/2202645) wurde aus der Gruppe Quality Assurance Team in die Gruppe osu! Alumni verschoben (2018-05-09)
@@ -156,7 +156,7 @@ All users listed below were added on 2018-04-23.
 - [Julie](https://osu.ppy.sh/users/2420987) - inactivity (2018-05-30)
 - [Weber](https://osu.ppy.sh/users/6410432) - inactivity (2018-05-30)
 
-## June
+## Juni
 
 - [Zetera](https://osu.ppy.sh/users/587737) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (2018-06-04)
 - [Okoratu](https://osu.ppy.sh/users/1623405) wurde zur Gruppe Global Moderation Team hinzugefügt (2018-06-17)
@@ -190,7 +190,7 @@ All users listed below were added on 2018-06-12.
 - [_Stan](https://osu.ppy.sh/users/1653229)
 - [DoNotMess](https://osu.ppy.sh/users/1596318)
 
-## July
+## Juli
 
 - [Hobbes2](https://osu.ppy.sh/users/8157492) wurde zur Gruppe Quality Assurance Team hinzugefügt (2018-07-03)
 - [Seijiro](https://osu.ppy.sh/users/2581696) wurde aus der Gruppe osu! Alumni in die Gruppe Global Moderation Team verschoben (2018-07-18)
@@ -274,7 +274,7 @@ All users listed below were added on 2018-07-27.
 - [riffy](https://osu.ppy.sh/users/597957) - resignation (2018-09-09)
 - [Ascendance](https://osu.ppy.sh/users/2931883) - resignation (2018-09-15)
 
-## October
+## Oktober
 
 - [topecnz](https://osu.ppy.sh/users/2103927) wurde zur Gruppe Global Moderation Team hinzugefügt (2018-10-01)
 - [-Kazu-](https://osu.ppy.sh/users/920861) wurde zur Gruppe Quality Assurance Team hinzugefügt (2018-10-04)
@@ -338,7 +338,7 @@ All users listed below were added on 2018-07-27.
 - [Smokeman](https://osu.ppy.sh/users/2140676) - failing probation (2018-11-22)
 - [Wishkey](https://osu.ppy.sh/users/1101704) - resignation (2018-11-30)
 
-## December
+## Dezember
 
 - [Hobbes2](https://osu.ppy.sh/users/8157492) wurde aus der Gruppe Beatmap Nominators in die Gruppe Quality Assurance Team verschoben (2018-12-01)
 - [Hinsvar](https://osu.ppy.sh/users/1249323) wurde zur Gruppe Global Moderation Team hinzugefügt (2018-12-05)

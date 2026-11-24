@@ -1,6 +1,6 @@
 # Mitarbeiter-Log 2019
 
-## January
+## Januar
 
 - [clayton](https://osu.ppy.sh/users/3666350) wurde zur Gruppe Project Loved Team hinzugefügt (2019-01-26)
 - [mancuso_JM_](https://osu.ppy.sh/users/521568) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (2019-01-31)
@@ -14,7 +14,7 @@
 - [Net0](https://osu.ppy.sh/users/5099768) - inappropriate behaviour (2019-01-25)
 - [iYiyo](https://osu.ppy.sh/users/3919785) - resignation (2019-01-30)
 
-## February
+## Februar
 
 - [Shoegazer](https://osu.ppy.sh/users/2520707) wurde zur Gruppe Project Loved Team hinzugefügt (2019-02-13)
 - [Yuii-](https://osu.ppy.sh/users/2935923) wurde aus der Gruppe Quality Assurance Team entfernt (2019-02-16)
@@ -64,7 +64,7 @@ All users listed below were added on 2019-02-16.
 - [KeppSado](https://osu.ppy.sh/users/11085809)
 - [Yuii-](https://osu.ppy.sh/users/2935923)
 
-## March
+## März
 
 - [Mir](https://osu.ppy.sh/users/8688812) wurde aus der Gruppe osu! Alumni in die Gruppe Quality Assurance Team verschoben (2019-03-23)
 
@@ -97,7 +97,7 @@ All users listed below were added on 2019-02-16.
 - [DMT9 Nowa](https://osu.ppy.sh/users/5428909) - resignation (2019-04-27)
 - [\_WWWWWW\_WWWWWW\_](https://osu.ppy.sh/users/1981781) - unsatisfactory behaviour (2019-04-30)
 
-## May
+## Mai
 
 - **Quality Assurance Team became Nomination Assessment Team** (2019-05-06)
 - [Faputa](https://osu.ppy.sh/users/845733) wurde aus der Gruppe Beatmap Nominators in die Gruppe Nomination Assessment Team verschoben (2019-05-07)
@@ -128,7 +128,7 @@ All users listed below were added on 2019-02-16.
 - [Kaitjuh](https://osu.ppy.sh/users/2225327) - resignation (2019-05-19)
 - [DoNotMess](https://osu.ppy.sh/users/1596318) - resignation (2019-05-28)
 
-## June
+## Juni
 
 - [clayton](https://osu.ppy.sh/users/3666350) wurde aus der Gruppe Project Loved Team entfernt (2019-06-21)
 - [Hinsvar](https://osu.ppy.sh/users/1249323) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (2019-06-30)
@@ -152,7 +152,7 @@ All users listed below were added on 2019-02-16.
 - [Greenshell](https://osu.ppy.sh/users/8693851) - resignation (2019-06-26)
 - [_Epreus](https://osu.ppy.sh/users/7342798) - resignation (2019-06-29)
 
-## July
+## Juli
 
 - [Spkz](https://osu.ppy.sh/users/2964029) wurde aus der Gruppe Global Moderation Team in die Gruppe osu! Alumni verschoben (2019-07-13)
 
@@ -226,7 +226,7 @@ All users listed below were added on 2019-02-16.
 - [Mirash](https://osu.ppy.sh/users/2841009) - insufficient proficiency (2019-09-10)
 - [bite you death](https://osu.ppy.sh/users/6398464) - insufficient proficiency (2019-09-10)
 
-## October
+## Oktober
 
 - [- [bibitaru] -](https://osu.ppy.sh/users/4482419) wurde zur Gruppe Global Moderation Team hinzugefügt (2019-10-05)
 - [Loneight](https://osu.ppy.sh/users/663131) wurde zur Gruppe Global Moderation Team hinzugefügt (2019-10-05)
@@ -302,7 +302,7 @@ All users listed below were added on 2019-02-16.
 - [Realazy](https://osu.ppy.sh/users/918297) wurde aus der Gruppe Beatmap Nominators in die Gruppe Probationary Beatmap Nominators - nominated beatmap with significant RC violations verschoben (2019-11-29)
 - [Sinnoh](https://osu.ppy.sh/users/4236057) wurde aus der Gruppe Beatmap Nominators in die Gruppe Probationary Beatmap Nominators - nominated beatmap with significant RC violations and overall insufficient nomination quality verschoben (2019-11-29)
 
-## December
+## Dezember
 
 - [clayton](https://osu.ppy.sh/users/3666350) wurde zur Gruppe Project Loved Team hinzugefügt (2019-12-03)
 - [Mao](https://osu.ppy.sh/users/2204515) wurde aus der Gruppe Nomination Assessment Team in die Gruppe osu! Alumni verschoben (2019-12-15)

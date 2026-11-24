@@ -5,7 +5,7 @@
 Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 :::
 
-## January
+## Januar
 
 - [Derekku](https://osu.ppy.sh/users/91341) wurde aus der Gruppe Mapping Assistance Team in die Gruppe Global Mod Team verschoben (2011-01-07)
 - [Colin Hou](https://osu.ppy.sh/users/196614) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2011-01-21)
@@ -13,13 +13,13 @@ Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 - [Rukarioman](https://osu.ppy.sh/users/110372) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2011-01-21)
 - [arken1015](https://osu.ppy.sh/users/113646) wurde erneut zur Gruppe Mapping Assistance Team hinzugefügt (2011-01-25)
 
-## February
+## Februar
 
 - [James2250](https://osu.ppy.sh/users/16978) wurde zur Gruppe Beatmap Approval Team hinzugefügt (2011-02-20)
 - [blissfulyoshi](https://osu.ppy.sh/users/20865) wurde aus der Gruppe Mapping Assistance Team in die Gruppe Beatmap Approval Team verschoben (2011-02-20)
 - [Derekku](https://osu.ppy.sh/users/91341) wurde aus der Gruppe Global Mod Team in die Gruppe Community Managers verschoben (2011-02-20)
 
-## May
+## Mai
 
 - [Larto](https://osu.ppy.sh/users/12328) wurde aus der Gruppe Beatmap Approval Team in die Gruppe osu! Alumni verschoben (2011-05-06)
 - [Mafiamaster](https://osu.ppy.sh/users/17695) wurde aus der Gruppe Beatmap Approval Team in die Gruppe osu! Alumni verschoben (2011-05-14)
@@ -45,12 +45,12 @@ Die Historie einiger Nutzer ist in diesem Jahr möglicherweise unvollständig.
 - [Sallad4ever](https://osu.ppy.sh/users/185422) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2011-09-29)
 - [SapphireGhost](https://osu.ppy.sh/users/388602) wurde zur Gruppe Mapping Assistance Team hinzugefügt (2011-09-29)
 
-## October
+## Oktober
 
 - [Card N'FoRcE](https://osu.ppy.sh/users/3936) wurde aus der Gruppe Beatmap Appreciation Team in die Gruppe osu! Alumni verschoben (2011-10-03)
 - [deepsea](https://osu.ppy.sh/users/7824) wurde aus der Gruppe Global Mod Team in die Gruppe osu! Alumni verschoben (2011-10-10)
 
-## December
+## Dezember
 
 - [Breeze](https://osu.ppy.sh/users/77537) wurde aus der Gruppe Mapping Assistance Team in die Gruppe Beatmap Appreciation Team verschoben (2011-12-08)
 - [Dangaard](https://osu.ppy.sh/users/19488) wurde aus der Gruppe Mapping Assistance Team in die Gruppe Beatmap Appreciation Team verschoben (2011-12-08)
