@@ -1,10 +1,10 @@
-# Staff log 2023
+# Mitarbeiter-Log 2023
 
-Abbreviations for user groups are used throughout this log:
+In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
-- **BN:** [Beatmap Nominators](/wiki/People/Beatmap_Nominators)
-- **GMT:** [Global Moderation Team](/wiki/People/Global_Moderation_Team)
-- **NAT:** [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team)
+- **BN:** [Beatmap-Nominatoren](/wiki/People/Beatmap_Nominators)
+- **GMT:** [Globales Moderationsteam](/wiki/People/Global_Moderation_Team)
+- **NAT:** [Nomination-Assessment-Team](/wiki/People/Nomination_Assessment_Team)
 
 ## January
 
@@ -670,6 +670,6 @@ Abbreviations for user groups are used throughout this log:
 - 2023-10-22: Removed [Decku](https://osu.ppy.sh/users/13360768) from **BN**
 - 2023-10-23: Removed [Mimari](https://osu.ppy.sh/users/14339830) from **BN**
 
-## After October
+## Nach Oktober
 
-Since 27 October, 2023, changes to users' groups are recorded on the ["group history" page of the website](https://osu.ppy.sh/groups/history). This wiki article is no longer updated.
+Seit dem 27. Oktober 2023 werden die Änderungen der Benutzergruppen in der [Gruppenhistorie](https://osu.ppy.sh/groups/history) auf der Webseite dokumentiert. Dieser Wiki-Artikel wird nicht mehr aktualisiert.

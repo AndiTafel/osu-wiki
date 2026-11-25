@@ -1,10 +1,10 @@
-# Staff log 2022
+# Mitarbeiter-Log 2022
 
-Abbreviations for user groups are used throughout this log:
+In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
-- **BN:** [Beatmap Nominators](/wiki/People/Beatmap_Nominators)
-- **GMT:** [Global Moderation Team](/wiki/People/Global_Moderation_Team)
-- **NAT:** [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team)
+- **BN:** [Beatmap-Nominatoren](/wiki/People/Beatmap_Nominators)
+- **GMT:** [Globales Moderationsteam](/wiki/People/Global_Moderation_Team)
+- **NAT:** [Nomination-Assessment-Team](/wiki/People/Nomination_Assessment_Team)
 
 ## January
 
