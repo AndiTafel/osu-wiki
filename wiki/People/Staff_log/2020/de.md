@@ -8,27 +8,27 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 ## Januar
 
-- 2020-01-06: Added [yaspo](https://osu.ppy.sh/users/4945926) to **NAT**
+- 2020-01-06: [yaspo](https://osu.ppy.sh/users/4945926) wurde zur Gruppe **NAT** hinzugefügt
 - 2020-01-07: Moved [kanpakyin](https://osu.ppy.sh/users/394326) from **osu! Alumni** to **GMT**
-- 2020-01-26: Added [Greaper](https://osu.ppy.sh/users/2369776) to **NAT**
+- 2020-01-26: [Greaper](https://osu.ppy.sh/users/2369776) wurde zur Gruppe **NAT** hinzugefügt
 
 ### Beatmap-Nominatoren
 
 #### Hinzugefügt
 
-- 2020-01-01: Added [\_DUSK\_](https://osu.ppy.sh/users/6092181) to **Probationary BN**
-- 2020-01-06: Added [Vulkin](https://osu.ppy.sh/users/4901066) to **Probationary BN**
-- 2020-01-06: Added [Hoshikuz](https://osu.ppy.sh/users/9892196) to **Probationary BN**
-- 2020-01-07: Added [Lacrima](https://osu.ppy.sh/users/4915649) to **Probationary BN**
-- 2020-01-10: Added [incandescence](https://osu.ppy.sh/users/6256027) to **Probationary BN**
-- 2020-01-10: Added [Voxa](https://osu.ppy.sh/users/9229539) to **Probationary BN**
-- 2020-01-13: Added [celerih](https://osu.ppy.sh/users/4696296) to **Probationary BN**
-- 2020-01-16: Added [Yales](https://osu.ppy.sh/users/2377881) to **Probationary BN**
-- 2020-01-19: Added [SMOKELIND](https://osu.ppy.sh/users/9327302) to **Probationary BN**
-- 2020-01-20: Added [Capu](https://osu.ppy.sh/users/2474015) to **Probationary BN**
-- 2020-01-26: Added [Dapuluous](https://osu.ppy.sh/users/8140944) to **Probationary BN**
-- 2020-01-28: Added [Stefan](https://osu.ppy.sh/users/626907) to **Probationary BN**
-- 2020-01-28: Added [kanpakyin](https://osu.ppy.sh/users/394326) to **Probationary BN**
+- 2020-01-01: [\_DUSK\_](https://osu.ppy.sh/users/6092181) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-01-06: [Vulkin](https://osu.ppy.sh/users/4901066) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-01-06: [Hoshikuz](https://osu.ppy.sh/users/9892196) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-01-07: [Lacrima](https://osu.ppy.sh/users/4915649) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-01-10: [incandescence](https://osu.ppy.sh/users/6256027) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-01-10: [Voxa](https://osu.ppy.sh/users/9229539) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-01-13: [celerih](https://osu.ppy.sh/users/4696296) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-01-16: [Yales](https://osu.ppy.sh/users/2377881) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-01-19: [SMOKELIND](https://osu.ppy.sh/users/9327302) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-01-20: [Capu](https://osu.ppy.sh/users/2474015) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-01-26: [Dapuluous](https://osu.ppy.sh/users/8140944) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-01-28: [Stefan](https://osu.ppy.sh/users/626907) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-01-28: [kanpakyin](https://osu.ppy.sh/users/394326) wurde zur Gruppe **Probationary BN** hinzugefügt
 
 #### Verschoben
 
@@ -57,12 +57,12 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Hinzugefügt
 
-- 2020-02-02: Added [Gamelan4](https://osu.ppy.sh/users/9856910) to **Probationary BN**
-- 2020-02-02: Added [Stack](https://osu.ppy.sh/users/6122935) to **Probationary BN**
-- 2020-02-09: Added [Dubstek](https://osu.ppy.sh/users/9555243) to **Probationary BN**
-- 2020-02-14: Added [UnluckyCroco](https://osu.ppy.sh/users/9461160) to **Probationary BN**
-- 2020-02-15: Added [Amiichii](https://osu.ppy.sh/users/9228569) to **Probationary BN**
-- 2020-02-27: Added [Affirmation](https://osu.ppy.sh/users/6186628) to **Probationary BN**
+- 2020-02-02: [Gamelan4](https://osu.ppy.sh/users/9856910) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-02-02: [Stack](https://osu.ppy.sh/users/6122935) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-02-09: [Dubstek](https://osu.ppy.sh/users/9555243) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-02-14: [UnluckyCroco](https://osu.ppy.sh/users/9461160) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-02-15: [Amiichii](https://osu.ppy.sh/users/9228569) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-02-27: [Affirmation](https://osu.ppy.sh/users/6186628) wurde zur Gruppe **Probationary BN** hinzugefügt
 
 #### Verschoben
 
@@ -102,18 +102,18 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2020-03-11: Moved [Fycho](https://osu.ppy.sh/users/1876867) from **GMT** to **osu! Alumni**
 - 2020-03-11: Moved [Laurakko](https://osu.ppy.sh/users/7253731) from **GMT** to **osu! Alumni**
 - 2020-03-16: Moved [Ascendance](https://osu.ppy.sh/users/2931883) from **NAT** to **osu! Alumni**
-- 2020-03-20: Added [Tyistiana](https://osu.ppy.sh/users/1421452) to **NAT**
+- 2020-03-20: [Tyistiana](https://osu.ppy.sh/users/1421452) wurde zur Gruppe **NAT** hinzugefügt
 
 ### Beatmap-Nominatoren
 
 #### Hinzugefügt
 
-- 2020-03-06: Added [Roger](https://osu.ppy.sh/users/1538223) to **Probationary BN**
-- 2020-03-07: Added [Nao Tomori](https://osu.ppy.sh/users/5364763) to **Probationary BN**
-- 2020-03-09: Added [MaridiuS](https://osu.ppy.sh/users/4496961) to **Probationary BN**
-- 2020-03-09: Added [Daletto](https://osu.ppy.sh/users/7592136) to **Probationary BN**
-- 2020-03-17: Added [BaAR_Vendel](https://osu.ppy.sh/users/8679346) to **Probationary BN**
-- 2020-03-22: Added [wafer](https://osu.ppy.sh/users/9416836) to **Probationary BN**
+- 2020-03-06: [Roger](https://osu.ppy.sh/users/1538223) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-03-07: [Nao Tomori](https://osu.ppy.sh/users/5364763) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-03-09: [MaridiuS](https://osu.ppy.sh/users/4496961) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-03-09: [Daletto](https://osu.ppy.sh/users/7592136) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-03-17: [BaAR_Vendel](https://osu.ppy.sh/users/8679346) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-03-22: [wafer](https://osu.ppy.sh/users/9416836) wurde zur Gruppe **Probationary BN** hinzugefügt
 
 #### Verschoben
 
@@ -148,12 +148,12 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Hinzugefügt
 
-- 2020-04-01: Added [dudehacker](https://osu.ppy.sh/users/748722) to **Probationary BN**
-- 2020-04-03: Added [Raiden](https://osu.ppy.sh/users/2239480) to **Probationary BN**
-- 2020-04-17: Added [Dako](https://osu.ppy.sh/users/11081858) to **Probationary BN**
-- 2020-04-18: Added [Sun](https://osu.ppy.sh/users/4115819) to **Probationary BN**
-- 2020-04-19: Added [Greenshell](https://osu.ppy.sh/users/8693851) to **Probationary BN**
-- 2020-04-20: Added [Agatsu](https://osu.ppy.sh/users/5579871) to **Probationary BN**
+- 2020-04-01: [dudehacker](https://osu.ppy.sh/users/748722) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-04-03: [Raiden](https://osu.ppy.sh/users/2239480) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-04-17: [Dako](https://osu.ppy.sh/users/11081858) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-04-18: [Sun](https://osu.ppy.sh/users/4115819) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-04-19: [Greenshell](https://osu.ppy.sh/users/8693851) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-04-20: [Agatsu](https://osu.ppy.sh/users/5579871) wurde zur Gruppe **Probationary BN** hinzugefügt
 
 #### Verschoben
 
@@ -185,17 +185,17 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Hinzugefügt
 
-- 2020-05-09: Added [Smoke](https://osu.ppy.sh/users/10726630) to **Probationary BN**
-- 2020-05-13: Added [Teky](https://osu.ppy.sh/users/10520912) to **Probationary BN**
-- 2020-05-14: Added [DeviousPanda](https://osu.ppy.sh/users/4966334) to **Probationary BN**
-- 2020-05-14: Added [Stixy](https://osu.ppy.sh/users/9000308) to **Probationary BN**
-- 2020-05-15: Added [realy0\_](https://osu.ppy.sh/users/8863359) to **Probationary BN**
-- 2020-05-19: Added [Kyousukee](https://osu.ppy.sh/users/8842107) to **Probationary BN**
-- 2020-05-29: Added [\_DUSK\_](https://osu.ppy.sh/users/6092181) to **Probationary BN**
-- 2020-05-29: Added [davidminh0111](https://osu.ppy.sh/users/9623142) to **Probationary BN**
-- 2020-05-29: Added [Metzo](https://osu.ppy.sh/users/10633982) to **Probationary BN**
-- 2020-05-29: Added [Okoratu](https://osu.ppy.sh/users/1623405) to **Probationary BN**
-- 2020-05-29: Added [Trynna](https://osu.ppy.sh/users/2652951) to **Probationary BN**
+- 2020-05-09: [Smoke](https://osu.ppy.sh/users/10726630) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-05-13: [Teky](https://osu.ppy.sh/users/10520912) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-05-14: [DeviousPanda](https://osu.ppy.sh/users/4966334) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-05-14: [Stixy](https://osu.ppy.sh/users/9000308) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-05-15: [realy0\_](https://osu.ppy.sh/users/8863359) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-05-19: [Kyousukee](https://osu.ppy.sh/users/8842107) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-05-29: [\_DUSK\_](https://osu.ppy.sh/users/6092181) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-05-29: [davidminh0111](https://osu.ppy.sh/users/9623142) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-05-29: [Metzo](https://osu.ppy.sh/users/10633982) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-05-29: [Okoratu](https://osu.ppy.sh/users/1623405) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-05-29: [Trynna](https://osu.ppy.sh/users/2652951) wurde zur Gruppe **Probationary BN** hinzugefügt
 
 #### Verschoben
 
@@ -224,25 +224,25 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2020-06-01: Moved [heyronii](https://osu.ppy.sh/users/5642779) from **GMT** to **osu! Alumni**
 - 2020-06-01: Moved [Pawsu](https://osu.ppy.sh/users/2371454) from **GMT** to **osu! Alumni**
 - 2020-06-01: Removed [Pawsu](https://osu.ppy.sh/users/2371454) from **Support Team**
-- 2020-06-02: Added [abraker](https://osu.ppy.sh/users/4635891) to **GMT**
-- 2020-06-17: Added [RockRoller](https://osu.ppy.sh/users/8388854) to **GMT**
+- 2020-06-02: [abraker](https://osu.ppy.sh/users/4635891) wurde zur Gruppe **GMT** hinzugefügt
+- 2020-06-17: [RockRoller](https://osu.ppy.sh/users/8388854) wurde zur Gruppe **GMT** hinzugefügt
 - 2020-06-24: Moved [Laurakko](https://osu.ppy.sh/users/7253731) from **osu! Alumni** to **GMT**
 
 ### Beatmap-Nominatoren
 
 #### Hinzugefügt
 
-- 2020-06-06: Added [Fall](https://osu.ppy.sh/users/4800816) to **Probationary BN**
-- 2020-06-09: Added [Baron](https://osu.ppy.sh/users/10286499) to **Probationary BN**
-- 2020-06-13: Added [Axer](https://osu.ppy.sh/users/7299864) to **Probationary BN**
-- 2020-06-13: Added [Cychloryn](https://osu.ppy.sh/users/6921736) to **Probationary BN**
-- 2020-06-14: Added [Secre](https://osu.ppy.sh/users/2306637) to **Probationary BN**
-- 2020-06-17: Added [Elayue](https://osu.ppy.sh/users/6400861) to **Probationary BN**
-- 2020-06-17: Added [NexusQI](https://osu.ppy.sh/users/13822800) to **Probationary BN**
-- 2020-06-19: Added [Bastian](https://osu.ppy.sh/users/6345176) to **Probationary BN**
-- 2020-06-22: Added [Garalulu](https://osu.ppy.sh/users/757783) to **Probationary BN**
-- 2020-06-22: Added [Muse Dash](https://osu.ppy.sh/users/13695676) to **Probationary BN**
-- 2020-06-29: Added [Garden](https://osu.ppy.sh/users/2849992) to **Probationary BN**
+- 2020-06-06: [Fall](https://osu.ppy.sh/users/4800816) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-06-09: [Baron](https://osu.ppy.sh/users/10286499) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-06-13: [Axer](https://osu.ppy.sh/users/7299864) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-06-13: [Cychloryn](https://osu.ppy.sh/users/6921736) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-06-14: [Secre](https://osu.ppy.sh/users/2306637) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-06-17: [Elayue](https://osu.ppy.sh/users/6400861) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-06-17: [NexusQI](https://osu.ppy.sh/users/13822800) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-06-19: [Bastian](https://osu.ppy.sh/users/6345176) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-06-22: [Garalulu](https://osu.ppy.sh/users/757783) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-06-22: [Muse Dash](https://osu.ppy.sh/users/13695676) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-06-29: [Garden](https://osu.ppy.sh/users/2849992) wurde zur Gruppe **Probationary BN** hinzugefügt
 
 #### Verschoben
 
@@ -273,15 +273,15 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Hinzugefügt
 
-- 2020-07-07: Added [wonjae](https://osu.ppy.sh/users/5032045) to **Probationary BN**
-- 2020-07-07: Added [-Aqua](https://osu.ppy.sh/users/7150015) to **Probationary BN**
-- 2020-07-07: Added [Bibbity Bill](https://osu.ppy.sh/users/4446810) to **Probationary BN**
-- 2020-07-09: Added [Arzenvald](https://osu.ppy.sh/users/3027421) to **Probationary BN**
-- 2020-07-09: Added [lenpai](https://osu.ppy.sh/users/5314573) to **Probationary BN**
-- 2020-07-12: Added [Log Off Now](https://osu.ppy.sh/users/4378277) to **Probationary BN**
-- 2020-07-18: Added [Davvy](https://osu.ppy.sh/users/10047413) to **Probationary BN**
-- 2020-07-28: Added [-Joni-](https://osu.ppy.sh/users/9988837) to **Probationary BN**
-- 2020-07-31: Added [C00L](https://osu.ppy.sh/users/4930630) to **Probationary BN**
+- 2020-07-07: [wonjae](https://osu.ppy.sh/users/5032045) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-07-07: [-Aqua](https://osu.ppy.sh/users/7150015) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-07-07: [Bibbity Bill](https://osu.ppy.sh/users/4446810) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-07-09: [Arzenvald](https://osu.ppy.sh/users/3027421) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-07-09: [lenpai](https://osu.ppy.sh/users/5314573) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-07-12: [Log Off Now](https://osu.ppy.sh/users/4378277) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-07-18: [Davvy](https://osu.ppy.sh/users/10047413) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-07-28: [-Joni-](https://osu.ppy.sh/users/9988837) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-07-31: [C00L](https://osu.ppy.sh/users/4930630) wurde zur Gruppe **Probationary BN** hinzugefügt
 
 #### Verschoben
 
@@ -311,27 +311,27 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 ## August
 
-- 2020-08-07: Added [Scotty](https://osu.ppy.sh/users/11085809) to **NAT**
-- 2020-08-08: Added [Domco](https://osu.ppy.sh/users/3562660) to **Developers**
+- 2020-08-07: [Scotty](https://osu.ppy.sh/users/11085809) wurde zur Gruppe **NAT** hinzugefügt
+- 2020-08-08: [Domco](https://osu.ppy.sh/users/3562660) wurde zur Gruppe **Developers** hinzugefügt
 
 ### Beatmap-Nominatoren
 
 #### Hinzugefügt
 
-- 2020-08-05: Added [Ayucchi](https://osu.ppy.sh/users/7823498) to **Probationary BN**
-- 2020-08-05: Added [Hobbes2](https://osu.ppy.sh/users/8157492) to **Probationary BN**
-- 2020-08-10: Added [RiP46](https://osu.ppy.sh/users/5222596) to **Probationary BN**
-- 2020-08-10: Added [Murumoo](https://osu.ppy.sh/users/8001433) to **Probationary BN**
-- 2020-08-11: Added [Rocma](https://osu.ppy.sh/users/566276) to **Probationary BN**
-- 2020-08-22: Added [JierYagtama](https://osu.ppy.sh/users/7483452) to **Probationary BN**
-- 2020-08-23: Added [Ryuusei Aika](https://osu.ppy.sh/users/7777875) to **Probationary BN**
-- 2020-08-23: Added [Een Persoon](https://osu.ppy.sh/users/10959501) to **Probationary BN**
-- 2020-08-23: Added [NeKroMan4ik](https://osu.ppy.sh/users/11387664) to **Probationary BN**
-- 2020-08-23: Added [Karen](https://osu.ppy.sh/users/3143784) to **Probationary BN**
-- 2020-08-23: Added [Sylas](https://osu.ppy.sh/users/3906405) to **Probationary BN**
-- 2020-08-30: Added [autofanboy](https://osu.ppy.sh/users/636114) to **Probationary BN**
-- 2020-08-30: Added [Firika](https://osu.ppy.sh/users/9590557) to **Probationary BN**
-- 2020-08-30: Added [Pentori](https://osu.ppy.sh/users/7452237) to **Probationary BN**
+- 2020-08-05: [Ayucchi](https://osu.ppy.sh/users/7823498) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-08-05: [Hobbes2](https://osu.ppy.sh/users/8157492) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-08-10: [RiP46](https://osu.ppy.sh/users/5222596) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-08-10: [Murumoo](https://osu.ppy.sh/users/8001433) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-08-11: [Rocma](https://osu.ppy.sh/users/566276) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-08-22: [JierYagtama](https://osu.ppy.sh/users/7483452) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-08-23: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-08-23: [Een Persoon](https://osu.ppy.sh/users/10959501) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-08-23: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-08-23: [Karen](https://osu.ppy.sh/users/3143784) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-08-23: [Sylas](https://osu.ppy.sh/users/3906405) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-08-30: [autofanboy](https://osu.ppy.sh/users/636114) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-08-30: [Firika](https://osu.ppy.sh/users/9590557) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-08-30: [Pentori](https://osu.ppy.sh/users/7452237) wurde zur Gruppe **Probationary BN** hinzugefügt
 
 #### Verschoben
 
@@ -360,28 +360,28 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 ## September
 
 - 2020-09-01: Moved [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) from **osu! Alumni** to **GMT**
-- 2020-09-12: Added [hypercyte](https://osu.ppy.sh/users/9155377) to **NAT**
-- 2020-09-16: Added [Irreversible](https://osu.ppy.sh/users/1287964) to **osu! Alumni**
+- 2020-09-12: [hypercyte](https://osu.ppy.sh/users/9155377) wurde zur Gruppe **NAT** hinzugefügt
+- 2020-09-16: [Irreversible](https://osu.ppy.sh/users/1287964) wurde zur Gruppe **osu! Alumni** hinzugefügt
 - 2020-09-24: Moved [Zetera](https://osu.ppy.sh/users/587737) from **GMT** to **osu! Alumni**
 
 ### Beatmap-Nominatoren
 
 #### Hinzugefügt
 
-- 2020-09-01: Added [Mimari](https://osu.ppy.sh/users/14339830) to **Probationary BN**
-- 2020-09-05: Added [Stelar](https://osu.ppy.sh/users/15205070) to **Probationary BN**
-- 2020-09-06: Added [Jaltzu](https://osu.ppy.sh/users/2597417) to **Probationary BN**
-- 2020-09-06: Added [Ulqui](https://osu.ppy.sh/users/1263669) to **Probationary BN**
-- 2020-09-14: Added [Luscent](https://osu.ppy.sh/users/2688581) to **Probationary BN**
-- 2020-09-14: Added [StarCastler](https://osu.ppy.sh/users/12402453) to **Probationary BN**
-- 2020-09-14: Added [Beomsan](https://osu.ppy.sh/users/3626063) to **Probationary BN**
-- 2020-09-14: Added [newton-](https://osu.ppy.sh/users/5875419) to **Probationary BN**
-- 2020-09-19: Added [Nelly](https://osu.ppy.sh/users/4741164) to **Probationary BN**
-- 2020-09-21: Added [Sylvarus](https://osu.ppy.sh/users/4505918) to **Probationary BN**
-- 2020-09-27: Added [Blitzifyyy](https://osu.ppy.sh/users/11787713) to **Probationary BN**
-- 2020-09-27: Added [Petal](https://osu.ppy.sh/users/7354729) to **Probationary BN**
-- 2020-09-28: Added [Phob](https://osu.ppy.sh/users/6069462) to **Probationary BN**
-- 2020-09-28: Added [Spectator](https://osu.ppy.sh/users/702598) to **Probationary BN**
+- 2020-09-01: [Mimari](https://osu.ppy.sh/users/14339830) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-09-05: [Stelar](https://osu.ppy.sh/users/15205070) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-09-06: [Jaltzu](https://osu.ppy.sh/users/2597417) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-09-06: [Ulqui](https://osu.ppy.sh/users/1263669) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-09-14: [Luscent](https://osu.ppy.sh/users/2688581) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-09-14: [StarCastler](https://osu.ppy.sh/users/12402453) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-09-14: [Beomsan](https://osu.ppy.sh/users/3626063) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-09-14: [newton-](https://osu.ppy.sh/users/5875419) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-09-19: [Nelly](https://osu.ppy.sh/users/4741164) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-09-21: [Sylvarus](https://osu.ppy.sh/users/4505918) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-09-27: [Blitzifyyy](https://osu.ppy.sh/users/11787713) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-09-27: [Petal](https://osu.ppy.sh/users/7354729) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-09-28: [Phob](https://osu.ppy.sh/users/6069462) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-09-28: [Spectator](https://osu.ppy.sh/users/702598) wurde zur Gruppe **Probationary BN** hinzugefügt
 
 #### Verschoben
 
@@ -415,14 +415,14 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Hinzugefügt
 
-- 2020-10-07: Added [Lirai](https://osu.ppy.sh/users/3734394) to **Probationary BN**
-- 2020-10-18: Added [Fresh Chicken](https://osu.ppy.sh/users/3984370) to **Probationary BN**
-- 2020-10-21: Added [Nokashi](https://osu.ppy.sh/users/5431196) to **Probationary BN**
-- 2020-10-22: Added [Astronic](https://osu.ppy.sh/users/9320502) to **Probationary BN**
-- 2020-10-22: Added [Akito](https://osu.ppy.sh/users/5716327) to **Probationary BN**
-- 2020-10-22: Added [riffy](https://osu.ppy.sh/users/597957) to **Probationary BN**
-- 2020-10-22: Added [Krisom](https://osu.ppy.sh/users/99269) to **Probationary BN**
-- 2020-10-27: Added [Cynplytholowazy](https://osu.ppy.sh/users/3901754) to **Probationary BN**
+- 2020-10-07: [Lirai](https://osu.ppy.sh/users/3734394) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-10-18: [Fresh Chicken](https://osu.ppy.sh/users/3984370) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-10-21: [Nokashi](https://osu.ppy.sh/users/5431196) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-10-22: [Astronic](https://osu.ppy.sh/users/9320502) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-10-22: [Akito](https://osu.ppy.sh/users/5716327) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-10-22: [riffy](https://osu.ppy.sh/users/597957) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-10-22: [Krisom](https://osu.ppy.sh/users/99269) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-10-27: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) wurde zur Gruppe **Probationary BN** hinzugefügt
 
 #### Verschoben
 
@@ -462,7 +462,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2020-11-14: Moved [Kuron-kun](https://osu.ppy.sh/users/2697284) from **GMT** to **osu! Alumni**
 - 2020-11-15: Removed [mtmcl](https://osu.ppy.sh/users/5960) from **osu! Alumni**
 - 2020-11-15: Removed [Maeglwn](https://osu.ppy.sh/users/2440936) from **osu! Alumni**
-- 2020-11-16: Added [Intermezzo](https://osu.ppy.sh/users/136842) to **osu! Alumni**
+- 2020-11-16: [Intermezzo](https://osu.ppy.sh/users/136842) wurde zur Gruppe **osu! Alumni** hinzugefügt
 - 2020-11-16: Removed [Flanster](https://osu.ppy.sh/users/447818) from **GMT**
 - 2020-11-16: Removed [Kuron-kun](https://osu.ppy.sh/users/2697284) from **osu! Alumni**
 - 2020-11-20: Moved [Nepuri](https://osu.ppy.sh/users/6637817) from **NAT** to **osu! Alumni**
@@ -471,9 +471,9 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Hinzugefügt
 
-- 2020-11-01: Added [Unpredictable](https://osu.ppy.sh/users/7560872) to **Probationary BN**
-- 2020-11-11: Added [Jerry](https://osu.ppy.sh/users/605973) to **Probationary BN**
-- 2020-11-30: Added [Shmiklak](https://osu.ppy.sh/users/5504231) to **Probationary BN**
+- 2020-11-01: [Unpredictable](https://osu.ppy.sh/users/7560872) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-11-11: [Jerry](https://osu.ppy.sh/users/605973) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-11-30: [Shmiklak](https://osu.ppy.sh/users/5504231) wurde zur Gruppe **Probationary BN** hinzugefügt
 
 #### Verschoben
 
@@ -503,17 +503,17 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Hinzugefügt
 
-- 2020-12-07: Added [Nana Abe](https://osu.ppy.sh/users/6443117) to **Probationary BN**
-- 2020-12-07: Added [UberFazz](https://osu.ppy.sh/users/8646059) to **Probationary BN**
-- 2020-12-09: Added [ikin5050](https://osu.ppy.sh/users/4007649) to **Probationary BN**
-- 2020-12-09: Added [Gamelan4](https://osu.ppy.sh/users/9856910) to **Probationary BN**
-- 2020-12-14: Added [Eyenine](https://osu.ppy.sh/users/1259391) to **Probationary BN**
-- 2020-12-14: Added [Benita](https://osu.ppy.sh/users/1259391) to **Probationary BN**
-- 2020-12-20: Added [Default Guy](https://osu.ppy.sh/users/7058457) to **Probationary BN**
-- 2020-12-21: Added [Zer0-](https://osu.ppy.sh/users/4260033) to **Probationary BN**
-- 2020-12-21: Added [realy0_](https://osu.ppy.sh/users/8863359) to **Probationary BN**
-- 2020-12-21: Added [Morrighan](https://osu.ppy.sh/users/12042090) to **Probationary BN**
-- 2020-12-26: Added [Mipha-](https://osu.ppy.sh/users/5767941) to **Probationary BN**
+- 2020-12-07: [Nana Abe](https://osu.ppy.sh/users/6443117) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-12-07: [UberFazz](https://osu.ppy.sh/users/8646059) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-12-09: [ikin5050](https://osu.ppy.sh/users/4007649) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-12-09: [Gamelan4](https://osu.ppy.sh/users/9856910) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-12-14: [Eyenine](https://osu.ppy.sh/users/1259391) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-12-14: [Benita](https://osu.ppy.sh/users/1259391) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-12-20: [Default Guy](https://osu.ppy.sh/users/7058457) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-12-21: [Zer0-](https://osu.ppy.sh/users/4260033) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-12-21: [realy0_](https://osu.ppy.sh/users/8863359) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-12-21: [Morrighan](https://osu.ppy.sh/users/12042090) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 2020-12-26: [Mipha-](https://osu.ppy.sh/users/5767941) wurde zur Gruppe **Probationary BN** hinzugefügt
 
 #### Verschoben
 
