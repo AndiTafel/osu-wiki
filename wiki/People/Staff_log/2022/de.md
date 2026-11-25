@@ -6,7 +6,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - **GMT:** [Globales Moderationsteam](/wiki/People/Global_Moderation_Team)
 - **NAT:** [Nomination-Assessment-Team](/wiki/People/Nomination_Assessment_Team)
 
-## January
+## Januar
 
 - 2022-01-06: Added [Secre](https://osu.ppy.sh/users/2306637) to **NAT**
 - 2022-01-06: Moved [Spectator](https://osu.ppy.sh/users/702598) from **NAT** to **osu! Alumni**
@@ -49,7 +49,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-01-23: Removed [Phob](https://osu.ppy.sh/users/6069462) from **BN**
 - 2022-01-29: Removed [Zer0-](https://osu.ppy.sh/users/4260033) from **BN**
 
-## February
+## Februar
 
 - 2022-02-11: Removed [Bubbleman](https://osu.ppy.sh/users/5182050) from **Project Loved Team**
 - 2022-02-11: Removed [Noffy](https://osu.ppy.sh/users/1541323) from **Project Loved Team**
@@ -95,7 +95,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-02-27: Removed [ikin5050](https://osu.ppy.sh/users/4007649) from **BN**
 - 2022-02-28: Removed [Mirea](https://osu.ppy.sh/users/8404646) from **BN**
 
-## March
+## März
 
 - 2022-03-01: Added [\_Stan](https://osu.ppy.sh/users/1653229) to **NAT**
 - 2022-03-08: Removed [AJT](https://osu.ppy.sh/users/3181083) from **NAT**
@@ -205,7 +205,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-04-21: Removed [Akito](https://osu.ppy.sh/users/5716327) from **BN**
 - 2022-04-24: Removed [Logic Agent](https://osu.ppy.sh/users/6341262) from **BN**
 
-## May
+## Mai
 
 - 2022-05-01: Added [Akasha-](https://osu.ppy.sh/users/2596306) to **NAT**
 - 2022-05-06: Removed [hypercyte](https://osu.ppy.sh/users/9155377) from **Project Loved Team**
@@ -264,7 +264,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-05-14: Removed [Karen](https://osu.ppy.sh/users/3143784) from **Probationary BN**
 - 2022-05-24: Removed [Petal](https://osu.ppy.sh/users/7354729) from **BN**
 
-## June
+## Juni
 
 - 2022-06-01: Added [Venix](https://osu.ppy.sh/users/5999631) to **Project Loved Team**
 - 2022-06-01: Added [ChillierPear](https://osu.ppy.sh/users/9501251) to **Project Loved Team**
@@ -313,7 +313,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-06-28: Removed [D0UG](https://osu.ppy.sh/users/13806900) from **BN**
 - 2022-06-28: Removed [tadahitosu](https://osu.ppy.sh/users/11653544) from **BN**
 
-## July
+## Juli
 
 - 2022-07-21: Removed [Shoegazer](https://osu.ppy.sh/users/2520707) from **GMT**
 - 2022-07-24: Added [Shoegazer](https://osu.ppy.sh/users/2520707) to **osu! Alumni**
@@ -453,7 +453,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-09-17: Removed [-White](https://osu.ppy.sh/users/16276548) from **Probationary BN**
 - 2022-09-29: Removed [Fisky](https://osu.ppy.sh/users/8352623) from **BN**
 
-## October
+## Oktober
 
 - 2022-10-02: Removed [radar](https://osu.ppy.sh/users/7131099) from **Project Loved Team**
 - 2022-10-02: Added [aceticke](https://osu.ppy.sh/users/8838763) to **Project Loved Team**
@@ -582,7 +582,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-11-28: Removed [Toofu](https://osu.ppy.sh/users/11004271) from **Probationary BN**
 - 2022-11-29: Removed [rosario wknd](https://osu.ppy.sh/users/6341518) from **BN**
 
-## December
+## Dezember
 
 - 2022-12-02: Moved [Kite](https://osu.ppy.sh/users/134572) from **GMT** to **osu! Alumni**
 - 2022-12-03: Moved [Pereira006](https://osu.ppy.sh/users/537344) from **GMT** to **osu! Alumni**

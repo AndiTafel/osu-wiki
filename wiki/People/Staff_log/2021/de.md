@@ -6,7 +6,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - **GMT:** [Globales Moderationsteam](/wiki/People/Global_Moderation_Team)
 - **NAT:** [Nomination-Assessment-Team](/wiki/People/Nomination_Assessment_Team)
 
-## January
+## Januar
 
 - 2021-01-31: Moved [ztrot](https://osu.ppy.sh/users/6347) from **osu! Alumni** to **GMT**
 
@@ -51,10 +51,10 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2021-01-24: Removed [Okoratu](https://osu.ppy.sh/users/1623405) from **BN**
 - 2021-01-27: Removed [Voxa](https://osu.ppy.sh/users/9229539) from **BN**
 
-## February
+## Februar
 
 - 2021-02-05: Moved [Niva](https://osu.ppy.sh/users/197805) from **osu! Alumni** to **GMT**
-- 2021-02-15: Moved [Tommay](https://osu.ppy.sh/users/3132818) from **GMT** to **osu! Alumni**
+- 2021-02-15: Moved [TomMai](https://osu.ppy.sh/users/3132818) from **GMT** to **osu! Alumni**
 - 2021-02-15: Moved [Kurai](https://osu.ppy.sh/users/77089) from **GMT** to **osu! Alumni**
 - 2021-02-15: Moved [Gabe](https://osu.ppy.sh/users/654108) from **GMT** to **osu! Alumni**
 - 2021-02-23: Added [\[ryuu\]](https://osu.ppy.sh/users/5698467) to **GMT**
@@ -92,7 +92,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2021-02-13: Removed [Rocma](https://osu.ppy.sh/users/566276) from **BN**
 - 2021-02-16: Removed [Nao Tomori](https://osu.ppy.sh/users/5364763) from **BN**
 
-## March
+## März
 
 - 2021-03-01: Added [ThePooN](https://osu.ppy.sh/users/718454) to **Developers**
 - 2021-03-01: Moved [Lasse](https://osu.ppy.sh/users/896613) from **NAT** to **osu! Alumni**
@@ -205,7 +205,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2021-04-24: Removed [Ayucchi](https://osu.ppy.sh/users/7823498) from **BN**
 - 2021-04-28: Removed [Myxo](https://osu.ppy.sh/users/2202645) from **BN**
 
-## May
+## Mai
 
 - 2021-05-13: Moved [Mao](https://osu.ppy.sh/users/2204515) from **NAT** to **osu! Alumni**
 - 2021-05-23: Added [Unpredictable](https://osu.ppy.sh/users/7560872) to **NAT**
@@ -257,7 +257,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2021-05-23: Removed [-Aku](https://osu.ppy.sh/users/12315824) from **Probationary BN**
 - 2021-05-30: Removed [Amiichii](https://osu.ppy.sh/users/9228569) from **BN**
 
-## June
+## Juni
 
 - 2021-06-06: Removed [Deif](https://osu.ppy.sh/users/318565) from **GMT**
 - 2021-06-06: Moved [WalterToro](https://osu.ppy.sh/users/5281416) from **GMT** to **osu! Alumni**
@@ -297,7 +297,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2021-06-22: Removed [Aruel](https://osu.ppy.sh/users/3984370) from **BN**
 - 2021-06-30: Removed [realy0_](https://osu.ppy.sh/users/8863359) from **BN**
 
-## July
+## Juli
 
 - 2021-07-01: Added [Halfslashed](https://osu.ppy.sh/users/4598899) to **GMT**
 - 2021-07-01: Added [Nevo](https://osu.ppy.sh/users/7451883) to **GMT**
@@ -447,7 +447,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2021-09-27: Removed [UberFazz](https://osu.ppy.sh/users/8646059) from **BN**
 - 2021-09-27: Removed [Uberzolik](https://osu.ppy.sh/users/1314547) from **BN**
 
-## October
+## Oktober
 
 - 2021-10-06: Moved [[ Another ]](https://osu.ppy.sh/users/3416573) from **osu! Alumni** to **GMT**
 - 2021-10-10: Moved [- Felix](https://osu.ppy.sh/users/8503985) from **GMT** to **osu! Alumni**
@@ -550,7 +550,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2021-11-24: Removed [Quenlla](https://osu.ppy.sh/users/4725379) from **BN**
 - 2021-11-27: Removed [gevbiivi5](https://osu.ppy.sh/users/7140680) from **Probationary BN**
 
-## December
+## Dezember
 
 - 2021-12-06: Added [Boaz](https://osu.ppy.sh/users/13302996) to **Project Loved Team**
 

@@ -6,7 +6,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - **GMT:** [Globales Moderationsteam](/wiki/People/Global_Moderation_Team)
 - **NAT:** [Nomination-Assessment-Team](/wiki/People/Nomination_Assessment_Team)
 
-## January
+## Januar
 
 - 2020-01-06: Added [yaspo](https://osu.ppy.sh/users/4945926) to **NAT**
 - 2020-01-07: Moved [kanpakyin](https://osu.ppy.sh/users/394326) from **osu! Alumni** to **GMT**
@@ -51,7 +51,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2020-01-26: Removed [Greaper](https://osu.ppy.sh/users/2369776) from **BN**
 - 2020-01-29: Removed [Critical_Star](https://osu.ppy.sh/users/3793196) from **BN**
 
-## February
+## Februar
 
 ### Beatmap Nominators
 
@@ -96,7 +96,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2020-02-23: Removed [MEGAtive](https://osu.ppy.sh/users/3094101) from **BN**
 - 2020-02-24: Removed [Mun](https://osu.ppy.sh/users/6699165) from **BN**
 
-## March
+## März
 
 - 2020-03-09: Moved [ToGlette](https://osu.ppy.sh/users/1076236) from **osu! Alumni** to **GMT**
 - 2020-03-11: Moved [Fycho](https://osu.ppy.sh/users/1876867) from **GMT** to **osu! Alumni**
@@ -179,7 +179,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2020-04-25: Removed [Uta](https://osu.ppy.sh/users/9439796) from **Probationary BN**
 - 2020-04-27: Removed [Ryuusei Aika](https://osu.ppy.sh/users/7777875) from **BN**
 
-## May
+## Mai
 
 ### Beatmap Nominators
 
@@ -219,7 +219,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2020-05-14: Removed [Cynplytholowazy](https://osu.ppy.sh/users/3901754) from **Probationary BN**
 - 2020-05-21: Removed [Affirmation](https://osu.ppy.sh/users/6186628) from **Probationary BN**
 
-## June
+## Juni
 
 - 2020-06-01: Moved [heyronii](https://osu.ppy.sh/users/5642779) from **GMT** to **osu! Alumni**
 - 2020-06-01: Moved [Pawsu](https://osu.ppy.sh/users/2371454) from **GMT** to **osu! Alumni**
@@ -267,7 +267,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2020-06-22: Removed [-Luminate](https://osu.ppy.sh/users/4778689) from **Probationary BN**
 - 2020-06-23: Removed [Unpredictable](https://osu.ppy.sh/users/7560872) from **BN**
 
-## July
+## Juli
 
 ### Beatmap Nominators
 
@@ -409,7 +409,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2020-09-18: Removed [Trynna](https://osu.ppy.sh/users/2652951) from **BN**
 - 2020-09-20: Removed [Sinnoh](https://osu.ppy.sh/users/4236057) from **BN**
 
-## October
+## Oktober
 
 ### Beatmap Nominators
 
@@ -494,7 +494,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2020-11-14: Removed [incandescence](https://osu.ppy.sh/users/6256027) from **Probationary BN**
 - 2020-11-18: Removed [Baron](https://osu.ppy.sh/users/10286499) from **BN**
 
-## December
+## Dezember
 
 - 2020-12-16: Moved [Raiden](https://osu.ppy.sh/users/2239480) from **GMT** to **osu! Alumni**
 - 2020-12-28: Moved [Spectator](https://osu.ppy.sh/users/702598) from **osu! Alumni** to **NAT**

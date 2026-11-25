@@ -6,7 +6,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - **GMT:** [Globales Moderationsteam](/wiki/People/Global_Moderation_Team)
 - **NAT:** [Nomination-Assessment-Team](/wiki/People/Nomination_Assessment_Team)
 
-## January
+## Januar
 
 - 2023-01-14: Moved [Quenlla](https://osu.ppy.sh/users/4725379) from **NAT** to **osu! Alumni**
 - 2023-01-27: Moved [Uni](https://osu.ppy.sh/users/617106) from **GMT** to **osu! Alumni**
@@ -62,7 +62,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2023-01-30: Removed [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) from **BN**
 - 2023-01-30: Removed [Chromoxx](https://osu.ppy.sh/users/1881639) from **BN**
 
-## February
+## Februar
 
 - 2023-02-02: Added [Blushing](https://osu.ppy.sh/users/5927823) to **Project Loved Team**
 - 2023-02-08: Added [Dada](https://osu.ppy.sh/users/9119507) to **NAT**
@@ -127,7 +127,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2023-02-27: Removed [Rinze](https://osu.ppy.sh/users/19901680) from **BN**
 - 2023-02-28: Removed [Axer](https://osu.ppy.sh/users/7299864) from **BN**
 
-## March
+## März
 
 - 2023-03-04: Moved [Secre](https://osu.ppy.sh/users/2306637) from **NAT** to **osu! Alumni**
 - 2023-03-12: Removed [[Zeth]](https://osu.ppy.sh/users/9912966) from **Beatmap Spotlight Curators**
@@ -283,7 +283,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2023-04-26: Removed [Sotarks](https://osu.ppy.sh/users/4452992) from **Probationary BN**
 - 2023-04-28: Removed [Rocma](https://osu.ppy.sh/users/566276) from **BN**
 
-## May
+## Mai
 
 - 2023-05-02: Added [MadBricktree](https://osu.ppy.sh/users/4790958) to **Project Loved Team**
 - 2023-05-02: Added [Jerry](https://osu.ppy.sh/users/605973) to **Project Loved Team**
@@ -340,7 +340,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2023-05-29: Removed [Saggin](https://osu.ppy.sh/users/12464107) from **Probationary BN**
 - 2023-05-30: Removed [Hobbes2](https://osu.ppy.sh/users/8157492) from **BN**
 
-## June
+## Juni
 
 - 2023-06-01: Moved [Protastic101](https://osu.ppy.sh/users/6712747) from **GMT** to **osu! Alumni**
 - 2023-06-08: Moved [achyoo](https://osu.ppy.sh/users/7823498) from **NAT** to **osu! Alumni**
@@ -392,7 +392,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2023-06-30: Removed [Creamy Candy](https://osu.ppy.sh/users/9769199) from **BN**
 - 2023-06-30: Removed [lenpai](https://osu.ppy.sh/users/5314573) from **BN**
 
-## July
+## Juli
 
 - 2023-07-01: Moved [nexusqi](https://osu.ppy.sh/users/13822800) from **NAT** to **osu! Alumni**
 - 2023-07-06: Moved [Secre](https://osu.ppy.sh/users/2306637) from **osu! Alumni** to **NAT**
@@ -609,7 +609,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2023-09-28: Removed [AJT](https://osu.ppy.sh/users/3181083) from **BN**
 - 2023-09-30: Removed [RiP46](https://osu.ppy.sh/users/5222596) from **BN**
 
-## October
+## Oktober
 
 - 2023-10-02: Removed [Axer](https://osu.ppy.sh/users/7299864) from **Beatmap Spotlight Curators**
 - 2023-10-05: Added [Nao Tomori](https://osu.ppy.sh/users/5364763) to **NAT**
