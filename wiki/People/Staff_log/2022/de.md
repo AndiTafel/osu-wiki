@@ -16,16 +16,16 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-01-27: Added [-NoName-](https://osu.ppy.sh/users/10400730) to **Project Loved Team**
 - 2022-01-30: Removed [DannyPX](https://osu.ppy.sh/users/11253722) from **Project Loved Team**
 
-### Beatmap Nominators
+### Beatmap-Nominatoren
 
-#### Additions
+#### Hinzugefügt
 
 - 2022-01-11: Added [Nifty](https://osu.ppy.sh/users/4956097) to **BN**
 - 2022-01-18: Added [Maxus](https://osu.ppy.sh/users/4335785) to **Probationary BN**
 - 2022-01-24: Added [[RT]Alleyne](https://osu.ppy.sh/users/11279273) to **Probationary BN**
 - 2022-01-30: Added [Len](https://osu.ppy.sh/users/1686145) to **Probationary BN**
 
-#### Moves
+#### Verschoben
 
 - 2022-01-07: Moved [Fii](https://osu.ppy.sh/users/3922569) from **Probationary BN** to **BN**
 - 2022-01-07: Moved [Lacrima](https://osu.ppy.sh/users/4915649) from **BN** to **Probationary BN**
@@ -37,7 +37,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-01-30: Moved [wafer](https://osu.ppy.sh/users/9416836) from **Probationary BN** to **BN**
 - 2022-01-30: Moved [Present](https://osu.ppy.sh/users/5645691) from **Probationary BN** to **BN**
 
-#### Removals
+#### Entfernt
 
 - 2022-01-06: Removed [Secre](https://osu.ppy.sh/users/2306637) from **BN**
 - 2022-01-09: Removed [Nifty](https://osu.ppy.sh/users/4956097) from **BN**
@@ -56,9 +56,9 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-02-13: Added [chromb](https://osu.ppy.sh/users/10238680) to **GMT**
 - 2022-02-15: Moved [Pachiru](https://osu.ppy.sh/users/2850983) from **osu! Alumni** to **GMT**
 
-### Beatmap Nominators
+### Beatmap-Nominatoren
 
-#### Additions
+#### Hinzugefügt
 
 - 2022-02-03: Added [Mokobe](https://osu.ppy.sh/users/10374819) to **Probationary BN**
 - 2022-02-12: Added [Sonnyc](https://osu.ppy.sh/users/11771) to **BN**
@@ -67,7 +67,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-02-26: Added [bigh](https://osu.ppy.sh/users/16352736) to **Probationary BN**
 - 2022-02-28: Added [Basensorex](https://osu.ppy.sh/users/11655886) to **Probationary BN**
 
-#### Moves
+#### Verschoben
 
 - 2022-02-06: Moved [Saggin](https://osu.ppy.sh/users/12464107) from **Probationary BN** to **BN**
 - 2022-02-06: Moved [Mniam](https://osu.ppy.sh/users/6050530) from **Probationary BN** to **BN**
@@ -75,7 +75,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-02-23: Moved [Ryuusei Aika](https://osu.ppy.sh/users/7777875) from **Probationary BN** to **BN**
 - 2022-02-28: Moved [deta5859](https://osu.ppy.sh/users/15275662) from **Probationary BN** to **BN**
 
-#### Removals
+#### Entfernt
 
 - 2022-02-01: Removed [GIGACHAD](https://osu.ppy.sh/users/11081858) from **BN**
 - 2022-02-02: Removed [Kawawa](https://osu.ppy.sh/users/4647754) from **BN**
@@ -105,9 +105,9 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-03-29: Added [Noffy](https://osu.ppy.sh/users/1541323) to **osu! Alumni**
 - 2022-03-31: Added [Kasumi-sama](https://osu.ppy.sh/users/6177263) to **Project Loved Team**
 
-### Beatmap Nominators
+### Beatmap-Nominatoren
 
-#### Additions
+#### Hinzugefügt
 
 - 2022-03-01: Added [Didah](https://osu.ppy.sh/users/8030129) to **Probationary BN**
 - 2022-03-06: Added [Chromoxx](https://osu.ppy.sh/users/1881639) to **Probationary BN**
@@ -124,7 +124,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-03-28: Added [gzdongsheng](https://osu.ppy.sh/users/8660315) to **Probationary BN**
 - 2022-03-31: Added [DenYi](https://osu.ppy.sh/users/14998645) to **Probationary BN**
 
-#### Moves
+#### Verschoben
 
 - 2022-03-01: Moved [Luscent](https://osu.ppy.sh/users/2688581) from **Probationary BN** to **BN**
 - 2022-03-08: Moved [Maxus](https://osu.ppy.sh/users/4335785) from **Probationary BN** to **BN**
@@ -136,7 +136,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-03-28: Moved [Esutarosa](https://osu.ppy.sh/users/12024753) from **BN** to **Probationary BN**
 - 2022-03-28: Moved [tomatas95](https://osu.ppy.sh/users/11403815) from **BN** to **Probationary BN**
 
-#### Removals
+#### Entfernt
 
 - 2022-03-01: Removed [\_Stan](https://osu.ppy.sh/users/1653229) from **BN**
 - 2022-03-10: Removed [Jaltzu](https://osu.ppy.sh/users/2597417) from **BN**
@@ -158,9 +158,9 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-04-16: Removed [Penguinosity](https://osu.ppy.sh/users/10235296) from **Project Loved Team**
 - 2022-04-19: Removed [Spectator](https://osu.ppy.sh/users/702598) from **Project Loved Team**
 
-### Beatmap Nominators
+### Beatmap-Nominatoren
 
-#### Additions
+#### Hinzugefügt
 
 - 2022-04-03: Added [Konpaku Sariel](https://osu.ppy.sh/users/533502) to **Probationary BN**
 - 2022-04-09: Added [FLeVI](https://osu.ppy.sh/users/12519616) to **Probationary BN**
@@ -172,7 +172,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-04-24: Added [Chatie](https://osu.ppy.sh/users/6524765) to **BN**
 - 2022-04-26: Added [Crisper](https://osu.ppy.sh/users/16482505) to **Probationary BN**
 
-#### Moves
+#### Verschoben
 
 - 2022-04-06: Moved [Len](https://osu.ppy.sh/users/1686145) from **Probationary BN** to **BN**
 - 2022-04-10: Moved [Cellina](https://osu.ppy.sh/users/2490770) from **Probationary BN** to **BN**
@@ -187,7 +187,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-04-24: Moved [Usaha](https://osu.ppy.sh/users/6443117) from **Probationary BN** to **BN**
 - 2022-04-31: Moved [gzdongsheng](https://osu.ppy.sh/users/8660315) from **Probationary BN** to **BN**
 
-#### Removals
+#### Entfernt
 
 - 2022-04-01: Removed [Sanyi](https://osu.ppy.sh/users/7496029) from **BN**
 - 2022-04-02: Removed [NexusQI](https://osu.ppy.sh/users/13822800) from **BN**
@@ -217,9 +217,9 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-05-13: Moved [QHideaki13](https://osu.ppy.sh/users/733998) from **osu! Alumni** to **GMT**
 - 2022-05-13: Added [My Angel Chino](https://osu.ppy.sh/users/20547597) to **GMT**
 
-### Beatmap Nominators
+### Beatmap-Nominatoren
 
-#### Additions
+#### Hinzugefügt
 
 - 2022-05-02: Added [Antti](https://osu.ppy.sh/users/13281473) to **Probationary BN**
 - 2022-05-02: Added [Kotoha](https://osu.ppy.sh/users/7823498) to **BN**
@@ -240,7 +240,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-05-27: Added [Syrion-](https://osu.ppy.sh/users/15380643) to **Probationary BN**
 - 2022-05-28: Added [KeyWee](https://osu.ppy.sh/users/10476879) to **Probationary BN**
 
-#### Moves
+#### Verschoben
 
 - 2022-05-04: Moved [DenYi](https://osu.ppy.sh/users/14998645) from **Probationary BN** to **BN**
 - 2022-05-07: Moved [FuJu](https://osu.ppy.sh/users/10773882) from **Probationary BN** to **BN**
@@ -257,7 +257,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-05-28: Moved [Drum-Hitnormal](https://osu.ppy.sh/users/748722) from **Probationary BN** to **BN**
 - 2022-05-30: Moved [Crisper](https://osu.ppy.sh/users/16482505) from **Probationary BN** to **BN**
 
-#### Removals
+#### Entfernt
 
 - 2022-05-01: Removed [Akasha-](https://osu.ppy.sh/users/2596306) from **BN**
 - 2022-05-13: Removed [Mipha-](https://osu.ppy.sh/users/5767941) from **BN**
@@ -270,9 +270,9 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-06-01: Added [ChillierPear](https://osu.ppy.sh/users/9501251) to **Project Loved Team**
 - 2022-06-27: Removed [Pachiru](https://osu.ppy.sh/users/2850983) from **Project Loved Team**
 
-### Beatmap Nominators
+### Beatmap-Nominatoren
 
-#### Additions
+#### Hinzugefügt
 
 - 2022-06-01: Added [KuroKuroKuro](https://osu.ppy.sh/users/11931563) to **Probationary BN**
 - 2022-06-01: Added [ikin5050](https://osu.ppy.sh/users/4007649) to **BN**
@@ -286,7 +286,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-06-22: Added [Kawawa](https://osu.ppy.sh/users/4647754) to **BN**
 - 2022-06-27: Added [D3kuu](https://osu.ppy.sh/users/7807444) to **Probationary BN**
 
-#### Moves
+#### Verschoben
 
 - 2022-06-01: Moved [Toofu](https://osu.ppy.sh/users/11004271) from **Probationary BN** to **BN**
 - 2022-06-05: Moved [neonat](https://osu.ppy.sh/users/1561995) from **Probationary BN** to **BN**
@@ -304,7 +304,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-06-30: Moved [Syrion-](https://osu.ppy.sh/users/15380643) from **Probationary BN** to **BN**
 - 2022-06-30: Moved [Rivals_7](https://osu.ppy.sh/users/4610379) from **Probationary BN** to **BN**
 
-#### Removals
+#### Entfernt
 
 - 2022-06-01: Removed [Konpaku Sariel](https://osu.ppy.sh/users/533502) from **Probationary BN**
 - 2022-06-18: Removed [Cris-](https://osu.ppy.sh/users/6175280) from **Probationary BN**
@@ -319,9 +319,9 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-07-24: Added [Shoegazer](https://osu.ppy.sh/users/2520707) to **osu! Alumni**
 - 2022-07-27: Moved [Uberzolik](https://osu.ppy.sh/users/1314547) from **NAT** to **osu! Alumni**
 
-### Beatmap Nominators
+### Beatmap-Nominatoren
 
-#### Additions
+#### Hinzugefügt
 
 - 2022-07-04: Added [R-34](https://osu.ppy.sh/users/8266817) to **Probationary BN**
 - 2022-07-06: Added [Vararaup](https://osu.ppy.sh/users/8257675) to **Probationary BN**
@@ -332,7 +332,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-07-30: Added [-Ming-](https://osu.ppy.sh/users/20127755) to **Probationary BN**
 - 2022-07-31: Added [Syadow-](https://osu.ppy.sh/users/3484485) to **Probationary BN**
 
-#### Moves
+#### Verschoben
 
 - 2022-07-01: Moved [MeAqua tete](https://osu.ppy.sh/users/5645691) from **Probationary BN** to **BN**
 - 2022-07-03: Moved [Mocaoctic](https://osu.ppy.sh/users/9487458) from **Probationary BN** to **BN**
@@ -349,7 +349,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-07-25: Moved [Len](https://osu.ppy.sh/users/1686145) from **BN** to **Probationary BN**
 - 2022-07-29: Moved [rew0825](https://osu.ppy.sh/users/2488026) from **Probationary BN** to **BN**
 
-#### Removals
+#### Entfernt
 
 - 2022-07-01: Removed [Gweon Sua](https://osu.ppy.sh/users/13466351) from **BN**
 - 2022-07-01: Removed [Noffy](https://osu.ppy.sh/users/1541323) from **BN**
@@ -376,9 +376,9 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-08-16: Added [abraker](https://osu.ppy.sh/users/4635891) to **GMT**
 - 2022-08-27: Moved [Davvy](https://osu.ppy.sh/users/10047413) from **GMT** to **osu! Alumni**
 
-### Beatmap Nominators
+### Beatmap-Nominatoren
 
-#### Additions
+#### Hinzugefügt
 
 - 2022-08-02: Added [BlackBN](https://osu.ppy.sh/users/6291741) to **Probationary BN**
 - 2022-08-02: Added [Noffy](https://osu.ppy.sh/users/1541323) to **BN**
@@ -388,7 +388,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-08-27: Added [Jonarwhal](https://osu.ppy.sh/users/3653035) to **Probationary BN**
 - 2022-08-27: Added [Tyistiana](https://osu.ppy.sh/users/1421452) to **BN**
 
-#### Moves
+#### Verschoben
 
 - 2022-08-11: Moved [hac](https://osu.ppy.sh/users/17853754) from **Probationary BN** to **BN**
 - 2022-08-16: Moved [tomatas95](https://osu.ppy.sh/users/11403815) from **BN** to **Probationary BN**
@@ -400,7 +400,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-08-30: Moved [Sotarks](https://osu.ppy.sh/users/4452992) from **Probationary BN** to **BN**
 - 2022-08-30: Moved [-Syncro](https://osu.ppy.sh/users/4338923) from **Probationary BN** to **BN**
 
-#### Removals
+#### Entfernt
 
 - 2022-08-07: Removed [CallMeLyra](https://osu.ppy.sh/users/15272997) from **BN**
 - 2022-08-10: Removed [Aakki](https://osu.ppy.sh/users/11077540) from **BN**
@@ -425,16 +425,16 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-09-14: Added [Tanza3D](https://osu.ppy.sh/users/10379965) to **Project Loved Team**
 - 2022-09-19: Removed [Kasumi-sama](https://osu.ppy.sh/users/6177263) from **Project Loved Team**
 
-### Beatmap Nominators
+### Beatmap-Nominatoren
 
-#### Additions
+#### Hinzugefügt
 
 - 2022-09-09: Added [Lami-](https://osu.ppy.sh/users/16505281) to **Probationary BN**
 - 2022-09-17: Added [Myxo](https://osu.ppy.sh/users/2202645) to **BN**
 - 2022-09-23: Added [Aakki](https://osu.ppy.sh/users/11077540) to **BN**
 - 2022-09-29: Added [Zekk](https://osu.ppy.sh/users/9704802) to **Probationary BN**
 
-#### Moves
+#### Verschoben
 
 - 2022-09-01: Moved [Toofu](https://osu.ppy.sh/users/11004271) from **BN** to **Probationary BN**
 - 2022-09-01: Moved [Burak](https://osu.ppy.sh/users/13213075) from **Probationary BN** to **BN**
@@ -444,7 +444,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-09-14: Moved [Mniam](https://osu.ppy.sh/users/6050530) from **BN** to **Probationary BN**
 - 2022-09-14: Moved [GIGACHAD](https://osu.ppy.sh/users/11081858) from **BN** to **Probationary BN**
 
-#### Removals
+#### Entfernt
 
 - 2022-09-09: Removed [Realazy](https://osu.ppy.sh/users/918297) from **BN**
 - 2022-09-14: Removed [BlackBN](https://osu.ppy.sh/users/6291741) from **Probationary BN**
@@ -468,16 +468,16 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-10-24: Moved [Uni](https://osu.ppy.sh/users/617106) from **osu! Alumni** to **GMT**
 - 2022-10-27: Added [Orkay](https://osu.ppy.sh/users/9321674) to **GMT**
 
-### Beatmap Nominators
+### Beatmap-Nominatoren
 
-#### Additions
+#### Hinzugefügt
 
 - 2022-10-19: Added [Kudosu](https://osu.ppy.sh/users/11038155) to **BN**
 - 2022-10-20: Added [Sylvarus](https://osu.ppy.sh/users/4505918) to **Probationary BN**
 - 2022-10-20: Added [Nao Tomori](https://osu.ppy.sh/users/5364763) to **BN**
 - 2022-10-29: Added [Zuid-Afrikaan](https://osu.ppy.sh/users/29282944) to **Probationary BN**
 
-#### Moves
+#### Verschoben
 
 - 2022-10-07: Moved [-Ming-](https://osu.ppy.sh/users/20127755) from **Probationary BN** to **BN**
 - 2022-10-07: Moved [Al-Reina](https://osu.ppy.sh/users/7037423) from **Probationary BN** to **BN**
@@ -490,7 +490,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-10-29: Moved [Zekk](https://osu.ppy.sh/users/9704802) from **Probationary BN** to **BN**
 - 2022-10-29: Moved [Mniam](https://osu.ppy.sh/users/6050530) from **Probationary BN** to **BN**
 
-#### Removals
+#### Entfernt
 
 - 2022-10-01: Removed [Mocaotic](https://osu.ppy.sh/users/9487458) from **BN**
 - 2022-10-03: Removed [Froskya](https://osu.ppy.sh/users/4230454) from **Probationary BN**
@@ -545,9 +545,9 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-11-27: Moved [Coldrod](https://osu.ppy.sh/users/9065991) from **GMT** to **osu! Alumni**
 - 2022-11-29: Added [PuffBuck](https://osu.ppy.sh/users/4234525) to **osu! Alumni**
 
-### Beatmap Nominators
+### Beatmap-Nominatoren
 
-#### Additions
+#### Hinzugefügt
 
 - 2022-11-08: Added [-Flashlight-](https://osu.ppy.sh/users/9731062) to **Probationary BN**
 - 2022-11-11: Added [Rinze](https://osu.ppy.sh/users/19901680) to **Probationary BN**
@@ -560,7 +560,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-11-39: Added [MadBricktree](https://osu.ppy.sh/users/4790958) to **Probationary BN**
 - 2022-11-30: Added [Stack](https://osu.ppy.sh/users/6122935) to **Probationary BN**
 
-#### Moves
+#### Verschoben
 
 - 2022-11-20: Moved [Chatie](https://osu.ppy.sh/users/6524765) from **BN** to **Probationary BN**
 - 2022-11-20: Moved [Natsuko](https://osu.ppy.sh/users/8266817) from **BN** to **Probationary BN**
@@ -569,7 +569,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-11-29: Moved [Kudosu](https://osu.ppy.sh/users/11038155) from **Probationary BN** to **BN**
 - 2022-11-29: Moved [Sylvarus](https://osu.ppy.sh/users/4505918) from **Probationary BN** to **BN**
 
-#### Removals
+#### Entfernt
 
 - 2022-11-08: Removed [Dusk-](https://osu.ppy.sh/users/6092181) from **BN**
 - 2022-11-08: Removed [Hivie](https://osu.ppy.sh/users/14102976) from **BN**
@@ -600,9 +600,9 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-12-24: Removed [NexusQI](https://osu.ppy.sh/users/13822800) from **NAT**
 - 2022-12-28: Removed [UberFazz](https://osu.ppy.sh/users/8646059) from **Project Loved Team**
 
-### Beatmap Nominators
+### Beatmap-Nominatoren
 
-#### Additions
+#### Hinzugefügt
 
 - 2022-12-08: Added [Hobbes2](https://osu.ppy.sh/users/8157492) to **Probationary BN**
 - 2022-12-08: Added [fuhie](https://osu.ppy.sh/users/7620002) to **Probationary BN**
@@ -618,7 +618,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-12-24: Added [-Rei](https://osu.ppy.sh/users/8200707) to **Probationary BN**
 - 2022-12-30: Added [Heroine](https://osu.ppy.sh/users/12727076) to **Probationary BN**
 
-#### Moves
+#### Verschoben
 
 - 2022-12-07: Moved [Axer](https://osu.ppy.sh/users/7299864) from **BN** to **Probationary BN**
 - 2022-12-13: Moved [Seiran-](https://osu.ppy.sh/users/14351534) from **Probationary BN** to **BN**
@@ -630,7 +630,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2022-12-30: Moved [Len](https://osu.ppy.sh/users/1686145) from **BN** to **Probationary BN**
 - 2022-12-30: Moved [Didah](https://osu.ppy.sh/users/8030129) from **BN** to **Probationary BN**
 
-#### Removals
+#### Entfernt
 
 - 2022-12-23: Removed [Natsuko](https://osu.ppy.sh/users/8266817) from **Probationary BN**
 - 2022-12-23: Removed [Myxo](https://osu.ppy.sh/users/2202645) from **BN**
