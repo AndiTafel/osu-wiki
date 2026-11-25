@@ -40,16 +40,16 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Entfernt
 
-- 2020-01-03: Removed [Daletto](https://osu.ppy.sh/users/7592136) from **Probationary BN**
-- 2020-01-05: Removed [Nifty](https://osu.ppy.sh/users/4956097) from **Probationary BN**
-- 2020-01-06: Removed [yaspo](https://osu.ppy.sh/users/4945926) from **BN**
-- 2020-01-07: Removed [Du5t](https://osu.ppy.sh/users/6053071) from **BN**
-- 2020-01-17: Removed [Tailsdk](https://osu.ppy.sh/users/6751666) from **BN**
-- 2020-01-18: Removed [Asherz007](https://osu.ppy.sh/users/9014047) from **BN**
-- 2020-01-19: Removed [qoot8123](https://osu.ppy.sh/users/766371) from **BN**
-- 2020-01-25: Removed [Sanyi](https://osu.ppy.sh/users/7496029) from **BN**
-- 2020-01-26: Removed [Greaper](https://osu.ppy.sh/users/2369776) from **BN**
-- 2020-01-29: Removed [Critical_Star](https://osu.ppy.sh/users/3793196) from **BN**
+- 2020-01-03: [Daletto](https://osu.ppy.sh/users/7592136) wurde aus der Gruppe **Probationary BN** entfernt
+- 2020-01-05: [Nifty](https://osu.ppy.sh/users/4956097) wurde aus der Gruppe **Probationary BN** entfernt
+- 2020-01-06: [yaspo](https://osu.ppy.sh/users/4945926) wurde aus der Gruppe **BN** entfernt
+- 2020-01-07: [Du5t](https://osu.ppy.sh/users/6053071) wurde aus der Gruppe **BN** entfernt
+- 2020-01-17: [Tailsdk](https://osu.ppy.sh/users/6751666) wurde aus der Gruppe **BN** entfernt
+- 2020-01-18: [Asherz007](https://osu.ppy.sh/users/9014047) wurde aus der Gruppe **BN** entfernt
+- 2020-01-19: [qoot8123](https://osu.ppy.sh/users/766371) wurde aus der Gruppe **BN** entfernt
+- 2020-01-25: [Sanyi](https://osu.ppy.sh/users/7496029) wurde aus der Gruppe **BN** entfernt
+- 2020-01-26: [Greaper](https://osu.ppy.sh/users/2369776) wurde aus der Gruppe **BN** entfernt
+- 2020-01-29: [Critical_Star](https://osu.ppy.sh/users/3793196) wurde aus der Gruppe **BN** entfernt
 
 ## Februar
 
@@ -87,14 +87,14 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Entfernt
 
-- 2020-02-05: Removed [Rocma](https://osu.ppy.sh/users/566276) from **BN**
-- 2020-02-08: Removed [ailv](https://osu.ppy.sh/users/6933054) from **BN**
-- 2020-02-10: Removed [Kyousukee](https://osu.ppy.sh/users/8842107) from **BN**
-- 2020-02-12: Removed [Trynna](https://osu.ppy.sh/users/2652951) from **BN**
-- 2020-02-20: Removed [Genjuro](https://osu.ppy.sh/users/3196091) from **BN**
-- 2020-02-20: Removed [\_DUSK\_](https://osu.ppy.sh/users/6092181) from **BN**
-- 2020-02-23: Removed [MEGAtive](https://osu.ppy.sh/users/3094101) from **BN**
-- 2020-02-24: Removed [Mun](https://osu.ppy.sh/users/6699165) from **BN**
+- 2020-02-05: [Rocma](https://osu.ppy.sh/users/566276) wurde aus der Gruppe **BN** entfernt
+- 2020-02-08: [ailv](https://osu.ppy.sh/users/6933054) wurde aus der Gruppe **BN** entfernt
+- 2020-02-10: [Kyousukee](https://osu.ppy.sh/users/8842107) wurde aus der Gruppe **BN** entfernt
+- 2020-02-12: [Trynna](https://osu.ppy.sh/users/2652951) wurde aus der Gruppe **BN** entfernt
+- 2020-02-20: [Genjuro](https://osu.ppy.sh/users/3196091) wurde aus der Gruppe **BN** entfernt
+- 2020-02-20: [\_DUSK\_](https://osu.ppy.sh/users/6092181) wurde aus der Gruppe **BN** entfernt
+- 2020-02-23: [MEGAtive](https://osu.ppy.sh/users/3094101) wurde aus der Gruppe **BN** entfernt
+- 2020-02-24: [Mun](https://osu.ppy.sh/users/6699165) wurde aus der Gruppe **BN** entfernt
 
 ## März
 
@@ -132,16 +132,16 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Entfernt
 
-- 2020-03-03: Removed [Teky](https://osu.ppy.sh/users/10520912) from **BN**
-- 2020-03-04: Removed [Bibbity Bill](https://osu.ppy.sh/users/4446810) from **BN**
-- 2020-03-06: Removed [Gero](https://osu.ppy.sh/users/1467715) from **Probationary BN**
-- 2020-03-20: Removed [Tyistiana](https://osu.ppy.sh/users/1421452) from **BN**
-- 2020-03-25: Removed [greenhue](https://osu.ppy.sh/users/4967662) from **BN**
-- 2020-03-30: Removed [wonjae](https://osu.ppy.sh/users/5032045) from **BN**
+- 2020-03-03: [Teky](https://osu.ppy.sh/users/10520912) wurde aus der Gruppe **BN** entfernt
+- 2020-03-04: [Bibbity Bill](https://osu.ppy.sh/users/4446810) wurde aus der Gruppe **BN** entfernt
+- 2020-03-06: [Gero](https://osu.ppy.sh/users/1467715) wurde aus der Gruppe **Probationary BN** entfernt
+- 2020-03-20: [Tyistiana](https://osu.ppy.sh/users/1421452) wurde aus der Gruppe **BN** entfernt
+- 2020-03-25: [greenhue](https://osu.ppy.sh/users/4967662) wurde aus der Gruppe **BN** entfernt
+- 2020-03-30: [wonjae](https://osu.ppy.sh/users/5032045) wurde aus der Gruppe **BN** entfernt
 
 ## April
 
-- 2020-04-15: Removed [Shoegazer](https://osu.ppy.sh/users/2520707) from **Project Loved Team**
+- 2020-04-15: [Shoegazer](https://osu.ppy.sh/users/2520707) wurde aus der Gruppe **Project Loved Team** entfernt
 - 2020-04-29: Moved [Mao](https://osu.ppy.sh/users/2204515) from **osu! Alumni** to **NAT**
 
 ### Beatmap-Nominatoren
@@ -169,15 +169,15 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Entfernt
 
-- 2020-04-02: Removed [-Aqua](https://osu.ppy.sh/users/7150015) from **BN**
-- 2020-04-10: Removed [Petal](https://osu.ppy.sh/users/7354729) from **BN**
-- 2020-04-12: Removed [Vulkin](https://osu.ppy.sh/users/4901066) from **Probationary BN**
-- 2020-04-14: Removed [Daletto](https://osu.ppy.sh/users/7592136) from **Probationary BN**
-- 2020-04-21: Removed [MBomb](https://osu.ppy.sh/users/3071175) from **BN**
-- 2020-04-22: Removed [celerih](https://osu.ppy.sh/users/4696296) from **BN**
-- 2020-04-24: Removed [Chinochan](https://osu.ppy.sh/users/3626063) from **BN**
-- 2020-04-25: Removed [Uta](https://osu.ppy.sh/users/9439796) from **Probationary BN**
-- 2020-04-27: Removed [Ryuusei Aika](https://osu.ppy.sh/users/7777875) from **BN**
+- 2020-04-02: [-Aqua](https://osu.ppy.sh/users/7150015) wurde aus der Gruppe **BN** entfernt
+- 2020-04-10: [Petal](https://osu.ppy.sh/users/7354729) wurde aus der Gruppe **BN** entfernt
+- 2020-04-12: [Vulkin](https://osu.ppy.sh/users/4901066) wurde aus der Gruppe **Probationary BN** entfernt
+- 2020-04-14: [Daletto](https://osu.ppy.sh/users/7592136) wurde aus der Gruppe **Probationary BN** entfernt
+- 2020-04-21: [MBomb](https://osu.ppy.sh/users/3071175) wurde aus der Gruppe **BN** entfernt
+- 2020-04-22: [celerih](https://osu.ppy.sh/users/4696296) wurde aus der Gruppe **BN** entfernt
+- 2020-04-24: [Chinochan](https://osu.ppy.sh/users/3626063) wurde aus der Gruppe **BN** entfernt
+- 2020-04-25: [Uta](https://osu.ppy.sh/users/9439796) wurde aus der Gruppe **Probationary BN** entfernt
+- 2020-04-27: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) wurde aus der Gruppe **BN** entfernt
 
 ## Mai
 
@@ -212,18 +212,18 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Entfernt
 
-- 2020-05-02: Removed [Lacrima](https://osu.ppy.sh/users/4915649) from **BN**
-- 2020-05-11: Removed [Namki](https://osu.ppy.sh/users/5248582) from **BN**
-- 2020-05-13: Removed [Drum-Hitnormal](https://osu.ppy.sh/users/748722) from **Probationary BN**
-- 2020-05-13: Removed [\_Kobii](https://osu.ppy.sh/users/6209713) from **Probationary BN**
-- 2020-05-14: Removed [Cynplytholowazy](https://osu.ppy.sh/users/3901754) from **Probationary BN**
-- 2020-05-21: Removed [Affirmation](https://osu.ppy.sh/users/6186628) from **Probationary BN**
+- 2020-05-02: [Lacrima](https://osu.ppy.sh/users/4915649) wurde aus der Gruppe **BN** entfernt
+- 2020-05-11: [Namki](https://osu.ppy.sh/users/5248582) wurde aus der Gruppe **BN** entfernt
+- 2020-05-13: [Drum-Hitnormal](https://osu.ppy.sh/users/748722) wurde aus der Gruppe **Probationary BN** entfernt
+- 2020-05-13: [\_Kobii](https://osu.ppy.sh/users/6209713) wurde aus der Gruppe **Probationary BN** entfernt
+- 2020-05-14: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) wurde aus der Gruppe **Probationary BN** entfernt
+- 2020-05-21: [Affirmation](https://osu.ppy.sh/users/6186628) wurde aus der Gruppe **Probationary BN** entfernt
 
 ## Juni
 
 - 2020-06-01: Moved [heyronii](https://osu.ppy.sh/users/5642779) from **GMT** to **osu! Alumni**
 - 2020-06-01: Moved [Pawsu](https://osu.ppy.sh/users/2371454) from **GMT** to **osu! Alumni**
-- 2020-06-01: Removed [Pawsu](https://osu.ppy.sh/users/2371454) from **Support Team**
+- 2020-06-01: [Pawsu](https://osu.ppy.sh/users/2371454) wurde aus der Gruppe **Support Team** entfernt
 - 2020-06-02: [abraker](https://osu.ppy.sh/users/4635891) wurde zur Gruppe **GMT** hinzugefügt
 - 2020-06-17: [RockRoller](https://osu.ppy.sh/users/8388854) wurde zur Gruppe **GMT** hinzugefügt
 - 2020-06-24: Moved [Laurakko](https://osu.ppy.sh/users/7253731) from **osu! Alumni** to **GMT**
@@ -261,11 +261,11 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Entfernt
 
-- 2020-06-05: Removed [Gamelan4](https://osu.ppy.sh/users/9856910) from **Probationary BN**
-- 2020-06-13: Removed [Metzo](https://osu.ppy.sh/users/10633982) from **Probationary BN**
-- 2020-06-20: Removed [wafer](https://osu.ppy.sh/users/9416836) from **BN**
-- 2020-06-22: Removed [-Luminate](https://osu.ppy.sh/users/4778689) from **Probationary BN**
-- 2020-06-23: Removed [Unpredictable](https://osu.ppy.sh/users/7560872) from **BN**
+- 2020-06-05: [Gamelan4](https://osu.ppy.sh/users/9856910) wurde aus der Gruppe **Probationary BN** entfernt
+- 2020-06-13: [Metzo](https://osu.ppy.sh/users/10633982) wurde aus der Gruppe **Probationary BN** entfernt
+- 2020-06-20: [wafer](https://osu.ppy.sh/users/9416836) wurde aus der Gruppe **BN** entfernt
+- 2020-06-22: [-Luminate](https://osu.ppy.sh/users/4778689) wurde aus der Gruppe **Probationary BN** entfernt
+- 2020-06-23: [Unpredictable](https://osu.ppy.sh/users/7560872) wurde aus der Gruppe **BN** entfernt
 
 ## Juli
 
@@ -304,10 +304,10 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Entfernt
 
-- 2020-07-16: Removed [JBHyperion](https://osu.ppy.sh/users/4879508) from **BN**
-- 2020-07-22: Removed [Peter](https://osu.ppy.sh/users/8623835) from **BN**
-- 2020-07-26: Removed [Volta](https://osu.ppy.sh/users/4154071) from **BN**
-- 2020-07-29: Removed [Kaitjuh](https://osu.ppy.sh/users/2225327) from **BN**
+- 2020-07-16: [JBHyperion](https://osu.ppy.sh/users/4879508) wurde aus der Gruppe **BN** entfernt
+- 2020-07-22: [Peter](https://osu.ppy.sh/users/8623835) wurde aus der Gruppe **BN** entfernt
+- 2020-07-26: [Volta](https://osu.ppy.sh/users/4154071) wurde aus der Gruppe **BN** entfernt
+- 2020-07-29: [Kaitjuh](https://osu.ppy.sh/users/2225327) wurde aus der Gruppe **BN** entfernt
 
 ## August
 
@@ -349,13 +349,13 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Entfernt
 
-- 2020-08-02: Removed [Icekalt](https://osu.ppy.sh/users/5410645) from **BN**
-- 2020-08-03: Removed [Rizen](https://osu.ppy.sh/users/3056732) from **BN**
-- 2020-08-07: Removed [Scotty](https://osu.ppy.sh/users/11085809) from **BN**
-- 2020-08-09: Removed [Kyousukee](https://osu.ppy.sh/users/8842107) from **Probationary BN**
-- 2020-08-19: Removed [Yales](https://osu.ppy.sh/users/2377881) from **Probationary BN**
-- 2020-08-19: Removed [Dako](https://osu.ppy.sh/users/11081858) from **BN**
-- 2020-08-22: Removed [Axer](https://osu.ppy.sh/users/7299864) from **BN**
+- 2020-08-02: [Icekalt](https://osu.ppy.sh/users/5410645) wurde aus der Gruppe **BN** entfernt
+- 2020-08-03: [Rizen](https://osu.ppy.sh/users/3056732) wurde aus der Gruppe **BN** entfernt
+- 2020-08-07: [Scotty](https://osu.ppy.sh/users/11085809) wurde aus der Gruppe **BN** entfernt
+- 2020-08-09: [Kyousukee](https://osu.ppy.sh/users/8842107) wurde aus der Gruppe **Probationary BN** entfernt
+- 2020-08-19: [Yales](https://osu.ppy.sh/users/2377881) wurde aus der Gruppe **Probationary BN** entfernt
+- 2020-08-19: [Dako](https://osu.ppy.sh/users/11081858) wurde aus der Gruppe **BN** entfernt
+- 2020-08-22: [Axer](https://osu.ppy.sh/users/7299864) wurde aus der Gruppe **BN** entfernt
 
 ## September
 
@@ -400,14 +400,14 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Entfernt
 
-- 2020-09-08: Removed [Venix](https://osu.ppy.sh/users/5999631) from **BN**
-- 2020-09-12: Removed [hypercyte](https://osu.ppy.sh/users/9155377) from **BN**
-- 2020-09-12: Removed [Keiga](https://osu.ppy.sh/users/6866022) from **BN**
-- 2020-09-14: Removed [Garalulu](https://osu.ppy.sh/users/757783) from **Probationary BN**
-- 2020-09-16: Removed [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) from **Probationary BN**
-- 2020-09-16: Removed [wonjae](https://osu.ppy.sh/users/5032045) from **BN**
-- 2020-09-18: Removed [Trynna](https://osu.ppy.sh/users/2652951) from **BN**
-- 2020-09-20: Removed [Sinnoh](https://osu.ppy.sh/users/4236057) from **BN**
+- 2020-09-08: [Venix](https://osu.ppy.sh/users/5999631) wurde aus der Gruppe **BN** entfernt
+- 2020-09-12: [hypercyte](https://osu.ppy.sh/users/9155377) wurde aus der Gruppe **BN** entfernt
+- 2020-09-12: [Keiga](https://osu.ppy.sh/users/6866022) wurde aus der Gruppe **BN** entfernt
+- 2020-09-14: [Garalulu](https://osu.ppy.sh/users/757783) wurde aus der Gruppe **Probationary BN** entfernt
+- 2020-09-16: [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) wurde aus der Gruppe **Probationary BN** entfernt
+- 2020-09-16: [wonjae](https://osu.ppy.sh/users/5032045) wurde aus der Gruppe **BN** entfernt
+- 2020-09-18: [Trynna](https://osu.ppy.sh/users/2652951) wurde aus der Gruppe **BN** entfernt
+- 2020-09-20: [Sinnoh](https://osu.ppy.sh/users/4236057) wurde aus der Gruppe **BN** entfernt
 
 ## Oktober
 
@@ -444,27 +444,27 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Entfernt
 
-- 2020-10-02: Removed [Bunnrei](https://osu.ppy.sh/users/829284) from **Probationary BN**
-- 2020-10-03: Removed [NeKroMan4ik](https://osu.ppy.sh/users/11387664) from **Probationary BN**
-- 2020-10-03: Removed [Ryuusei Aika](https://osu.ppy.sh/users/7777875) from **Probationary BN**
-- 2020-10-03: Removed [Fall](https://osu.ppy.sh/users/4800816) from **BN**
-- 2020-10-03: Removed [Nikakis](https://osu.ppy.sh/users/4351739) from **BN**
-- 2020-10-03: Removed [Smoke](https://osu.ppy.sh/users/10726630) from **BN**
-- 2020-10-13: Removed [Kamuy](https://osu.ppy.sh/users/7439226) from **BN**
-- 2020-10-20: Removed [Roger](https://osu.ppy.sh/users/1538223) from **BN**
-- 2020-10-21: Removed [tasuke912](https://osu.ppy.sh/users/2774767) from **BN**
-- 2020-10-21: Removed [Muse Dash](https://osu.ppy.sh/users/13695676) from **BN**
-- 2020-10-23: Removed [Ulqui](https://osu.ppy.sh/users/1263669) from **Probationary BN**
-- 2020-10-26: Removed [newton-](https://osu.ppy.sh/users/5875419) from **Probationary BN**
+- 2020-10-02: [Bunnrei](https://osu.ppy.sh/users/829284) wurde aus der Gruppe **Probationary BN** entfernt
+- 2020-10-03: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) wurde aus der Gruppe **Probationary BN** entfernt
+- 2020-10-03: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) wurde aus der Gruppe **Probationary BN** entfernt
+- 2020-10-03: [Fall](https://osu.ppy.sh/users/4800816) wurde aus der Gruppe **BN** entfernt
+- 2020-10-03: [Nikakis](https://osu.ppy.sh/users/4351739) wurde aus der Gruppe **BN** entfernt
+- 2020-10-03: [Smoke](https://osu.ppy.sh/users/10726630) wurde aus der Gruppe **BN** entfernt
+- 2020-10-13: [Kamuy](https://osu.ppy.sh/users/7439226) wurde aus der Gruppe **BN** entfernt
+- 2020-10-20: [Roger](https://osu.ppy.sh/users/1538223) wurde aus der Gruppe **BN** entfernt
+- 2020-10-21: [tasuke912](https://osu.ppy.sh/users/2774767) wurde aus der Gruppe **BN** entfernt
+- 2020-10-21: [Muse Dash](https://osu.ppy.sh/users/13695676) wurde aus der Gruppe **BN** entfernt
+- 2020-10-23: [Ulqui](https://osu.ppy.sh/users/1263669) wurde aus der Gruppe **Probationary BN** entfernt
+- 2020-10-26: [newton-](https://osu.ppy.sh/users/5875419) wurde aus der Gruppe **Probationary BN** entfernt
 
 ## November
 
 - 2020-11-14: Moved [Kuron-kun](https://osu.ppy.sh/users/2697284) from **GMT** to **osu! Alumni**
-- 2020-11-15: Removed [mtmcl](https://osu.ppy.sh/users/5960) from **osu! Alumni**
-- 2020-11-15: Removed [Maeglwn](https://osu.ppy.sh/users/2440936) from **osu! Alumni**
+- 2020-11-15: [mtmcl](https://osu.ppy.sh/users/5960) wurde aus der Gruppe **osu! Alumni** entfernt
+- 2020-11-15: [Maeglwn](https://osu.ppy.sh/users/2440936) wurde aus der Gruppe **osu! Alumni** entfernt
 - 2020-11-16: [Intermezzo](https://osu.ppy.sh/users/136842) wurde zur Gruppe **osu! Alumni** hinzugefügt
-- 2020-11-16: Removed [Flanster](https://osu.ppy.sh/users/447818) from **GMT**
-- 2020-11-16: Removed [Kuron-kun](https://osu.ppy.sh/users/2697284) from **osu! Alumni**
+- 2020-11-16: [Flanster](https://osu.ppy.sh/users/447818) wurde aus der Gruppe **GMT** entfernt
+- 2020-11-16: [Kuron-kun](https://osu.ppy.sh/users/2697284) wurde aus der Gruppe **osu! Alumni** entfernt
 - 2020-11-20: Moved [Nepuri](https://osu.ppy.sh/users/6637817) from **NAT** to **osu! Alumni**
 
 ### Beatmap-Nominatoren
@@ -490,9 +490,9 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Entfernt
 
-- 2020-11-06: Removed [Kawawa](https://osu.ppy.sh/users/4647754) from **BN**
-- 2020-11-14: Removed [incandescence](https://osu.ppy.sh/users/6256027) from **Probationary BN**
-- 2020-11-18: Removed [Baron](https://osu.ppy.sh/users/10286499) from **BN**
+- 2020-11-06: [Kawawa](https://osu.ppy.sh/users/4647754) wurde aus der Gruppe **BN** entfernt
+- 2020-11-14: [incandescence](https://osu.ppy.sh/users/6256027) wurde aus der Gruppe **Probationary BN** entfernt
+- 2020-11-18: [Baron](https://osu.ppy.sh/users/10286499) wurde aus der Gruppe **BN** entfernt
 
 ## Dezember
 
@@ -532,11 +532,11 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Entfernt
 
-- 2020-12-15: Removed [Sylas](https://osu.ppy.sh/users/3906405) from **BN**
-- 2020-12-15: Removed [Yahuri](https://osu.ppy.sh/users/4682629) from **BN**
-- 2020-12-16: Removed [Raiden](https://osu.ppy.sh/users/2239480) from **BN**
-- 2020-12-23: Removed [Blitzifyyy](https://osu.ppy.sh/users/11787713) from **BN**
-- 2020-12-28: Removed [Spectator](https://osu.ppy.sh/users/702598) from **BN**
-- 2020-12-28: Removed [Dapuluous](https://osu.ppy.sh/users/8140944) from **BN**
-- 2020-12-29: Removed [Xinely](https://osu.ppy.sh/users/1521445) from **BN**
-- 2020-12-30: Removed [Myxo](https://osu.ppy.sh/users/2202645) from **BN**
+- 2020-12-15: [Sylas](https://osu.ppy.sh/users/3906405) wurde aus der Gruppe **BN** entfernt
+- 2020-12-15: [Yahuri](https://osu.ppy.sh/users/4682629) wurde aus der Gruppe **BN** entfernt
+- 2020-12-16: [Raiden](https://osu.ppy.sh/users/2239480) wurde aus der Gruppe **BN** entfernt
+- 2020-12-23: [Blitzifyyy](https://osu.ppy.sh/users/11787713) wurde aus der Gruppe **BN** entfernt
+- 2020-12-28: [Spectator](https://osu.ppy.sh/users/702598) wurde aus der Gruppe **BN** entfernt
+- 2020-12-28: [Dapuluous](https://osu.ppy.sh/users/8140944) wurde aus der Gruppe **BN** entfernt
+- 2020-12-29: [Xinely](https://osu.ppy.sh/users/1521445) wurde aus der Gruppe **BN** entfernt
+- 2020-12-30: [Myxo](https://osu.ppy.sh/users/2202645) wurde aus der Gruppe **BN** entfernt

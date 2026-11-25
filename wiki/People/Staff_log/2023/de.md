@@ -51,23 +51,23 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Entfernt
 
-- 2023-01-03: Removed [Burak](https://osu.ppy.sh/users/13213075) from **BN**
-- 2023-01-05: Removed [VINXIS](https://osu.ppy.sh/users/4323406) from **BN**
-- 2023-01-16: Removed [Iceluin](https://osu.ppy.sh/users/3558897) from **BN**
-- 2023-01-21: Removed [Amamya](https://osu.ppy.sh/users/1997633) from **BN**
-- 2023-01-21: Removed [Lasse](https://osu.ppy.sh/users/896613) from **BN**
-- 2023-01-24: Removed [hac](https://osu.ppy.sh/users/17853754) from **BN**
-- 2023-01-24: Removed [Kudosu](https://osu.ppy.sh/users/11038155) from **BN**
-- 2023-01-27: Removed [-Syncro](https://osu.ppy.sh/users/4338923) from **BN**
-- 2023-01-30: Removed [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) from **BN**
-- 2023-01-30: Removed [Chromoxx](https://osu.ppy.sh/users/1881639) from **BN**
+- 2023-01-03: [Burak](https://osu.ppy.sh/users/13213075) wurde aus der Gruppe **BN** entfernt
+- 2023-01-05: [VINXIS](https://osu.ppy.sh/users/4323406) wurde aus der Gruppe **BN** entfernt
+- 2023-01-16: [Iceluin](https://osu.ppy.sh/users/3558897) wurde aus der Gruppe **BN** entfernt
+- 2023-01-21: [Amamya](https://osu.ppy.sh/users/1997633) wurde aus der Gruppe **BN** entfernt
+- 2023-01-21: [Lasse](https://osu.ppy.sh/users/896613) wurde aus der Gruppe **BN** entfernt
+- 2023-01-24: [hac](https://osu.ppy.sh/users/17853754) wurde aus der Gruppe **BN** entfernt
+- 2023-01-24: [Kudosu](https://osu.ppy.sh/users/11038155) wurde aus der Gruppe **BN** entfernt
+- 2023-01-27: [-Syncro](https://osu.ppy.sh/users/4338923) wurde aus der Gruppe **BN** entfernt
+- 2023-01-30: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) wurde aus der Gruppe **BN** entfernt
+- 2023-01-30: [Chromoxx](https://osu.ppy.sh/users/1881639) wurde aus der Gruppe **BN** entfernt
 
 ## Februar
 
 - 2023-02-02: [Blushing](https://osu.ppy.sh/users/5927823) wurde zur Gruppe **Project Loved Team** hinzugefügt
 - 2023-02-08: [Dada](https://osu.ppy.sh/users/9119507) wurde zur Gruppe **NAT** hinzugefügt
 - 2023-02-08: [Yogurtt](https://osu.ppy.sh/users/2649717) wurde zur Gruppe **NAT** hinzugefügt
-- 2023-02-09: Removed [DeviousPanda](https://osu.ppy.sh/users/4966334) from **Project Loved Team**
+- 2023-02-09: [DeviousPanda](https://osu.ppy.sh/users/4966334) wurde aus der Gruppe **Project Loved Team** entfernt
 - 2023-02-19: [Civil oath](https://osu.ppy.sh/users/3216107) wurde zur Gruppe **Project Loved Team** hinzugefügt
 - 2023-02-21: [Phob](https://osu.ppy.sh/users/6069462) wurde zur Gruppe **Beatmap Spotlight Curators** hinzugefügt
 - 2023-02-21: [MORU](https://osu.ppy.sh/users/13681464) wurde zur Gruppe **Beatmap Spotlight Curators** hinzugefügt
@@ -112,31 +112,31 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Entfernt
 
-- 2023-02-05: Removed [rew0825](https://osu.ppy.sh/users/2488026) from **BN**
-- 2023-02-08: Removed [Dada](https://osu.ppy.sh/users/9119507) from **BN**
-- 2023-02-08: Removed [Yogurtt](https://osu.ppy.sh/users/2649717) from **BN**
-- 2023-02-08: Removed [mnyui](https://osu.ppy.sh/users/14261540) from **BN**
-- 2023-02-13: Removed [Nifty](https://osu.ppy.sh/users/4956097) from **BN**
-- 2023-02-16: Removed [Eriha](https://osu.ppy.sh/users/16320311) from **Probationary BN**
-- 2023-02-17: Removed [-Aqua](https://osu.ppy.sh/users/7150015) from **BN**
-- 2023-02-19: Removed [fuhie](https://osu.ppy.sh/users/7620002) from **BN**
-- 2023-02-20: Removed [Seiran-](https://osu.ppy.sh/users/14351534) from **BN**
-- 2023-02-24: Removed [deta5859](https://osu.ppy.sh/users/15275662) from **BN**
-- 2023-02-25: Removed [TheKingHenry](https://osu.ppy.sh/users/5128277) from **BN**
-- 2023-02-26: Removed [bigh](https://osu.ppy.sh/users/16352736) from **BN**
-- 2023-02-27: Removed [Rinze](https://osu.ppy.sh/users/19901680) from **BN**
-- 2023-02-28: Removed [Axer](https://osu.ppy.sh/users/7299864) from **BN**
+- 2023-02-05: [rew0825](https://osu.ppy.sh/users/2488026) wurde aus der Gruppe **BN** entfernt
+- 2023-02-08: [Dada](https://osu.ppy.sh/users/9119507) wurde aus der Gruppe **BN** entfernt
+- 2023-02-08: [Yogurtt](https://osu.ppy.sh/users/2649717) wurde aus der Gruppe **BN** entfernt
+- 2023-02-08: [mnyui](https://osu.ppy.sh/users/14261540) wurde aus der Gruppe **BN** entfernt
+- 2023-02-13: [Nifty](https://osu.ppy.sh/users/4956097) wurde aus der Gruppe **BN** entfernt
+- 2023-02-16: [Eriha](https://osu.ppy.sh/users/16320311) wurde aus der Gruppe **Probationary BN** entfernt
+- 2023-02-17: [-Aqua](https://osu.ppy.sh/users/7150015) wurde aus der Gruppe **BN** entfernt
+- 2023-02-19: [fuhie](https://osu.ppy.sh/users/7620002) wurde aus der Gruppe **BN** entfernt
+- 2023-02-20: [Seiran-](https://osu.ppy.sh/users/14351534) wurde aus der Gruppe **BN** entfernt
+- 2023-02-24: [deta5859](https://osu.ppy.sh/users/15275662) wurde aus der Gruppe **BN** entfernt
+- 2023-02-25: [TheKingHenry](https://osu.ppy.sh/users/5128277) wurde aus der Gruppe **BN** entfernt
+- 2023-02-26: [bigh](https://osu.ppy.sh/users/16352736) wurde aus der Gruppe **BN** entfernt
+- 2023-02-27: [Rinze](https://osu.ppy.sh/users/19901680) wurde aus der Gruppe **BN** entfernt
+- 2023-02-28: [Axer](https://osu.ppy.sh/users/7299864) wurde aus der Gruppe **BN** entfernt
 
 ## März
 
 - 2023-03-04: Moved [Secre](https://osu.ppy.sh/users/2306637) from **NAT** to **osu! Alumni**
-- 2023-03-12: Removed [[Zeth]](https://osu.ppy.sh/users/9912966) from **Beatmap Spotlight Curators**
+- 2023-03-12: [[Zeth]](https://osu.ppy.sh/users/9912966) wurde aus der Gruppe **Beatmap Spotlight Curators** entfernt
 - 2023-03-12: [megumic](https://osu.ppy.sh/users/7537133) wurde zur Gruppe **Project Loved Team** hinzugefügt
 - 2023-03-12: [Kingling](https://osu.ppy.sh/users/7010761) wurde zur Gruppe **Project Loved Team** hinzugefügt
 - 2023-03-12: [Aistre](https://osu.ppy.sh/users/4879380) wurde zur Gruppe **Project Loved Team** hinzugefügt
 - 2023-03-16: Moved [Faputa](https://osu.ppy.sh/users/845733) from **NAT** to **osu! Alumni**
 - 2023-03-18: [Ideal](https://osu.ppy.sh/users/3869519) wurde zur Gruppe **NAT** hinzugefügt
-- 2023-03-20: Removed [Irisu](https://osu.ppy.sh/users/8595858) from **Project Loved Team**
+- 2023-03-20: [Irisu](https://osu.ppy.sh/users/8595858) wurde aus der Gruppe **Project Loved Team** entfernt
 - 2023-03-27: [Roan](https://osu.ppy.sh/users/8214639) wurde zur Gruppe **GMT** hinzugefügt
 - 2023-03-27: [Redo_](https://osu.ppy.sh/users/7122165) wurde zur Gruppe **GMT** hinzugefügt
 - 2023-03-28: [Boaz](https://osu.ppy.sh/users/13302996) wurde zur Gruppe **Beatmap Spotlight Curators** hinzugefügt
@@ -149,11 +149,11 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2023-03-29: [YuEast 2018](https://osu.ppy.sh/users/13953619) wurde zur Gruppe **Beatmap Spotlight Curators** hinzugefügt
 - 2023-03-29: [Seulgi](https://osu.ppy.sh/users/4918394) wurde zur Gruppe **Beatmap Spotlight Curators** hinzugefügt
 - 2023-03-29: [AMWRone](https://osu.ppy.sh/users/10351684) wurde zur Gruppe **Beatmap Spotlight Curators** hinzugefügt
-- 2023-03-29: Removed [Kibitz](https://osu.ppy.sh/users/7418493) from **Beatmap Spotlight Curators**
+- 2023-03-29: [Kibitz](https://osu.ppy.sh/users/7418493) wurde aus der Gruppe **Beatmap Spotlight Curators** entfernt
 - 2023-03-29: [Ilham](https://osu.ppy.sh/users/3057154) wurde zur Gruppe **Beatmap Spotlight Curators** hinzugefügt
 - 2023-03-29: [Maimaing](https://osu.ppy.sh/users/14520910) wurde zur Gruppe **Beatmap Spotlight Curators** hinzugefügt
-- 2023-03-29: Removed [lenpai](https://osu.ppy.sh/users/5314573) from **Beatmap Spotlight Curators**
-- 2023-03-29: Removed [RandomeLoL](https://osu.ppy.sh/users/7080063) from **Project Loved Team**
+- 2023-03-29: [lenpai](https://osu.ppy.sh/users/5314573) wurde aus der Gruppe **Beatmap Spotlight Curators** entfernt
+- 2023-03-29: [RandomeLoL](https://osu.ppy.sh/users/7080063) wurde aus der Gruppe **Project Loved Team** entfernt
 - 2023-03-29: Moved [Unpredictable](https://osu.ppy.sh/users/7560872) from **NAT** to **osu! Alumni**
 - 2023-03-29: [Antalf](https://osu.ppy.sh/users/8793773) wurde zur Gruppe **NAT** hinzugefügt
 
@@ -192,24 +192,24 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Entfernt
 
-- 2023-03-01: Removed [Aakki](https://osu.ppy.sh/users/11077540) from **BN**
-- 2023-03-02: Removed [Chatie](https://osu.ppy.sh/users/6524765) from **BN**
-- 2023-03-02: Removed [Ymiir](https://osu.ppy.sh/users/3922569) from **BN**
-- 2023-03-04: Removed [Dignan](https://osu.ppy.sh/users/4505918) from **BN**
-- 2023-03-05: Removed [-Ming-](https://osu.ppy.sh/users/20127755) from **BN**
-- 2023-03-08: Removed [GIGACHAD](https://osu.ppy.sh/users/11081858) from **BN**
-- 2023-03-09: Removed [Morrighan](https://osu.ppy.sh/users/12042090) from **BN**
-- 2023-03-10: Removed [riffy](https://osu.ppy.sh/users/597957) from **Probationary BN**
-- 2023-03-17: Removed [davidminh0111](https://osu.ppy.sh/users/9623142) from **BN**
-- 2023-03-18: Removed [Ideal](https://osu.ppy.sh/users/3869519) from **BN**
-- 2023-03-19: Removed [Lumenite-](https://osu.ppy.sh/users/6256027) from **BN**
-- 2023-03-29: Removed [Antalf](https://osu.ppy.sh/users/8793773) from **BN**
-- 2023-03-29: Removed [Nao Tomori](https://osu.ppy.sh/users/5364763) from **BN**
+- 2023-03-01: [Aakki](https://osu.ppy.sh/users/11077540) wurde aus der Gruppe **BN** entfernt
+- 2023-03-02: [Chatie](https://osu.ppy.sh/users/6524765) wurde aus der Gruppe **BN** entfernt
+- 2023-03-02: [Ymiir](https://osu.ppy.sh/users/3922569) wurde aus der Gruppe **BN** entfernt
+- 2023-03-04: [Dignan](https://osu.ppy.sh/users/4505918) wurde aus der Gruppe **BN** entfernt
+- 2023-03-05: [-Ming-](https://osu.ppy.sh/users/20127755) wurde aus der Gruppe **BN** entfernt
+- 2023-03-08: [GIGACHAD](https://osu.ppy.sh/users/11081858) wurde aus der Gruppe **BN** entfernt
+- 2023-03-09: [Morrighan](https://osu.ppy.sh/users/12042090) wurde aus der Gruppe **BN** entfernt
+- 2023-03-10: [riffy](https://osu.ppy.sh/users/597957) wurde aus der Gruppe **Probationary BN** entfernt
+- 2023-03-17: [davidminh0111](https://osu.ppy.sh/users/9623142) wurde aus der Gruppe **BN** entfernt
+- 2023-03-18: [Ideal](https://osu.ppy.sh/users/3869519) wurde aus der Gruppe **BN** entfernt
+- 2023-03-19: [Lumenite-](https://osu.ppy.sh/users/6256027) wurde aus der Gruppe **BN** entfernt
+- 2023-03-29: [Antalf](https://osu.ppy.sh/users/8793773) wurde aus der Gruppe **BN** entfernt
+- 2023-03-29: [Nao Tomori](https://osu.ppy.sh/users/5364763) wurde aus der Gruppe **BN** entfernt
 
 ## April
 
 - 2023-04-02: Moved [Chaos](https://osu.ppy.sh/users/2628870) from **GMT** to **osu! Alumni**
-- 2023-04-08: Removed [Quenlla](https://osu.ppy.sh/users/4725379) from **Project Loved Team**
+- 2023-04-08: [Quenlla](https://osu.ppy.sh/users/4725379) wurde aus der Gruppe **Project Loved Team** entfernt
 - 2023-04-08: Moved [Pachiru](https://osu.ppy.sh/users/2850983) from **GMT** to **osu! Alumni**
 - 2023-04-14: [Flutteh](https://osu.ppy.sh/users/5042507) wurde zur Gruppe **GMT** hinzugefügt
 - 2023-04-14: [Albionthegreat](https://osu.ppy.sh/users/9853595) wurde zur Gruppe **GMT** hinzugefügt
@@ -224,16 +224,16 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2023-04-14: [THAT_otaku](https://osu.ppy.sh/users/11798717) wurde zur Gruppe **GMT** hinzugefügt
 - 2023-04-15: [D I O](https://osu.ppy.sh/users/3958619) wurde zur Gruppe **GMT** hinzugefügt
 - 2023-04-16: Moved [UberFazz](https://osu.ppy.sh/users/8646059) from **NAT** to **osu! Alumni**
-- 2023-04-17: Removed [POCARI SWEAT](https://osu.ppy.sh/users/5082685) from **Project Loved Team**
-- 2023-04-19: Removed [Omgforz](https://osu.ppy.sh/users/578943) from **Beatmap Spotlight Curators**
+- 2023-04-17: [POCARI SWEAT](https://osu.ppy.sh/users/5082685) wurde aus der Gruppe **Project Loved Team** entfernt
+- 2023-04-19: [Omgforz](https://osu.ppy.sh/users/578943) wurde aus der Gruppe **Beatmap Spotlight Curators** entfernt
 - 2023-04-19: Moved [Nukrid](https://osu.ppy.sh/users/2307484) from **GMT** to **osu! Alumni**
-- 2023-04-19: Removed [mangomizer](https://osu.ppy.sh/users/1893718) from **GMT**
-- 2023-04-20: Removed [bonkmi](https://osu.ppy.sh/users/21148690) from **Project Loved Team**
+- 2023-04-19: [mangomizer](https://osu.ppy.sh/users/1893718) wurde aus der Gruppe **GMT** entfernt
+- 2023-04-20: [bonkmi](https://osu.ppy.sh/users/21148690) wurde aus der Gruppe **Project Loved Team** entfernt
 - 2023-04-20: [radar](https://osu.ppy.sh/users/7131099) wurde zur Gruppe **Project Loved Team** hinzugefügt
 - 2023-04-20: Moved [Uni](https://osu.ppy.sh/users/617106) from **osu! Alumni** to **GMT**
-- 2023-04-23: Removed [DigitalHypno](https://osu.ppy.sh/users/4384207) from **Project Loved Team**
-- 2023-04-24: Removed [Venix](https://osu.ppy.sh/users/5999631) from **Project Loved Team**
-- 2023-04-26: Removed [Doomsday](https://osu.ppy.sh/users/18983) from **Project Loved Team**
+- 2023-04-23: [DigitalHypno](https://osu.ppy.sh/users/4384207) wurde aus der Gruppe **Project Loved Team** entfernt
+- 2023-04-24: [Venix](https://osu.ppy.sh/users/5999631) wurde aus der Gruppe **Project Loved Team** entfernt
+- 2023-04-26: [Doomsday](https://osu.ppy.sh/users/18983) wurde aus der Gruppe **Project Loved Team** entfernt
 
 ### Beatmap-Nominatoren
 
@@ -270,18 +270,18 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Entfernt
 
-- 2023-04-01: Removed [RandomeLoL](https://osu.ppy.sh/users/7080063) from **BN**
-- 2023-04-06: Removed [Pieter](https://osu.ppy.sh/users/29282944) from **BN**
-- 2023-04-08: Removed [Quenlla](https://osu.ppy.sh/users/4725379) from **BN**
-- 2023-04-14: Removed [wwwww](https://osu.ppy.sh/users/8434466) from **Probationary BN**
-- 2023-04-15: Removed [moonpoint](https://osu.ppy.sh/users/9558549) from **BN**
-- 2023-04-16: Removed [Yugu](https://osu.ppy.sh/users/3161834) from **BN**
-- 2023-04-16: Removed [ikin5050](https://osu.ppy.sh/users/4007649) from **BN**
-- 2023-04-19: Removed [Kyle Y](https://osu.ppy.sh/users/3565813) from **Probationary BN**
-- 2023-04-19: Removed [Sun](https://osu.ppy.sh/users/4115819) from **BN**
-- 2023-04-20: Removed [Virtue-](https://osu.ppy.sh/users/6144772) from **BN**
-- 2023-04-26: Removed [Sotarks](https://osu.ppy.sh/users/4452992) from **Probationary BN**
-- 2023-04-28: Removed [Rocma](https://osu.ppy.sh/users/566276) from **BN**
+- 2023-04-01: [RandomeLoL](https://osu.ppy.sh/users/7080063) wurde aus der Gruppe **BN** entfernt
+- 2023-04-06: [Pieter](https://osu.ppy.sh/users/29282944) wurde aus der Gruppe **BN** entfernt
+- 2023-04-08: [Quenlla](https://osu.ppy.sh/users/4725379) wurde aus der Gruppe **BN** entfernt
+- 2023-04-14: [wwwww](https://osu.ppy.sh/users/8434466) wurde aus der Gruppe **Probationary BN** entfernt
+- 2023-04-15: [moonpoint](https://osu.ppy.sh/users/9558549) wurde aus der Gruppe **BN** entfernt
+- 2023-04-16: [Yugu](https://osu.ppy.sh/users/3161834) wurde aus der Gruppe **BN** entfernt
+- 2023-04-16: [ikin5050](https://osu.ppy.sh/users/4007649) wurde aus der Gruppe **BN** entfernt
+- 2023-04-19: [Kyle Y](https://osu.ppy.sh/users/3565813) wurde aus der Gruppe **Probationary BN** entfernt
+- 2023-04-19: [Sun](https://osu.ppy.sh/users/4115819) wurde aus der Gruppe **BN** entfernt
+- 2023-04-20: [Virtue-](https://osu.ppy.sh/users/6144772) wurde aus der Gruppe **BN** entfernt
+- 2023-04-26: [Sotarks](https://osu.ppy.sh/users/4452992) wurde aus der Gruppe **Probationary BN** entfernt
+- 2023-04-28: [Rocma](https://osu.ppy.sh/users/566276) wurde aus der Gruppe **BN** entfernt
 
 ## Mai
 
@@ -290,10 +290,10 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2023-05-02: [gzdongsheng](https://osu.ppy.sh/users/8660315) wurde zur Gruppe **Project Loved Team** hinzugefügt
 - 2023-05-08: [Sebola](https://osu.ppy.sh/users/15821708) wurde zur Gruppe **Project Loved Team** hinzugefügt
 - 2023-05-08: [ler1211](https://osu.ppy.sh/users/19901680) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2023-05-11: Removed [Dusk-](https://osu.ppy.sh/users/6092181) from **NAT**
+- 2023-05-11: [Dusk-](https://osu.ppy.sh/users/6092181) wurde aus der Gruppe **NAT** entfernt
 - 2023-05-15: Moved [Darksonic](https://osu.ppy.sh/users/570042) from **GMT** to **osu! Alumni**
 - 2023-05-15: [Enneya](https://osu.ppy.sh/users/10959501) wurde zur Gruppe **NAT** hinzugefügt
-- 2023-05-21: Removed [kestreI](https://osu.ppy.sh/users/16779673) from **Project Loved Team**
+- 2023-05-21: [kestreI](https://osu.ppy.sh/users/16779673) wurde aus der Gruppe **Project Loved Team** entfernt
 - 2023-05-22: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) wurde zur Gruppe **NAT** hinzugefügt
 
 ### Beatmap-Nominatoren
@@ -330,22 +330,22 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Entfernt
 
-- 2023-05-07: Removed [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) from **BN**
-- 2023-05-08: Removed [Zer0-](https://osu.ppy.sh/users/4260033) from **BN**
-- 2023-05-12: Removed [Zekk](https://osu.ppy.sh/users/9704802) from **BN**
-- 2023-05-15: Removed [Kim_GodSSI](https://osu.ppy.sh/users/2218047) from **BN**
-- 2023-05-15: Removed [Mafumafu](https://osu.ppy.sh/users/3076909) from **BN**
-- 2023-05-21: Removed [Feerum](https://osu.ppy.sh/users/4815717) from **BN**
-- 2023-05-22: Removed [Kudosu](https://osu.ppy.sh/users/11038155) from **BN**
-- 2023-05-29: Removed [Saggin](https://osu.ppy.sh/users/12464107) from **Probationary BN**
-- 2023-05-30: Removed [Hobbes2](https://osu.ppy.sh/users/8157492) from **BN**
+- 2023-05-07: [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) wurde aus der Gruppe **BN** entfernt
+- 2023-05-08: [Zer0-](https://osu.ppy.sh/users/4260033) wurde aus der Gruppe **BN** entfernt
+- 2023-05-12: [Zekk](https://osu.ppy.sh/users/9704802) wurde aus der Gruppe **BN** entfernt
+- 2023-05-15: [Kim_GodSSI](https://osu.ppy.sh/users/2218047) wurde aus der Gruppe **BN** entfernt
+- 2023-05-15: [Mafumafu](https://osu.ppy.sh/users/3076909) wurde aus der Gruppe **BN** entfernt
+- 2023-05-21: [Feerum](https://osu.ppy.sh/users/4815717) wurde aus der Gruppe **BN** entfernt
+- 2023-05-22: [Kudosu](https://osu.ppy.sh/users/11038155) wurde aus der Gruppe **BN** entfernt
+- 2023-05-29: [Saggin](https://osu.ppy.sh/users/12464107) wurde aus der Gruppe **Probationary BN** entfernt
+- 2023-05-30: [Hobbes2](https://osu.ppy.sh/users/8157492) wurde aus der Gruppe **BN** entfernt
 
 ## Juni
 
 - 2023-06-01: Moved [Protastic101](https://osu.ppy.sh/users/6712747) from **GMT** to **osu! Alumni**
 - 2023-06-08: Moved [achyoo](https://osu.ppy.sh/users/7823498) from **NAT** to **osu! Alumni**
 - 2023-06-18: [huu](https://osu.ppy.sh/users/6044237) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2023-06-21: Removed [Antalf](https://osu.ppy.sh/users/8793773) from **NAT**
+- 2023-06-21: [Antalf](https://osu.ppy.sh/users/8793773) wurde aus der Gruppe **NAT** entfernt
 - 2023-06-28: [gzdongsheng](https://osu.ppy.sh/users/8660315) wurde zur Gruppe **NAT** hinzugefügt
 - 2023-06-28: [Tailsdk](https://osu.ppy.sh/users/6751666) wurde zur Gruppe **NAT** hinzugefügt
 - 2023-06-28: [MadBricktree](https://osu.ppy.sh/users/4790958) wurde zur Gruppe **NAT** hinzugefügt
@@ -378,19 +378,19 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Entfernt
 
-- 2023-06-02: Removed [Jonarwhal](https://osu.ppy.sh/users/3653035) from **BN**
-- 2023-06-05: Removed [Protastic101](https://osu.ppy.sh/users/6712747) from **BN**
-- 2023-06-07: Removed [DakeDekaane](https://osu.ppy.sh/users/1425253) from **BN**
-- 2023-06-17: Removed [Mniam](https://osu.ppy.sh/users/6050530) from **BN**
-- 2023-06-19: Removed [Cynplytholowazy](https://osu.ppy.sh/users/3901754) from **BN**
-- 2023-06-22: Removed [Mimari](https://osu.ppy.sh/users/14339830) from **BN**
-- 2023-06-27: Removed [UberFazz](https://osu.ppy.sh/users/8646059) from **BN**
-- 2023-06-28: Removed [gzdongsheng](https://osu.ppy.sh/users/8660315) from **BN**
-- 2023-06-28: Removed [Tailsdk](https://osu.ppy.sh/users/6751666) from **BN**
-- 2023-06-28: Removed [MadBricktree](https://osu.ppy.sh/users/4790958) from **BN**
-- 2023-06-28: Removed [Antalf](https://osu.ppy.sh/users/8793773) from **BN**
-- 2023-06-30: Removed [Creamy Candy](https://osu.ppy.sh/users/9769199) from **BN**
-- 2023-06-30: Removed [lenpai](https://osu.ppy.sh/users/5314573) from **BN**
+- 2023-06-02: [Jonarwhal](https://osu.ppy.sh/users/3653035) wurde aus der Gruppe **BN** entfernt
+- 2023-06-05: [Protastic101](https://osu.ppy.sh/users/6712747) wurde aus der Gruppe **BN** entfernt
+- 2023-06-07: [DakeDekaane](https://osu.ppy.sh/users/1425253) wurde aus der Gruppe **BN** entfernt
+- 2023-06-17: [Mniam](https://osu.ppy.sh/users/6050530) wurde aus der Gruppe **BN** entfernt
+- 2023-06-19: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) wurde aus der Gruppe **BN** entfernt
+- 2023-06-22: [Mimari](https://osu.ppy.sh/users/14339830) wurde aus der Gruppe **BN** entfernt
+- 2023-06-27: [UberFazz](https://osu.ppy.sh/users/8646059) wurde aus der Gruppe **BN** entfernt
+- 2023-06-28: [gzdongsheng](https://osu.ppy.sh/users/8660315) wurde aus der Gruppe **BN** entfernt
+- 2023-06-28: [Tailsdk](https://osu.ppy.sh/users/6751666) wurde aus der Gruppe **BN** entfernt
+- 2023-06-28: [MadBricktree](https://osu.ppy.sh/users/4790958) wurde aus der Gruppe **BN** entfernt
+- 2023-06-28: [Antalf](https://osu.ppy.sh/users/8793773) wurde aus der Gruppe **BN** entfernt
+- 2023-06-30: [Creamy Candy](https://osu.ppy.sh/users/9769199) wurde aus der Gruppe **BN** entfernt
+- 2023-06-30: [lenpai](https://osu.ppy.sh/users/5314573) wurde aus der Gruppe **BN** entfernt
 
 ## Juli
 
@@ -399,15 +399,15 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2023-07-07: Moved [Petal](https://osu.ppy.sh/users/7354729) from **GMT** to **NAT**
 - 2023-07-07: Moved [Noffy](https://osu.ppy.sh/users/1541323) from **osu! Alumni** to **NAT**
 - 2023-07-08: Moved [Garden](https://osu.ppy.sh/users/2849992) from **GMT** to **NAT**
-- 2023-07-09: Removed [\[Crz\]hinako1804](https://osu.ppy.sh/users/13747903) from **Project Loved Team**
+- 2023-07-09: [\[Crz\]hinako1804](https://osu.ppy.sh/users/13747903) wurde aus der Gruppe **Project Loved Team** entfernt
 - 2023-07-13: Moved [Agatsu](https://osu.ppy.sh/users/5579871) from **NAT** to **osu! Alumni**
-- 2023-07-18: Removed [radar](https://osu.ppy.sh/users/7131099) from **Beatmap Spotlight Curators**
-- 2023-07-18: Removed [radar](https://osu.ppy.sh/users/7131099) from **Project Loved Team**
-- 2023-07-21: Removed [\_underjoy](https://osu.ppy.sh/users/2235750) from **Project Loved Team**
+- 2023-07-18: [radar](https://osu.ppy.sh/users/7131099) wurde aus der Gruppe **Beatmap Spotlight Curators** entfernt
+- 2023-07-18: [radar](https://osu.ppy.sh/users/7131099) wurde aus der Gruppe **Project Loved Team** entfernt
+- 2023-07-21: [\_underjoy](https://osu.ppy.sh/users/2235750) wurde aus der Gruppe **Project Loved Team** entfernt
 - 2023-07-21: Moved [FAMoss](https://osu.ppy.sh/users/7707789) from **GMT** to **osu! Alumni**
-- 2023-07-22: Removed [MadBricktree](https://osu.ppy.sh/users/4790958) from **Beatmap Spotlight Curators**
-- 2023-07-22: Removed [MadBricktree](https://osu.ppy.sh/users/4790958) from **Project Loved Team**
-- 2023-07-22: Removed [MadBricktree](https://osu.ppy.sh/users/4790958) from **NAT**
+- 2023-07-22: [MadBricktree](https://osu.ppy.sh/users/4790958) wurde aus der Gruppe **Beatmap Spotlight Curators** entfernt
+- 2023-07-22: [MadBricktree](https://osu.ppy.sh/users/4790958) wurde aus der Gruppe **Project Loved Team** entfernt
+- 2023-07-22: [MadBricktree](https://osu.ppy.sh/users/4790958) wurde aus der Gruppe **NAT** entfernt
 - 2023-07-24: Moved [Stixy](https://osu.ppy.sh/users/9000308) from **NAT** to **osu! Alumni**
 
 ### Beatmap-Nominatoren
@@ -443,23 +443,23 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Entfernt
 
-- 2023-07-03: Removed [Enneya](https://osu.ppy.sh/users/10959501) from **BN**
-- 2023-07-03: Removed [Krisom](https://osu.ppy.sh/users/99269) from **BN**
-- 2023-07-07: Removed [Petal](https://osu.ppy.sh/users/7354729) from **BN**
-- 2023-07-07: Removed [Noffy](https://osu.ppy.sh/users/1541323) from **BN**
-- 2023-07-08: Removed [Garden](https://osu.ppy.sh/users/2849992) from **BN**
-- 2023-07-08: Removed [\_Fast](https://osu.ppy.sh/users/959763) from **BN**
-- 2023-07-12: Removed [SMOKELIND](https://osu.ppy.sh/users/9327302) from **BN**
-- 2023-07-13: Removed [Log Off Now](https://osu.ppy.sh/users/4378277) from **Probationary BN**
-- 2023-07-17: Removed [hac](https://osu.ppy.sh/users/17853754) from **Probationary BN**
-- 2023-07-18: Removed [M a r v o l l o](https://osu.ppy.sh/users/5504231) from **BN**
-- 2023-07-18: Removed [Aruel](https://osu.ppy.sh/users/3984370) from **BN**
-- 2023-07-19: Removed [Burak](https://osu.ppy.sh/users/13213075) from **BN**
-- 2023-07-19: Removed [Eriha](https://osu.ppy.sh/users/16320311) from **Probationary BN**
-- 2023-07-21: Removed [Pieter](https://osu.ppy.sh/users/29282944) from **BN**
-- 2023-07-22: Removed [ssapgosu](https://osu.ppy.sh/users/16564480) from **BN**
-- 2023-07-23: Removed [Phob](https://osu.ppy.sh/users/6069462) from **BN**
-- 2023-07-30: Removed [Tystiana](https://osu.ppy.sh/users/1421452) from **BN**
+- 2023-07-03: [Enneya](https://osu.ppy.sh/users/10959501) wurde aus der Gruppe **BN** entfernt
+- 2023-07-03: [Krisom](https://osu.ppy.sh/users/99269) wurde aus der Gruppe **BN** entfernt
+- 2023-07-07: [Petal](https://osu.ppy.sh/users/7354729) wurde aus der Gruppe **BN** entfernt
+- 2023-07-07: [Noffy](https://osu.ppy.sh/users/1541323) wurde aus der Gruppe **BN** entfernt
+- 2023-07-08: [Garden](https://osu.ppy.sh/users/2849992) wurde aus der Gruppe **BN** entfernt
+- 2023-07-08: [\_Fast](https://osu.ppy.sh/users/959763) wurde aus der Gruppe **BN** entfernt
+- 2023-07-12: [SMOKELIND](https://osu.ppy.sh/users/9327302) wurde aus der Gruppe **BN** entfernt
+- 2023-07-13: [Log Off Now](https://osu.ppy.sh/users/4378277) wurde aus der Gruppe **Probationary BN** entfernt
+- 2023-07-17: [hac](https://osu.ppy.sh/users/17853754) wurde aus der Gruppe **Probationary BN** entfernt
+- 2023-07-18: [M a r v o l l o](https://osu.ppy.sh/users/5504231) wurde aus der Gruppe **BN** entfernt
+- 2023-07-18: [Aruel](https://osu.ppy.sh/users/3984370) wurde aus der Gruppe **BN** entfernt
+- 2023-07-19: [Burak](https://osu.ppy.sh/users/13213075) wurde aus der Gruppe **BN** entfernt
+- 2023-07-19: [Eriha](https://osu.ppy.sh/users/16320311) wurde aus der Gruppe **Probationary BN** entfernt
+- 2023-07-21: [Pieter](https://osu.ppy.sh/users/29282944) wurde aus der Gruppe **BN** entfernt
+- 2023-07-22: [ssapgosu](https://osu.ppy.sh/users/16564480) wurde aus der Gruppe **BN** entfernt
+- 2023-07-23: [Phob](https://osu.ppy.sh/users/6069462) wurde aus der Gruppe **BN** entfernt
+- 2023-07-30: [Tystiana](https://osu.ppy.sh/users/1421452) wurde aus der Gruppe **BN** entfernt
 
 ## August
 
@@ -474,7 +474,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2023-08-09: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) wurde zur Gruppe **NAT** hinzugefügt
 - 2023-08-11: [mangomizer](https://osu.ppy.sh/users/1893718) wurde zur Gruppe **GMT** hinzugefügt
 - 2023-08-11: [Dusk-](https://osu.ppy.sh/users/6092181) wurde zur Gruppe **NAT** hinzugefügt
-- 2023-08-15: Removed [Yogurtt](https://osu.ppy.sh/users/2649717) from **NAT**
+- 2023-08-15: [Yogurtt](https://osu.ppy.sh/users/2649717) wurde aus der Gruppe **NAT** entfernt
 - 2023-08-15: Moved [Zelq](https://osu.ppy.sh/users/8953955) from **NAT** to **osu! Alumni**
 - 2023-08-15: Moved [elicz1](https://osu.ppy.sh/users/8039342) from **NAT** to **osu! Alumni**
 - 2023-08-18: [RandomeLoL](https://osu.ppy.sh/users/7080063) wurde zur Gruppe **NAT** hinzugefügt
@@ -532,23 +532,23 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Entfernt
 
-- 2023-08-03: Removed [Buschan](https://osu.ppy.sh/users/16505281) from **BN**
-- 2023-08-03: Removed [D0UG](https://osu.ppy.sh/users/13806900) from **BN**
-- 2023-08-04: Removed [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) from **BN**
-- 2023-08-09: Removed [Ryuusei Aika](https://osu.ppy.sh/users/7777875) from **BN**
-- 2023-08-09: Removed [Natsuko](https://osu.ppy.sh/users/8266817) from **BN**
-- 2023-08-10: Removed [Shima Rin](https://osu.ppy.sh/users/6089608) from **BN**
-- 2023-08-14: Removed [Hey lululu](https://osu.ppy.sh/users/4086497) from **Probationary BN**
-- 2023-08-18: Removed [elicz1](https://osu.ppy.sh/users/8039342) from **BN**
-- 2023-08-18: Removed [RandomeLoL](https://osu.ppy.sh/users/7080063) from **BN**
-- 2023-08-24: Removed [xBlurinq](https://osu.ppy.sh/users/7540631) from **Probationary BN**
-- 2023-08-25: Removed [ArtZone](https://osu.ppy.sh/users/15548034) from **BN**
-- 2023-08-28: Removed [melleganol](https://osu.ppy.sh/users/16452371) from **Probationary BN**
+- 2023-08-03: [Buschan](https://osu.ppy.sh/users/16505281) wurde aus der Gruppe **BN** entfernt
+- 2023-08-03: [D0UG](https://osu.ppy.sh/users/13806900) wurde aus der Gruppe **BN** entfernt
+- 2023-08-04: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) wurde aus der Gruppe **BN** entfernt
+- 2023-08-09: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) wurde aus der Gruppe **BN** entfernt
+- 2023-08-09: [Natsuko](https://osu.ppy.sh/users/8266817) wurde aus der Gruppe **BN** entfernt
+- 2023-08-10: [Shima Rin](https://osu.ppy.sh/users/6089608) wurde aus der Gruppe **BN** entfernt
+- 2023-08-14: [Hey lululu](https://osu.ppy.sh/users/4086497) wurde aus der Gruppe **Probationary BN** entfernt
+- 2023-08-18: [elicz1](https://osu.ppy.sh/users/8039342) wurde aus der Gruppe **BN** entfernt
+- 2023-08-18: [RandomeLoL](https://osu.ppy.sh/users/7080063) wurde aus der Gruppe **BN** entfernt
+- 2023-08-24: [xBlurinq](https://osu.ppy.sh/users/7540631) wurde aus der Gruppe **Probationary BN** entfernt
+- 2023-08-25: [ArtZone](https://osu.ppy.sh/users/15548034) wurde aus der Gruppe **BN** entfernt
+- 2023-08-28: [melleganol](https://osu.ppy.sh/users/16452371) wurde aus der Gruppe **Probationary BN** entfernt
 
 ## September
 
 - 2023-09-05: Moved [Uberzolik](https://osu.ppy.sh/users/1314547) from **osu! Alumni** to **NAT**
-- 2023-09-06: Removed [Burak](https://osu.ppy.sh/users/13213075) from **GMT**
+- 2023-09-06: [Burak](https://osu.ppy.sh/users/13213075) wurde aus der Gruppe **GMT** entfernt
 - 2023-09-11: [zerokt](https://osu.ppy.sh/users/13776127) wurde zur Gruppe **NAT** hinzugefügt
 - 2023-09-11: [wowcake](https://osu.ppy.sh/users/16121851) wurde zur Gruppe **GMT** hinzugefügt
 - 2023-09-17: [Irisu](https://osu.ppy.sh/users/8595858) wurde zur Gruppe **Project Loved Team** hinzugefügt
@@ -587,37 +587,37 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Entfernt
 
-- 2023-09-03: Removed [-Mikan](https://osu.ppy.sh/users/9063995) from **BN**
-- 2023-09-04: Removed [Alter-](https://osu.ppy.sh/users/4980256) from **Probationary BN**
-- 2023-09-06: Removed [\_Rokii](https://osu.ppy.sh/users/12770065) from **BN**
-- 2023-09-10: Removed [Seto Kousuke](https://osu.ppy.sh/users/2857314) from **Probationary BN**
-- 2023-09-11: Removed [zerokt](https://osu.ppy.sh/users/13776127) from **BN**
-- 2023-09-11: Removed [\[Zeth\]](https://osu.ppy.sh/users/9912966) from **BN**
-- 2023-09-11: Removed [vrnl](https://osu.ppy.sh/users/4799788) from **BN**
-- 2023-09-12: Removed [achyoo](https://osu.ppy.sh/users/7823498) from **BN**
-- 2023-09-15: Removed [Stompy\_](https://osu.ppy.sh/users/16429579) from **Probationary BN**
-- 2023-09-17: Removed [Mir](https://osu.ppy.sh/users/8688812) from **Probationary BN**
-- 2023-09-17: Removed [Hareimu](https://osu.ppy.sh/users/4138746) from **BN**
-- 2023-09-23: Removed [Agatsu](https://osu.ppy.sh/users/5579871) from **BN**
-- 2023-09-25: Removed [Sajinn](https://osu.ppy.sh/users/13513687) from **BN**
-- 2023-09-25: Removed [Stack](https://osu.ppy.sh/users/6122935) from **BN**
-- 2023-09-26: Removed [Metzo](https://osu.ppy.sh/users/10633982) from **BN**
-- 2023-09-27: Removed [fayew](https://osu.ppy.sh/users/12498861) from **Probationary BN**
-- 2023-09-27: Removed [AirinCat](https://osu.ppy.sh/users/11119539) from **BN**
-- 2023-09-28: Removed [ckharv](https://osu.ppy.sh/users/9967026) from **BN**
-- 2023-09-28: Removed [Luscent](https://osu.ppy.sh/users/2688581) from **BN**
-- 2023-09-28: Removed [AJT](https://osu.ppy.sh/users/3181083) from **BN**
-- 2023-09-30: Removed [RiP46](https://osu.ppy.sh/users/5222596) from **BN**
+- 2023-09-03: [-Mikan](https://osu.ppy.sh/users/9063995) wurde aus der Gruppe **BN** entfernt
+- 2023-09-04: [Alter-](https://osu.ppy.sh/users/4980256) wurde aus der Gruppe **Probationary BN** entfernt
+- 2023-09-06: [\_Rokii](https://osu.ppy.sh/users/12770065) wurde aus der Gruppe **BN** entfernt
+- 2023-09-10: [Seto Kousuke](https://osu.ppy.sh/users/2857314) wurde aus der Gruppe **Probationary BN** entfernt
+- 2023-09-11: [zerokt](https://osu.ppy.sh/users/13776127) wurde aus der Gruppe **BN** entfernt
+- 2023-09-11: [\[Zeth\]](https://osu.ppy.sh/users/9912966) wurde aus der Gruppe **BN** entfernt
+- 2023-09-11: [vrnl](https://osu.ppy.sh/users/4799788) wurde aus der Gruppe **BN** entfernt
+- 2023-09-12: [achyoo](https://osu.ppy.sh/users/7823498) wurde aus der Gruppe **BN** entfernt
+- 2023-09-15: [Stompy\_](https://osu.ppy.sh/users/16429579) wurde aus der Gruppe **Probationary BN** entfernt
+- 2023-09-17: [Mir](https://osu.ppy.sh/users/8688812) wurde aus der Gruppe **Probationary BN** entfernt
+- 2023-09-17: [Hareimu](https://osu.ppy.sh/users/4138746) wurde aus der Gruppe **BN** entfernt
+- 2023-09-23: [Agatsu](https://osu.ppy.sh/users/5579871) wurde aus der Gruppe **BN** entfernt
+- 2023-09-25: [Sajinn](https://osu.ppy.sh/users/13513687) wurde aus der Gruppe **BN** entfernt
+- 2023-09-25: [Stack](https://osu.ppy.sh/users/6122935) wurde aus der Gruppe **BN** entfernt
+- 2023-09-26: [Metzo](https://osu.ppy.sh/users/10633982) wurde aus der Gruppe **BN** entfernt
+- 2023-09-27: [fayew](https://osu.ppy.sh/users/12498861) wurde aus der Gruppe **Probationary BN** entfernt
+- 2023-09-27: [AirinCat](https://osu.ppy.sh/users/11119539) wurde aus der Gruppe **BN** entfernt
+- 2023-09-28: [ckharv](https://osu.ppy.sh/users/9967026) wurde aus der Gruppe **BN** entfernt
+- 2023-09-28: [Luscent](https://osu.ppy.sh/users/2688581) wurde aus der Gruppe **BN** entfernt
+- 2023-09-28: [AJT](https://osu.ppy.sh/users/3181083) wurde aus der Gruppe **BN** entfernt
+- 2023-09-30: [RiP46](https://osu.ppy.sh/users/5222596) wurde aus der Gruppe **BN** entfernt
 
 ## Oktober
 
-- 2023-10-02: Removed [Axer](https://osu.ppy.sh/users/7299864) from **Beatmap Spotlight Curators**
+- 2023-10-02: [Axer](https://osu.ppy.sh/users/7299864) wurde aus der Gruppe **Beatmap Spotlight Curators** entfernt
 - 2023-10-05: [Nao Tomori](https://osu.ppy.sh/users/5364763) wurde zur Gruppe **NAT** hinzugefügt
 - 2023-10-13: [Yasuho](https://osu.ppy.sh/users/8458835) wurde zur Gruppe **NAT** hinzugefügt
 - 2023-10-13: Moved [Firika](https://osu.ppy.sh/users/9590557) from **NAT** to **osu! Alumni**
-- 2023-10-14: Removed [Dusk-](https://osu.ppy.sh/users/6092181) from **NAT**
-- 2023-10-28: Removed [wonjae](https://osu.ppy.sh/users/5032045) from **Beatmap Spotlight Curators**
-- 2023-10-18: Removed [huu](https://osu.ppy.sh/users/6044237) from **Project Loved Team**
+- 2023-10-14: [Dusk-](https://osu.ppy.sh/users/6092181) wurde aus der Gruppe **NAT** entfernt
+- 2023-10-28: [wonjae](https://osu.ppy.sh/users/5032045) wurde aus der Gruppe **Beatmap Spotlight Curators** entfernt
+- 2023-10-18: [huu](https://osu.ppy.sh/users/6044237) wurde aus der Gruppe **Project Loved Team** entfernt
 
 ### Beatmap-Nominatoren
 
@@ -651,24 +651,24 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Entfernt
 
-- 2023-10-01: Removed [Cellina](https://osu.ppy.sh/users/2490770) from **BN**
-- 2023-10-03: Removed [chaser01](https://osu.ppy.sh/users/18730172) from **Probationary BN**
-- 2023-10-03: Removed [KoldNoodl](https://osu.ppy.sh/users/12572294) from **BN**
-- 2023-10-03: Removed [arialle](https://osu.ppy.sh/users/18597899) from **Probationary BN**
-- 2023-10-05: Removed [Nao Tomori](https://osu.ppy.sh/users/5364763) from **BN**
-- 2023-10-07: Removed [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273) from **BN**
-- 2023-10-07: Removed [Antti](https://osu.ppy.sh/users/13281473) from **BN**
-- 2023-10-12: Removed [\[Sick\]Catcat](https://osu.ppy.sh/users/11544934) from **BN**
-- 2023-10-12: Removed [Amiichii](https://osu.ppy.sh/users/9228569) from **BN**
-- 2023-10-12: Removed [Mirsaaa](https://osu.ppy.sh/users/15328093) from **BN**
-- 2023-10-13: Removed [Yasuho](https://osu.ppy.sh/users/8458835) from **BN**
-- 2023-10-13: Removed [Len](https://osu.ppy.sh/users/1686145) from **BN**
-- 2023-10-14: Removed [FAMoss](https://osu.ppy.sh/users/7707789) from **BN**
-- 2023-10-15: Removed [Venix](https://osu.ppy.sh/users/5999631) from **Probationary BN**
-- 2023-10-16: Removed [Faputa](https://osu.ppy.sh/users/845733) from **BN**
-- 2023-10-22: Removed [Syadow-](https://osu.ppy.sh/users/3484485) from **BN**
-- 2023-10-22: Removed [Decku](https://osu.ppy.sh/users/13360768) from **BN**
-- 2023-10-23: Removed [Mimari](https://osu.ppy.sh/users/14339830) from **BN**
+- 2023-10-01: [Cellina](https://osu.ppy.sh/users/2490770) wurde aus der Gruppe **BN** entfernt
+- 2023-10-03: [chaser01](https://osu.ppy.sh/users/18730172) wurde aus der Gruppe **Probationary BN** entfernt
+- 2023-10-03: [KoldNoodl](https://osu.ppy.sh/users/12572294) wurde aus der Gruppe **BN** entfernt
+- 2023-10-03: [arialle](https://osu.ppy.sh/users/18597899) wurde aus der Gruppe **Probationary BN** entfernt
+- 2023-10-05: [Nao Tomori](https://osu.ppy.sh/users/5364763) wurde aus der Gruppe **BN** entfernt
+- 2023-10-07: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273) wurde aus der Gruppe **BN** entfernt
+- 2023-10-07: [Antti](https://osu.ppy.sh/users/13281473) wurde aus der Gruppe **BN** entfernt
+- 2023-10-12: [\[Sick\]Catcat](https://osu.ppy.sh/users/11544934) wurde aus der Gruppe **BN** entfernt
+- 2023-10-12: [Amiichii](https://osu.ppy.sh/users/9228569) wurde aus der Gruppe **BN** entfernt
+- 2023-10-12: [Mirsaaa](https://osu.ppy.sh/users/15328093) wurde aus der Gruppe **BN** entfernt
+- 2023-10-13: [Yasuho](https://osu.ppy.sh/users/8458835) wurde aus der Gruppe **BN** entfernt
+- 2023-10-13: [Len](https://osu.ppy.sh/users/1686145) wurde aus der Gruppe **BN** entfernt
+- 2023-10-14: [FAMoss](https://osu.ppy.sh/users/7707789) wurde aus der Gruppe **BN** entfernt
+- 2023-10-15: [Venix](https://osu.ppy.sh/users/5999631) wurde aus der Gruppe **Probationary BN** entfernt
+- 2023-10-16: [Faputa](https://osu.ppy.sh/users/845733) wurde aus der Gruppe **BN** entfernt
+- 2023-10-22: [Syadow-](https://osu.ppy.sh/users/3484485) wurde aus der Gruppe **BN** entfernt
+- 2023-10-22: [Decku](https://osu.ppy.sh/users/13360768) wurde aus der Gruppe **BN** entfernt
+- 2023-10-23: [Mimari](https://osu.ppy.sh/users/14339830) wurde aus der Gruppe **BN** entfernt
 
 ## Nach Oktober
 
