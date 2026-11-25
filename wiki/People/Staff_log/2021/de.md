@@ -8,585 +8,585 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 ## Januar
 
-- 2021-01-31: [ztrot](https://osu.ppy.sh/users/6347) wurde aus der Gruppe **osu! Alumni** in die Gruppe **GMT** verschoben
+- 31.01.2021: [ztrot](https://osu.ppy.sh/users/6347) wurde aus der Gruppe **osu! Alumni** in die Gruppe **GMT** verschoben
 
 ### Beatmap-Nominatoren
 
 #### Hinzugefügt
 
-- 2021-01-05: [Ulqui](https://osu.ppy.sh/users/1263669) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-01-05: [Hivie](https://osu.ppy.sh/users/14102976) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-01-13: [Dako](https://osu.ppy.sh/users/11081858) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-01-24: [guden](https://osu.ppy.sh/users/11626065) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-01-25: [rosario wknd](https://osu.ppy.sh/users/6341518) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-01-25: [Myxo](https://osu.ppy.sh/users/2202645) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-01-27: [Xahlt](https://osu.ppy.sh/users/13466351) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-01-31: [deta5859](https://osu.ppy.sh/users/15275662) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 05.01.2021: [Ulqui](https://osu.ppy.sh/users/1263669) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 05.01.2021: [Hivie](https://osu.ppy.sh/users/14102976) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 13.01.2021: [Dako](https://osu.ppy.sh/users/11081858) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 24.01.2021: [guden](https://osu.ppy.sh/users/11626065) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 25.01.2021: [rosario wknd](https://osu.ppy.sh/users/6341518) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 25.01.2021: [Myxo](https://osu.ppy.sh/users/2202645) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 27.01.2021: [Xahlt](https://osu.ppy.sh/users/13466351) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 31.01.2021: [deta5859](https://osu.ppy.sh/users/15275662) wurde zur Gruppe **Probationary BN** hinzugefügt
 
 #### Verschoben
 
-- 2021-01-10: [autofanboy](https://osu.ppy.sh/users/636114) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
-- 2021-01-15: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-01-17: [Arzenvald](https://osu.ppy.sh/users/3027421) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-01-19: [Gamelan4](https://osu.ppy.sh/users/9856910) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-01-19: [ikin5050](https://osu.ppy.sh/users/4007649) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-01-19: [PokeSky](https://osu.ppy.sh/users/3617111) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
-- 2021-01-23: [Benita](https://osu.ppy.sh/users/4023183) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-01-24: [UberFazz](https://osu.ppy.sh/users/8646059) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-01-24: [Nana Abe](https://osu.ppy.sh/users/6443117) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-01-24: [Shmiklak](https://osu.ppy.sh/users/5504231) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-01-26: [Eyenine](https://osu.ppy.sh/users/1259391) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-01-29: [Yugu](https://osu.ppy.sh/users/31618347) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
-- 2021-01-29: [Sonnyc](https://osu.ppy.sh/users/11771) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
-- 2021-01-29: [Dored](https://osu.ppy.sh/users/10284894) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
-- 2021-01-30: [Default Guy](https://osu.ppy.sh/users/7058457) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 10.01.2021: [autofanboy](https://osu.ppy.sh/users/636114) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 15.01.2021: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 17.01.2021: [Arzenvald](https://osu.ppy.sh/users/3027421) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 19.01.2021: [Gamelan4](https://osu.ppy.sh/users/9856910) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 19.01.2021: [ikin5050](https://osu.ppy.sh/users/4007649) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 19.01.2021: [PokeSky](https://osu.ppy.sh/users/3617111) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 23.01.2021: [Benita](https://osu.ppy.sh/users/4023183) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 24.01.2021: [UberFazz](https://osu.ppy.sh/users/8646059) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 24.01.2021: [Nana Abe](https://osu.ppy.sh/users/6443117) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 24.01.2021: [Shmiklak](https://osu.ppy.sh/users/5504231) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 26.01.2021: [Eyenine](https://osu.ppy.sh/users/1259391) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 29.01.2021: [Yugu](https://osu.ppy.sh/users/31618347) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 29.01.2021: [Sonnyc](https://osu.ppy.sh/users/11771) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 29.01.2021: [Dored](https://osu.ppy.sh/users/10284894) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 30.01.2021: [Default Guy](https://osu.ppy.sh/users/7058457) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
 
 #### Entfernt
 
-- 2021-01-07: [JierYagtama](https://osu.ppy.sh/users/7483452) wurde aus der Gruppe **BN** entfernt
-- 2021-01-15: [Greenshell](https://osu.ppy.sh/users/8693851) wurde aus der Gruppe **BN** entfernt
-- 2021-01-19: [Rivals_7](https://osu.ppy.sh/users/4610379) wurde aus der Gruppe **BN** entfernt
-- 2021-01-23: [-Joni-](https://osu.ppy.sh/users/9988837) wurde aus der Gruppe **Probationary BN** entfernt
-- 2021-01-24: [Smokeman](https://osu.ppy.sh/users/2140676) wurde aus der Gruppe **BN** entfernt
-- 2021-01-24: [Okoratu](https://osu.ppy.sh/users/1623405) wurde aus der Gruppe **BN** entfernt
-- 2021-01-27: [Voxa](https://osu.ppy.sh/users/9229539) wurde aus der Gruppe **BN** entfernt
+- 07.01.2021: [JierYagtama](https://osu.ppy.sh/users/7483452) wurde aus der Gruppe **BN** entfernt
+- 15.01.2021: [Greenshell](https://osu.ppy.sh/users/8693851) wurde aus der Gruppe **BN** entfernt
+- 19.01.2021: [Rivals_7](https://osu.ppy.sh/users/4610379) wurde aus der Gruppe **BN** entfernt
+- 23.01.2021: [-Joni-](https://osu.ppy.sh/users/9988837) wurde aus der Gruppe **Probationary BN** entfernt
+- 24.01.2021: [Smokeman](https://osu.ppy.sh/users/2140676) wurde aus der Gruppe **BN** entfernt
+- 24.01.2021: [Okoratu](https://osu.ppy.sh/users/1623405) wurde aus der Gruppe **BN** entfernt
+- 27.01.2021: [Voxa](https://osu.ppy.sh/users/9229539) wurde aus der Gruppe **BN** entfernt
 
 ## Februar
 
-- 2021-02-05: [Niva](https://osu.ppy.sh/users/197805) wurde aus der Gruppe **osu! Alumni** in die Gruppe **GMT** verschoben
-- 2021-02-15: [TomMai](https://osu.ppy.sh/users/3132818) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
-- 2021-02-15: [Kurai](https://osu.ppy.sh/users/77089) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
-- 2021-02-15: [Gabe](https://osu.ppy.sh/users/654108) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
-- 2021-02-23: [\[ryuu\]](https://osu.ppy.sh/users/5698467) wurde zur Gruppe **GMT** hinzugefügt
-- 2021-02-23: [mrrrk](https://osu.ppy.sh/users/9936528) wurde zur Gruppe **GMT** hinzugefügt
-- 2021-02-23: [Nukrid](https://osu.ppy.sh/users/2307484) wurde zur Gruppe **GMT** hinzugefügt
-- 2021-02-23: [Petal](https://osu.ppy.sh/users/7354729) wurde zur Gruppe **GMT** hinzugefügt
-- 2021-02-23: [Sies](https://osu.ppy.sh/users/6491991) wurde zur Gruppe **GMT** hinzugefügt
-- 2021-02-23: [Trigonoculus](https://osu.ppy.sh/users/7627013) wurde zur Gruppe **GMT** hinzugefügt
-- 2021-02-23: [Venix](https://osu.ppy.sh/users/5999631) wurde zur Gruppe **GMT** hinzugefügt
-- 2021-02-23: [Civil oath](https://osu.ppy.sh/users/3216107) wurde zur Gruppe **GMT** hinzugefügt
-- 2021-02-23: [Petit](https://osu.ppy.sh/users/4637369) wurde zur Gruppe **GMT** hinzugefügt
-- 2021-02-24: [Coldrod](https://osu.ppy.sh/users/9065991) wurde zur Gruppe **GMT** hinzugefügt
+- 05.02.2021: [Niva](https://osu.ppy.sh/users/197805) wurde aus der Gruppe **osu! Alumni** in die Gruppe **GMT** verschoben
+- 15.02.2021: [TomMai](https://osu.ppy.sh/users/3132818) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
+- 15.02.2021: [Kurai](https://osu.ppy.sh/users/77089) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
+- 15.02.2021: [Gabe](https://osu.ppy.sh/users/654108) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
+- 23.02.2021: [\[ryuu\]](https://osu.ppy.sh/users/5698467) wurde zur Gruppe **GMT** hinzugefügt
+- 23.02.2021: [mrrrk](https://osu.ppy.sh/users/9936528) wurde zur Gruppe **GMT** hinzugefügt
+- 23.02.2021: [Nukrid](https://osu.ppy.sh/users/2307484) wurde zur Gruppe **GMT** hinzugefügt
+- 23.02.2021: [Petal](https://osu.ppy.sh/users/7354729) wurde zur Gruppe **GMT** hinzugefügt
+- 23.02.2021: [Sies](https://osu.ppy.sh/users/6491991) wurde zur Gruppe **GMT** hinzugefügt
+- 23.02.2021: [Trigonoculus](https://osu.ppy.sh/users/7627013) wurde zur Gruppe **GMT** hinzugefügt
+- 23.02.2021: [Venix](https://osu.ppy.sh/users/5999631) wurde zur Gruppe **GMT** hinzugefügt
+- 23.02.2021: [Civil oath](https://osu.ppy.sh/users/3216107) wurde zur Gruppe **GMT** hinzugefügt
+- 23.02.2021: [Petit](https://osu.ppy.sh/users/4637369) wurde zur Gruppe **GMT** hinzugefügt
+- 24.02.2021: [Coldrod](https://osu.ppy.sh/users/9065991) wurde zur Gruppe **GMT** hinzugefügt
 
 ### Beatmap-Nominatoren
 
 #### Hinzugefügt
 
-- 2021-02-09: [Smoke](https://osu.ppy.sh/users/10726630) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-02-10: [Yasuho](https://osu.ppy.sh/users/8458835) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-02-15: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-02-15: [Battle](https://osu.ppy.sh/users/4037545) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-02-26: [Xinely](https://osu.ppy.sh/users/1521445) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 09.02.2021: [Smoke](https://osu.ppy.sh/users/10726630) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 10.02.2021: [Yasuho](https://osu.ppy.sh/users/8458835) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 15.02.2021: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 15.02.2021: [Battle](https://osu.ppy.sh/users/4037545) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 26.02.2021: [Xinely](https://osu.ppy.sh/users/1521445) wurde zur Gruppe **Probationary BN** hinzugefügt
 
 #### Verschoben
 
-- 2021-02-01: [Zer0-](https://osu.ppy.sh/users/4260033) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-02-01: [Morrighan](https://osu.ppy.sh/users/12042090) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-02-17: [autofanboy](https://osu.ppy.sh/users/636114) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-02-21: [Hivie](https://osu.ppy.sh/users/14102976) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-02-21: [Ulqui](https://osu.ppy.sh/users/1263669) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-02-21: [Luscent](https://osu.ppy.sh/users/2688581) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 01.02.2021: [Zer0-](https://osu.ppy.sh/users/4260033) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 01.02.2021: [Morrighan](https://osu.ppy.sh/users/12042090) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 17.02.2021: [autofanboy](https://osu.ppy.sh/users/636114) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 21.02.2021: [Hivie](https://osu.ppy.sh/users/14102976) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 21.02.2021: [Ulqui](https://osu.ppy.sh/users/1263669) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 21.02.2021: [Luscent](https://osu.ppy.sh/users/2688581) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
 
 #### Entfernt
 
-- 2021-02-13: [Rocma](https://osu.ppy.sh/users/566276) wurde aus der Gruppe **BN** entfernt
-- 2021-02-16: [Nao Tomori](https://osu.ppy.sh/users/5364763) wurde aus der Gruppe **BN** entfernt
+- 13.02.2021: [Rocma](https://osu.ppy.sh/users/566276) wurde aus der Gruppe **BN** entfernt
+- 16.02.2021: [Nao Tomori](https://osu.ppy.sh/users/5364763) wurde aus der Gruppe **BN** entfernt
 
 ## März
 
-- 2021-03-01: [ThePooN](https://osu.ppy.sh/users/718454) wurde zur Gruppe **Developers** hinzugefügt
-- 2021-03-01: [Lasse](https://osu.ppy.sh/users/896613) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
-- 2021-03-06: [Zelq](https://osu.ppy.sh/users/8953955) wurde zur Gruppe **NAT** hinzugefügt
-- 2021-03-07: [Agatsu](https://osu.ppy.sh/users/5579871) wurde zur Gruppe **NAT** hinzugefügt
-- 2021-03-19: [Nozhomi](https://osu.ppy.sh/users/2716981) wurde zur Gruppe **GMT** hinzugefügt
+- 01.03.2021: [ThePooN](https://osu.ppy.sh/users/718454) wurde zur Gruppe **Developers** hinzugefügt
+- 01.03.2021: [Lasse](https://osu.ppy.sh/users/896613) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
+- 06.03.2021: [Zelq](https://osu.ppy.sh/users/8953955) wurde zur Gruppe **NAT** hinzugefügt
+- 07.03.2021: [Agatsu](https://osu.ppy.sh/users/5579871) wurde zur Gruppe **NAT** hinzugefügt
+- 19.03.2021: [Nozhomi](https://osu.ppy.sh/users/2716981) wurde zur Gruppe **GMT** hinzugefügt
 
 ### Beatmap-Nominatoren
 
 #### Hinzugefügt
 
-- 2021-03-01: [Mir](https://osu.ppy.sh/users/8688812) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-03-01: [Lasse](https://osu.ppy.sh/users/896613) wurde zur Gruppe **BN** hinzugefügt
-- 2021-03-12: [Paran](https://osu.ppy.sh/users/13340203) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-03-14: [Horiiizon](https://osu.ppy.sh/users/8071438) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-03-14: [gevbiivi5](https://osu.ppy.sh/users/7140680) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-03-14: [AJT](https://osu.ppy.sh/users/3181083) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-03-14: [VINXIS](https://osu.ppy.sh/users/4323406) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-03-18: [NyalettOwO x3](https://osu.ppy.sh/users/7592136) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-03-18: [wonjae](https://osu.ppy.sh/users/5032045) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-03-23: [-Aku](https://osu.ppy.sh/users/12315824) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-03-28: [Komirin](https://osu.ppy.sh/users/4725379) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-03-28: [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-03-30: [Sylas](https://osu.ppy.sh/users/3906405) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-03-30: [Kudosu](https://osu.ppy.sh/users/11038155) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 01.03.2021: [Mir](https://osu.ppy.sh/users/8688812) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 01.03.2021: [Lasse](https://osu.ppy.sh/users/896613) wurde zur Gruppe **BN** hinzugefügt
+- 12.03.2021: [Paran](https://osu.ppy.sh/users/13340203) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 14.03.2021: [Horiiizon](https://osu.ppy.sh/users/8071438) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 14.03.2021: [gevbiivi5](https://osu.ppy.sh/users/7140680) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 14.03.2021: [AJT](https://osu.ppy.sh/users/3181083) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 14.03.2021: [VINXIS](https://osu.ppy.sh/users/4323406) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 18.03.2021: [NyalettOwO x3](https://osu.ppy.sh/users/7592136) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 18.03.2021: [wonjae](https://osu.ppy.sh/users/5032045) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 23.03.2021: [-Aku](https://osu.ppy.sh/users/12315824) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 28.03.2021: [Komirin](https://osu.ppy.sh/users/4725379) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 28.03.2021: [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 30.03.2021: [Sylas](https://osu.ppy.sh/users/3906405) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 30.03.2021: [Kudosu](https://osu.ppy.sh/users/11038155) wurde zur Gruppe **Probationary BN** hinzugefügt
 
 #### Verschoben
 
-- 2021-03-05: [Myxo](https://osu.ppy.sh/users/2202645) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-03-07: [PokeSky](https://osu.ppy.sh/users/3617111) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-03-14: [guden](https://osu.ppy.sh/users/11626065) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-03-15: [Dored](https://osu.ppy.sh/users/10284894) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-03-15: [Sonnyc](https://osu.ppy.sh/users/11771) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-03-20: [deta5859](https://osu.ppy.sh/users/15275662) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-03-23: [Yugu](https://osu.ppy.sh/users/3161834) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-03-27: [Astronic](https://osu.ppy.sh/users/9320502) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
-- 2021-03-30: [Yasuho](https://osu.ppy.sh/users/8458835) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 05.03.2021: [Myxo](https://osu.ppy.sh/users/2202645) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 07.03.2021: [PokeSky](https://osu.ppy.sh/users/3617111) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 14.03.2021: [guden](https://osu.ppy.sh/users/11626065) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 15.03.2021: [Dored](https://osu.ppy.sh/users/10284894) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 15.03.2021: [Sonnyc](https://osu.ppy.sh/users/11771) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 20.03.2021: [deta5859](https://osu.ppy.sh/users/15275662) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 23.03.2021: [Yugu](https://osu.ppy.sh/users/3161834) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 27.03.2021: [Astronic](https://osu.ppy.sh/users/9320502) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 30.03.2021: [Yasuho](https://osu.ppy.sh/users/8458835) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
 
 #### Entfernt
 
-- 2021-03-06: [Zelq](https://osu.ppy.sh/users/8953955) wurde aus der Gruppe **BN** entfernt
-- 2021-03-07: [Lafayla](https://osu.ppy.sh/users/5312547) wurde aus der Gruppe **BN** entfernt
-- 2021-03-07: [Agatsu](https://osu.ppy.sh/users/5579871) wurde aus der Gruppe **BN** entfernt
-- 2021-03-14: [GIGACHAD](https://osu.ppy.sh/users/11081858) wurde aus der Gruppe **Probationary BN** entfernt
-- 2021-03-16: [Phob](https://osu.ppy.sh/users/6069462) wurde aus der Gruppe **BN** entfernt
-- 2021-03-16: [riffy](https://osu.ppy.sh/users/597957) wurde aus der Gruppe **BN** entfernt
-- 2021-03-18: [frukoyurdakul](https://osu.ppy.sh/users/7612550) wurde aus der Gruppe **BN** entfernt
-- 2021-03-18: [Secre](https://osu.ppy.sh/users/2306637) wurde aus der Gruppe **BN** entfernt
+- 06.03.2021: [Zelq](https://osu.ppy.sh/users/8953955) wurde aus der Gruppe **BN** entfernt
+- 07.03.2021: [Lafayla](https://osu.ppy.sh/users/5312547) wurde aus der Gruppe **BN** entfernt
+- 07.03.2021: [Agatsu](https://osu.ppy.sh/users/5579871) wurde aus der Gruppe **BN** entfernt
+- 14.03.2021: [GIGACHAD](https://osu.ppy.sh/users/11081858) wurde aus der Gruppe **Probationary BN** entfernt
+- 16.03.2021: [Phob](https://osu.ppy.sh/users/6069462) wurde aus der Gruppe **BN** entfernt
+- 16.03.2021: [riffy](https://osu.ppy.sh/users/597957) wurde aus der Gruppe **BN** entfernt
+- 18.03.2021: [frukoyurdakul](https://osu.ppy.sh/users/7612550) wurde aus der Gruppe **BN** entfernt
+- 18.03.2021: [Secre](https://osu.ppy.sh/users/2306637) wurde aus der Gruppe **BN** entfernt
 
 ## April
 
-- 2021-04-13: [Leniane](https://osu.ppy.sh/users/7138602) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
-- 2021-04-16: [-mint-](https://osu.ppy.sh/users/8976576) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-04-16: [Abraxos](https://osu.ppy.sh/users/5025064) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-04-16: [Bubbleman](https://osu.ppy.sh/users/5182050) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-04-16: [DigitalHypno](https://osu.ppy.sh/users/4384207) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-04-16: [Kawawa](https://osu.ppy.sh/users/4647754) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-04-16: [KuroKuroKuro](https://osu.ppy.sh/users/11931563) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-04-16: [Penguinosity](https://osu.ppy.sh/users/10235296) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-04-16: [POCARI SWEAT](https://osu.ppy.sh/users/5082685) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-04-16: [Pope Gadget](https://osu.ppy.sh/users/2288341) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-04-16: [Remus](https://osu.ppy.sh/users/6850949) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-04-16: [Sartan](https://osu.ppy.sh/users/4100941) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-04-16: [Spectator](https://osu.ppy.sh/users/702598) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-04-16: [Tenshichan](https://osu.ppy.sh/users/1101600) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-04-16: [waywern2012](https://osu.ppy.sh/users/5870453) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-04-16: [Wesley](https://osu.ppy.sh/users/2407265) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-04-16: [X a v y](https://osu.ppy.sh/users/3738344) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-04-16: [nekodex](https://osu.ppy.sh/users/102) wurde aus der Gruppe **osu! Alumni** entfernt
-- 2021-04-19: [juankristal](https://osu.ppy.sh/users/443656) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
-- 2021-04-28: [Wixonater](https://osu.ppy.sh/users/10083084) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-04-28: [Alter-](https://osu.ppy.sh/users/4980256) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-04-28: [waywern2012](https://osu.ppy.sh/users/5870453) wurde aus der Gruppe **Project Loved Team** entfernt
-- 2021-04-28: [Kaifin](https://osu.ppy.sh/users/2596942) wurde aus der Gruppe **Project Loved Team** entfernt
-- 2021-04-28: [RandomeLoL](https://osu.ppy.sh/users/7080063) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-04-28: [Nikolayio](https://osu.ppy.sh/users/11279465) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-04-28: [Komirin](https://osu.ppy.sh/users/4725379) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-04-28: [kadoen](https://osu.ppy.sh/users/12780575) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-04-28: [Noffy](https://osu.ppy.sh/users/1541323) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-04-28: [hypercyte](https://osu.ppy.sh/users/9155377) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 13.04.2021: [Leniane](https://osu.ppy.sh/users/7138602) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
+- 16.04.2021: [-mint-](https://osu.ppy.sh/users/8976576) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 16.04.2021: [Abraxos](https://osu.ppy.sh/users/5025064) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 16.04.2021: [Bubbleman](https://osu.ppy.sh/users/5182050) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 16.04.2021: [DigitalHypno](https://osu.ppy.sh/users/4384207) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 16.04.2021: [Kawawa](https://osu.ppy.sh/users/4647754) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 16.04.2021: [KuroKuroKuro](https://osu.ppy.sh/users/11931563) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 16.04.2021: [Penguinosity](https://osu.ppy.sh/users/10235296) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 16.04.2021: [POCARI SWEAT](https://osu.ppy.sh/users/5082685) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 16.04.2021: [Pope Gadget](https://osu.ppy.sh/users/2288341) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 16.04.2021: [Remus](https://osu.ppy.sh/users/6850949) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 16.04.2021: [Sartan](https://osu.ppy.sh/users/4100941) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 16.04.2021: [Spectator](https://osu.ppy.sh/users/702598) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 16.04.2021: [Tenshichan](https://osu.ppy.sh/users/1101600) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 16.04.2021: [waywern2012](https://osu.ppy.sh/users/5870453) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 16.04.2021: [Wesley](https://osu.ppy.sh/users/2407265) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 16.04.2021: [X a v y](https://osu.ppy.sh/users/3738344) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 16.04.2021: [nekodex](https://osu.ppy.sh/users/102) wurde aus der Gruppe **osu! Alumni** entfernt
+- 19.04.2021: [juankristal](https://osu.ppy.sh/users/443656) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
+- 28.04.2021: [Wixonater](https://osu.ppy.sh/users/10083084) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 28.04.2021: [Alter-](https://osu.ppy.sh/users/4980256) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 28.04.2021: [waywern2012](https://osu.ppy.sh/users/5870453) wurde aus der Gruppe **Project Loved Team** entfernt
+- 28.04.2021: [Kaifin](https://osu.ppy.sh/users/2596942) wurde aus der Gruppe **Project Loved Team** entfernt
+- 28.04.2021: [RandomeLoL](https://osu.ppy.sh/users/7080063) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 28.04.2021: [Nikolayio](https://osu.ppy.sh/users/11279465) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 28.04.2021: [Komirin](https://osu.ppy.sh/users/4725379) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 28.04.2021: [kadoen](https://osu.ppy.sh/users/12780575) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 28.04.2021: [Noffy](https://osu.ppy.sh/users/1541323) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 28.04.2021: [hypercyte](https://osu.ppy.sh/users/9155377) wurde zur Gruppe **Project Loved Team** hinzugefügt
 
 ### Beatmap-Nominatoren
 
 #### Hinzugefügt
 
-- 2021-04-10: [-Luminate](https://osu.ppy.sh/users/4778689) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-04-15: [Souvenir](https://osu.ppy.sh/users/14057792) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-04-15: [Okoratu](https://osu.ppy.sh/users/1623405) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-04-18: [My Angel RangE](https://osu.ppy.sh/users/6336713) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 10.04.2021: [-Luminate](https://osu.ppy.sh/users/4778689) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 15.04.2021: [Souvenir](https://osu.ppy.sh/users/14057792) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 15.04.2021: [Okoratu](https://osu.ppy.sh/users/1623405) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 18.04.2021: [My Angel RangE](https://osu.ppy.sh/users/6336713) wurde zur Gruppe **Probationary BN** hinzugefügt
 
 #### Verschoben
 
-- 2021-04-01: [Crissa](https://osu.ppy.sh/users/5405836) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
-- 2021-04-01: [Smoke](https://osu.ppy.sh/users/10726630) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-04-06: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-04-07: [Mipha-](https://osu.ppy.sh/users/5767941) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-04-08: [Xinely](https://osu.ppy.sh/users/1521445) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-04-12: [Luscent](https://osu.ppy.sh/users/2688581) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-04-18: [Mir](https://osu.ppy.sh/users/8688812) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-04-28: [Daletto](https://osu.ppy.sh/users/7592136) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-04-28: [Paran](https://osu.ppy.sh/users/13340203) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 01.04.2021: [Crissa](https://osu.ppy.sh/users/5405836) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 01.04.2021: [Smoke](https://osu.ppy.sh/users/10726630) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 06.04.2021: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 07.04.2021: [Mipha-](https://osu.ppy.sh/users/5767941) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 08.04.2021: [Xinely](https://osu.ppy.sh/users/1521445) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 12.04.2021: [Luscent](https://osu.ppy.sh/users/2688581) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 18.04.2021: [Mir](https://osu.ppy.sh/users/8688812) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 28.04.2021: [Daletto](https://osu.ppy.sh/users/7592136) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 28.04.2021: [Paran](https://osu.ppy.sh/users/13340203) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
 
 #### Entfernt
 
-- 2021-04-02: [Battle](https://osu.ppy.sh/users/4037545) wurde aus der Gruppe **Probationary BN** entfernt
-- 2021-04-04: [BaAR_Vendel](https://osu.ppy.sh/users/8679346) wurde aus der Gruppe **BN** entfernt
-- 2021-04-10: [Milan-](https://osu.ppy.sh/users/1052994) wurde aus der Gruppe **BN** entfernt
-- 2021-04-12: [Xinely](https://osu.ppy.sh/users/1521445) wurde aus der Gruppe **BN** entfernt
-- 2021-04-15: [-Aqua](https://osu.ppy.sh/users/7150015) wurde aus der Gruppe **BN** entfernt
-- 2021-04-24: [Ayucchi](https://osu.ppy.sh/users/7823498) wurde aus der Gruppe **BN** entfernt
-- 2021-04-28: [Myxo](https://osu.ppy.sh/users/2202645) wurde aus der Gruppe **BN** entfernt
+- 02.04.2021: [Battle](https://osu.ppy.sh/users/4037545) wurde aus der Gruppe **Probationary BN** entfernt
+- 04.04.2021: [BaAR_Vendel](https://osu.ppy.sh/users/8679346) wurde aus der Gruppe **BN** entfernt
+- 10.04.2021: [Milan-](https://osu.ppy.sh/users/1052994) wurde aus der Gruppe **BN** entfernt
+- 12.04.2021: [Xinely](https://osu.ppy.sh/users/1521445) wurde aus der Gruppe **BN** entfernt
+- 15.04.2021: [-Aqua](https://osu.ppy.sh/users/7150015) wurde aus der Gruppe **BN** entfernt
+- 24.04.2021: [Ayucchi](https://osu.ppy.sh/users/7823498) wurde aus der Gruppe **BN** entfernt
+- 28.04.2021: [Myxo](https://osu.ppy.sh/users/2202645) wurde aus der Gruppe **BN** entfernt
 
 ## Mai
 
-- 2021-05-13: [Mao](https://osu.ppy.sh/users/2204515) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
-- 2021-05-23: [Unpredictable](https://osu.ppy.sh/users/7560872) wurde zur Gruppe **NAT** hinzugefügt
+- 13.05.2021: [Mao](https://osu.ppy.sh/users/2204515) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
+- 23.05.2021: [Unpredictable](https://osu.ppy.sh/users/7560872) wurde zur Gruppe **NAT** hinzugefügt
 
 ### Beatmap-Nominatoren
 
 #### Hinzugefügt
 
-- 2021-05-04: [CallieCube](https://osu.ppy.sh/users/7535045) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-05-06: [CallMeLyra](https://osu.ppy.sh/users/15272997) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-05-13: [Logic Agent](https://osu.ppy.sh/users/6341262) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-05-17: [Secre](https://osu.ppy.sh/users/2306637) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-05-17: [Du5t](https://osu.ppy.sh/users/6053071) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-05-18: [Yahuri](https://osu.ppy.sh/users/4682629) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-05-26: [tomatas95](https://osu.ppy.sh/users/11403815) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-05-26: [Iceluin](https://osu.ppy.sh/users/3558897) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-05-26: [Gabdu09](https://osu.ppy.sh/users/8852605) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-05-26: [Dada](https://osu.ppy.sh/users/9119507) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-05-26: [Akayume](https://osu.ppy.sh/users/10617530) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-05-26: [Aakki](https://osu.ppy.sh/users/11077540) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-05-27: [Nao Tomori](https://osu.ppy.sh/users/5364763) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 04.05.2021: [CallieCube](https://osu.ppy.sh/users/7535045) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 06.05.2021: [CallMeLyra](https://osu.ppy.sh/users/15272997) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 13.05.2021: [Logic Agent](https://osu.ppy.sh/users/6341262) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 17.05.2021: [Secre](https://osu.ppy.sh/users/2306637) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 17.05.2021: [Du5t](https://osu.ppy.sh/users/6053071) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 18.05.2021: [Yahuri](https://osu.ppy.sh/users/4682629) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 26.05.2021: [tomatas95](https://osu.ppy.sh/users/11403815) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 26.05.2021: [Iceluin](https://osu.ppy.sh/users/3558897) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 26.05.2021: [Gabdu09](https://osu.ppy.sh/users/8852605) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 26.05.2021: [Dada](https://osu.ppy.sh/users/9119507) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 26.05.2021: [Akayume](https://osu.ppy.sh/users/10617530) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 26.05.2021: [Aakki](https://osu.ppy.sh/users/11077540) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 27.05.2021: [Nao Tomori](https://osu.ppy.sh/users/5364763) wurde zur Gruppe **Probationary BN** hinzugefügt
 
 #### Verschoben
 
-- 2021-05-01: [Horiiizon](https://osu.ppy.sh/users/8071438) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-05-01: [gevbiivi5](https://osu.ppy.sh/users/7140680) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-05-01: [VINXIS](https://osu.ppy.sh/users/4323406) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-05-01: [AJT](https://osu.ppy.sh/users/3181083) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-05-11: [Xahlt](https://osu.ppy.sh/users/13466351) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-05-11: [rosario wknd](https://osu.ppy.sh/users/6341518) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-05-15: [Kudosu](https://osu.ppy.sh/users/11038155) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-05-15: [Default Guy](https://osu.ppy.sh/users/7058457) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
-- 2021-05-15: [davidminh0111](https://osu.ppy.sh/users/9623142) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
-- 2021-05-16: [Komirin](https://osu.ppy.sh/users/4725379) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-05-16: [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-05-18: [Sylas](https://osu.ppy.sh/users/3906405) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-05-18: [Okoratu](https://osu.ppy.sh/users/1623405) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-05-29: [Souvenir](https://osu.ppy.sh/users/14057792) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 01.05.2021: [Horiiizon](https://osu.ppy.sh/users/8071438) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 01.05.2021: [gevbiivi5](https://osu.ppy.sh/users/7140680) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 01.05.2021: [VINXIS](https://osu.ppy.sh/users/4323406) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 01.05.2021: [AJT](https://osu.ppy.sh/users/3181083) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 11.05.2021: [Xahlt](https://osu.ppy.sh/users/13466351) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 11.05.2021: [rosario wknd](https://osu.ppy.sh/users/6341518) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 15.05.2021: [Kudosu](https://osu.ppy.sh/users/11038155) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 15.05.2021: [Default Guy](https://osu.ppy.sh/users/7058457) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 15.05.2021: [davidminh0111](https://osu.ppy.sh/users/9623142) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 16.05.2021: [Komirin](https://osu.ppy.sh/users/4725379) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 16.05.2021: [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 18.05.2021: [Sylas](https://osu.ppy.sh/users/3906405) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 18.05.2021: [Okoratu](https://osu.ppy.sh/users/1623405) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 29.05.2021: [Souvenir](https://osu.ppy.sh/users/14057792) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
 
 #### Entfernt
 
-- 2021-05-09: [Ulqui](https://osu.ppy.sh/users/1263669) wurde aus der Gruppe **BN** entfernt
-- 2021-05-16: [Crissa](https://osu.ppy.sh/users/5405836) wurde aus der Gruppe **Probationary BN** entfernt
-- 2021-05-16: [skylaa](https://osu.ppy.sh/users/9505704) wurde aus der Gruppe **BN** entfernt
-- 2021-05-17: [Maridius](https://osu.ppy.sh/users/4496961) wurde aus der Gruppe **BN** entfernt
-- 2021-05-18: [Astronic](https://osu.ppy.sh/users/9320502) wurde aus der Gruppe **Probationary BN** entfernt
-- 2021-05-22: [Butylcyclobutyn](https://osu.ppy.sh/users/10959501) wurde aus der Gruppe **BN** entfernt
-- 2021-05-23: [Unpredictable](https://osu.ppy.sh/users/7560872) wurde aus der Gruppe **BN** entfernt
-- 2021-05-23: [-Aku](https://osu.ppy.sh/users/12315824) wurde aus der Gruppe **Probationary BN** entfernt
-- 2021-05-30: [Amiichii](https://osu.ppy.sh/users/9228569) wurde aus der Gruppe **BN** entfernt
+- 09.05.2021: [Ulqui](https://osu.ppy.sh/users/1263669) wurde aus der Gruppe **BN** entfernt
+- 16.05.2021: [Crissa](https://osu.ppy.sh/users/5405836) wurde aus der Gruppe **Probationary BN** entfernt
+- 16.05.2021: [skylaa](https://osu.ppy.sh/users/9505704) wurde aus der Gruppe **BN** entfernt
+- 17.05.2021: [Maridius](https://osu.ppy.sh/users/4496961) wurde aus der Gruppe **BN** entfernt
+- 18.05.2021: [Astronic](https://osu.ppy.sh/users/9320502) wurde aus der Gruppe **Probationary BN** entfernt
+- 22.05.2021: [Butylcyclobutyn](https://osu.ppy.sh/users/10959501) wurde aus der Gruppe **BN** entfernt
+- 23.05.2021: [Unpredictable](https://osu.ppy.sh/users/7560872) wurde aus der Gruppe **BN** entfernt
+- 23.05.2021: [-Aku](https://osu.ppy.sh/users/12315824) wurde aus der Gruppe **Probationary BN** entfernt
+- 30.05.2021: [Amiichii](https://osu.ppy.sh/users/9228569) wurde aus der Gruppe **BN** entfernt
 
 ## Juni
 
-- 2021-06-06: [Deif](https://osu.ppy.sh/users/318565) wurde aus der Gruppe **GMT** entfernt
-- 2021-06-06: [WalterToro](https://osu.ppy.sh/users/5281416) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
-- 2021-06-14: [Horiiizon](https://osu.ppy.sh/users/8071438) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-06-14: [Remus](https://osu.ppy.sh/users/6850949) wurde aus der Gruppe **Project Loved Team** entfernt
-- 2021-06-18: [clayton](https://osu.ppy.sh/users/3666350) wurde aus der Gruppe **Project Loved Team** entfernt
+- 06.06.2021: [Deif](https://osu.ppy.sh/users/318565) wurde aus der Gruppe **GMT** entfernt
+- 06.06.2021: [WalterToro](https://osu.ppy.sh/users/5281416) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
+- 14.06.2021: [Horiiizon](https://osu.ppy.sh/users/8071438) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 14.06.2021: [Remus](https://osu.ppy.sh/users/6850949) wurde aus der Gruppe **Project Loved Team** entfernt
+- 18.06.2021: [clayton](https://osu.ppy.sh/users/3666350) wurde aus der Gruppe **Project Loved Team** entfernt
 
 ### Beatmap-Nominatoren
 
 #### Hinzugefügt
 
-- 2021-06-10: [Sajinn](https://osu.ppy.sh/users/13513687) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-06-10: [Aistre](https://osu.ppy.sh/users/4879380) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-06-13: [Icekalt](https://osu.ppy.sh/users/5410645) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-06-20: [zerokt](https://osu.ppy.sh/users/13776127) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-06-22: [Phob](https://osu.ppy.sh/users/6069462) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-06-24: [yenmaster](https://osu.ppy.sh/users/12565402) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-06-29: [D3kuu](https://osu.ppy.sh/users/7807444) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 10.06.2021: [Sajinn](https://osu.ppy.sh/users/13513687) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 10.06.2021: [Aistre](https://osu.ppy.sh/users/4879380) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 13.06.2021: [Icekalt](https://osu.ppy.sh/users/5410645) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 20.06.2021: [zerokt](https://osu.ppy.sh/users/13776127) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 22.06.2021: [Phob](https://osu.ppy.sh/users/6069462) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 24.06.2021: [yenmaster](https://osu.ppy.sh/users/12565402) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 29.06.2021: [D3kuu](https://osu.ppy.sh/users/7807444) wurde zur Gruppe **Probationary BN** hinzugefügt
 
 #### Verschoben
 
-- 2021-06-05: [My Angel RangE](https://osu.ppy.sh/users/6336713) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-06-07: [wonjae](https://osu.ppy.sh/users/5032045) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-06-24: [CallMeLyra](https://osu.ppy.sh/users/15272997) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-06-29: [davidminh0111](https://osu.ppy.sh/users/9623142) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-06-29: [Yahuri](https://osu.ppy.sh/users/4682629) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-06-30: [Du5t](https://osu.ppy.sh/users/6053071) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-06-30: [Secre](https://osu.ppy.sh/users/2306637) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 05.06.2021: [My Angel RangE](https://osu.ppy.sh/users/6336713) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 07.06.2021: [wonjae](https://osu.ppy.sh/users/5032045) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 24.06.2021: [CallMeLyra](https://osu.ppy.sh/users/15272997) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 29.06.2021: [davidminh0111](https://osu.ppy.sh/users/9623142) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 29.06.2021: [Yahuri](https://osu.ppy.sh/users/4682629) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 30.06.2021: [Du5t](https://osu.ppy.sh/users/6053071) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 30.06.2021: [Secre](https://osu.ppy.sh/users/2306637) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
 
 #### Entfernt
 
-- 2021-06-02: [Teky](https://osu.ppy.sh/users/10520912) wurde aus der Gruppe **BN** entfernt
-- 2021-06-02: [Hobbes2](https://osu.ppy.sh/users/8157492) wurde aus der Gruppe **BN** entfernt
-- 2021-06-12: [Jerry](https://osu.ppy.sh/users/605973) wurde aus der Gruppe **BN** entfernt
-- 2021-06-14: [Mordred](https://osu.ppy.sh/users/7265097) wurde aus der Gruppe **BN** entfernt
-- 2021-06-15: [C00L](https://osu.ppy.sh/users/4930630) wurde aus der Gruppe **BN** entfernt
-- 2021-06-22: [Aruel](https://osu.ppy.sh/users/3984370) wurde aus der Gruppe **BN** entfernt
-- 2021-06-30: [realy0_](https://osu.ppy.sh/users/8863359) wurde aus der Gruppe **BN** entfernt
+- 02.06.2021: [Teky](https://osu.ppy.sh/users/10520912) wurde aus der Gruppe **BN** entfernt
+- 02.06.2021: [Hobbes2](https://osu.ppy.sh/users/8157492) wurde aus der Gruppe **BN** entfernt
+- 12.06.2021: [Jerry](https://osu.ppy.sh/users/605973) wurde aus der Gruppe **BN** entfernt
+- 14.06.2021: [Mordred](https://osu.ppy.sh/users/7265097) wurde aus der Gruppe **BN** entfernt
+- 15.06.2021: [C00L](https://osu.ppy.sh/users/4930630) wurde aus der Gruppe **BN** entfernt
+- 22.06.2021: [Aruel](https://osu.ppy.sh/users/3984370) wurde aus der Gruppe **BN** entfernt
+- 30.06.2021: [realy0_](https://osu.ppy.sh/users/8863359) wurde aus der Gruppe **BN** entfernt
 
 ## Juli
 
-- 2021-07-01: [Halfslashed](https://osu.ppy.sh/users/4598899) wurde zur Gruppe **GMT** hinzugefügt
-- 2021-07-01: [Nevo](https://osu.ppy.sh/users/7451883) wurde zur Gruppe **GMT** hinzugefügt
-- 2021-07-01: [Pope Gadget](https://osu.ppy.sh/users/2288341) wurde zur Gruppe **GMT** hinzugefügt
-- 2021-07-02: [Garden](https://osu.ppy.sh/users/2849992) wurde zur Gruppe **GMT** hinzugefügt
-- 2021-07-04: [KSHR](https://osu.ppy.sh/users/409957) wurde aus der Gruppe **osu! Alumni** in die Gruppe **GMT** verschoben
-- 2021-07-09: [OnosakiHito](https://osu.ppy.sh/users/290128) wurde aus der Gruppe **osu! Alumni** in die Gruppe **GMT** verschoben
-- 2021-07-21: [LeoFLT](https://osu.ppy.sh/users/3668779) wurde zur Gruppe **GMT** hinzugefügt
-- 2021-07-21: [ChillierPear](https://osu.ppy.sh/users/9501251) wurde zur Gruppe **GMT** hinzugefügt
-- 2021-07-21: [Azer](https://osu.ppy.sh/users/2155578) wurde zur Gruppe **GMT** hinzugefügt
-- 2021-07-23: [Pachiru](https://osu.ppy.sh/users/2850983) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-07-23: [Feerum](https://osu.ppy.sh/users/4815717) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
-- 2021-07-23: [Davvy](https://osu.ppy.sh/users/10047413) wurde zur Gruppe **GMT** hinzugefügt
-- 2021-07-23: [Maot](https://osu.ppy.sh/users/3914271) wurde zur Gruppe **GMT** hinzugefügt
-- 2021-07-28: [Shoegazer](https://osu.ppy.sh/users/2520707) wurde zur Gruppe **GMT** hinzugefügt
-- 2021-07-29: [Firika](https://osu.ppy.sh/users/9590557) wurde zur Gruppe **GMT** hinzugefügt
-- 2021-07-29: [Kite](https://osu.ppy.sh/users/134572) wurde zur Gruppe **GMT** hinzugefügt
-- 2021-07-30: [mangomizer](https://osu.ppy.sh/users/1893718) wurde zur Gruppe **GMT** hinzugefügt
+- 01.07.2021: [Halfslashed](https://osu.ppy.sh/users/4598899) wurde zur Gruppe **GMT** hinzugefügt
+- 01.07.2021: [Nevo](https://osu.ppy.sh/users/7451883) wurde zur Gruppe **GMT** hinzugefügt
+- 01.07.2021: [Pope Gadget](https://osu.ppy.sh/users/2288341) wurde zur Gruppe **GMT** hinzugefügt
+- 02.07.2021: [Garden](https://osu.ppy.sh/users/2849992) wurde zur Gruppe **GMT** hinzugefügt
+- 04.07.2021: [KSHR](https://osu.ppy.sh/users/409957) wurde aus der Gruppe **osu! Alumni** in die Gruppe **GMT** verschoben
+- 09.07.2021: [OnosakiHito](https://osu.ppy.sh/users/290128) wurde aus der Gruppe **osu! Alumni** in die Gruppe **GMT** verschoben
+- 21.07.2021: [LeoFLT](https://osu.ppy.sh/users/3668779) wurde zur Gruppe **GMT** hinzugefügt
+- 21.07.2021: [ChillierPear](https://osu.ppy.sh/users/9501251) wurde zur Gruppe **GMT** hinzugefügt
+- 21.07.2021: [Azer](https://osu.ppy.sh/users/2155578) wurde zur Gruppe **GMT** hinzugefügt
+- 23.07.2021: [Pachiru](https://osu.ppy.sh/users/2850983) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 23.07.2021: [Feerum](https://osu.ppy.sh/users/4815717) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
+- 23.07.2021: [Davvy](https://osu.ppy.sh/users/10047413) wurde zur Gruppe **GMT** hinzugefügt
+- 23.07.2021: [Maot](https://osu.ppy.sh/users/3914271) wurde zur Gruppe **GMT** hinzugefügt
+- 28.07.2021: [Shoegazer](https://osu.ppy.sh/users/2520707) wurde zur Gruppe **GMT** hinzugefügt
+- 29.07.2021: [Firika](https://osu.ppy.sh/users/9590557) wurde zur Gruppe **GMT** hinzugefügt
+- 29.07.2021: [Kite](https://osu.ppy.sh/users/134572) wurde zur Gruppe **GMT** hinzugefügt
+- 30.07.2021: [mangomizer](https://osu.ppy.sh/users/1893718) wurde zur Gruppe **GMT** hinzugefügt
 
 ### Beatmap-Nominatoren
 
 #### Hinzugefügt
 
-- 2021-07-01: [Mirea](https://osu.ppy.sh/users/8404646) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-07-05: [Chatie](https://osu.ppy.sh/users/6524765) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-07-06: [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-07-06: [X a v y](https://osu.ppy.sh/users/3738344) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-07-06: [BlackBq](https://osu.ppy.sh/users/6291741) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-07-07: [mrowswares](https://osu.ppy.sh/users/9558549) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-07-31: [Idealism](https://osu.ppy.sh/users/3869519) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 01.07.2021: [Mirea](https://osu.ppy.sh/users/8404646) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 05.07.2021: [Chatie](https://osu.ppy.sh/users/6524765) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 06.07.2021: [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 06.07.2021: [X a v y](https://osu.ppy.sh/users/3738344) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 06.07.2021: [BlackBq](https://osu.ppy.sh/users/6291741) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 07.07.2021: [mrowswares](https://osu.ppy.sh/users/9558549) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 31.07.2021: [Idealism](https://osu.ppy.sh/users/3869519) wurde zur Gruppe **Probationary BN** hinzugefügt
 
 #### Verschoben
 
-- 2021-07-13: [Nao Tomori](https://osu.ppy.sh/users/5364763) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-07-13: [-Luminate](https://osu.ppy.sh/users/4778689) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-07-20: [Sajinn](https://osu.ppy.sh/users/13513687) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-07-20: [Aistre](https://osu.ppy.sh/users/4879380) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-07-23: [pimp](https://osu.ppy.sh/users/328615) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
-- 2021-07-26: [Icekalt](https://osu.ppy.sh/users/5410645) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 13.07.2021: [Nao Tomori](https://osu.ppy.sh/users/5364763) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 13.07.2021: [-Luminate](https://osu.ppy.sh/users/4778689) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 20.07.2021: [Sajinn](https://osu.ppy.sh/users/13513687) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 20.07.2021: [Aistre](https://osu.ppy.sh/users/4879380) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 23.07.2021: [pimp](https://osu.ppy.sh/users/328615) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 26.07.2021: [Icekalt](https://osu.ppy.sh/users/5410645) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
 
 #### Entfernt
 
-- 2021-07-20: [Pentori](https://osu.ppy.sh/users/7452237) wurde aus der Gruppe **BN** entfernt
-- 2021-07-31: [D3kuu](https://osu.ppy.sh/users/7807444) wurde aus der Gruppe **Probationary BN** entfernt
+- 20.07.2021: [Pentori](https://osu.ppy.sh/users/7452237) wurde aus der Gruppe **BN** entfernt
+- 31.07.2021: [D3kuu](https://osu.ppy.sh/users/7807444) wurde aus der Gruppe **Probationary BN** entfernt
 
 ## August
 
-- 2021-08-02: [Nepuri](https://osu.ppy.sh/users/6637817) wurde aus der Gruppe **osu! Alumni** entfernt
-- 2021-08-16: [Pope Gadget](https://osu.ppy.sh/users/2288341) wurde aus der Gruppe **Project Loved Team** entfernt
-- 2021-08-23: [n0ah](https://osu.ppy.sh/users/3086393) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
-- 2021-08-29: [Hivie](https://osu.ppy.sh/users/14102976) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-08-30: [Zeus-](https://osu.ppy.sh/users/5464437) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-08-30: [Doomsday](https://osu.ppy.sh/users/18983) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-08-30: [X a v y](https://osu.ppy.sh/users/3738344) wurde aus der Gruppe **Project Loved Team** entfernt
+- 02.08.2021: [Nepuri](https://osu.ppy.sh/users/6637817) wurde aus der Gruppe **osu! Alumni** entfernt
+- 16.08.2021: [Pope Gadget](https://osu.ppy.sh/users/2288341) wurde aus der Gruppe **Project Loved Team** entfernt
+- 23.08.2021: [n0ah](https://osu.ppy.sh/users/3086393) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
+- 29.08.2021: [Hivie](https://osu.ppy.sh/users/14102976) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 30.08.2021: [Zeus-](https://osu.ppy.sh/users/5464437) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 30.08.2021: [Doomsday](https://osu.ppy.sh/users/18983) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 30.08.2021: [X a v y](https://osu.ppy.sh/users/3738344) wurde aus der Gruppe **Project Loved Team** entfernt
 
 ### Beatmap-Nominatoren
 
 #### Hinzugefügt
 
-- 2021-08-05: [Riana](https://osu.ppy.sh/users/1997633) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-08-06: [Kyle Y](https://osu.ppy.sh/users/3565813) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-08-07: [GIGACHAD](https://osu.ppy.sh/users/11081858) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-08-08: [mnyui](https://osu.ppy.sh/users/14261540) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-08-11: [Lacrima](https://osu.ppy.sh/users/4915649) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-08-11: [FuJu](https://osu.ppy.sh/users/10773882) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-08-13: [RandomeLoL](https://osu.ppy.sh/users/7080063) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-08-13: [DarkistDeci](https://osu.ppy.sh/users/13360768) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-08-25: [Een Persoon](https://osu.ppy.sh/users/10959501) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-08-28: [Mordred](https://osu.ppy.sh/users/7265097) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 05.08.2021: [Riana](https://osu.ppy.sh/users/1997633) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 06.08.2021: [Kyle Y](https://osu.ppy.sh/users/3565813) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 07.08.2021: [GIGACHAD](https://osu.ppy.sh/users/11081858) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 08.08.2021: [mnyui](https://osu.ppy.sh/users/14261540) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 11.08.2021: [Lacrima](https://osu.ppy.sh/users/4915649) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 11.08.2021: [FuJu](https://osu.ppy.sh/users/10773882) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 13.08.2021: [RandomeLoL](https://osu.ppy.sh/users/7080063) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 13.08.2021: [DarkistDeci](https://osu.ppy.sh/users/13360768) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 25.08.2021: [Een Persoon](https://osu.ppy.sh/users/10959501) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 28.08.2021: [Mordred](https://osu.ppy.sh/users/7265097) wurde zur Gruppe **Probationary BN** hinzugefügt
 
 #### Verschoben
 
-- 2021-08-03: [zerokt](https://osu.ppy.sh/users/13776127) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-08-03: [Phob](https://osu.ppy.sh/users/6069462) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-08-09: [Logic Agent](https://osu.ppy.sh/users/6069462) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-08-13: [Murumoo](https://osu.ppy.sh/users/8001433) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
-- 2021-08-13: [yenmaster](https://osu.ppy.sh/users/12565402) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-08-16: [Chatie](https://osu.ppy.sh/users/6524765) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-08-28: [BlackBq](https://osu.ppy.sh/users/6291741) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-08-30: [Chatie](https://osu.ppy.sh/users/6524765) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
-- 2021-08-30: [autofanboy](https://osu.ppy.sh/users/636114) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 03.08.2021: [zerokt](https://osu.ppy.sh/users/13776127) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 03.08.2021: [Phob](https://osu.ppy.sh/users/6069462) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 09.08.2021: [Logic Agent](https://osu.ppy.sh/users/6069462) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 13.08.2021: [Murumoo](https://osu.ppy.sh/users/8001433) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 13.08.2021: [yenmaster](https://osu.ppy.sh/users/12565402) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 16.08.2021: [Chatie](https://osu.ppy.sh/users/6524765) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 28.08.2021: [BlackBq](https://osu.ppy.sh/users/6291741) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 30.08.2021: [Chatie](https://osu.ppy.sh/users/6524765) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 30.08.2021: [autofanboy](https://osu.ppy.sh/users/636114) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
 
 #### Entfernt
 
-- 2021-08-03: [My Angel RangE](https://osu.ppy.sh/users/6336713) wurde aus der Gruppe **BN** entfernt
-- 2021-08-06: [Aakki](https://osu.ppy.sh/users/11077540) wurde aus der Gruppe **Probationary BN** entfernt
-- 2021-08-08: [Gabdu09](https://osu.ppy.sh/users/8852605) wurde aus der Gruppe **Probationary BN** entfernt
-- 2021-08-13: [Lirai](https://osu.ppy.sh/users/3734394) wurde aus der Gruppe **BN** entfernt
-- 2021-08-17: [Default Guy](https://osu.ppy.sh/users/7058457) wurde aus der Gruppe **Probationary BN** entfernt
-- 2021-08-17: [CallieCube](https://osu.ppy.sh/users/7535045) wurde aus der Gruppe **Probationary BN** entfernt
-- 2021-08-19: [Cychloryn](https://osu.ppy.sh/users/6921736) wurde aus der Gruppe **BN** entfernt
-- 2021-08-30: [tomatas95](https://osu.ppy.sh/users/11403815) wurde aus der Gruppe **Probationary BN** entfernt
-- 2021-08-30: [Akayume](https://osu.ppy.sh/users/10617530) wurde aus der Gruppe **Probationary BN** entfernt
-- 2021-08-30: [Dada](https://osu.ppy.sh/users/9119507) wurde aus der Gruppe **Probationary BN** entfernt
-- 2021-08-30: [Iceluin](https://osu.ppy.sh/users/3558897) wurde aus der Gruppe **Probationary BN** entfernt
-- 2021-08-30: [AJT](https://osu.ppy.sh/users/3181083) wurde aus der Gruppe **BN** entfernt
+- 03.08.2021: [My Angel RangE](https://osu.ppy.sh/users/6336713) wurde aus der Gruppe **BN** entfernt
+- 06.08.2021: [Aakki](https://osu.ppy.sh/users/11077540) wurde aus der Gruppe **Probationary BN** entfernt
+- 08.08.2021: [Gabdu09](https://osu.ppy.sh/users/8852605) wurde aus der Gruppe **Probationary BN** entfernt
+- 13.08.2021: [Lirai](https://osu.ppy.sh/users/3734394) wurde aus der Gruppe **BN** entfernt
+- 17.08.2021: [Default Guy](https://osu.ppy.sh/users/7058457) wurde aus der Gruppe **Probationary BN** entfernt
+- 17.08.2021: [CallieCube](https://osu.ppy.sh/users/7535045) wurde aus der Gruppe **Probationary BN** entfernt
+- 19.08.2021: [Cychloryn](https://osu.ppy.sh/users/6921736) wurde aus der Gruppe **BN** entfernt
+- 30.08.2021: [tomatas95](https://osu.ppy.sh/users/11403815) wurde aus der Gruppe **Probationary BN** entfernt
+- 30.08.2021: [Akayume](https://osu.ppy.sh/users/10617530) wurde aus der Gruppe **Probationary BN** entfernt
+- 30.08.2021: [Dada](https://osu.ppy.sh/users/9119507) wurde aus der Gruppe **Probationary BN** entfernt
+- 30.08.2021: [Iceluin](https://osu.ppy.sh/users/3558897) wurde aus der Gruppe **Probationary BN** entfernt
+- 30.08.2021: [AJT](https://osu.ppy.sh/users/3181083) wurde aus der Gruppe **BN** entfernt
 
 ## September
 
-- 2021-09-06: [Gamelan4](https://osu.ppy.sh/users/9856910) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-09-06: [Stefan](https://osu.ppy.sh/users/626907) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
-- 2021-09-07: [Alter-](https://osu.ppy.sh/users/4980256) wurde aus der Gruppe **Project Loved Team** entfernt
-- 2021-09-14: [Clobohne](https://osu.ppy.sh/users/499343) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
-- 2021-09-25: [Seto Kousuke](https://osu.ppy.sh/users/2857314) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
-- 2021-09-27: [UberFazz](https://osu.ppy.sh/users/8646059) wurde zur Gruppe **NAT** hinzugefügt
-- 2021-09-27: [Uberzolik](https://osu.ppy.sh/users/1314547) wurde zur Gruppe **NAT** hinzugefügt
-- 2021-08-29: [Paturages](https://osu.ppy.sh/users/1375479) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-08-29: [DannyPX](https://osu.ppy.sh/users/11253722) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-09-29: [-mint-](https://osu.ppy.sh/users/8976576) wurde aus der Gruppe **Project Loved Team** entfernt
+- 06.09.2021: [Gamelan4](https://osu.ppy.sh/users/9856910) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 06.09.2021: [Stefan](https://osu.ppy.sh/users/626907) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
+- 07.09.2021: [Alter-](https://osu.ppy.sh/users/4980256) wurde aus der Gruppe **Project Loved Team** entfernt
+- 14.09.2021: [Clobohne](https://osu.ppy.sh/users/499343) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
+- 25.09.2021: [Seto Kousuke](https://osu.ppy.sh/users/2857314) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
+- 27.09.2021: [UberFazz](https://osu.ppy.sh/users/8646059) wurde zur Gruppe **NAT** hinzugefügt
+- 27.09.2021: [Uberzolik](https://osu.ppy.sh/users/1314547) wurde zur Gruppe **NAT** hinzugefügt
+- 29.08.2021: [Paturages](https://osu.ppy.sh/users/1375479) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 29.08.2021: [DannyPX](https://osu.ppy.sh/users/11253722) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 29.09.2021: [-mint-](https://osu.ppy.sh/users/8976576) wurde aus der Gruppe **Project Loved Team** entfernt
 
 ### Beatmap-Nominatoren
 
 #### Hinzugefügt
 
-- 2021-09-07: [Flask](https://osu.ppy.sh/users/959763) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-09-10: [D0UG](https://osu.ppy.sh/users/13806900) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-09-13: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-09-17: [DakeDekaane](https://osu.ppy.sh/users/1425253) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-09-23: [Iceluin](https://osu.ppy.sh/users/3558897) wurde zur Gruppe **BN** hinzugefügt
-- 2021-09-23: [Dada](https://osu.ppy.sh/users/9119507) wurde zur Gruppe **BN** hinzugefügt
-- 2021-09-26: [duski](https://osu.ppy.sh/users/6506484) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-09-28: [Froskya](https://osu.ppy.sh/users/4230454) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-09-29: [Rocma](https://osu.ppy.sh/users/566276) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 07.09.2021: [Flask](https://osu.ppy.sh/users/959763) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 10.09.2021: [D0UG](https://osu.ppy.sh/users/13806900) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 13.09.2021: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 17.09.2021: [DakeDekaane](https://osu.ppy.sh/users/1425253) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 23.09.2021: [Iceluin](https://osu.ppy.sh/users/3558897) wurde zur Gruppe **BN** hinzugefügt
+- 23.09.2021: [Dada](https://osu.ppy.sh/users/9119507) wurde zur Gruppe **BN** hinzugefügt
+- 26.09.2021: [duski](https://osu.ppy.sh/users/6506484) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 28.09.2021: [Froskya](https://osu.ppy.sh/users/4230454) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 29.09.2021: [Rocma](https://osu.ppy.sh/users/566276) wurde zur Gruppe **Probationary BN** hinzugefügt
 
 #### Verschoben
 
-- 2021-09-02: [gevbiivi5](https://osu.ppy.sh/users/7140680) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
-- 2021-09-04: [Mirea](https://osu.ppy.sh/users/8404646) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-09-04: [mrowswares](https://osu.ppy.sh/users/9558549) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-09-19: [Riana](https://osu.ppy.sh/users/1997633) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-09-21: [Lacrima](https://osu.ppy.sh/users/4915649) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-09-26: [Idealism](https://osu.ppy.sh/users/3869519) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-09-27: [mnyui](https://osu.ppy.sh/users/14261540) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-09-27: [Kyle Y](https://osu.ppy.sh/users/3565813) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-09-27: [FuJu](https://osu.ppy.sh/users/10773882) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 02.09.2021: [gevbiivi5](https://osu.ppy.sh/users/7140680) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 04.09.2021: [Mirea](https://osu.ppy.sh/users/8404646) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 04.09.2021: [mrowswares](https://osu.ppy.sh/users/9558549) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 19.09.2021: [Riana](https://osu.ppy.sh/users/1997633) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 21.09.2021: [Lacrima](https://osu.ppy.sh/users/4915649) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 26.09.2021: [Idealism](https://osu.ppy.sh/users/3869519) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 27.09.2021: [mnyui](https://osu.ppy.sh/users/14261540) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 27.09.2021: [Kyle Y](https://osu.ppy.sh/users/3565813) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 27.09.2021: [FuJu](https://osu.ppy.sh/users/10773882) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
 
 #### Entfernt
 
-- 2021-09-01: [wonjae](https://osu.ppy.sh/users/5032045) wurde aus der Gruppe **BN** entfernt
-- 2021-09-02: [X a v y](https://osu.ppy.sh/users/3738344) wurde aus der Gruppe **Probationary BN** entfernt
-- 2021-09-07: [pimp](https://osu.ppy.sh/users/328615) wurde aus der Gruppe **Probationary BN** entfernt
-- 2021-09-10: [Stefan](https://osu.ppy.sh/users/626907) wurde aus der Gruppe **BN** entfernt
-- 2021-09-19: [Bibbity Bill](https://osu.ppy.sh/users/4446810) wurde aus der Gruppe **BN** entfernt
-- 2021-09-21: [Du5t](https://osu.ppy.sh/users/6053071) wurde aus der Gruppe **BN** entfernt
-- 2021-09-23: [Mimari](https://osu.ppy.sh/users/14339830) wurde aus der Gruppe **BN** entfernt
-- 2021-09-23: [Sonnyc](https://osu.ppy.sh/users/11771) wurde aus der Gruppe **BN** entfernt
-- 2021-09-27: [UberFazz](https://osu.ppy.sh/users/8646059) wurde aus der Gruppe **BN** entfernt
-- 2021-09-27: [Uberzolik](https://osu.ppy.sh/users/1314547) wurde aus der Gruppe **BN** entfernt
+- 01.09.2021: [wonjae](https://osu.ppy.sh/users/5032045) wurde aus der Gruppe **BN** entfernt
+- 02.09.2021: [X a v y](https://osu.ppy.sh/users/3738344) wurde aus der Gruppe **Probationary BN** entfernt
+- 07.09.2021: [pimp](https://osu.ppy.sh/users/328615) wurde aus der Gruppe **Probationary BN** entfernt
+- 10.09.2021: [Stefan](https://osu.ppy.sh/users/626907) wurde aus der Gruppe **BN** entfernt
+- 19.09.2021: [Bibbity Bill](https://osu.ppy.sh/users/4446810) wurde aus der Gruppe **BN** entfernt
+- 21.09.2021: [Du5t](https://osu.ppy.sh/users/6053071) wurde aus der Gruppe **BN** entfernt
+- 23.09.2021: [Mimari](https://osu.ppy.sh/users/14339830) wurde aus der Gruppe **BN** entfernt
+- 23.09.2021: [Sonnyc](https://osu.ppy.sh/users/11771) wurde aus der Gruppe **BN** entfernt
+- 27.09.2021: [UberFazz](https://osu.ppy.sh/users/8646059) wurde aus der Gruppe **BN** entfernt
+- 27.09.2021: [Uberzolik](https://osu.ppy.sh/users/1314547) wurde aus der Gruppe **BN** entfernt
 
 ## Oktober
 
-- 2021-10-06: [[ Another ]](https://osu.ppy.sh/users/3416573) wurde aus der Gruppe **osu! Alumni** in die Gruppe **GMT** verschoben
-- 2021-10-10: [- Felix](https://osu.ppy.sh/users/8503985) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
-- 2021-10-14: [radar](https://osu.ppy.sh/users/7131099) wurde zur Gruppe **NAT** hinzugefügt
-- 2021-10-14: [Capu](https://osu.ppy.sh/users/2474015) wurde zur Gruppe **NAT** hinzugefügt
-- 2021-10-14: [Tyistiana](https://osu.ppy.sh/users/1421452) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
-- 2021-10-24: [Agatsu](https://osu.ppy.sh/users/5579871) wurde aus der Gruppe **NAT** entfernt
+- 06.10.2021: [[ Another ]](https://osu.ppy.sh/users/3416573) wurde aus der Gruppe **osu! Alumni** in die Gruppe **GMT** verschoben
+- 10.10.2021: [- Felix](https://osu.ppy.sh/users/8503985) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
+- 14.10.2021: [radar](https://osu.ppy.sh/users/7131099) wurde zur Gruppe **NAT** hinzugefügt
+- 14.10.2021: [Capu](https://osu.ppy.sh/users/2474015) wurde zur Gruppe **NAT** hinzugefügt
+- 14.10.2021: [Tyistiana](https://osu.ppy.sh/users/1421452) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
+- 24.10.2021: [Agatsu](https://osu.ppy.sh/users/5579871) wurde aus der Gruppe **NAT** entfernt
 
 ### Beatmap-Nominatoren
 
 #### Hinzugefügt
 
-- 2021-10-01: [Nifty](https://osu.ppy.sh/users/4956097) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-10-01: [tomatas95](https://osu.ppy.sh/users/11403815) wurde zur Gruppe **BN** hinzugefügt
-- 2021-10-03: [Kawawa](https://osu.ppy.sh/users/4647754) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-10-09: [Ymiir](https://osu.ppy.sh/users/3922569) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-10-09: [Dapuluous](https://osu.ppy.sh/users/8140944) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-10-10: [Greenshell](https://osu.ppy.sh/users/8693851) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-10-10: [Asherz007](https://osu.ppy.sh/users/9014047) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-10-11: [AJT](https://osu.ppy.sh/users/3181083) wurde zur Gruppe **BN** hinzugefügt
-- 2021-10-13: [riffy](https://osu.ppy.sh/users/597957) wurde zur Gruppe **BN** hinzugefügt
-- 2021-10-13: [elicz1](https://osu.ppy.sh/users/8039342) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-10-17: [Toofu](https://osu.ppy.sh/users/11004271) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-10-23: [Roger](https://osu.ppy.sh/users/1538223) wurde zur Gruppe **BN** hinzugefügt
-- 2021-10-24: [Agatsu](https://osu.ppy.sh/users/5579871) wurde zur Gruppe **BN** hinzugefügt
+- 01.10.2021: [Nifty](https://osu.ppy.sh/users/4956097) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 01.10.2021: [tomatas95](https://osu.ppy.sh/users/11403815) wurde zur Gruppe **BN** hinzugefügt
+- 03.10.2021: [Kawawa](https://osu.ppy.sh/users/4647754) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 09.10.2021: [Ymiir](https://osu.ppy.sh/users/3922569) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 09.10.2021: [Dapuluous](https://osu.ppy.sh/users/8140944) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 10.10.2021: [Greenshell](https://osu.ppy.sh/users/8693851) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 10.10.2021: [Asherz007](https://osu.ppy.sh/users/9014047) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 11.10.2021: [AJT](https://osu.ppy.sh/users/3181083) wurde zur Gruppe **BN** hinzugefügt
+- 13.10.2021: [riffy](https://osu.ppy.sh/users/597957) wurde zur Gruppe **BN** hinzugefügt
+- 13.10.2021: [elicz1](https://osu.ppy.sh/users/8039342) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 17.10.2021: [Toofu](https://osu.ppy.sh/users/11004271) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 23.10.2021: [Roger](https://osu.ppy.sh/users/1538223) wurde zur Gruppe **BN** hinzugefügt
+- 24.10.2021: [Agatsu](https://osu.ppy.sh/users/5579871) wurde zur Gruppe **BN** hinzugefügt
 
 #### Verschoben
 
-- 2021-10-01: [Mordred](https://osu.ppy.sh/users/7265097) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-10-09: [Chatie](https://osu.ppy.sh/users/6524765) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-10-09: [autofanboy](https://osu.ppy.sh/users/636114) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-10-09: [[ Decku ]](https://osu.ppy.sh/users/13360768) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-10-09: [Murumoo](https://osu.ppy.sh/users/8001433) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-10-09: [RandomeLoL](https://osu.ppy.sh/users/7080063) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-10-15: [[Karcher] 2](https://osu.ppy.sh/users/9892196) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-10-18: [Een Persoon](https://osu.ppy.sh/users/10959501) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-10-19: [Cris-](https://osu.ppy.sh/users/6175280) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
-- 2021-10-19: [D0UG](https://osu.ppy.sh/users/13806900) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-10-21: [PokeSky](https://osu.ppy.sh/users/3617111) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
-- 2021-10-23: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-10-28: [flask](https://osu.ppy.sh/users/959763) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-10-29: [DakeDekaane](https://osu.ppy.sh/users/1425253) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 01.10.2021: [Mordred](https://osu.ppy.sh/users/7265097) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 09.10.2021: [Chatie](https://osu.ppy.sh/users/6524765) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 09.10.2021: [autofanboy](https://osu.ppy.sh/users/636114) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 09.10.2021: [[ Decku ]](https://osu.ppy.sh/users/13360768) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 09.10.2021: [Murumoo](https://osu.ppy.sh/users/8001433) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 09.10.2021: [RandomeLoL](https://osu.ppy.sh/users/7080063) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 15.10.2021: [[Karcher] 2](https://osu.ppy.sh/users/9892196) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 18.10.2021: [Een Persoon](https://osu.ppy.sh/users/10959501) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 19.10.2021: [Cris-](https://osu.ppy.sh/users/6175280) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 19.10.2021: [D0UG](https://osu.ppy.sh/users/13806900) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 21.10.2021: [PokeSky](https://osu.ppy.sh/users/3617111) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 23.10.2021: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 28.10.2021: [flask](https://osu.ppy.sh/users/959763) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 29.10.2021: [DakeDekaane](https://osu.ppy.sh/users/1425253) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
 
 #### Entfernt
 
-- 2021-10-01: [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) wurde aus der Gruppe **BN** entfernt
-- 2021-10-08: [davidminh0111](https://osu.ppy.sh/users/9623142) wurde aus der Gruppe **BN** entfernt
-- 2021-10-10: [Kudosu](https://osu.ppy.sh/users/11038155) wurde aus der Gruppe **BN** entfernt
-- 2021-10-13: [DeviousPanda](https://osu.ppy.sh/users/4966334) wurde aus der Gruppe **BN** entfernt
-- 2021-10-14: [radar](https://osu.ppy.sh/users/7131099) wurde aus der Gruppe **BN** entfernt
-- 2021-10-14: [Capu](https://osu.ppy.sh/users/2474015) wurde aus der Gruppe **BN** entfernt
-- 2021-10-17: [Arzenvald](https://osu.ppy.sh/users/3027421) wurde aus der Gruppe **BN** entfernt
-- 2021-10-21: [Roasted Chicken](https://osu.ppy.sh/users/9461160) wurde aus der Gruppe **BN** entfernt
-- 2021-10-22: [Jemzuu](https://osu.ppy.sh/users/7890134) wurde aus der Gruppe **BN** entfernt
+- 01.10.2021: [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) wurde aus der Gruppe **BN** entfernt
+- 08.10.2021: [davidminh0111](https://osu.ppy.sh/users/9623142) wurde aus der Gruppe **BN** entfernt
+- 10.10.2021: [Kudosu](https://osu.ppy.sh/users/11038155) wurde aus der Gruppe **BN** entfernt
+- 13.10.2021: [DeviousPanda](https://osu.ppy.sh/users/4966334) wurde aus der Gruppe **BN** entfernt
+- 14.10.2021: [radar](https://osu.ppy.sh/users/7131099) wurde aus der Gruppe **BN** entfernt
+- 14.10.2021: [Capu](https://osu.ppy.sh/users/2474015) wurde aus der Gruppe **BN** entfernt
+- 17.10.2021: [Arzenvald](https://osu.ppy.sh/users/3027421) wurde aus der Gruppe **BN** entfernt
+- 21.10.2021: [Roasted Chicken](https://osu.ppy.sh/users/9461160) wurde aus der Gruppe **BN** entfernt
+- 22.10.2021: [Jemzuu](https://osu.ppy.sh/users/7890134) wurde aus der Gruppe **BN** entfernt
 
 ## November
 
-- 2021-11-03: [Nokashi](https://osu.ppy.sh/users/5431196) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2021-11-05: [Kibbleru](https://osu.ppy.sh/users/3193504) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
-- 2021-11-05: [- Felix](https://osu.ppy.sh/users/8503985) wurde aus der Gruppe **osu! Alumni** in die Gruppe **GMT** verschoben
-- 2021-11-05: [ztrot](https://osu.ppy.sh/users/6347) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
-- 2021-11-05: [Pachiru](https://osu.ppy.sh/users/2850983) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
-- 2021-11-20: [AJT](https://osu.ppy.sh/users/3181083) wurde zur Gruppe **NAT** hinzugefügt
-- 2021-11-24: [Quenlla](https://osu.ppy.sh/users/4725379) wurde zur Gruppe **NAT** hinzugefügt
+- 03.11.2021: [Nokashi](https://osu.ppy.sh/users/5431196) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 05.11.2021: [Kibbleru](https://osu.ppy.sh/users/3193504) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
+- 05.11.2021: [- Felix](https://osu.ppy.sh/users/8503985) wurde aus der Gruppe **osu! Alumni** in die Gruppe **GMT** verschoben
+- 05.11.2021: [ztrot](https://osu.ppy.sh/users/6347) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
+- 05.11.2021: [Pachiru](https://osu.ppy.sh/users/2850983) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
+- 20.11.2021: [AJT](https://osu.ppy.sh/users/3181083) wurde zur Gruppe **NAT** hinzugefügt
+- 24.11.2021: [Quenlla](https://osu.ppy.sh/users/4725379) wurde zur Gruppe **NAT** hinzugefügt
 
 ### Beatmap-Nominatoren
 
 #### Hinzugefügt
 
-- 2021-11-04: [Kibbleru](https://osu.ppy.sh/users/3193504) wurde zur Gruppe **BN** hinzugefügt
-- 2021-11-04: [Yogurtt](https://osu.ppy.sh/users/2649717) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-11-04: [-Aqua](https://osu.ppy.sh/users/7150015) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-11-04: [Mimari](https://osu.ppy.sh/users/14339830) wurde zur Gruppe **BN** hinzugefügt
-- 2021-11-06: [Sanyi](https://osu.ppy.sh/users/7496029) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-11-06: [Mniam](https://osu.ppy.sh/users/6050530) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-11-09: [Lexa14](https://osu.ppy.sh/users/15397129) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-11-13: [Fisky](https://osu.ppy.sh/users/8352623) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-11-13: [Esutarosa](https://osu.ppy.sh/users/12024753) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-11-14: [Aakki](https://osu.ppy.sh/users/11077540) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-11-18: [Myxo](https://osu.ppy.sh/users/2202645) wurde zur Gruppe **BN** hinzugefügt
+- 04.11.2021: [Kibbleru](https://osu.ppy.sh/users/3193504) wurde zur Gruppe **BN** hinzugefügt
+- 04.11.2021: [Yogurtt](https://osu.ppy.sh/users/2649717) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 04.11.2021: [-Aqua](https://osu.ppy.sh/users/7150015) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 04.11.2021: [Mimari](https://osu.ppy.sh/users/14339830) wurde zur Gruppe **BN** hinzugefügt
+- 06.11.2021: [Sanyi](https://osu.ppy.sh/users/7496029) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 06.11.2021: [Mniam](https://osu.ppy.sh/users/6050530) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 09.11.2021: [Lexa14](https://osu.ppy.sh/users/15397129) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 13.11.2021: [Fisky](https://osu.ppy.sh/users/8352623) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 13.11.2021: [Esutarosa](https://osu.ppy.sh/users/12024753) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 14.11.2021: [Aakki](https://osu.ppy.sh/users/11077540) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 18.11.2021: [Myxo](https://osu.ppy.sh/users/2202645) wurde zur Gruppe **BN** hinzugefügt
 
 #### Verschoben
 
-- 2021-11-06: [GIGACHAD](https://osu.ppy.sh/users/11081858) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-11-12: [Nifty](https://osu.ppy.sh/users/2850983) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-11-13: [deta5859](https://osu.ppy.sh/users/15275662) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
-- 2021-11-18: [Rocma](https://osu.ppy.sh/users/566276) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-11-19: [Greenshell](https://osu.ppy.sh/users/8693851) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-11-22: [Asherz007](https://osu.ppy.sh/users/9014047) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-11-22: [Kawawa](https://osu.ppy.sh/users/4647754) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-11-23: [Dapuluous](https://osu.ppy.sh/users/8140944) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 06.11.2021: [GIGACHAD](https://osu.ppy.sh/users/11081858) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 12.11.2021: [Nifty](https://osu.ppy.sh/users/2850983) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 13.11.2021: [deta5859](https://osu.ppy.sh/users/15275662) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 18.11.2021: [Rocma](https://osu.ppy.sh/users/566276) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 19.11.2021: [Greenshell](https://osu.ppy.sh/users/8693851) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 22.11.2021: [Asherz007](https://osu.ppy.sh/users/9014047) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 22.11.2021: [Kawawa](https://osu.ppy.sh/users/4647754) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 23.11.2021: [Dapuluous](https://osu.ppy.sh/users/8140944) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
 
 #### Entfernt
 
-- 2021-11-04: [Krisom](https://osu.ppy.sh/users/99269) wurde aus der Gruppe **BN** entfernt
-- 2021-11-07: [Bastian](https://osu.ppy.sh/users/6345176) wurde aus der Gruppe **BN** entfernt
-- 2021-11-09: [Sparhten](https://osu.ppy.sh/users/7601720) wurde aus der Gruppe **BN** entfernt
-- 2021-11-20: [AJT](https://osu.ppy.sh/users/3181083) wurde aus der Gruppe **BN** entfernt
-- 2021-11-20: [Benita](https://osu.ppy.sh/users/4023183) wurde aus der Gruppe **BN** entfernt
-- 2021-11-24: [Quenlla](https://osu.ppy.sh/users/4725379) wurde aus der Gruppe **BN** entfernt
-- 2021-11-27: [gevbiivi5](https://osu.ppy.sh/users/7140680) wurde aus der Gruppe **Probationary BN** entfernt
+- 04.11.2021: [Krisom](https://osu.ppy.sh/users/99269) wurde aus der Gruppe **BN** entfernt
+- 07.11.2021: [Bastian](https://osu.ppy.sh/users/6345176) wurde aus der Gruppe **BN** entfernt
+- 09.11.2021: [Sparhten](https://osu.ppy.sh/users/7601720) wurde aus der Gruppe **BN** entfernt
+- 20.11.2021: [AJT](https://osu.ppy.sh/users/3181083) wurde aus der Gruppe **BN** entfernt
+- 20.11.2021: [Benita](https://osu.ppy.sh/users/4023183) wurde aus der Gruppe **BN** entfernt
+- 24.11.2021: [Quenlla](https://osu.ppy.sh/users/4725379) wurde aus der Gruppe **BN** entfernt
+- 27.11.2021: [gevbiivi5](https://osu.ppy.sh/users/7140680) wurde aus der Gruppe **Probationary BN** entfernt
 
 ## Dezember
 
-- 2021-12-06: [Boaz](https://osu.ppy.sh/users/13302996) wurde zur Gruppe **Project Loved Team** hinzugefügt
+- 06.12.2021: [Boaz](https://osu.ppy.sh/users/13302996) wurde zur Gruppe **Project Loved Team** hinzugefügt
 
 ### Beatmap-Nominatoren
 
 #### Hinzugefügt
 
-- 2021-12-03: [Virtue-](https://osu.ppy.sh/users/6144772) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-12-03: [Muse Dash](https://osu.ppy.sh/users/13695676) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-12-06: [Geo_ooo](https://osu.ppy.sh/users/12013943) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-12-09: [Kuo Kyoka](https://osu.ppy.sh/users/2596306) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-12-19: [wafer](https://osu.ppy.sh/users/9416836) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-12-19: [tadahitotsu](https://osu.ppy.sh/users/11653544) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-12-19: [Present](https://osu.ppy.sh/users/5645691) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-12-23: [Saggin](https://osu.ppy.sh/users/12464107) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-12-23: [davidminh0111](https://osu.ppy.sh/users/9623142) wurde in die Gruppe **BN** verschoben
+- 03.12.2021: [Virtue-](https://osu.ppy.sh/users/6144772) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 03.12.2021: [Muse Dash](https://osu.ppy.sh/users/13695676) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 06.12.2021: [Geo_ooo](https://osu.ppy.sh/users/12013943) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 09.12.2021: [Kuo Kyoka](https://osu.ppy.sh/users/2596306) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 19.12.2021: [wafer](https://osu.ppy.sh/users/9416836) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 19.12.2021: [tadahitotsu](https://osu.ppy.sh/users/11653544) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 19.12.2021: [Present](https://osu.ppy.sh/users/5645691) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 23.12.2021: [Saggin](https://osu.ppy.sh/users/12464107) wurde zur Gruppe **Probationary BN** hinzugefügt
+- 23.12.2021: [davidminh0111](https://osu.ppy.sh/users/9623142) wurde in die Gruppe **BN** verschoben
 
 #### Verschoben
 
-- 2021-12-02: [elicz1](https://osu.ppy.sh/users/8039342) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-12-02: [Cris-](https://osu.ppy.sh/users/6175280) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-12-19: [duski](https://osu.ppy.sh/users/6506484) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-12-23: [Lexa14](https://osu.ppy.sh/users/15397129) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-12-23: [Yogurtt](https://osu.ppy.sh/users/2649717) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-12-23: [-Aqua](https://osu.ppy.sh/users/7150015) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-12-25: [Gamelan4](https://osu.ppy.sh/users/9856910) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
-- 2021-12-29: [Sanyi](https://osu.ppy.sh/users/7496029) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-12-29: [Fisky](https://osu.ppy.sh/users/8352623) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-12-29: [Esutarosa](https://osu.ppy.sh/users/12024753) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
-- 2021-12-29: [Aakki](https://osu.ppy.sh/users/11077540) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 02.12.2021: [elicz1](https://osu.ppy.sh/users/8039342) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 02.12.2021: [Cris-](https://osu.ppy.sh/users/6175280) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 19.12.2021: [duski](https://osu.ppy.sh/users/6506484) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 23.12.2021: [Lexa14](https://osu.ppy.sh/users/15397129) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 23.12.2021: [Yogurtt](https://osu.ppy.sh/users/2649717) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 23.12.2021: [-Aqua](https://osu.ppy.sh/users/7150015) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 25.12.2021: [Gamelan4](https://osu.ppy.sh/users/9856910) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 29.12.2021: [Sanyi](https://osu.ppy.sh/users/7496029) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 29.12.2021: [Fisky](https://osu.ppy.sh/users/8352623) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 29.12.2021: [Esutarosa](https://osu.ppy.sh/users/12024753) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 29.12.2021: [Aakki](https://osu.ppy.sh/users/11077540) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
 
 #### Entfernt
 
-- 2021-12-02: [Toofu](https://osu.ppy.sh/users/11004271) wurde aus der Gruppe **Probationary BN** entfernt
-- 2021-12-03: [Davvy](https://osu.ppy.sh/users/10047413) wurde aus der Gruppe **BN** entfernt
-- 2021-12-09: [PokeSky](https://osu.ppy.sh/users/3617111) wurde aus der Gruppe **Probationary BN** entfernt
-- 2021-12-19: [Chatie](https://osu.ppy.sh/users/6524765) wurde aus der Gruppe **BN** entfernt
-- 2021-12-29: [Icekalt](https://osu.ppy.sh/users/5410645) wurde aus der Gruppe **BN** entfernt
-- 2021-12-31: [Morrighan](https://osu.ppy.sh/users/12042090) wurde aus der Gruppe **BN** entfernt
+- 02.12.2021: [Toofu](https://osu.ppy.sh/users/11004271) wurde aus der Gruppe **Probationary BN** entfernt
+- 03.12.2021: [Davvy](https://osu.ppy.sh/users/10047413) wurde aus der Gruppe **BN** entfernt
+- 09.12.2021: [PokeSky](https://osu.ppy.sh/users/3617111) wurde aus der Gruppe **Probationary BN** entfernt
+- 19.12.2021: [Chatie](https://osu.ppy.sh/users/6524765) wurde aus der Gruppe **BN** entfernt
+- 29.12.2021: [Icekalt](https://osu.ppy.sh/users/5410645) wurde aus der Gruppe **BN** entfernt
+- 31.12.2021: [Morrighan](https://osu.ppy.sh/users/12042090) wurde aus der Gruppe **BN** entfernt
