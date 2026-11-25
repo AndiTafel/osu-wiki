@@ -8,8 +8,8 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 ## Januar
 
-- 2023-01-14: Moved [Quenlla](https://osu.ppy.sh/users/4725379) from **NAT** to **osu! Alumni**
-- 2023-01-27: Moved [Uni](https://osu.ppy.sh/users/617106) from **GMT** to **osu! Alumni**
+- 2023-01-14: [Quenlla](https://osu.ppy.sh/users/4725379) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
+- 2023-01-27: [Uni](https://osu.ppy.sh/users/617106) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
 
 ### Beatmap-Nominatoren
 
@@ -34,20 +34,20 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Verschoben
 
-- 2023-01-02: Moved [MadBrickTree](https://osu.ppy.sh/users/4790958) from **Probationary BN** to **BN**
-- 2023-01-02: Moved [Ilham](https://osu.ppy.sh/users/3057154) from **Probationary BN** to **BN**
-- 2023-01-03: Moved [aceticke](https://osu.ppy.sh/users/8838763) from **Probationary BN** to **BN**
-- 2023-01-03: Moved [arcpotato](https://osu.ppy.sh/users/12842392) from **Probationary BN** to **BN**
-- 2023-01-05: Moved [Chatie](https://osu.ppy.sh/users/6524765) from **Probationary BN** to **BN**
-- 2023-01-13: Moved [Feerum](https://osu.ppy.sh/users/4815717) from **Probationary BN** to **BN**
-- 2023-01-16: Moved [ArtZone](https://osu.ppy.sh/users/15548034) from **Probationary BN** to **BN**
-- 2023-01-16: Moved [fvrex](https://osu.ppy.sh/users/11863699) from **Probationary BN** to **BN**
-- 2023-01-18: Moved [fuhie](https://osu.ppy.sh/users/7620002) from **Probationary BN** to **BN**
-- 2023-01-22: Moved [Jonarwhal](https://osu.ppy.sh/users/3653035) from **BN** to **Probationary BN**
-- 2023-01-23: Moved [Hobbes2](https://osu.ppy.sh/users/8157492) from **Probationary BN** to **BN**
-- 2023-01-23: Moved [ckharv](https://osu.ppy.sh/users/9967026) from **Probationary BN** to **BN**
-- 2023-01-23: Moved [riffy](https://osu.ppy.sh/users/597957) from **BN** to **Probationary BN**
-- 2023-01-31: Moved [fieryrage](https://osu.ppy.sh/users/3533958) from **BN** to **Probationary BN**
+- 2023-01-02: [MadBrickTree](https://osu.ppy.sh/users/4790958) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-01-02: [Ilham](https://osu.ppy.sh/users/3057154) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-01-03: [aceticke](https://osu.ppy.sh/users/8838763) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-01-03: [arcpotato](https://osu.ppy.sh/users/12842392) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-01-05: [Chatie](https://osu.ppy.sh/users/6524765) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-01-13: [Feerum](https://osu.ppy.sh/users/4815717) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-01-16: [ArtZone](https://osu.ppy.sh/users/15548034) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-01-16: [fvrex](https://osu.ppy.sh/users/11863699) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-01-18: [fuhie](https://osu.ppy.sh/users/7620002) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-01-22: [Jonarwhal](https://osu.ppy.sh/users/3653035) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2023-01-23: [Hobbes2](https://osu.ppy.sh/users/8157492) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-01-23: [ckharv](https://osu.ppy.sh/users/9967026) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-01-23: [riffy](https://osu.ppy.sh/users/597957) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2023-01-31: [fieryrage](https://osu.ppy.sh/users/3533958) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
 
 #### Entfernt
 
@@ -91,24 +91,24 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Verschoben
 
-- 2023-02-05: Moved [Rocma](https://osu.ppy.sh/users/566276) from **Probationary BN** to **BN**
-- 2023-02-06: Moved [Smoke](https://osu.ppy.sh/users/10726630) from **Probationary BN** to **BN**
-- 2023-02-06: Moved [Ryax](https://osu.ppy.sh/users/8949769) from **Probationary BN** to **BN**
-- 2023-02-06: Moved [fieryrage](https://osu.ppy.sh/users/3533958) from **Probationary BN** to **BN**
-- 2023-02-07: Moved [browiec](https://osu.ppy.sh/users/9426712) from **Probationary BN** to **BN**
-- 2023-02-07: Moved [Didah](https://osu.ppy.sh/users/8030129) from **Probationary BN** to **BN**
-- 2023-02-07: Moved [Len](https://osu.ppy.sh/users/1686145) from **Probationary BN** to **BN**
-- 2023-02-07: Moved [Usaha](https://osu.ppy.sh/users/6443117) from **Probationary BN** to **BN**
-- 2023-02-07: Moved [Heroine](https://osu.ppy.sh/users/12727076) from **Probationary BN** to **BN**
-- 2023-02-12: Moved [Stack](https://osu.ppy.sh/users/6122935) from **Probationary BN** to **BN**
-- 2023-02-16: Moved [Irone OSU](https://osu.ppy.sh/users/10678230) from **Probationary BN** to **BN**
-- 2023-02-22: Moved [Sparhten](https://osu.ppy.sh/users/7601720) from **Probationary BN** to **BN**
-- 2023-02-22: Moved [Seto Kousuke](https://osu.ppy.sh/users/2857314) from **Probationary BN** to **BN**
-- 2023-02-22: Moved [Mimari](https://osu.ppy.sh/users/14339830) from **Probationary BN** to **BN**
-- 2023-02-22: Moved [Krisom](https://osu.ppy.sh/users/99269) from **Probationary BN** to **BN**
-- 2023-02-22: Moved [-Mikan](https://osu.ppy.sh/users/9063995) from **Probationary BN** to **BN**
-- 2023-02-27: Moved [Aruel](https://osu.ppy.sh/users/3984370) from **Probationary BN** to **BN**
-- 2023-02-28: Moved [Jonarwhal](https://osu.ppy.sh/users/3653035) from **Probationary BN** to **BN**
+- 2023-02-05: [Rocma](https://osu.ppy.sh/users/566276) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-02-06: [Smoke](https://osu.ppy.sh/users/10726630) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-02-06: [Ryax](https://osu.ppy.sh/users/8949769) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-02-06: [fieryrage](https://osu.ppy.sh/users/3533958) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-02-07: [browiec](https://osu.ppy.sh/users/9426712) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-02-07: [Didah](https://osu.ppy.sh/users/8030129) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-02-07: [Len](https://osu.ppy.sh/users/1686145) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-02-07: [Usaha](https://osu.ppy.sh/users/6443117) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-02-07: [Heroine](https://osu.ppy.sh/users/12727076) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-02-12: [Stack](https://osu.ppy.sh/users/6122935) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-02-16: [Irone OSU](https://osu.ppy.sh/users/10678230) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-02-22: [Sparhten](https://osu.ppy.sh/users/7601720) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-02-22: [Seto Kousuke](https://osu.ppy.sh/users/2857314) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-02-22: [Mimari](https://osu.ppy.sh/users/14339830) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-02-22: [Krisom](https://osu.ppy.sh/users/99269) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-02-22: [-Mikan](https://osu.ppy.sh/users/9063995) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-02-27: [Aruel](https://osu.ppy.sh/users/3984370) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-02-28: [Jonarwhal](https://osu.ppy.sh/users/3653035) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
 
 #### Entfernt
 
@@ -129,12 +129,12 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 ## März
 
-- 2023-03-04: Moved [Secre](https://osu.ppy.sh/users/2306637) from **NAT** to **osu! Alumni**
+- 2023-03-04: [Secre](https://osu.ppy.sh/users/2306637) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
 - 2023-03-12: [[Zeth]](https://osu.ppy.sh/users/9912966) wurde aus der Gruppe **Beatmap Spotlight Curators** entfernt
 - 2023-03-12: [megumic](https://osu.ppy.sh/users/7537133) wurde zur Gruppe **Project Loved Team** hinzugefügt
 - 2023-03-12: [Kingling](https://osu.ppy.sh/users/7010761) wurde zur Gruppe **Project Loved Team** hinzugefügt
 - 2023-03-12: [Aistre](https://osu.ppy.sh/users/4879380) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2023-03-16: Moved [Faputa](https://osu.ppy.sh/users/845733) from **NAT** to **osu! Alumni**
+- 2023-03-16: [Faputa](https://osu.ppy.sh/users/845733) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
 - 2023-03-18: [Ideal](https://osu.ppy.sh/users/3869519) wurde zur Gruppe **NAT** hinzugefügt
 - 2023-03-20: [Irisu](https://osu.ppy.sh/users/8595858) wurde aus der Gruppe **Project Loved Team** entfernt
 - 2023-03-27: [Roan](https://osu.ppy.sh/users/8214639) wurde zur Gruppe **GMT** hinzugefügt
@@ -154,7 +154,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2023-03-29: [Maimaing](https://osu.ppy.sh/users/14520910) wurde zur Gruppe **Beatmap Spotlight Curators** hinzugefügt
 - 2023-03-29: [lenpai](https://osu.ppy.sh/users/5314573) wurde aus der Gruppe **Beatmap Spotlight Curators** entfernt
 - 2023-03-29: [RandomeLoL](https://osu.ppy.sh/users/7080063) wurde aus der Gruppe **Project Loved Team** entfernt
-- 2023-03-29: Moved [Unpredictable](https://osu.ppy.sh/users/7560872) from **NAT** to **osu! Alumni**
+- 2023-03-29: [Unpredictable](https://osu.ppy.sh/users/7560872) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
 - 2023-03-29: [Antalf](https://osu.ppy.sh/users/8793773) wurde zur Gruppe **NAT** hinzugefügt
 
 ### Beatmap-Nominatoren
@@ -179,16 +179,16 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Verschoben
 
-- 2023-03-08: Moved [Zer0-](https://osu.ppy.sh/users/4260033) from **BN** to **Probationary BN**
-- 2023-03-10: Moved [Creamy Candy](https://osu.ppy.sh/users/9769199) from **Probationary BN** to **BN**
-- 2023-03-11: Moved [Sotarks](https://osu.ppy.sh/users/4452992) from **BN** to **Probationary BN**
-- 2023-03-14: Moved [AWMRone](https://osu.ppy.sh/users/10351684) from **Probationary BN** to **BN**
-- 2023-03-22: Moved [Enneya](https://osu.ppy.sh/users/10959501) from **Probationary BN** to **BN**
-- 2023-03-22: Moved [maxie](https://osu.ppy.sh/users/6447505) from **Probationary BN** to **BN**
-- 2023-03-24: Moved [-Rei](https://osu.ppy.sh/users/8200707) from **Probationary BN** to **BN**
-- 2023-03-29: Moved [Protastic101](https://osu.ppy.sh/users/6712747) from **Probationary BN** to **BN**
-- 2023-03-31: Moved [Mniam](https://osu.ppy.sh/users/6050530) from **BN** to **Probationary BN**
-- 2023-03-31: Moved [MochiA](https://osu.ppy.sh/users/9312734) from **Probationary BN** to **BN**
+- 2023-03-08: [Zer0-](https://osu.ppy.sh/users/4260033) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2023-03-10: [Creamy Candy](https://osu.ppy.sh/users/9769199) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-03-11: [Sotarks](https://osu.ppy.sh/users/4452992) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2023-03-14: [AWMRone](https://osu.ppy.sh/users/10351684) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-03-22: [Enneya](https://osu.ppy.sh/users/10959501) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-03-22: [maxie](https://osu.ppy.sh/users/6447505) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-03-24: [-Rei](https://osu.ppy.sh/users/8200707) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-03-29: [Protastic101](https://osu.ppy.sh/users/6712747) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-03-31: [Mniam](https://osu.ppy.sh/users/6050530) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2023-03-31: [MochiA](https://osu.ppy.sh/users/9312734) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
 
 #### Entfernt
 
@@ -208,29 +208,29 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 ## April
 
-- 2023-04-02: Moved [Chaos](https://osu.ppy.sh/users/2628870) from **GMT** to **osu! Alumni**
+- 2023-04-02: [Chaos](https://osu.ppy.sh/users/2628870) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
 - 2023-04-08: [Quenlla](https://osu.ppy.sh/users/4725379) wurde aus der Gruppe **Project Loved Team** entfernt
-- 2023-04-08: Moved [Pachiru](https://osu.ppy.sh/users/2850983) from **GMT** to **osu! Alumni**
+- 2023-04-08: [Pachiru](https://osu.ppy.sh/users/2850983) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
 - 2023-04-14: [Flutteh](https://osu.ppy.sh/users/5042507) wurde zur Gruppe **GMT** hinzugefügt
 - 2023-04-14: [Albionthegreat](https://osu.ppy.sh/users/9853595) wurde zur Gruppe **GMT** hinzugefügt
 - 2023-04-14: [Ganondorf](https://osu.ppy.sh/users/10660738) wurde zur Gruppe **GMT** hinzugefügt
 - 2023-04-14: [Burak](https://osu.ppy.sh/users/13213075) wurde zur Gruppe **GMT** hinzugefügt
-- 2023-04-14: Moved [TKS](https://osu.ppy.sh/users/940878) from **osu! Alumni** to **GMT**
+- 2023-04-14: [TKS](https://osu.ppy.sh/users/940878) wurde aus der Gruppe **osu! Alumni** in die Gruppe **GMT** verschoben
 - 2023-04-14: [0x84f](https://osu.ppy.sh/users/7944724) wurde zur Gruppe **GMT** hinzugefügt
 - 2023-04-14: [Jerry](https://osu.ppy.sh/users/605973) wurde zur Gruppe **GMT** hinzugefügt
 - 2023-04-14: [terho](https://osu.ppy.sh/users/6090105) wurde zur Gruppe **GMT** hinzugefügt
 - 2023-04-14: [Corne2Plume3](https://osu.ppy.sh/users/15646039) wurde zur Gruppe **GMT** hinzugefügt
-- 2023-04-14: Moved [Pope Gadget](https://osu.ppy.sh/users/2288341) from **GMT** to **osu! Alumni**
+- 2023-04-14: [Pope Gadget](https://osu.ppy.sh/users/2288341) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
 - 2023-04-14: [THAT_otaku](https://osu.ppy.sh/users/11798717) wurde zur Gruppe **GMT** hinzugefügt
 - 2023-04-15: [D I O](https://osu.ppy.sh/users/3958619) wurde zur Gruppe **GMT** hinzugefügt
-- 2023-04-16: Moved [UberFazz](https://osu.ppy.sh/users/8646059) from **NAT** to **osu! Alumni**
+- 2023-04-16: [UberFazz](https://osu.ppy.sh/users/8646059) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
 - 2023-04-17: [POCARI SWEAT](https://osu.ppy.sh/users/5082685) wurde aus der Gruppe **Project Loved Team** entfernt
 - 2023-04-19: [Omgforz](https://osu.ppy.sh/users/578943) wurde aus der Gruppe **Beatmap Spotlight Curators** entfernt
-- 2023-04-19: Moved [Nukrid](https://osu.ppy.sh/users/2307484) from **GMT** to **osu! Alumni**
+- 2023-04-19: [Nukrid](https://osu.ppy.sh/users/2307484) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
 - 2023-04-19: [mangomizer](https://osu.ppy.sh/users/1893718) wurde aus der Gruppe **GMT** entfernt
 - 2023-04-20: [bonkmi](https://osu.ppy.sh/users/21148690) wurde aus der Gruppe **Project Loved Team** entfernt
 - 2023-04-20: [radar](https://osu.ppy.sh/users/7131099) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2023-04-20: Moved [Uni](https://osu.ppy.sh/users/617106) from **osu! Alumni** to **GMT**
+- 2023-04-20: [Uni](https://osu.ppy.sh/users/617106) wurde aus der Gruppe **osu! Alumni** in die Gruppe **GMT** verschoben
 - 2023-04-23: [DigitalHypno](https://osu.ppy.sh/users/4384207) wurde aus der Gruppe **Project Loved Team** entfernt
 - 2023-04-24: [Venix](https://osu.ppy.sh/users/5999631) wurde aus der Gruppe **Project Loved Team** entfernt
 - 2023-04-26: [Doomsday](https://osu.ppy.sh/users/18983) wurde aus der Gruppe **Project Loved Team** entfernt
@@ -255,18 +255,18 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Verschoben
 
-- 2023-04-13: Moved [Stompy_](https://osu.ppy.sh/users/16429579) from **Probationary BN** to **BN**
-- 2023-04-14: Moved [Natsuko](https://osu.ppy.sh/users/8266817) from **Probationary BN** to **BN**
-- 2023-04-14: Moved [fuhie](https://osu.ppy.sh/users/7620002) from **BN** to **Probationary BN**
-- 2023-04-15: Moved [Hydria](https://osu.ppy.sh/users/808176) from **Probationary BN** to **BN**
-- 2023-04-16: Moved [Lafayla](https://osu.ppy.sh/users/5312547) from **Probationary BN** to **BN**
-- 2023-04-16: Moved [-Flashlight-](https://osu.ppy.sh/users/9731062) from **Probationary BN** to **BN**
-- 2023-04-18: Moved [Saggin](https://osu.ppy.sh/users/12464107) from **BN** to **Probationary BN**
-- 2023-04-18: Moved [Kyle Y](https://osu.ppy.sh/users/3565813) from **BN** to **Probationary BN**
-- 2023-04-19: Moved [Tailsdk](https://osu.ppy.sh/users/6751666) from **Probationary BN** to **BN**
-- 2023-04-20: Moved [Nijika Ijichi](https://osu.ppy.sh/users/10964252) from **Probationary BN** to **BN**
-- 2023-04-24: Moved [Shad0wStar](https://osu.ppy.sh/users/16866460) from **Probationary BN** to **BN**
-- 2023-04-24: Moved [Zer0-](https://osu.ppy.sh/users/4260033) from **Probationary BN** to **BN**
+- 2023-04-13: [Stompy_](https://osu.ppy.sh/users/16429579) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-04-14: [Natsuko](https://osu.ppy.sh/users/8266817) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-04-14: [fuhie](https://osu.ppy.sh/users/7620002) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2023-04-15: [Hydria](https://osu.ppy.sh/users/808176) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-04-16: [Lafayla](https://osu.ppy.sh/users/5312547) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-04-16: [-Flashlight-](https://osu.ppy.sh/users/9731062) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-04-18: [Saggin](https://osu.ppy.sh/users/12464107) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2023-04-18: [Kyle Y](https://osu.ppy.sh/users/3565813) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2023-04-19: [Tailsdk](https://osu.ppy.sh/users/6751666) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-04-20: [Nijika Ijichi](https://osu.ppy.sh/users/10964252) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-04-24: [Shad0wStar](https://osu.ppy.sh/users/16866460) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-04-24: [Zer0-](https://osu.ppy.sh/users/4260033) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
 
 #### Entfernt
 
@@ -291,7 +291,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2023-05-08: [Sebola](https://osu.ppy.sh/users/15821708) wurde zur Gruppe **Project Loved Team** hinzugefügt
 - 2023-05-08: [ler1211](https://osu.ppy.sh/users/19901680) wurde zur Gruppe **Project Loved Team** hinzugefügt
 - 2023-05-11: [Dusk-](https://osu.ppy.sh/users/6092181) wurde aus der Gruppe **NAT** entfernt
-- 2023-05-15: Moved [Darksonic](https://osu.ppy.sh/users/570042) from **GMT** to **osu! Alumni**
+- 2023-05-15: [Darksonic](https://osu.ppy.sh/users/570042) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
 - 2023-05-15: [Enneya](https://osu.ppy.sh/users/10959501) wurde zur Gruppe **NAT** hinzugefügt
 - 2023-05-21: [kestreI](https://osu.ppy.sh/users/16779673) wurde aus der Gruppe **Project Loved Team** entfernt
 - 2023-05-22: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) wurde zur Gruppe **NAT** hinzugefügt
@@ -315,18 +315,18 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Verschoben
 
-- 2023-05-05: Moved [Monoseul](https://osu.ppy.sh/users/16010604) from **Probationary BN** to **BN**
-- 2023-05-13: Moved [-Kazuha](https://osu.ppy.sh/users/29978316) from **Probationary BN** to **BN**
-- 2023-05-14: Moved [Creamy Candy](https://osu.ppy.sh/users/9769199) from **BN** to **Probationary BN**
-- 2023-05-15: Moved [Nevo](https://osu.ppy.sh/users/7451883) from **BN** to **Probationary BN**
-- 2023-05-15: Moved [Mniam](https://osu.ppy.sh/users/6050530) from **Probationary BN** to **BN**
-- 2023-05-15: Moved [Garden](https://osu.ppy.sh/users/2849992) from **Probationary BN** to **BN**
-- 2023-05-20: Moved [cdh](https://osu.ppy.sh/users/2403621) from **Probationary BN** to **BN**
-- 2023-05-21: Moved [fuhie](https://osu.ppy.sh/users/7620002) from **Probationary BN** to **BN**
-- 2023-05-21: Moved [hac](https://osu.ppy.sh/users/17853754) from **BN** to **Probationary BN**
-- 2023-05-23: Moved [Mirsaaa](https://osu.ppy.sh/users/15328093) from **Probationary BN** to **BN**
-- 2023-05-23: Moved [AchsanLovers](https://osu.ppy.sh/users/6368737) from **Probationary BN** to **BN**
-- 2023-05-29: Moved [Bastian](https://osu.ppy.sh/users/6345176) from **Probationary BN** to **BN**
+- 2023-05-05: [Monoseul](https://osu.ppy.sh/users/16010604) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-05-13: [-Kazuha](https://osu.ppy.sh/users/29978316) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-05-14: [Creamy Candy](https://osu.ppy.sh/users/9769199) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2023-05-15: [Nevo](https://osu.ppy.sh/users/7451883) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2023-05-15: [Mniam](https://osu.ppy.sh/users/6050530) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-05-15: [Garden](https://osu.ppy.sh/users/2849992) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-05-20: [cdh](https://osu.ppy.sh/users/2403621) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-05-21: [fuhie](https://osu.ppy.sh/users/7620002) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-05-21: [hac](https://osu.ppy.sh/users/17853754) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2023-05-23: [Mirsaaa](https://osu.ppy.sh/users/15328093) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-05-23: [AchsanLovers](https://osu.ppy.sh/users/6368737) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-05-29: [Bastian](https://osu.ppy.sh/users/6345176) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
 
 #### Entfernt
 
@@ -342,14 +342,14 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 ## Juni
 
-- 2023-06-01: Moved [Protastic101](https://osu.ppy.sh/users/6712747) from **GMT** to **osu! Alumni**
-- 2023-06-08: Moved [achyoo](https://osu.ppy.sh/users/7823498) from **NAT** to **osu! Alumni**
+- 2023-06-01: [Protastic101](https://osu.ppy.sh/users/6712747) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
+- 2023-06-08: [achyoo](https://osu.ppy.sh/users/7823498) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
 - 2023-06-18: [huu](https://osu.ppy.sh/users/6044237) wurde zur Gruppe **Project Loved Team** hinzugefügt
 - 2023-06-21: [Antalf](https://osu.ppy.sh/users/8793773) wurde aus der Gruppe **NAT** entfernt
 - 2023-06-28: [gzdongsheng](https://osu.ppy.sh/users/8660315) wurde zur Gruppe **NAT** hinzugefügt
 - 2023-06-28: [Tailsdk](https://osu.ppy.sh/users/6751666) wurde zur Gruppe **NAT** hinzugefügt
 - 2023-06-28: [MadBricktree](https://osu.ppy.sh/users/4790958) wurde zur Gruppe **NAT** hinzugefügt
-- 2023-06-28: Moved [_Stan](https://osu.ppy.sh/users/1653229) from **NAT** to **osu! Alumni**
+- 2023-06-28: [_Stan](https://osu.ppy.sh/users/1653229) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
 
 ### Beatmap-Nominatoren
 
@@ -363,18 +363,18 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Verschoben
 
-- 2023-06-02: Moved [Cellina](https://osu.ppy.sh/users/2490770) from **BN** to **Probationary BN**
-- 2023-06-04: Moved [Sajinn](https://osu.ppy.sh/users/13513687) from **BN** to **Probationary BN**
-- 2023-06-07: Moved [Log Off Now](https://osu.ppy.sh/users/4378277) from **BN** to **Probationary BN**
-- 2023-06-12: Moved [Maxim-Miau](https://osu.ppy.sh/users/12660835) from **Probationary BN** to **BN**
-- 2023-06-17: Moved [Vincus](https://osu.ppy.sh/users/16124906) from **Probationary BN** to **BN**
-- 2023-06-17: Moved [SuzumeAyase](https://osu.ppy.sh/users/14190991) from **Probationary BN** to **BN**
-- 2023-06-17: Moved [Kimitakari](https://osu.ppy.sh/users/4741164) from **Probationary BN** to **BN**
-- 2023-06-19: Moved [nanoya](https://osu.ppy.sh/users/12366071) from **Probationary BN** to **BN**
-- 2023-06-23: Moved [Seto Kousuke](https://osu.ppy.sh/users/2857314) from **BN** to **Probationary BN**
-- 2023-06-25: Moved [ssapgosu](https://osu.ppy.sh/users/16564480) from **Probationary BN** to **BN**
-- 2023-06-29: Moved [Ucitysm](https://osu.ppy.sh/users/14768693) from **Probationary BN** to **BN**
-- 2023-06-29: Moved [Hidden is fun](https://osu.ppy.sh/users/10449071) from **Probationary BN** to **BN**
+- 2023-06-02: [Cellina](https://osu.ppy.sh/users/2490770) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2023-06-04: [Sajinn](https://osu.ppy.sh/users/13513687) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2023-06-07: [Log Off Now](https://osu.ppy.sh/users/4378277) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2023-06-12: [Maxim-Miau](https://osu.ppy.sh/users/12660835) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-06-17: [Vincus](https://osu.ppy.sh/users/16124906) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-06-17: [SuzumeAyase](https://osu.ppy.sh/users/14190991) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-06-17: [Kimitakari](https://osu.ppy.sh/users/4741164) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-06-19: [nanoya](https://osu.ppy.sh/users/12366071) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-06-23: [Seto Kousuke](https://osu.ppy.sh/users/2857314) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2023-06-25: [ssapgosu](https://osu.ppy.sh/users/16564480) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-06-29: [Ucitysm](https://osu.ppy.sh/users/14768693) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-06-29: [Hidden is fun](https://osu.ppy.sh/users/10449071) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
 
 #### Entfernt
 
@@ -394,21 +394,21 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 ## Juli
 
-- 2023-07-01: Moved [nexusqi](https://osu.ppy.sh/users/13822800) from **NAT** to **osu! Alumni**
-- 2023-07-06: Moved [Secre](https://osu.ppy.sh/users/2306637) from **osu! Alumni** to **NAT**
-- 2023-07-07: Moved [Petal](https://osu.ppy.sh/users/7354729) from **GMT** to **NAT**
-- 2023-07-07: Moved [Noffy](https://osu.ppy.sh/users/1541323) from **osu! Alumni** to **NAT**
-- 2023-07-08: Moved [Garden](https://osu.ppy.sh/users/2849992) from **GMT** to **NAT**
+- 2023-07-01: [nexusqi](https://osu.ppy.sh/users/13822800) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
+- 2023-07-06: [Secre](https://osu.ppy.sh/users/2306637) wurde aus der Gruppe **osu! Alumni** in die Gruppe **NAT** verschoben
+- 2023-07-07: [Petal](https://osu.ppy.sh/users/7354729) wurde aus der Gruppe **GMT** in die Gruppe **NAT** verschoben
+- 2023-07-07: [Noffy](https://osu.ppy.sh/users/1541323) wurde aus der Gruppe **osu! Alumni** in die Gruppe **NAT** verschoben
+- 2023-07-08: [Garden](https://osu.ppy.sh/users/2849992) wurde aus der Gruppe **GMT** in die Gruppe **NAT** verschoben
 - 2023-07-09: [\[Crz\]hinako1804](https://osu.ppy.sh/users/13747903) wurde aus der Gruppe **Project Loved Team** entfernt
-- 2023-07-13: Moved [Agatsu](https://osu.ppy.sh/users/5579871) from **NAT** to **osu! Alumni**
+- 2023-07-13: [Agatsu](https://osu.ppy.sh/users/5579871) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
 - 2023-07-18: [radar](https://osu.ppy.sh/users/7131099) wurde aus der Gruppe **Beatmap Spotlight Curators** entfernt
 - 2023-07-18: [radar](https://osu.ppy.sh/users/7131099) wurde aus der Gruppe **Project Loved Team** entfernt
 - 2023-07-21: [\_underjoy](https://osu.ppy.sh/users/2235750) wurde aus der Gruppe **Project Loved Team** entfernt
-- 2023-07-21: Moved [FAMoss](https://osu.ppy.sh/users/7707789) from **GMT** to **osu! Alumni**
+- 2023-07-21: [FAMoss](https://osu.ppy.sh/users/7707789) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
 - 2023-07-22: [MadBricktree](https://osu.ppy.sh/users/4790958) wurde aus der Gruppe **Beatmap Spotlight Curators** entfernt
 - 2023-07-22: [MadBricktree](https://osu.ppy.sh/users/4790958) wurde aus der Gruppe **Project Loved Team** entfernt
 - 2023-07-22: [MadBricktree](https://osu.ppy.sh/users/4790958) wurde aus der Gruppe **NAT** entfernt
-- 2023-07-24: Moved [Stixy](https://osu.ppy.sh/users/9000308) from **NAT** to **osu! Alumni**
+- 2023-07-24: [Stixy](https://osu.ppy.sh/users/9000308) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
 
 ### Beatmap-Nominatoren
 
@@ -438,8 +438,8 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Verschoben
 
-- 2023-07-14: Moved [Hugged](https://osu.ppy.sh/users/12589220) from **Probationary BN** to **BN**
-- 2023-07-28: Moved [Stompy\_](https://osu.ppy.sh/users/16429579) from **BN** to **Probationary BN**
+- 2023-07-14: [Hugged](https://osu.ppy.sh/users/12589220) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-07-28: [Stompy\_](https://osu.ppy.sh/users/16429579) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
 
 #### Entfernt
 
@@ -466,7 +466,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2023-08-02: [-NoName-](https://osu.ppy.sh/users/10400730) wurde zur Gruppe **GMT** hinzugefügt
 - 2023-08-02: [Ilham](https://osu.ppy.sh/users/3057154) wurde zur Gruppe **GMT** hinzugefügt
 - 2023-08-04: [MegaMix\_Craft](https://osu.ppy.sh/users/18152711) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2023-08-05: Moved [Nukrid](https://osu.ppy.sh/users/2307484) from **osu! Alumni** to **GMT**
+- 2023-08-05: [Nukrid](https://osu.ppy.sh/users/2307484) wurde aus der Gruppe **osu! Alumni** in die Gruppe **GMT** verschoben
 - 2023-08-06: [YuEast 2018](https://osu.ppy.sh/users/13953619) wurde zur Gruppe **Project Loved Team** hinzugefügt
 - 2023-08-06: [SunApple](https://osu.ppy.sh/users/11817622) wurde zur Gruppe **Project Loved Team** hinzugefügt
 - 2023-08-06: [Silhoueska Elze](https://osu.ppy.sh/users/11517895) wurde zur Gruppe **Project Loved Team** hinzugefügt
@@ -475,8 +475,8 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2023-08-11: [mangomizer](https://osu.ppy.sh/users/1893718) wurde zur Gruppe **GMT** hinzugefügt
 - 2023-08-11: [Dusk-](https://osu.ppy.sh/users/6092181) wurde zur Gruppe **NAT** hinzugefügt
 - 2023-08-15: [Yogurtt](https://osu.ppy.sh/users/2649717) wurde aus der Gruppe **NAT** entfernt
-- 2023-08-15: Moved [Zelq](https://osu.ppy.sh/users/8953955) from **NAT** to **osu! Alumni**
-- 2023-08-15: Moved [elicz1](https://osu.ppy.sh/users/8039342) from **NAT** to **osu! Alumni**
+- 2023-08-15: [Zelq](https://osu.ppy.sh/users/8953955) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
+- 2023-08-15: [elicz1](https://osu.ppy.sh/users/8039342) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
 - 2023-08-18: [RandomeLoL](https://osu.ppy.sh/users/7080063) wurde zur Gruppe **NAT** hinzugefügt
 - 2023-08-20: [Lyawi](https://osu.ppy.sh/users/5851253) wurde zur Gruppe **GMT** hinzugefügt
 - 2023-08-28: [RandomeLoL](https://osu.ppy.sh/users/7080063) wurde zur Gruppe **Project Loved Team** hinzugefügt
@@ -519,16 +519,16 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Verschoben
 
-- 2023-08-01: Moved [Chatie](https://osu.ppy.sh/users/6524765) from **BN** to **Probationary BN**
-- 2023-08-01: Moved [Nevo](https://osu.ppy.sh/users/7451883) from **Probationary BN** to **BN**
-- 2023-08-02: Moved [Hareimu](https://osu.ppy.sh/users/4138746) from **Probationary BN** to **BN**
-- 2023-08-06: Moved [Hytex](https://osu.ppy.sh/users/8536263) from **Probationary BN** to **BN**
-- 2023-08-11: Moved [Kirishima-](https://osu.ppy.sh/users/9234078) from **Probationary BN** to **BN**
-- 2023-08-18: Moved [Cellina](https://osu.ppy.sh/users/2490770) from **Probationary BN** to **BN**
-- 2023-08-24: Moved [-MysticEyes](https://osu.ppy.sh/users/6253266) from **Probationary BN** to **BN**
-- 2023-08-26: Moved [maxie](https://osu.ppy.sh/users/6447505) from **BN** to **Probationary BN**
-- 2023-08-26: Moved [kanpakyin](https://osu.ppy.sh/users/394326) from **BN** to **Probationary BN**
-- 2023-08-31: Moved [davidminh0111](https://osu.ppy.sh/users/9623142) from **Probationary BN** to **BN**
+- 2023-08-01: [Chatie](https://osu.ppy.sh/users/6524765) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2023-08-01: [Nevo](https://osu.ppy.sh/users/7451883) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-08-02: [Hareimu](https://osu.ppy.sh/users/4138746) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-08-06: [Hytex](https://osu.ppy.sh/users/8536263) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-08-11: [Kirishima-](https://osu.ppy.sh/users/9234078) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-08-18: [Cellina](https://osu.ppy.sh/users/2490770) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-08-24: [-MysticEyes](https://osu.ppy.sh/users/6253266) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-08-26: [maxie](https://osu.ppy.sh/users/6447505) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2023-08-26: [kanpakyin](https://osu.ppy.sh/users/394326) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2023-08-31: [davidminh0111](https://osu.ppy.sh/users/9623142) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
 
 #### Entfernt
 
@@ -547,13 +547,13 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 ## September
 
-- 2023-09-05: Moved [Uberzolik](https://osu.ppy.sh/users/1314547) from **osu! Alumni** to **NAT**
+- 2023-09-05: [Uberzolik](https://osu.ppy.sh/users/1314547) wurde aus der Gruppe **osu! Alumni** in die Gruppe **NAT** verschoben
 - 2023-09-06: [Burak](https://osu.ppy.sh/users/13213075) wurde aus der Gruppe **GMT** entfernt
 - 2023-09-11: [zerokt](https://osu.ppy.sh/users/13776127) wurde zur Gruppe **NAT** hinzugefügt
 - 2023-09-11: [wowcake](https://osu.ppy.sh/users/16121851) wurde zur Gruppe **GMT** hinzugefügt
 - 2023-09-17: [Irisu](https://osu.ppy.sh/users/8595858) wurde zur Gruppe **Project Loved Team** hinzugefügt
-- 2023-09-19: Moved [AirinCat](https://osu.ppy.sh/users/11119539) from **NAT** to **osu! Alumni**
-- 2023-09-26: Moved [Capu](https://osu.ppy.sh/users/2474015) from **NAT** to **osu! Alumni**
+- 2023-09-19: [AirinCat](https://osu.ppy.sh/users/11119539) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
+- 2023-09-26: [Capu](https://osu.ppy.sh/users/2474015) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
 - 2023-09-28: [Luscent](https://osu.ppy.sh/users/2688581) wurde zur Gruppe **NAT** hinzugefügt
 - 2023-09-28: [ckharv](https://osu.ppy.sh/users/9967026) wurde zur Gruppe **NAT** hinzugefügt
 - 2023-09-29: [Karma](https://osu.ppy.sh/users/7196989) wurde zur Gruppe **GMT** hinzugefügt
@@ -573,17 +573,17 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Verschoben
 
-- 2023-09-02: Moved [Sajinn](https://osu.ppy.sh/users/13513687) from **Probationary BN** to **BN**
-- 2023-09-03: Moved [KoldNoodl](https://osu.ppy.sh/users/12572294) from **Probationary BN** to **BN**
-- 2023-09-06: Moved [Vincus](https://osu.ppy.sh/users/16124906) from **BN** to **Probationary BN**
-- 2023-09-06: Moved [\[GB\]Rick](https://osu.ppy.sh/users/25263357) from **Probationary BN** to **BN**
-- 2023-09-09: Moved [GiGas](https://osu.ppy.sh/users/7300747) from **Probationary BN** to **BN**
-- 2023-09-15: Moved [wwwww](https://osu.ppy.sh/users/8434466) from **Probationary BN** to **BN**
-- 2023-09-15: Moved [Chatie](https://osu.ppy.sh/users/6524765) from **Probationary BN** to **BN**
-- 2023-09-21: Moved [Kimitakari](https://osu.ppy.sh/users/4741164) from **BN** to **Probationary BN**
-- 2023-09-24: Moved [Beomsan](https://osu.ppy.sh/users/3626063) from **BN** to **Probationary BN**
-- 2023-09-27: Moved [4rcheR-](https://osu.ppy.sh/users/8846762) from **Probationary BN** to **BN**
-- 2023-09-30: Moved [Cris-](https://osu.ppy.sh/users/6175280) from **Probationary BN** to **BN**
+- 2023-09-02: [Sajinn](https://osu.ppy.sh/users/13513687) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-09-03: [KoldNoodl](https://osu.ppy.sh/users/12572294) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-09-06: [Vincus](https://osu.ppy.sh/users/16124906) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2023-09-06: [\[GB\]Rick](https://osu.ppy.sh/users/25263357) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-09-09: [GiGas](https://osu.ppy.sh/users/7300747) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-09-15: [wwwww](https://osu.ppy.sh/users/8434466) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-09-15: [Chatie](https://osu.ppy.sh/users/6524765) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-09-21: [Kimitakari](https://osu.ppy.sh/users/4741164) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2023-09-24: [Beomsan](https://osu.ppy.sh/users/3626063) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2023-09-27: [4rcheR-](https://osu.ppy.sh/users/8846762) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-09-30: [Cris-](https://osu.ppy.sh/users/6175280) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
 
 #### Entfernt
 
@@ -614,7 +614,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2023-10-02: [Axer](https://osu.ppy.sh/users/7299864) wurde aus der Gruppe **Beatmap Spotlight Curators** entfernt
 - 2023-10-05: [Nao Tomori](https://osu.ppy.sh/users/5364763) wurde zur Gruppe **NAT** hinzugefügt
 - 2023-10-13: [Yasuho](https://osu.ppy.sh/users/8458835) wurde zur Gruppe **NAT** hinzugefügt
-- 2023-10-13: Moved [Firika](https://osu.ppy.sh/users/9590557) from **NAT** to **osu! Alumni**
+- 2023-10-13: [Firika](https://osu.ppy.sh/users/9590557) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
 - 2023-10-14: [Dusk-](https://osu.ppy.sh/users/6092181) wurde aus der Gruppe **NAT** entfernt
 - 2023-10-28: [wonjae](https://osu.ppy.sh/users/5032045) wurde aus der Gruppe **Beatmap Spotlight Curators** entfernt
 - 2023-10-18: [huu](https://osu.ppy.sh/users/6044237) wurde aus der Gruppe **Project Loved Team** entfernt
@@ -630,24 +630,24 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2023-10-22: [MuChin](https://osu.ppy.sh/users/9834516) wurde zur Gruppe **Probationary BN** hinzugefügt
 - 2023-10-25: [ler1211](https://osu.ppy.sh/users/19901680) wurde zur Gruppe **Probationary BN** hinzugefügt
 - 2023-10-25: [Mafumafu](https://osu.ppy.sh/users/3076909) wurde zur Gruppe **BN** hinzugefügt
-- 2023-10-30: Moved [Laurakko](https://osu.ppy.sh/users/7253731) from **GMT** to **osu! Alumni**
+- 2023-10-30: [Laurakko](https://osu.ppy.sh/users/7253731) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
 
 #### Verschoben
 
-- 2023-10-01: Moved [Garalulu](https://osu.ppy.sh/users/757783) from **BN** to **Probationary BN**
-- 2023-10-01: Moved [KeyWee](https://osu.ppy.sh/users/10476879) from **BN** to **Probationary BN**
-- 2023-10-02: Moved [KaedeharaKazuha](https://osu.ppy.sh/users/6300910) from **Probationary BN** to **BN**
-- 2023-10-03: Moved [- Lenkon](https://osu.ppy.sh/users/13894938) from **Probationary BN** to **BN**
-- 2023-10-04: Moved [Invisible O](https://osu.ppy.sh/users/22907037) from **Probationary BN** to **BN**
-- 2023-10-04: Moved [maxie](https://osu.ppy.sh/users/6447505) from **Probationary BN** to **BN**
-- 2023-10-10: Moved [-Rei](https://osu.ppy.sh/users/8200707) from **BN** to **Probationary BN**
-- 2023-10-10: Moved [-Keitaro](https://osu.ppy.sh/users/3378391) from **BN** to **Probationary BN**
-- 2023-10-12: Moved [Vincus](https://osu.ppy.sh/users/16124906) from **Probationary BN** to **BN**
-- 2023-10-12: Moved [Scotty](https://osu.ppy.sh/users/11085809) from **Probationary BN** to **BN**
-- 2023-10-13: Moved [autofanboy](https://osu.ppy.sh/users/636114) from **BN** to **Probationary BN**
-- 2023-10-16: Moved [\_gt](https://osu.ppy.sh/users/8301957) from **Probationary BN** to **BN**
-- 2023-10-25: Moved [Resona](https://osu.ppy.sh/users/3124248) from **Probationary BN** to **BN**
-- 2023-10-27: Moved [Daletto](https://osu.ppy.sh/users/7592136) from **Probationary BN** to **BN**
+- 2023-10-01: [Garalulu](https://osu.ppy.sh/users/757783) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2023-10-01: [KeyWee](https://osu.ppy.sh/users/10476879) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2023-10-02: [KaedeharaKazuha](https://osu.ppy.sh/users/6300910) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-10-03: [- Lenkon](https://osu.ppy.sh/users/13894938) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-10-04: [Invisible O](https://osu.ppy.sh/users/22907037) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-10-04: [maxie](https://osu.ppy.sh/users/6447505) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-10-10: [-Rei](https://osu.ppy.sh/users/8200707) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2023-10-10: [-Keitaro](https://osu.ppy.sh/users/3378391) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2023-10-12: [Vincus](https://osu.ppy.sh/users/16124906) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-10-12: [Scotty](https://osu.ppy.sh/users/11085809) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-10-13: [autofanboy](https://osu.ppy.sh/users/636114) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2023-10-16: [\_gt](https://osu.ppy.sh/users/8301957) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-10-25: [Resona](https://osu.ppy.sh/users/3124248) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2023-10-27: [Daletto](https://osu.ppy.sh/users/7592136) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
 
 #### Entfernt
 

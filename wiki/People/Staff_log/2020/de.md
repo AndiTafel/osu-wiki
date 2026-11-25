@@ -9,7 +9,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 ## Januar
 
 - 2020-01-06: [yaspo](https://osu.ppy.sh/users/4945926) wurde zur Gruppe **NAT** hinzugefügt
-- 2020-01-07: Moved [kanpakyin](https://osu.ppy.sh/users/394326) from **osu! Alumni** to **GMT**
+- 2020-01-07: [kanpakyin](https://osu.ppy.sh/users/394326) wurde aus der Gruppe **osu! Alumni** in die Gruppe **GMT** verschoben
 - 2020-01-26: [Greaper](https://osu.ppy.sh/users/2369776) wurde zur Gruppe **NAT** hinzugefügt
 
 ### Beatmap-Nominatoren
@@ -32,11 +32,11 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Verschoben
 
-- 2020-01-03: Moved [Realazy](https://osu.ppy.sh/users/918297) from **Probationary BN** to **BN**
-- 2020-01-05: Moved [Kyousukee](https://osu.ppy.sh/users/8842107) from **Probationary BN** to **BN**
-- 2020-01-21: Moved [Kaitjuh](https://osu.ppy.sh/users/2225327) from **Probationary BN** to **BN**
-- 2020-01-21: Moved [Smokeman](https://osu.ppy.sh/users/2140676) from **Probationary BN** to **BN**
-- 2020-01-30: Moved [Mirash](https://osu.ppy.sh/users/2841009) from **Probationary BN** to **BN**
+- 2020-01-03: [Realazy](https://osu.ppy.sh/users/918297) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-01-05: [Kyousukee](https://osu.ppy.sh/users/8842107) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-01-21: [Kaitjuh](https://osu.ppy.sh/users/2225327) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-01-21: [Smokeman](https://osu.ppy.sh/users/2140676) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-01-30: [Mirash](https://osu.ppy.sh/users/2841009) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
 
 #### Entfernt
 
@@ -66,24 +66,24 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Verschoben
 
-- 2020-02-02: Moved [\_DUSK\_](https://osu.ppy.sh/users/6092181) from **Probationary BN** to **BN**
-- 2020-02-02: Moved [frukoyurdakul](https://osu.ppy.sh/users/7612550) from **Probationary BN** to **BN**
-- 2020-02-02: Moved [Volta](https://osu.ppy.sh/users/4154071) from **Probationary BN** to **BN**
-- 2020-02-02: Moved [Sinnoh](https://osu.ppy.sh/users/4236057) from **Probationary BN** to **BN**
-- 2020-02-04: Moved [PokeSky](https://osu.ppy.sh/users/3617111) from **Probationary BN** to **BN**
-- 2020-02-08: Moved [Nikakis](https://osu.ppy.sh/users/4351739) from **BN** to **Probationary BN**
-- 2020-02-08: Moved [Gero](https://osu.ppy.sh/users/1467715) from **BN** to **Probationary BN**
-- 2020-02-08: Moved [Ryuusei Aika](https://osu.ppy.sh/users/7777875) from **BN** to **Probationary BN**
-- 2020-02-08: Moved [Sonnyc](https://osu.ppy.sh/users/11771) from **BN** to **Probationary BN**
-- 2020-02-08: Moved [wonjae](https://osu.ppy.sh/users/5032045) from **BN** to **Probationary BN**
-- 2020-02-12: Moved [celerih](https://osu.ppy.sh/users/4696296) from **Probationary BN** to **BN**
-- 2020-02-14: Moved [Vulkin](https://osu.ppy.sh/users/4901066) from **Probationary BN** to **BN**
-- 2020-02-15: Moved [Lacrima](https://osu.ppy.sh/users/4915649) from **Probationary BN** to **BN**
-- 2020-02-20: Moved [Voxa](https://osu.ppy.sh/users/9229539) from **Probationary BN** to **BN**
-- 2020-02-22: Moved [incandescence](https://osu.ppy.sh/users/6256027) from **Probationary BN** to **BN**
-- 2020-02-26: Moved [tasuke912](https://osu.ppy.sh/users/2774767) from **Probationary BN** to **BN**
-- 2020-02-28: Moved [Capu](https://osu.ppy.sh/users/2474015) from **Probationary BN** to **BN**
-- 2020-02-28: Moved [Yales](https://osu.ppy.sh/users/2377881) from **Probationary BN** to **BN**
+- 2020-02-02: [\_DUSK\_](https://osu.ppy.sh/users/6092181) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-02-02: [frukoyurdakul](https://osu.ppy.sh/users/7612550) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-02-02: [Volta](https://osu.ppy.sh/users/4154071) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-02-02: [Sinnoh](https://osu.ppy.sh/users/4236057) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-02-04: [PokeSky](https://osu.ppy.sh/users/3617111) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-02-08: [Nikakis](https://osu.ppy.sh/users/4351739) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2020-02-08: [Gero](https://osu.ppy.sh/users/1467715) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2020-02-08: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2020-02-08: [Sonnyc](https://osu.ppy.sh/users/11771) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2020-02-08: [wonjae](https://osu.ppy.sh/users/5032045) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2020-02-12: [celerih](https://osu.ppy.sh/users/4696296) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-02-14: [Vulkin](https://osu.ppy.sh/users/4901066) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-02-15: [Lacrima](https://osu.ppy.sh/users/4915649) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-02-20: [Voxa](https://osu.ppy.sh/users/9229539) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-02-22: [incandescence](https://osu.ppy.sh/users/6256027) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-02-26: [tasuke912](https://osu.ppy.sh/users/2774767) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-02-28: [Capu](https://osu.ppy.sh/users/2474015) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-02-28: [Yales](https://osu.ppy.sh/users/2377881) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
 
 #### Entfernt
 
@@ -98,10 +98,10 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 ## März
 
-- 2020-03-09: Moved [ToGlette](https://osu.ppy.sh/users/1076236) from **osu! Alumni** to **GMT**
-- 2020-03-11: Moved [Fycho](https://osu.ppy.sh/users/1876867) from **GMT** to **osu! Alumni**
-- 2020-03-11: Moved [Laurakko](https://osu.ppy.sh/users/7253731) from **GMT** to **osu! Alumni**
-- 2020-03-16: Moved [Ascendance](https://osu.ppy.sh/users/2931883) from **NAT** to **osu! Alumni**
+- 2020-03-09: [ToGlette](https://osu.ppy.sh/users/1076236) wurde aus der Gruppe **osu! Alumni** in die Gruppe **GMT** verschoben
+- 2020-03-11: [Fycho](https://osu.ppy.sh/users/1876867) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
+- 2020-03-11: [Laurakko](https://osu.ppy.sh/users/7253731) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
+- 2020-03-16: [Ascendance](https://osu.ppy.sh/users/2931883) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
 - 2020-03-20: [Tyistiana](https://osu.ppy.sh/users/1421452) wurde zur Gruppe **NAT** hinzugefügt
 
 ### Beatmap-Nominatoren
@@ -117,18 +117,18 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Verschoben
 
-- 2020-03-06: Moved [Gamelan4](https://osu.ppy.sh/users/9856910) from **Probationary BN** to **BN**
-- 2020-03-06: Moved [kanpakyin](https://osu.ppy.sh/users/394326) from **Probationary BN** to **BN**
-- 2020-03-06: Moved [Stefan](https://osu.ppy.sh/users/626907) from **Probationary BN** to **BN**
-- 2020-03-09: Moved [Stack](https://osu.ppy.sh/users/6122935) from **Probationary BN** to **BN**
-- 2020-03-19: Moved [Hoshikuz](https://osu.ppy.sh/users/9892196) from **Probationary BN** to **BN**
-- 2020-03-19: Moved [wonjae](https://osu.ppy.sh/users/5032045) from **Probationary BN** to **BN**
-- 2020-03-19: Moved [Nikakis](https://osu.ppy.sh/users/4351739) from **Probationary BN** to **BN**
-- 2020-03-19: Moved [Ryuusei Aika](https://osu.ppy.sh/users/7777875) from **Probationary BN** to **BN**
-- 2020-03-19: Moved [Sonnyc](https://osu.ppy.sh/users/11771) from **Probationary BN** to **BN**
-- 2020-03-19: Moved [Uta](https://osu.ppy.sh/users/9439796) from **BN** to **Probationary BN**
-- 2020-03-26: Moved [UnluckyCroco](https://osu.ppy.sh/users/9461160) from **Probationary BN** to **BN**
-- 2020-03-26: Moved [Amiichii](https://osu.ppy.sh/users/9228569) from **Probationary BN** to **BN**
+- 2020-03-06: [Gamelan4](https://osu.ppy.sh/users/9856910) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-03-06: [kanpakyin](https://osu.ppy.sh/users/394326) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-03-06: [Stefan](https://osu.ppy.sh/users/626907) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-03-09: [Stack](https://osu.ppy.sh/users/6122935) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-03-19: [Hoshikuz](https://osu.ppy.sh/users/9892196) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-03-19: [wonjae](https://osu.ppy.sh/users/5032045) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-03-19: [Nikakis](https://osu.ppy.sh/users/4351739) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-03-19: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-03-19: [Sonnyc](https://osu.ppy.sh/users/11771) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-03-19: [Uta](https://osu.ppy.sh/users/9439796) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2020-03-26: [UnluckyCroco](https://osu.ppy.sh/users/9461160) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-03-26: [Amiichii](https://osu.ppy.sh/users/9228569) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
 
 #### Entfernt
 
@@ -142,7 +142,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 ## April
 
 - 2020-04-15: [Shoegazer](https://osu.ppy.sh/users/2520707) wurde aus der Gruppe **Project Loved Team** entfernt
-- 2020-04-29: Moved [Mao](https://osu.ppy.sh/users/2204515) from **osu! Alumni** to **NAT**
+- 2020-04-29: [Mao](https://osu.ppy.sh/users/2204515) wurde aus der Gruppe **osu! Alumni** in die Gruppe **NAT** verschoben
 
 ### Beatmap-Nominatoren
 
@@ -157,15 +157,15 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Verschoben
 
-- 2020-04-06: Moved [Vulkin](https://osu.ppy.sh/users/4901066) from **BN** to **Probationary BN**
-- 2020-04-07: Moved [Roger](https://osu.ppy.sh/users/1538223) from **Probationary BN** to **BN**
-- 2020-04-09: Moved [SMOKELIND](https://osu.ppy.sh/users/9327302) from **Probationary BN** to **BN**
-- 2020-04-12: Moved [Nao Tomori](https://osu.ppy.sh/users/5364763) from **Probationary BN** to **BN**
-- 2020-04-14: Moved [Dapuluous](https://osu.ppy.sh/users/8140944) from **Probationary BN** to **BN**
-- 2020-04-20: Moved [MaridiuS](https://osu.ppy.sh/users/4496961) from **Probationary BN** to **BN**
-- 2020-04-26: Moved [BaAR_Vendel](https://osu.ppy.sh/users/8679346) from **Probationary BN** to **BN**
-- 2020-04-29: Moved [Dubstek](https://osu.ppy.sh/users/9555243) from **Probationary BN** to **BN**
-- 2020-04-30: Moved [wafer](https://osu.ppy.sh/users/9416836) from **Probationary BN** to **BN**
+- 2020-04-06: [Vulkin](https://osu.ppy.sh/users/4901066) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2020-04-07: [Roger](https://osu.ppy.sh/users/1538223) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-04-09: [SMOKELIND](https://osu.ppy.sh/users/9327302) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-04-12: [Nao Tomori](https://osu.ppy.sh/users/5364763) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-04-14: [Dapuluous](https://osu.ppy.sh/users/8140944) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-04-20: [MaridiuS](https://osu.ppy.sh/users/4496961) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-04-26: [BaAR_Vendel](https://osu.ppy.sh/users/8679346) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-04-29: [Dubstek](https://osu.ppy.sh/users/9555243) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-04-30: [wafer](https://osu.ppy.sh/users/9416836) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
 
 #### Entfernt
 
@@ -199,16 +199,16 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Verschoben
 
-- 2020-05-06: Moved [\_Kobii](https://osu.ppy.sh/users/6209713) from **BN** to **Probationary BN**
-- 2020-05-06: Moved [Raiden](https://osu.ppy.sh/users/2239480) from **Probationary BN** to **BN**
-- 2020-05-10: Moved [Mirash](https://osu.ppy.sh/users/2841009) from **BN** to **Probationary BN**
-- 2020-05-15: Moved [PokeSky](https://osu.ppy.sh/users/3617111) from **BN** to **Probationary BN**
-- 2020-05-18: Moved [Nevo](https://osu.ppy.sh/users/7451883) from **BN** to **Probationary BN**
-- 2020-05-25: Moved [Capu](https://osu.ppy.sh/users/2474015) from **BN** to **Probationary BN**
-- 2020-05-25: Moved [Gamelan4](https://osu.ppy.sh/users/9856910) from **BN** to **Probationary BN**
-- 2020-05-29: Moved [Greenshell](https://osu.ppy.sh/users/8693851) from **Probationary BN** to **BN**
-- 2020-05-29: Moved [JBHyperion](https://osu.ppy.sh/users/4879508) from **BN** to **Probationary BN**
-- 2020-05-29: Moved [-Luminate](https://osu.ppy.sh/users/4778689) from **BN** to **Probationary BN**
+- 2020-05-06: [\_Kobii](https://osu.ppy.sh/users/6209713) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2020-05-06: [Raiden](https://osu.ppy.sh/users/2239480) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-05-10: [Mirash](https://osu.ppy.sh/users/2841009) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2020-05-15: [PokeSky](https://osu.ppy.sh/users/3617111) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2020-05-18: [Nevo](https://osu.ppy.sh/users/7451883) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2020-05-25: [Capu](https://osu.ppy.sh/users/2474015) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2020-05-25: [Gamelan4](https://osu.ppy.sh/users/9856910) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2020-05-29: [Greenshell](https://osu.ppy.sh/users/8693851) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-05-29: [JBHyperion](https://osu.ppy.sh/users/4879508) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2020-05-29: [-Luminate](https://osu.ppy.sh/users/4778689) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
 
 #### Entfernt
 
@@ -221,12 +221,12 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 ## Juni
 
-- 2020-06-01: Moved [heyronii](https://osu.ppy.sh/users/5642779) from **GMT** to **osu! Alumni**
-- 2020-06-01: Moved [Pawsu](https://osu.ppy.sh/users/2371454) from **GMT** to **osu! Alumni**
+- 2020-06-01: [heyronii](https://osu.ppy.sh/users/5642779) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
+- 2020-06-01: [Pawsu](https://osu.ppy.sh/users/2371454) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
 - 2020-06-01: [Pawsu](https://osu.ppy.sh/users/2371454) wurde aus der Gruppe **Support Team** entfernt
 - 2020-06-02: [abraker](https://osu.ppy.sh/users/4635891) wurde zur Gruppe **GMT** hinzugefügt
 - 2020-06-17: [RockRoller](https://osu.ppy.sh/users/8388854) wurde zur Gruppe **GMT** hinzugefügt
-- 2020-06-24: Moved [Laurakko](https://osu.ppy.sh/users/7253731) from **osu! Alumni** to **GMT**
+- 2020-06-24: [Laurakko](https://osu.ppy.sh/users/7253731) wurde aus der Gruppe **osu! Alumni** in die Gruppe **GMT** verschoben
 
 ### Beatmap-Nominatoren
 
@@ -246,18 +246,18 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Verschoben
 
-- 2020-06-01: Moved [Agatsu](https://osu.ppy.sh/users/5579871) from **Probationary BN** to **BN**
-- 2020-06-02: Moved [Sun](https://osu.ppy.sh/users/4115819) from **Probationary BN** to **BN**
-- 2020-06-05: Moved [Stefan](https://osu.ppy.sh/users/626907) from **BN** to **Probationary BN**
-- 2020-06-08: Moved [Yales](https://osu.ppy.sh/users/2377881) from **BN** to **Probationary BN**
-- 2020-06-23: Moved [Teky](https://osu.ppy.sh/users/10520912) from **Probationary BN** to **BN**
-- 2020-06-23: Moved [realy0\_](https://osu.ppy.sh/users/8863359) from **Probationary BN** to **BN**
-- 2020-06-23: Moved [DeviousPanda](https://osu.ppy.sh/users/4966334) from **Probationary BN** to **BN**
-- 2020-06-23: Moved [Mirash](https://osu.ppy.sh/users/2841009) from **Probationary BN** to **BN**
-- 2020-06-23: Moved [Nevo](https://osu.ppy.sh/users/7451883) from **Probationary BN** to **BN**
-- 2020-06-23: Moved [Stixy](https://osu.ppy.sh/users/9000308) from **Probationary BN** to **BN**
-- 2020-06-26: Moved [PokeSky](https://osu.ppy.sh/users/3617111) from **Probationary BN** to **BN**
-- 2020-06-28: Moved [Hoshikuz](https://osu.ppy.sh/users/9892196) from **BN** to **Probationary BN**
+- 2020-06-01: [Agatsu](https://osu.ppy.sh/users/5579871) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-06-02: [Sun](https://osu.ppy.sh/users/4115819) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-06-05: [Stefan](https://osu.ppy.sh/users/626907) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2020-06-08: [Yales](https://osu.ppy.sh/users/2377881) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2020-06-23: [Teky](https://osu.ppy.sh/users/10520912) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-06-23: [realy0\_](https://osu.ppy.sh/users/8863359) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-06-23: [DeviousPanda](https://osu.ppy.sh/users/4966334) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-06-23: [Mirash](https://osu.ppy.sh/users/2841009) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-06-23: [Nevo](https://osu.ppy.sh/users/7451883) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-06-23: [Stixy](https://osu.ppy.sh/users/9000308) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-06-26: [PokeSky](https://osu.ppy.sh/users/3617111) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-06-28: [Hoshikuz](https://osu.ppy.sh/users/9892196) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
 
 #### Entfernt
 
@@ -285,22 +285,22 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Verschoben
 
-- 2020-07-01: Moved [Nikakis](https://osu.ppy.sh/users/4351739) from **BN** to **Probationary BN**
-- 2020-07-07: Moved [Dako](https://osu.ppy.sh/users/11081858) from **Probationary BN** to **BN**
-- 2020-07-07: Moved [\_DUSK\_](https://osu.ppy.sh/users/6092181) from **Probationary BN** to **BN**
-- 2020-07-07: Moved [davidminh0111](https://osu.ppy.sh/users/9623142) from **Probationary BN** to **BN**
-- 2020-07-08: Moved [Trynna](https://osu.ppy.sh/users/2652951) from **Probationary BN** to **BN**
-- 2020-07-08: Moved [Okoratu](https://osu.ppy.sh/users/1623405) from **Probationary BN** to **BN**
-- 2020-07-09: Moved [JBHyperion](https://osu.ppy.sh/users/4879508) from **Probationary BN** to **BN**
-- 2020-07-17: Moved [Baron](https://osu.ppy.sh/users/10286499) from **Probationary BN** to **BN**
-- 2020-07-18: Moved [Fall](https://osu.ppy.sh/users/4800816) from **Probationary BN** to **BN**
-- 2020-07-22: Moved [Axer](https://osu.ppy.sh/users/7299864) from **Probationary BN** to **BN**
-- 2020-07-22: Moved [Cychloryn](https://osu.ppy.sh/users/6921736) from **Probationary BN** to **BN**
-- 2020-07-23: Moved [Shima Rin](https://osu.ppy.sh/users/6089608) from **Probationary BN** to **BN**
-- 2020-07-28: Moved [Bastian](https://osu.ppy.sh/users/6345176) from **Probationary BN** to **BN**
-- 2020-07-29: Moved [Elayue](https://osu.ppy.sh/users/6400861) from **Probationary BN** to **BN**
-- 2020-07-29: Moved [NexusQI](https://osu.ppy.sh/users/13822800) from **Probationary BN** to **BN**
-- 2020-07-31: Moved [Smoke](https://osu.ppy.sh/users/10726630) from **Probationary BN** to **BN**
+- 2020-07-01: [Nikakis](https://osu.ppy.sh/users/4351739) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2020-07-07: [Dako](https://osu.ppy.sh/users/11081858) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-07-07: [\_DUSK\_](https://osu.ppy.sh/users/6092181) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-07-07: [davidminh0111](https://osu.ppy.sh/users/9623142) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-07-08: [Trynna](https://osu.ppy.sh/users/2652951) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-07-08: [Okoratu](https://osu.ppy.sh/users/1623405) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-07-09: [JBHyperion](https://osu.ppy.sh/users/4879508) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-07-17: [Baron](https://osu.ppy.sh/users/10286499) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-07-18: [Fall](https://osu.ppy.sh/users/4800816) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-07-22: [Axer](https://osu.ppy.sh/users/7299864) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-07-22: [Cychloryn](https://osu.ppy.sh/users/6921736) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-07-23: [Shima Rin](https://osu.ppy.sh/users/6089608) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-07-28: [Bastian](https://osu.ppy.sh/users/6345176) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-07-29: [Elayue](https://osu.ppy.sh/users/6400861) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-07-29: [NexusQI](https://osu.ppy.sh/users/13822800) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-07-31: [Smoke](https://osu.ppy.sh/users/10726630) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
 
 #### Entfernt
 
@@ -335,17 +335,17 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Verschoben
 
-- 2020-08-02: Moved [Muse Dash](https://osu.ppy.sh/users/13695676) from **Probationary BN** to **BN**
-- 2020-08-09: Moved [Garden](https://osu.ppy.sh/users/2849992) from **Probationary BN** to **BN**
-- 2020-08-09: Moved [Bibbity Bill](https://osu.ppy.sh/users/4446810) from **Probationary BN** to **BN**
-- 2020-08-11: Moved [-Aqua](https://osu.ppy.sh/users/7150015) from **Probationary BN** to **BN**
-- 2020-08-13: Moved [Stefan](https://osu.ppy.sh/users/626907) from **Probationary BN** to **BN**
-- 2020-08-13: Moved [Capu](https://osu.ppy.sh/users/2474015) from **Probationary BN** to **BN**
-- 2020-08-17: Moved [wonjae](https://osu.ppy.sh/users/5032045) from **Probationary BN** to **BN**
-- 2020-08-17: Moved [Nikakis](https://osu.ppy.sh/users/4351739) from **Probationary BN** to **BN**
-- 2020-08-21: Moved [Arzenvald](https://osu.ppy.sh/users/3027421) from **Probationary BN** to **BN**
-- 2020-08-22: Moved [frukoyurdakul](https://osu.ppy.sh/users/7612550) from **BN** to **Probationary BN**
-- 2020-08-22: Moved [Log Off Now](https://osu.ppy.sh/users/4378277) from **Probationary BN** to **BN**
+- 2020-08-02: [Muse Dash](https://osu.ppy.sh/users/13695676) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-08-09: [Garden](https://osu.ppy.sh/users/2849992) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-08-09: [Bibbity Bill](https://osu.ppy.sh/users/4446810) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-08-11: [-Aqua](https://osu.ppy.sh/users/7150015) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-08-13: [Stefan](https://osu.ppy.sh/users/626907) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-08-13: [Capu](https://osu.ppy.sh/users/2474015) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-08-17: [wonjae](https://osu.ppy.sh/users/5032045) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-08-17: [Nikakis](https://osu.ppy.sh/users/4351739) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-08-21: [Arzenvald](https://osu.ppy.sh/users/3027421) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-08-22: [frukoyurdakul](https://osu.ppy.sh/users/7612550) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2020-08-22: [Log Off Now](https://osu.ppy.sh/users/4378277) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
 
 #### Entfernt
 
@@ -359,10 +359,10 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 ## September
 
-- 2020-09-01: Moved [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) from **osu! Alumni** to **GMT**
+- 2020-09-01: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) wurde aus der Gruppe **osu! Alumni** in die Gruppe **GMT** verschoben
 - 2020-09-12: [hypercyte](https://osu.ppy.sh/users/9155377) wurde zur Gruppe **NAT** hinzugefügt
 - 2020-09-16: [Irreversible](https://osu.ppy.sh/users/1287964) wurde zur Gruppe **osu! Alumni** hinzugefügt
-- 2020-09-24: Moved [Zetera](https://osu.ppy.sh/users/587737) from **GMT** to **osu! Alumni**
+- 2020-09-24: [Zetera](https://osu.ppy.sh/users/587737) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
 
 ### Beatmap-Nominatoren
 
@@ -385,18 +385,18 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Verschoben
 
-- 2020-09-02: Moved [Davvy](https://osu.ppy.sh/users/10047413) from **Probationary BN** to **BN**
-- 2020-09-02: Moved [Secre](https://osu.ppy.sh/users/2306637) from **Probationary BN** to **BN**
-- 2020-09-04: Moved [Bunnrei](https://osu.ppy.sh/users/829284) from **BN** to **Probationary BN**
-- 2020-09-04: Moved [-Joni-](https://osu.ppy.sh/users/9988837) from **Probationary BN** to **BN**
-- 2020-09-10: Moved [incandescence](https://osu.ppy.sh/users/6256027) from **BN** to **Probationary BN**
-- 2020-09-11: Moved [C00L](https://osu.ppy.sh/users/4930630) from **Probationary BN** to **BN**
-- 2020-09-16: Moved [Hobbes2](https://osu.ppy.sh/users/8157492) from **Probationary BN** to **BN**
-- 2020-09-17: Moved [Ayucchi](https://osu.ppy.sh/users/7823498) from **Probationary BN** to **BN**
-- 2020-09-20: Moved [Rocma](https://osu.ppy.sh/users/566276) from **Probationary BN** to **BN**
-- 2020-09-24: Moved [Murumoo](https://osu.ppy.sh/users/8001433) from **Probationary BN** to **BN**
-- 2020-09-24: Moved [RiP46](https://osu.ppy.sh/users/5222596) from **Probationary BN** to **BN**
-- 2020-09-29: Moved [Karen](https://osu.ppy.sh/users/3143784) from **Probationary BN** to **BN**
+- 2020-09-02: [Davvy](https://osu.ppy.sh/users/10047413) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-09-02: [Secre](https://osu.ppy.sh/users/2306637) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-09-04: [Bunnrei](https://osu.ppy.sh/users/829284) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2020-09-04: [-Joni-](https://osu.ppy.sh/users/9988837) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-09-10: [incandescence](https://osu.ppy.sh/users/6256027) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2020-09-11: [C00L](https://osu.ppy.sh/users/4930630) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-09-16: [Hobbes2](https://osu.ppy.sh/users/8157492) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-09-17: [Ayucchi](https://osu.ppy.sh/users/7823498) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-09-20: [Rocma](https://osu.ppy.sh/users/566276) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-09-24: [Murumoo](https://osu.ppy.sh/users/8001433) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-09-24: [RiP46](https://osu.ppy.sh/users/5222596) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-09-29: [Karen](https://osu.ppy.sh/users/3143784) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
 
 #### Entfernt
 
@@ -426,21 +426,21 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Verschoben
 
-- 2020-10-02: Moved [frukoyurdakul](https://osu.ppy.sh/users/7612550) from **Probationary BN** to **BN**
-- 2020-10-02: Moved [autofanboy](https://osu.ppy.sh/users/636114) from **Probationary BN** to **BN**
-- 2020-10-04: Moved [Sylas](https://osu.ppy.sh/users/3906405) from **Probationary BN** to **BN**
-- 2020-10-07: Moved [Firika](https://osu.ppy.sh/users/9590557) from **Probationary BN** to **BN**
-- 2020-10-07: Moved [lenpai](https://osu.ppy.sh/users/5314573) from **Probationary BN** to **BN**
-- 2020-10-10: Moved [Mimari](https://osu.ppy.sh/users/14339830) from **Probationary BN** to **BN**
-- 2020-10-10: Moved [Pentori](https://osu.ppy.sh/users/7452237) from **Probationary BN** to **BN**
-- 2020-10-17: Moved [Ulqui](https://osu.ppy.sh/users/1263669) from **Probationary BN** to **BN**
-- 2020-10-17: Moved [Jaltzu](https://osu.ppy.sh/users/2597417) from **Probationary BN** to **BN**
-- 2020-10-18: Moved [Stelar](https://osu.ppy.sh/users/15205070) from **Probationary BN** to **BN**
-- 2020-10-21: Moved [Ulqui](https://osu.ppy.sh/users/1263669) from **BN** to **Probationary BN**
-- 2020-10-22: Moved [StarCastler](https://osu.ppy.sh/users/12402453) from **Probationary BN** to **BN**
-- 2020-10-31: Moved [Sylvarus](https://osu.ppy.sh/users/4505918) from **Probationary BN** to **BN**
-- 2020-10-31: Moved [Luscent](https://osu.ppy.sh/users/2688581) from **Probationary BN** to **BN**
-- 2020-10-31: Moved [SMOKELIND](https://osu.ppy.sh/users/9327302) from **BN** to **Probationary BN**
+- 2020-10-02: [frukoyurdakul](https://osu.ppy.sh/users/7612550) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-10-02: [autofanboy](https://osu.ppy.sh/users/636114) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-10-04: [Sylas](https://osu.ppy.sh/users/3906405) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-10-07: [Firika](https://osu.ppy.sh/users/9590557) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-10-07: [lenpai](https://osu.ppy.sh/users/5314573) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-10-10: [Mimari](https://osu.ppy.sh/users/14339830) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-10-10: [Pentori](https://osu.ppy.sh/users/7452237) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-10-17: [Ulqui](https://osu.ppy.sh/users/1263669) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-10-17: [Jaltzu](https://osu.ppy.sh/users/2597417) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-10-18: [Stelar](https://osu.ppy.sh/users/15205070) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-10-21: [Ulqui](https://osu.ppy.sh/users/1263669) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2020-10-22: [StarCastler](https://osu.ppy.sh/users/12402453) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-10-31: [Sylvarus](https://osu.ppy.sh/users/4505918) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-10-31: [Luscent](https://osu.ppy.sh/users/2688581) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-10-31: [SMOKELIND](https://osu.ppy.sh/users/9327302) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
 
 #### Entfernt
 
@@ -459,13 +459,13 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 ## November
 
-- 2020-11-14: Moved [Kuron-kun](https://osu.ppy.sh/users/2697284) from **GMT** to **osu! Alumni**
+- 2020-11-14: [Kuron-kun](https://osu.ppy.sh/users/2697284) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
 - 2020-11-15: [mtmcl](https://osu.ppy.sh/users/5960) wurde aus der Gruppe **osu! Alumni** entfernt
 - 2020-11-15: [Maeglwn](https://osu.ppy.sh/users/2440936) wurde aus der Gruppe **osu! Alumni** entfernt
 - 2020-11-16: [Intermezzo](https://osu.ppy.sh/users/136842) wurde zur Gruppe **osu! Alumni** hinzugefügt
 - 2020-11-16: [Flanster](https://osu.ppy.sh/users/447818) wurde aus der Gruppe **GMT** entfernt
 - 2020-11-16: [Kuron-kun](https://osu.ppy.sh/users/2697284) wurde aus der Gruppe **osu! Alumni** entfernt
-- 2020-11-20: Moved [Nepuri](https://osu.ppy.sh/users/6637817) from **NAT** to **osu! Alumni**
+- 2020-11-20: [Nepuri](https://osu.ppy.sh/users/6637817) wurde aus der Gruppe **NAT** in die Gruppe **osu! Alumni** verschoben
 
 ### Beatmap-Nominatoren
 
@@ -477,16 +477,16 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Verschoben
 
-- 2020-11-05: Moved [Shima Rin](https://osu.ppy.sh/users/6089608) from **BN** to **Probationary BN**
-- 2020-11-08: Moved [Phob](https://osu.ppy.sh/users/6069462) from **Probationary BN** to **BN**
-- 2020-11-08: Moved [Spectator](https://osu.ppy.sh/users/702598) from **Probationary BN** to **BN**
-- 2020-11-08: Moved [Blitzifyyy](https://osu.ppy.sh/users/11787713) from **Probationary BN** to **BN**
-- 2020-11-08: Moved [Petal](https://osu.ppy.sh/users/7354729) from **Probationary BN** to **BN**
-- 2020-11-12: Moved [JierYagtama](https://osu.ppy.sh/users/7483452) from **Probationary BN** to **BN**
-- 2020-11-17: Moved [Een Persoon](https://osu.ppy.sh/users/10959501) from **Probationary BN** to **BN**
-- 2020-11-18: Moved [Lirai](https://osu.ppy.sh/users/3734394) from **Probationary BN** to **BN**
-- 2020-11-28: Moved [Fresh Chicken](https://osu.ppy.sh/users/3984370) from **Probationary BN** to **BN**
-- 2020-11-29: Moved [Nokashi](https://osu.ppy.sh/users/5431196) from **Probationary BN** to **BN**
+- 2020-11-05: [Shima Rin](https://osu.ppy.sh/users/6089608) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2020-11-08: [Phob](https://osu.ppy.sh/users/6069462) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-11-08: [Spectator](https://osu.ppy.sh/users/702598) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-11-08: [Blitzifyyy](https://osu.ppy.sh/users/11787713) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-11-08: [Petal](https://osu.ppy.sh/users/7354729) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-11-12: [JierYagtama](https://osu.ppy.sh/users/7483452) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-11-17: [Een Persoon](https://osu.ppy.sh/users/10959501) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-11-18: [Lirai](https://osu.ppy.sh/users/3734394) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-11-28: [Fresh Chicken](https://osu.ppy.sh/users/3984370) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-11-29: [Nokashi](https://osu.ppy.sh/users/5431196) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
 
 #### Entfernt
 
@@ -496,8 +496,8 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 ## Dezember
 
-- 2020-12-16: Moved [Raiden](https://osu.ppy.sh/users/2239480) from **GMT** to **osu! Alumni**
-- 2020-12-28: Moved [Spectator](https://osu.ppy.sh/users/702598) from **osu! Alumni** to **NAT**
+- 2020-12-16: [Raiden](https://osu.ppy.sh/users/2239480) wurde aus der Gruppe **GMT** in die Gruppe **osu! Alumni** verschoben
+- 2020-12-28: [Spectator](https://osu.ppy.sh/users/702598) wurde aus der Gruppe **osu! Alumni** in die Gruppe **NAT** verschoben
 
 ### Beatmap-Nominatoren
 
@@ -517,18 +517,18 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 
 #### Verschoben
 
-- 2020-12-05: Moved [Astronic](https://osu.ppy.sh/users/9320502) from **Probationary BN** to **BN**
-- 2020-12-05: Moved [Akito](https://osu.ppy.sh/users/5716327) from **Probationary BN** to **BN**
-- 2020-12-06: Moved [Arzenvald](https://osu.ppy.sh/users/3027421) from **BN** to **Probationary BN**
-- 2020-12-07: Moved [riffy](https://osu.ppy.sh/users/597957) from **Probationary BN** to **BN**
-- 2020-12-07: Moved [Krisom](https://osu.ppy.sh/users/99269) from **Probationary BN** to **BN**
-- 2020-12-09: Moved [Nelly](https://osu.ppy.sh/users/4741164) from **Probationary BN** to **BN**
-- 2020-12-12: Moved [Unpredictable](https://osu.ppy.sh/users/7560872) from **Probationary BN** to **BN**
-- 2020-12-14: Moved [-Joni-](https://osu.ppy.sh/users/9988837) from **BN** to **Probationary BN**
-- 2020-12-17: Moved [SMOKELIND](https://osu.ppy.sh/users/9327302) from **Probationary BN** to **BN**
-- 2020-12-17: Moved [Beomsan](https://osu.ppy.sh/users/3626063) from **Probationary BN** to **BN**
-- 2020-12-18: Moved [Shima Rin](https://osu.ppy.sh/users/6089608) from **Probationary BN** to **BN**
-- 2020-12-23: Moved [Jerry](https://osu.ppy.sh/users/605973) from **Probationary BN** to **BN**
+- 2020-12-05: [Astronic](https://osu.ppy.sh/users/9320502) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-12-05: [Akito](https://osu.ppy.sh/users/5716327) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-12-06: [Arzenvald](https://osu.ppy.sh/users/3027421) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2020-12-07: [riffy](https://osu.ppy.sh/users/597957) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-12-07: [Krisom](https://osu.ppy.sh/users/99269) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-12-09: [Nelly](https://osu.ppy.sh/users/4741164) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-12-12: [Unpredictable](https://osu.ppy.sh/users/7560872) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-12-14: [-Joni-](https://osu.ppy.sh/users/9988837) wurde aus der Gruppe **BN** in die Gruppe **Probationary BN** verschoben
+- 2020-12-17: [SMOKELIND](https://osu.ppy.sh/users/9327302) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-12-17: [Beomsan](https://osu.ppy.sh/users/3626063) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-12-18: [Shima Rin](https://osu.ppy.sh/users/6089608) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
+- 2020-12-23: [Jerry](https://osu.ppy.sh/users/605973) wurde aus der Gruppe **Probationary BN** in die Gruppe **BN** verschoben
 
 #### Entfernt
 
