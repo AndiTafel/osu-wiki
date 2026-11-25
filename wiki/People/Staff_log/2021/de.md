@@ -566,7 +566,7 @@ In diesem Log werden die folgenden Abkürzungen für Benutzergruppen verwendet:
 - 2021-12-19: [tadahitotsu](https://osu.ppy.sh/users/11653544) wurde zur Gruppe **Probationary BN** hinzugefügt
 - 2021-12-19: [Present](https://osu.ppy.sh/users/5645691) wurde zur Gruppe **Probationary BN** hinzugefügt
 - 2021-12-23: [Saggin](https://osu.ppy.sh/users/12464107) wurde zur Gruppe **Probationary BN** hinzugefügt
-- 2021-12-23: Moved [davidminh0111](https://osu.ppy.sh/users/9623142) to **BN**
+- 2021-12-23: [davidminh0111](https://osu.ppy.sh/users/9623142) wurde in die Gruppe **BN** verschoben
 
 #### Verschoben
 
