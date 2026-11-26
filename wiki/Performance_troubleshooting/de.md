@@ -97,9 +97,14 @@ Nichtsdestotrotz, wenn die Wärmeentwicklung und eine mögliche Überlastung der
 
 ### Custom
 
-*Hinweis für Nutzer von Cutting Edge: Den Wert von `CustomFrameLimit` auf eine Zahl über 999 zu setzen, wird ihn auf 999 zurücksetzen. Auf Stable kannst du ohne Probleme den Wert auf über 1000 setzen.*\
+::: alert-notice
+**Hinweis**
+Den Wert von `CustomFrameLimit` in Cutting Edge auf eine Zahl über 999 zu setzen, wird ihn auf 999 zurücksetzen. In Stable kannst du den Wert problemlos auf über 1000 setzen.
+:::
+
 ::: alert-caution
-**Vorsicht:** Du kannst in diese Einstellung nicht mit dem Tastenkürzel `F7` wechseln, selbst wenn du die unteren Schritte ausführst. Du musst in den Einstellungen auf `Custom` wechseln, bevor du das Spiel verlässt, damit es beim nächsten Spielstart wieder verfügbar ist. Ansonsten musst du `FrameSync` wieder manuell ändern.
+**Vorsicht**
+Du kannst in diese Einstellung nicht mit dem Tastenkürzel `F7` wechseln, selbst wenn du die unteren Schritte ausführst. Du musst in den Einstellungen auf `Custom` wechseln, bevor du das Spiel verlässt, damit es beim nächsten Spielstart wieder verfügbar ist. Ansonsten musst du `FrameSync` wieder manuell ändern.
 :::
 
 Dieses FPS-Limit versucht, eine von dir festgelegte Framerate beizubehalten. Diese Einstellung kann aber standardmäßig nicht im Spielmenü ausgewählt werden.
