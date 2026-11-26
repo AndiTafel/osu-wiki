@@ -5,7 +5,8 @@
 :::
 
 ::: alert-notice
-**Notice:** This article uses [RFC 2119](https://tools.ietf.org/html/rfc2119) to describe requirement levels.
+**Notice**
+This article uses [RFC 2119](https://tools.ietf.org/html/rfc2119) to describe requirement levels.
 :::
 
 ## Locales
@@ -341,7 +342,8 @@ Multiple hatnotes and notices may be combined and stacked when necessary. When d
 
 ```markdown
 ::: alert-warning
-**Warning:** {warning}.
+**Warning**
+{warning}.
 :::
 
 ::: alert-note
@@ -412,7 +414,8 @@ Headings must not exceed a heading level of 5 and must not be used to style or f
 :::
 
 ::: alert-caution
-**Caution:** Titles are parsed as plain text; they must not be escaped.
+**Caution**
+Titles are parsed as plain text; they must not be escaped.
 :::
 
 The first heading in all articles must be a level 1 heading, being the article's title. All headings afterwards must be [section headings](#sections). Titles must not contain formatting, links, or images.

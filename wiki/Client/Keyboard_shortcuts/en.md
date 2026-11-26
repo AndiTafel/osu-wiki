@@ -102,11 +102,13 @@ Not all of these work in the Multi mode's song select screen.
 :::
 
 ::: alert-notice
-**Note:** Pressing the shortcut key will toggle it. You need to be in the game modifiers menu to use these shortcuts.
+**Notice**
+Pressing the shortcut key will toggle it. You need to be in the game modifiers menu to use these shortcuts.
 :::
 
 ::: alert-notice
-**Note:** Target practice (osu!), 1K and 2K (osu!mania), Co-op (osu!mania), and Mirror (osu!mania) do not have shortcuts.
+**Notice**
+Target practice (osu!), 1K and 2K (osu!mania), Co-op (osu!mania), and Mirror (osu!mania) do not have shortcuts.
 :::
 
 | Shortcut | Mod |

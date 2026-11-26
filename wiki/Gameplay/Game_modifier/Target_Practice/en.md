@@ -21,7 +21,8 @@ tags:
 :::
 
 ::: alert-notice
-**Notice:** the Target Practice mod is only accessible in the `Cutting Edge` build.
+**Notice**
+The Target Practice mod is only accessible in the `Cutting Edge` build.
 :::
 
 ## About

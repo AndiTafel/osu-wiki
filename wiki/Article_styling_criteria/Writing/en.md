@@ -5,7 +5,8 @@
 :::
 
 ::: alert-notice
-**Notice:** This article uses [RFC 2119](https://tools.ietf.org/html/rfc2119) to describe requirement levels.
+**Notice**
+This article uses [RFC 2119](https://tools.ietf.org/html/rfc2119) to describe requirement levels.
 :::
 
 This article concerns writing standards for all English articles. The writing standards for translations can be found in the translations of this page.

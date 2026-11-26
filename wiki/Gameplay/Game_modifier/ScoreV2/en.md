@@ -34,7 +34,8 @@ tags:
 ## Description
 
 ::: alert-notice
-**Notice:** Enabling the ScoreV2 mod will result in an unranked play.
+**Notice**
+Enabling the ScoreV2 mod will result in an unranked play.
 :::
 
 ::: alert-note
