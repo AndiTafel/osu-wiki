@@ -1,7 +1,8 @@
 # GitHubs webbasierter Editor
 
 ::: alert-notice
-**Anmerkung:** Dieser Artikel verwendet Windows-Tastenkombinationen.
+**Hinweis**
+Dieser Artikel verwendet Windows-Tastenkombinationen.
 :::
 
 ::: alert-note

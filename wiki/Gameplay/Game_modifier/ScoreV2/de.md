@@ -36,7 +36,8 @@ no_native_review: true
 ## Beschreibung
 
 ::: alert-notice
-**Hinweis:** Das Aktivieren der Mod ScoreV2 sorgt dafür, dass das Spiel nicht gerankt wird.
+**Hinweis**
+Das Aktivieren der Mod ScoreV2 sorgt dafür, dass das Spiel nicht gerankt wird.
 :::
 
 ::: alert-note

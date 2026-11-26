@@ -102,12 +102,15 @@ Nicht alle dieser Hotkeys funktionieren in der Songauswahl des [Mehrspielermodus
 ::: alert-note
 **Hauptseite:** [Spielmodifikationen](/wiki/Gameplay/Game_modifier)
 :::
+
 ::: alert-notice
-**Anmerkung:** Das Drücken des Tastenkürzels wird die Mod an-/ausschalten. Du musst im Spielmodifikationsmenü sein, um diese Tastenkürzel verwenden zu können.
+**Hinweis**
+Das Drücken des Tastenkürzels wird die Mod an-/ausschalten. Du musst im Spielmodifikationsmenü sein, um diese Tastenkürzel verwenden zu können.
 :::
 
 ::: alert-notice
-**Anmerkung:** Die Mods Target Practice (osu!), 1K und 2K (osu!mania), Co-op (osu!mania) und Mirror (osu!mania) haben keine Tastenkürzel.
+**Hinweis**
+Die Mods Target Practice (osu!), 1K und 2K (osu!mania), Co-op (osu!mania) und Mirror (osu!mania) haben keine Tastenkürzel.
 :::
 
 | Kürzel | Mod |

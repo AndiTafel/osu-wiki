@@ -22,7 +22,8 @@ tags:
 :::
 
 ::: alert-notice
-**Hinweis:** Die Mod Target Practice ist nur in der Updatequelle `Cutting Edge` verfügbar.
+**Hinweis**
+Die Mod Target Practice ist nur in der Updatequelle `Cutting Edge` verfügbar.
 :::
 
 ## Übersicht

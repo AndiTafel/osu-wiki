@@ -344,7 +344,8 @@ Mehrere Hinweise und Kopfnoten dürfen gestapelt werden, sofern notwendig. Dabei
 
 ```markdown
 ::: alert-warning
-**Warnung:** {Warnung}.
+**Warnung**
+{Warnung}.
 :::
 
 ::: alert-note
@@ -415,7 +416,8 @@ Alle Überschriften müssen "Sentence case" benutzen.
 :::
 
 ::: alert-caution
-**Vorsicht:** Titel werden als Klartext verarbeitet, sie dürfen nicht escaped werden.
+**Vorsicht**
+Titel werden als Klartext verarbeitet, sie dürfen nicht escaped werden.
 :::
 
 Die erste Überschrift muss in allen Artikeln das Level 1 haben, da es der Artikeltitel ist. Alle Überschriften danach müssen [Abschnittstitel](#abschnitte) sein. Titel dürfen keine Formatierung, Links oder Bilder enthalten.
