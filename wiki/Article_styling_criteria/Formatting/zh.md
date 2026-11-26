@@ -338,7 +338,8 @@ Markdown 文件必须使用 `LF` 行尾序列。
 
 ```markdown
 ::: alert-warning
-**警告：** {warning}.
+**警告**
+{warning}.
 :::
 
 *另见： {article}*
