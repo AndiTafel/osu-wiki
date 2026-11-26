@@ -26,7 +26,8 @@ tags:
 :::
 
 ::: alert-notice
-**Note** : Ces produits ne sont plus disponibles à la vente dans la boutique osu!store.
+**Note**
+Ces produits ne sont plus disponibles à la vente dans la boutique osu!store.
 :::
 
 Vous avez un problème avec un produit de l'osu!store ? Vérifiez s'il existe une solution à votre problème !

@@ -230,7 +230,8 @@ Cela ne signifie pas non plus que vous pouvez créer un nouveau compte pour fair
 :::
 
 ::: alert-caution
-**Attention** : La suppression d'un compte est permanente et ne peut donc pas être annulée !
+**Attention**
+La suppression d'un compte est permanente et ne peut donc pas être annulée !
 :::
 
 Oui, tout utilisateur peut demander la suppression de son compte en envoyant un courriel à [privacy@ppy.sh](mailto:privacy@ppy.sh). Gardez à l'esprit que la suppression de votre compte est **finale**, ce qui signifie qu'elle ne peut pas être annulée. La suppression de votre compte ne signifie pas que vous pouvez en créer un nouveau, car le fait d'avoir plusieurs comptes est contraire aux [règles](/wiki/Rules#règles-communautaires). Cela signifie que vous ne pourrez plus utiliser aucune des fonctionnalités en ligne d'osu!.

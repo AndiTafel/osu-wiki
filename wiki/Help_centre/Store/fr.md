@@ -26,7 +26,8 @@ outdated_since: bcf19a2e1abb302c68a5e6f554cd4f1ec5336a19
 :::
 
 ::: alert-notice
-**Note** : Ces produits ne sont plus disponibles à la vente dans la boutique osu!store.
+**Note**
+Ces produits ne sont plus disponibles à la vente dans la boutique osu!store.
 :::
 
 Vous avez un problème avec un produit de l'osu!store ? Vérifiez s'il existe une solution à votre problème !
