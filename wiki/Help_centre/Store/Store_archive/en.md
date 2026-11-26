@@ -17,7 +17,8 @@ tags:
 :::
 
 ::: alert-notice
-**Note:** These products are no longer available for purchase from the osu!store. For the full list of items that were sold by the osu!store in the past, see: [Past osu!store items](/wiki/Past_osu!store_items)
+**Notice**
+These products are no longer available for purchase from the osu!store. For the full list of items that were sold by the osu!store in the past, see: [Past osu!store items](/wiki/Past_osu!store_items)
 :::
 
 Having trouble with a product from the osu!store? Check if there's an available solution to your problem!

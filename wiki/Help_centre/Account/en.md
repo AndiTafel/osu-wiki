@@ -216,7 +216,8 @@ This doesn't mean you can make a new account to do the same thing, either! Havin
 :::
 
 ::: alert-caution
-**Caution:** Account deletion is permanent, and therefore cannot be undone!
+**Caution**
+Account deletion is permanent, and therefore cannot be undone!
 :::
 
 Yes, any user can request for their account to be deleted by sending an email to [privacy@ppy.sh](mailto:privacy@ppy.sh). Keep in mind that deleting your account is **final**, meaning that it cannot be reversed or undone. Deleting your account does not mean you can create a new account, as having multiple accounts is against the [rules](/wiki/Rules#community-rules). This means you will no longer be able to use any of osu!'s online features.
