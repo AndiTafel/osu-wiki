@@ -5,9 +5,13 @@ outdated_translation: true
 
 # 서식
 
-*작성 표준에 대한 내용은 [Article style criteria/Writing](../Writing)를 참조하세요.*\
+::: alert-note
+**참고:** 작성 표준에 대한 내용은 [Article style criteria/Writing](../Writing)를 참조하세요.
+:::
+
 ::: alert-notice
-**알림:** 이 문서에서는 [RFC 2119](https://tools.ietf.org/html/rfc2119)에 따른 요구사항 수준을 설명합니다.
+**알림**
+이 문서에서는 [RFC 2119](https://tools.ietf.org/html/rfc2119)에 따른 요구사항 수준을 설명합니다.
 :::
 
 ## 로케일
@@ -337,7 +341,8 @@ Markdown 문법은 필요에 따라 이스케이프 해야 하지만, 문서의 
 
 ```markdown
 ::: alert-warning
-**경고:** {경고}.
+**경고**
+{경고}.
 :::
 
 ::: alert-note
@@ -408,7 +413,8 @@ xi의 *Blue Zenith*는 특정 난이도에서 탑 플레이어가 받은 유명�
 :::
 
 ::: alert-caution
-**주의:** 제목은 일반 텍스트로 분석되므로, 이스케이프 처리를 해서는 안 됩니다.
+**주의**
+제목은 일반 텍스트로 분석되므로, 이스케이프 처리를 해서는 안 됩니다.
 :::
 
 모든 문서의 첫 줄은 반드시 문서의 제목인 1단계 헤더여야 하며, 이후의 모든 헤더는 섹션 헤더여야 합니다. 제목은 반드시 서식, 링크, 이미지를 포함해서는 안 됩니다.
