@@ -25,7 +25,8 @@ tags:
 :::
 
 ::: alert-notice
-**Nota:** Estos productos ya no están disponibles para su compra en la osu!store. Para ver la lista completa de los productos que se vendieron en la osu!store en el pasado, véase: [Productos anteriores de la osu!store](/wiki/Past_osu!store_items)
+**Aviso**
+Estos productos ya no están disponibles para su compra en la osu!store. Para ver la lista completa de los productos que se vendieron en la osu!store en el pasado, véase: [Productos anteriores de la osu!store](/wiki/Past_osu!store_items)
 :::
 
 ¿Tienes problemas con un producto de la osu!store? ¡Revisa si hay una solución disponible para tu problema!

@@ -229,7 +229,8 @@ Estamos considerando la posibilidad de añadir compras para el «restablecimient
 :::
 
 ::: alert-warning
-**Advertencia:** La eliminación de una cuenta es permanente y, por lo tanto, no se puede deshacer.
+**Advertencia**
+La eliminación de una cuenta es permanente y, por lo tanto, no se puede deshacer.
 :::
 
 Sí, cualquier usuario puede solicitar la eliminación de su cuenta enviando un correo electrónico a [privacy@ppy.sh](mailto:privacy@ppy.sh). Ten en cuenta que la eliminación de tu cuenta es **definitiva**, lo que significa que no se puede revertir ni deshacer. Eliminar tu cuenta no significa que puedas crear una nueva, ya que tener varias cuentas va en contra de las [reglas](/wiki/Rules#reglas-de-la-comunidad). Esto significa que ya no podrás usar ninguna de las funciones en línea de osu!.
