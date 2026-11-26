@@ -65,7 +65,8 @@ ScoreV2 menaikkan bobot 300 pelangi menjadi 305:
 Grafik performa adalah sebuah grafik yang menampilkan performa pemain (berdasarkan bar nyawa) selama bermain (waktu). Informasi tambahan dapat ditampilkan dengan menunjuk kursor dalam-game di atasnya.
 
 ::: alert-notice
-**Catatan**: Informasi tambahan ini hanya bisa dilihat setelah memainkan beatmap atau menonton tayangan ulang yang diekspor. Setelah pemain keluar dari [layar hasil](/wiki/Client/Interface#papan-peringkat-skor-daring), informasi ini tidak akan disimpan.
+**Catatan**
+Informasi tambahan ini hanya bisa dilihat setelah memainkan beatmap atau menonton tayangan ulang yang diekspor. Setelah pemain keluar dari [layar hasil](/wiki/Client/Interface#papan-peringkat-skor-daring), informasi ini tidak akan disimpan.
 :::
 
 ### Akurasi
@@ -91,7 +92,8 @@ Mohon diperhatikan bahwa nilai ini mengukur konsistensi pemain, bukan akurasi. M
 ### Spin
 
 ::: alert-notice
-**Catatan:** Spin hanya berlaku untuk mode permainan [osu!](/wiki/Game_mode/osu!).
+**Catatan**
+Spin hanya berlaku untuk mode permainan [osu!](/wiki/Game_mode/osu!).
 :::
 
 Sebagai tambahan untuk akurasi, beberapa informasi mengenai spinner juga terdapat di tooltip yang sama.
