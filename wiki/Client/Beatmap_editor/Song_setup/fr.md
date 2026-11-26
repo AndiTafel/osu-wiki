@@ -60,7 +60,9 @@ Pour les beatmaps spécifiques à [osu!mania](#spécifique-à-un-mode), le circl
 
 ### Approach rate
 
-*Article principale : [Approach rate](/wiki/Beatmap/Approach_rate)*
+::: alert-note
+**Page principale** : [Approach rate](/wiki/Beatmap/Approach_rate)
+:::
 
 L'Approach rate (AR) indique la durée pendant laquelle les objets dans osu! et osu!catch restent à l'écran entre le moment où ils apparaissent et le moment où il faut les frapper/collecter. Des valeurs plus élevées signifient des périodes de visibilité plus courtes et moins de temps pour réagir.
 
@@ -68,9 +70,13 @@ osu!taiko et osu!mania ne sont pas affectés par l'approach rate - à la place, 
 
 ### Overall difficulty
 
-*Article principale : [Overall difficulty](/wiki/Beatmap/Overall_difficulty)*\
+::: alert-note
+**Page principale** : [Overall difficulty](/wiki/Beatmap/Overall_difficulty)
+:::
+
 ::: alert-notice
-**Remarque** : Sur les pages d'information des beatmap, l'overall difficulty est indiquée comme étant la `Précision`.
+**Note**
+Sur les pages d'information des beatmap, l'overall difficulty est indiquée comme étant la `Précision`.
 :::
 
 L'Overall difficulty (OD) est responsable de la taille des hit windows, qui définissent à quel point il est difficile d'atteindre une grande précision. Des valeurs d'OD plus élevées signifient des timing windows plus courtes, nécessitant plus d'exactitude et de précision. La précision étant importante pour gagner des HP, l'overall difficulty influence indirectement la difficulté à réussir la beatmap.

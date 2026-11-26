@@ -104,11 +104,13 @@ Toutes ces fonctions ne fonctionnent pas dans l'écran de sélection des beatmap
 :::
 
 ::: alert-notice
-**Note** : Appuyer sur la touche de raccourci la fera Activer/Désactiver. Vous devez être dans le menu des modificateurs du jeu pour utiliser ces raccourcis.
+**Note**
+Appuyer sur la touche de raccourci la fera Activer/Désactiver. Vous devez être dans le menu des modificateurs du jeu pour utiliser ces raccourcis.
 :::
 
 ::: alert-notice
-**Remarque** : Target practice (osu!), 1K et 2K (osu!mania), Co-op (osu!mania), et Mirror (osu!mania) n'ont pas de raccourcis.
+**Note**
+Target practice (osu!), 1K et 2K (osu!mania), Co-op (osu!mania), et Mirror (osu!mania) n'ont pas de raccourcis.
 :::
 
 | Raccourci | Mod |

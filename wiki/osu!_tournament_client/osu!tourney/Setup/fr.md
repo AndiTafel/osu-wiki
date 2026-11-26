@@ -9,7 +9,8 @@ no_native_review: true
 :::
 
 ::: alert-notice
-**Note** : Un [tag osu!supporter](/wiki/osu!supporter) actif est actuellement requis pour utiliser le client d'osu!tourney.
+**Note**
+Un [tag osu!supporter](/wiki/osu!supporter) actif est actuellement requis pour utiliser le client d'osu!tourney.
 :::
 
 Il est recommandé d'utiliser une **installation saine d'osu!**. En effet, la base de données `Songs` peut être corrompue. Vous pouvez avoir plusieurs installations d'osu!, gardez-les simplement dans des dossiers séparés.

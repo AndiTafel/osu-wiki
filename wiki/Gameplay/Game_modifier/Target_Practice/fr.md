@@ -21,7 +21,8 @@ outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 :::
 
 ::: alert-notice
-**Remarque** : le mod Target Practice n'est accessible que dans le build `Cutting Edge`.
+**Note**
+Le mod Target Practice n'est accessible que dans le build `Cutting Edge`.
 :::
 
 ## À propos

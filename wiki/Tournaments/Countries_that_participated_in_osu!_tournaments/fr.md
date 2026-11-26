@@ -5,11 +5,13 @@ Cet article établit une liste de pays ayant déjà participé dans des tournois
 Le dernier tournoi inclus dans les données ci-dessous est [l'osu! World Cup 2023](/wiki/Tournaments/OWC/2023).
 
 ::: alert-notice
-**Remarque** : Les tournois officiels autorisant les équipes ne représentant pas un pays ne sont pas pris en considération.
+**Note**
+Les tournois officiels autorisant les équipes ne représentant pas un pays ne sont pas pris en considération.
 :::
 
 ::: alert-notice
-**Remarque** : les équipes de pays mixés (exemple Argentine-Colombie) ne sont pas pris en considération.
+**Note**
+Les équipes de pays mixés (exemple Argentine-Colombie) ne sont pas pris en considération.
 :::
 
 ## Classements

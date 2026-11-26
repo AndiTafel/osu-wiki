@@ -5,7 +5,8 @@
 :::
 
 ::: alert-notice
-**Note** : Tous les mods utilisés dans osu!mania n'augmenteront jamais le multiplicateur de score.
+**Note**
+Tous les mods utilisés dans osu!mania n'augmenteront jamais le multiplicateur de score.
 :::
 
 | Mod | Nom (Abréviation) | Multiplicateur | Légende |

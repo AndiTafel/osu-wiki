@@ -10,7 +10,8 @@ outdated_since: 29a5a9f474335b22a431cd6065db4f5dd87e951e
 :::
 
 ::: alert-notice
-**Remarque** : Cet article utilise [RFC 2119](https://tools.ietf.org/html/rfc2119) pour décrire les niveaux d'exigence.
+**Note**
+Cet article utilise [RFC 2119](https://tools.ietf.org/html/rfc2119) pour décrire les niveaux d'exigence.
 :::
 
 ## Localisations
@@ -340,7 +341,8 @@ Plusieurs surnotes et remarques peuvent être empilées si nécessaire. Dans ce 
 
 ```markdown
 ::: alert-caution
-**Attention** : {attention}.
+**Attention**
+{attention}.
 :::
 
 ::: alert-note
@@ -411,7 +413,8 @@ Les titres ne doivent pas dépasser un niveau de titre de 5 et ne doivent pas ê
 :::
 
 ::: alert-caution
-**Attention** : Les titres sont analysés comme du texte brut ; ils ne doivent pas contenir de markdown.
+**Attention**
+Les titres sont analysés comme du texte brut ; ils ne doivent pas contenir de markdown.
 :::
 
 Le premier titre de tous les articles doit être un titre de niveau 1, c'est-à-dire le titre de l'article. Tous les titres suivants doivent être des [titres de section](#sections). Les titres ne doivent pas contenir de mise en formee, de liens ou d'images.

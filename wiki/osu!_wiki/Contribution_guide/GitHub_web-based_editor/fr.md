@@ -1,7 +1,8 @@
 # L'éditeur web de GitHub
 
 ::: alert-notice
-**Remarque** : Cet article utilise des combinaisons de touches Windows.
+**Note**
+Cet article utilise des combinaisons de touches Windows.
 :::
 
 ::: alert-note
