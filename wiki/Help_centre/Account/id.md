@@ -222,7 +222,8 @@ Hal ini tidak berarti bahwa kamu dapat membuat akun baru untuk melakukan hal ini
 :::
 
 ::: alert-caution
-**Peringatan:** Penghapusan akun bersifat permanen dan tidak bisa diurungkan!
+**Peringatan**
+Penghapusan akun bersifat permanen dan tidak bisa diurungkan!
 :::
 
 Ya, pengguna mana pun bisa meminta akun mereka untuk dihapus dengan mengirimkan email ke [privacy@ppy.sh](mailto:privacy@ppy.sh). Mohon diperhatikan bahwa penghapusan akun ini bersifat **final**, yang berarti bahwa sekalinya akunmu dihapus, tindakan ini tidak bisa dikembalikan atau diurungkan. Menghapus akunmu tidak serta-merta berarti bahwa kamu bisa membuat akun baru, karena memiliki lebih dari satu akun adalah tindakan yang [melanggar peraturan](/wiki/Rules#peraturan-komunitas). Dengan menghapus akunmu, kamu tidak lagi akan bisa menggunakan fitur online osu! mana pun juga.
