@@ -69,7 +69,8 @@ osu!taiko y osu!mania no se ven afectados por los cambios en la velocidad de apr
 :::
 
 ::: alert-notice
-**Nota:** En las páginas de [información de los beatmaps](/wiki/Beatmap_information), la dificultad general aparece como `Precisión`.
+**Aviso**
+En las páginas de [información de los beatmaps](/wiki/Beatmap_information), la dificultad general aparece como `Precisión`.
 :::
 
 La dificultad general (OD) es responsable del tamaño de las ventanas de tiempo, que definen qué tan difícil es lograr una alta precisión. Los valores de OD más altos significan ventanas de tiempo más cortas, lo que requiere más exactitud y precisión. Dado que la precisión es importante para ganar HP, la dificultad general influye indirectamente en lo difícil que es pasar 

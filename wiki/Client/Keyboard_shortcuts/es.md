@@ -106,11 +106,13 @@ No todos funcionan en la pantalla de selección de canciones de multijugador.
 :::
 
 ::: alert-notice
-**Nota:** Si pulsas la tecla de acceso directo, se activará. Debes estar en el menú de los modificadores del juego para usar estos atajos.
+**Aviso**
+Si pulsas la tecla de acceso directo, se activará. Debes estar en el menú de los modificadores del juego para usar estos atajos.
 :::
 
 ::: alert-notice
-**Nota:** Target practice (osu!), 1K y 2K (osu!mania), Co-op (osu!mania) y Mirror (osu!mania) no tienen atajos.
+**Aviso**
+Target practice (osu!), 1K y 2K (osu!mania), Co-op (osu!mania) y Mirror (osu!mania) no tienen atajos.
 :::
 
 | Atajo | Mod |

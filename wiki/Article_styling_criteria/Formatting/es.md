@@ -5,7 +5,8 @@
 :::
 
 ::: alert-notice
-**Aviso:** Este artículo usa [RFC 2119](https://tools.ietf.org/html/rfc2119) para describir los niveles de exigencia.
+**Aviso**
+Este artículo usa [RFC 2119](https://tools.ietf.org/html/rfc2119) para describir los niveles de exigencia.
 :::
 
 ## Configuraciones regionales
@@ -344,7 +345,8 @@ Se pueden apilar múltiples notas de navegación y avisos cuando sea necesario. 
 
 ```markdown
 ::: alert-warning
-**Advertencia:** {advertencia}.
+**Advertencia**
+{advertencia}.
 :::
 
 ::: alert-note
@@ -415,7 +417,8 @@ Los encabezamientos no deben exceder un nivel de encabezamiento de 5 y no deben 
 :::
 
 ::: alert-caution
-**Precaución:** Los títulos se analizan como texto sin formato; no deben omitirse
+**Precaución**
+Los títulos se analizan como texto sin formato; no deben omitirse
 :::
 
 El primer encabezamiento de todos los artículos debe ser un encabezamiento de nivel 1, siendo el título del artículo. Todos los encabezamientos posteriores deben ser [encabezamientos de sección](#secciones). Los títulos no deben contener formato, enlaces o imágenes.

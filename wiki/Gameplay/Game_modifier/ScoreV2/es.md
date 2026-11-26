@@ -36,7 +36,8 @@ tags:
 ## Descripción
 
 ::: alert-notice
-**Aviso:** Activar el mod ScoreV2 resultará en una jugada no clasificada.
+**Aviso**
+Activar el mod ScoreV2 resultará en una jugada no clasificada.
 :::
 
 ::: alert-note

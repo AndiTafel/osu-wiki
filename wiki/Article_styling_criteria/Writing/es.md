@@ -5,7 +5,8 @@
 :::
 
 ::: alert-notice
-**Aviso:** Este artículo usa [RFC 2119](https://tools.ietf.org/html/rfc2119) para describir los niveles de exigencia.
+**Aviso**
+Este artículo usa [RFC 2119](https://tools.ietf.org/html/rfc2119) para describir los niveles de exigencia.
 :::
 
 Este artículo se refiere a los estándares de escritura del español. Consulta la versión en inglés de esta página para conocer los estándares de escritura de los artículos en inglés.

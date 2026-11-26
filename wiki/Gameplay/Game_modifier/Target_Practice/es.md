@@ -23,7 +23,8 @@ tags:
 :::
 
 ::: alert-notice
-**Nota:** El mod Target Practice solo es accesible en la version `Cutting Edge` del juego.
+**Aviso**
+El mod Target Practice solo es accesible en la version `Cutting Edge` del juego.
 :::
 
 ## Resumen
