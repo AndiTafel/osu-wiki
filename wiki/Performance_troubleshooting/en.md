@@ -97,9 +97,14 @@ Even so, if heat generation and potentially overworking your hardware is not con
 
 ### Custom
 
-*Notice to Cutting Edge users: changing the value of `CustomFrameLimit` to any number above 999, will be reverted to 999; on Stable, you can set the value above 1000 with no issues.*\
+::: alert-notice
+**Notice**
+On Cutting Edge, changing the value of `CustomFrameLimit` to any number above 999 will be reverted to 999. On Stable, you can set the value above 1000 without any issues.
+:::
+
 ::: alert-caution
-**Caution:** you cannot switch into this setting with the `F7` shortcut in-game, even if you do the steps below: you'll need to switch to `Custom` in the Settings before quitting the game so it'll be available the next time osu! runs. Otherwise, you'll have to change the `FrameSync` manually again.
+**Caution**
+You cannot switch into this setting with the `F7` shortcut in-game, even if you do the steps below: you'll need to switch to `Custom` in the Settings before quitting the game so it'll be available the next time osu! runs. Otherwise, you'll have to change the `FrameSync` manually again.
 :::
 
 This frame limiter attempts to keep a frame rate equal to your custom preference; however, this is a setting that cannot be changed to within the in-game menu by default.

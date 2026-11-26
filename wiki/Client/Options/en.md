@@ -92,10 +92,14 @@ This section is about the appearance of your game client, parts of the interface
 ---
 
 ::: alert-notice
-**Note:** When the game client is not the active window, the fps limit is dropped to 30fps automatically.
+**Notice**
+When the game client is not the active window, the fps limit is dropped to 30fps automatically.
 :::
 
-*Caution to laptop users: using `Unlimited (gameplay)` may cause your laptop to overheat!*
+::: alert-caution
+**Caution**
+When playing on a laptop, using `Unlimited (gameplay)` may cause your laptop to overheat!
+:::
 
 If you open the dropdown list for `Frame Limiter`, you will be presented with these options:
 
